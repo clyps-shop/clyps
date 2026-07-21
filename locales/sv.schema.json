@@ -448,6 +448,33 @@
         }
       }
     },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
+    },
     "favicon": {
       "name": "Favoritikon",
       "settings": {

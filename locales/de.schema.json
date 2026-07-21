@@ -448,6 +448,33 @@
         }
       }
     },
+    "badges": {
+      "name": "Badges",
+      "info": "Lege bis zu 10 Badges an. Jedes Badge wird bei Produkten angezeigt, die den passenden Tag besitzen.",
+      "tag": {
+        "label": "Tag",
+        "info": "Der Produkt-Tag, der dieses Badge auslöst (z. B. \"Neu\")."
+      },
+      "text": {
+        "label": "Badge-Text"
+      },
+      "background_color": {
+        "label": "Hintergrundfarbe"
+      },
+      "text_color": {
+        "label": "Textfarbe"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
+    },
     "favicon": {
       "name": "Favicon",
       "settings": {

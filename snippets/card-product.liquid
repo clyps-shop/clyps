@@ -730,6 +730,7 @@
         </div>
       {% endunless %}
     </a>
+    {% unless disable_badges %}{% render 'clyps-badges', product: card_product, class: 'absolute top-2 left-2 z-20' %}{% endunless %}
     {% if product_complementary %}
       </div>
     {% endif %}

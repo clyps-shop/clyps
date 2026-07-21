@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Lettertype",
-          "info": "Het selecteren van een ander lettertype kan de snelheid van uw winkel beïnvloeden. [Meer informatie over systeemlettertypen.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Het selecteren van een ander lettertype kan de snelheid van uw winkel beïnvloeden. [Meer informatie over systeemlettertypen.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Koppen"
@@ -112,7 +112,7 @@
           "content": "Lichaam"
         },
         "type_body_font": {
-          "info": "Het selecteren van een ander lettertype kan de snelheid van uw winkel beïnvloeden. [Meer informatie over systeemlettertypen.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Het selecteren van een ander lettertype kan de snelheid van uw winkel beïnvloeden. [Meer informatie over systeemlettertypen.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Schaal van lettergrootte"
@@ -136,7 +136,7 @@
         "info": "Met de onderstaande instellingen worden automatisch kleurstalen toegevoegd aan het filter in de verzameling en op de zoekpagina.",
         "swatches_filter": {
           "header": "Filter",
-          "info": "Om te filteren met extra kleur- of afbeeldingswaarden, maakt u metaobjecten en metaobjectverwijzingen en wijzigt u vervolgens de onderstaande instellingen naar uw voorkeuren. [Lees meer over het weergeven van visuele filters met behulp van metaobjecten.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
+          "info": "Om te filteren met extra kleur- of afbeeldingswaarden, maakt u metaobjecten en metaobjectverwijzingen en wijzigt u vervolgens de onderstaande instellingen naar uw voorkeuren. [Lees meer over het weergeven van visuele filters met behulp van metaobjecten.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
           "display_text": "Tekst weergeven naast stalen",
           "visual_style": {
             "label": "Visuele waardestijl",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Uitgelichte functies",
-        "paragraph": "Toon opvallende producteigenschappen op kaarten om direct waarde te communiceren en aankoopbeslissingen te versnellen. Meer informatie in onze [handleiding](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
+        "paragraph": "Toon opvallende producteigenschappen op kaarten om direct waarde te communiceren en aankoopbeslissingen te versnellen. Meer informatie in onze [handleiding](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "Bovenkant van de kaart",
           "option__2": "Onder producttitel",
@@ -199,7 +199,7 @@
       "color_option_info": "Vul alle namen in van de kleuropties die in de winkel gebruikt worden. Taalspecifieke zinnen worden gescheiden door komma's. (Bijv. Kleur, Colour, Couleur).",
       "color_option_values": "Kleurstaalwaarden",
       "color_swatches_example": "Eén 'kleurnaam:waarde' per regel. Er kunnen maximaal drie kleuren worden gebruikt om verticale strepen weer te geven. Bijvoorbeeld: 'Roodblauwe strepen:#e22#22e'",
-      "color_swatches_guide": "Om een ​​afbeelding als kleurstaal te gebruiken, [uploadt u een PNG-afbeelding](/admin/settings/files) waarbij de bestandsnaam overeenkomt met de kleurnaam en spaties worden vervangen door streepjes. Bijvoorbeeld voor 'Hot Pink' uploadt u 'hot-pink.png'.",
+      "color_swatches_guide": "Om een ​​afbeelding als kleurstaal te gebruiken, [uploadt u een PNG-afbeelding](\/admin\/settings\/files) waarbij de bestandsnaam overeenkomt met de kleurnaam en spaties worden vervangen door streepjes. Bijvoorbeeld voor 'Hot Pink' uploadt u 'hot-pink.png'.",
       "products_color_swatches_enable_on_collection_page": "Inschakelen op productkaarten",
       "replace_color_with_variant_images": "Vervang kleuropties door variantafbeeldingen",
       "products_color_swatches_style": "Swatch-stijl",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Graveer dit product",
       "highlight_icon": {
         "name": "Uitgelichte attributen",
-        "info": "Toon pictogrammen op productkaarten zodat klanten snel de gemarkeerde productkenmerken kunnen zien (bijv. ingrediënten, allergenen). Meer informatie vindt u in onze [gebruikershandleiding.](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)",
+        "info": "Toon pictogrammen op productkaarten zodat klanten snel de gemarkeerde productkenmerken kunnen zien (bijv. ingrediënten, allergenen). Meer informatie vindt u in onze [gebruikershandleiding.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)",
         "icon_1": "Icoon 1",
         "icon_2": "Icoon 2",
         "icon_3": "Icoon 3",
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "LinkedIn",
-          "info": "https://www.linkedin.com/shopify"
+          "info": "https:\/\/www.linkedin.com\/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https://www.line.me/shopify"
+          "info": "https:\/\/www.line.me\/shopify"
         }
       }
     },
@@ -440,7 +440,7 @@
     },
     "product_label": {
       "name": "Product labels en badges",
-      "info": "Product labels and badges are set up in Product labels and badges section in Overlay group. If you want to show product metafields as labels and badges, fill in the metafield keys in the text box below, then navigate to the section to configure the labels' display. Only Single line text metafield type is accepted. Learn more in [our user guide.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
+      "info": "Product labels and badges are set up in Product labels and badges section in Overlay group. If you want to show product metafields as labels and badges, fill in the metafield keys in the text box below, then navigate to the section to configure the labels' display. Only Single line text metafield type is accepted. Learn more in [our user guide.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Metavelden gebruikt in labels",
@@ -495,9 +495,9 @@
       "cart_upsell": "Upsell van winkelwagen",
       "enable_cart_upsell": "Inschakelen in minicart",
       "cart_upsell_note": "Als dit is ingeschakeld op de minicart- en winkelwagenpagina, kunnen upsell-aanbevelingen worden weergegeven volgens de volgende prioriteit (van hoog naar laag):",
-      "cart_upsell_note_1": "(1) door een productmetaveld aan te maken in de winkelwagen-upsell en dit veld niet leeg te laten. [Zie onze gebruikershandleiding voor meer informatie.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) door een productmetaveld aan te maken in de winkelwagen-upsell en dit veld niet leeg te laten. [Zie onze gebruikershandleiding voor meer informatie.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) door handmatig een lijst met producten te selecteren in de onderstaande instellingen",
-      "cart_upsell_note_3": "(3) door dynamische aanbevelingen te gebruiken op basis van de productaanbevelingen van Shopify. [Meer informatie.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+      "cart_upsell_note_3": "(3) door dynamische aanbevelingen te gebruiken op basis van de productaanbevelingen van Shopify. [Meer informatie.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
       "product_infor": "Als u een productmetaveld gebruikt om upsellproducten toe te voegen, laat u dit veld leeg.",
       "number_of_product_shown": "Aantal getoonde producten",
       "section_label": "Sectielabel",
@@ -528,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Validatie regex (geavanceerd)",
-          "info": "Voor veldvalidatie. Gebruik Regex niet als u niet bekend bent met Regex. Voor hulp met Regex of het oplossen van problemen die hiermee gepaard gaan, kunt u [contact opnemen met onze support](https://omnithemes.com/contact/)."
+          "info": "Voor veldvalidatie. Gebruik Regex niet als u niet bekend bent met Regex. Voor hulp met Regex of het oplossen van problemen die hiermee gepaard gaan, kunt u [contact opnemen met onze support](https:\/\/omnithemes.com\/contact\/)."
         }
       },
       "settings": {
@@ -634,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Minimale leverdag(en)",
-          "info": "Het minimale aantal dagen dat nodig is om alle bestellingen te verzenden. Gebruik indien nodig een puntkomma om onderscheid te maken tussen verzendmarkten (bijv. VS:6; GB:3), of vul één getal in om voor alle beschikbare markten te gebruiken. Landcodes moeten voldoen aan de [ISO 3166-norm.](https://www.iban.com/country-codes)",
-          "note": "Om voor elk product een metaveld aan te maken met de sleutel 'custom.delivery_date_min' en 'Tekst' te typen. [Lees meer over het maken van metavelden](https://help.shopify.com/nl/manual/custom-data/metafields/gebruik-van-metavelden) of [neem contact op met onze support](https://omnithemes.com/contact/)."
+          "info": "Het minimale aantal dagen dat nodig is om alle bestellingen te verzenden. Gebruik indien nodig een puntkomma om onderscheid te maken tussen verzendmarkten (bijv. VS:6; GB:3), of vul één getal in om voor alle beschikbare markten te gebruiken. Landcodes moeten voldoen aan de [ISO 3166-norm.](https:\/\/www.iban.com\/country-codes)",
+          "note": "Om voor elk product een metaveld aan te maken met de sleutel 'custom.delivery_date_min' en 'Tekst' te typen. [Lees meer over het maken van metavelden](https://help.shopify.com/nl/manual/custom-data/metafields/gebruik-van-metavelden) of [neem contact op met onze support](https:\/\/omnithemes.com\/contact\/)."
         },
         "max_days": {
           "label": "Maximale dag(en) van levering",
-          "info": "Het maximale aantal dagen dat nodig is om alle bestellingen te verzenden. Gebruik indien nodig een puntkomma om onderscheid te maken tussen verzendmarkten (bijv. VS:6; GB:3), of vul één getal in om voor alle beschikbare markten te gebruiken. Landcodes moeten voldoen aan de [ISO 3166-norm.](https://www.iban.com/country-codes)",
-          "note": "Om voor elk product een metaveld aan te maken met de sleutel 'custom.delivery_date_max' en 'Tekst' te typen. [Lees meer over het maken van metavelden](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) of [neem contact op met onze support](https://omnithemes.com/contact/)."
+          "info": "Het maximale aantal dagen dat nodig is om alle bestellingen te verzenden. Gebruik indien nodig een puntkomma om onderscheid te maken tussen verzendmarkten (bijv. VS:6; GB:3), of vul één getal in om voor alle beschikbare markten te gebruiken. Landcodes moeten voldoen aan de [ISO 3166-norm.](https:\/\/www.iban.com\/country-codes)",
+          "note": "Om voor elk product een metaveld aan te maken met de sleutel 'custom.delivery_date_max' en 'Tekst' te typen. [Lees meer over het maken van metavelden](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) of [neem contact op met onze support](https:\/\/omnithemes.com\/contact\/)."
         },
         "cutoff_time": {
           "content": "Afsluittijd"
@@ -713,7 +713,7 @@
       "note": "Geef de originele URL voor pagina's van gepagineerde collecties weer als canonieke tags.",
       "header": {
         "content": "Bedrijfsinformatie",
-        "info": "Wordt gebruikt om te tonen in de gestructureerde data van de site en op de SERP-grafiekkaart van Google. Meer informatie over [organisatieschema](https://developers.google.com/search/docs/appearance/structured-data/organization)."
+        "info": "Wordt gebruikt om te tonen in de gestructureerde data van de site en op de SERP-grafiekkaart van Google. Meer informatie over [organisatieschema](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
       },
       "enable_organization_schema": {
         "label": "Organisatieschema inschakelen"
@@ -754,15 +754,15 @@
       "other": {
         "header": "Ander schema",
         "schema_breadcrumbs": "Schema toevoegen aan broodkruimels",
-        "info_breadcrumbs": "Raadpleeg de [BreadcrumbList-schemadocumentatie](https://schema.org/BreadcrumbList) voor meer informatie.",
+        "info_breadcrumbs": "Raadpleeg de [BreadcrumbList-schemadocumentatie](https:\/\/schema.org\/BreadcrumbList) voor meer informatie.",
         "search": "Voeg SearchAction-schema toe aan de startpagina",
-        "info_search": "Raadpleeg de [SearchAction-schemadocumentatie](https://schema.org/SearchAction) voor meer informatie."
+        "info_search": "Raadpleeg de [SearchAction-schemadocumentatie](https:\/\/schema.org\/SearchAction) voor meer informatie."
       }
     },
     "combined_listing": {
       "name": "Gecombineerde vermeldingen (alleen Plus)",
       "enable_combined": "Productgecombineerde vermeldingen inschakelen",
-      "info": "Installeer de [Combined Listing](https://apps.shopify.com/combined-listings)-app en schakel deze instelling in om deze functie te gebruiken. Alleen beschikbaar voor Plus- en Enterprise-abonnementen."
+      "info": "Installeer de [Combined Listing](https:\/\/apps.shopify.com\/combined-listings)-app en schakel deze instelling in om deze functie te gebruiken. Alleen beschikbaar voor Plus- en Enterprise-abonnementen."
     },
     "reorder": {
       "name": "Opnieuw bestellen",
@@ -773,10 +773,10 @@
       "name": "Geavanceerd",
       "product_reviews_app": {
         "label": "Productbeoordelingen-app",
-        "info": "Selecteer de review-app om te integreren met de standaard productbeoordeling van het thema. Sommige apps in de optie 'Overig' zijn mogelijk niet volledig compatibel met het thema. [Neem contact met ons op voor ondersteuning.](https://omnithemes.com/contact/)."
+        "info": "Selecteer de review-app om te integreren met de standaard productbeoordeling van het thema. Sommige apps in de optie 'Overig' zijn mogelijk niet volledig compatibel met het thema. [Neem contact met ons op voor ondersteuning.](https:\/\/omnithemes.com\/contact\/)."
       },
       "custom_html": "Aangepaste code",
-      "custom_info": "Voor ondersteuning bij het verwerken van aangepaste code of het oplossen van problemen met aangepaste code kunt u [contact met ons opnemen](https://omnithemes.com/contact/).",
+      "custom_info": "Voor ondersteuning bij het verwerken van aangepaste code of het oplossen van problemen met aangepaste code kunt u [contact met ons opnemen](https:\/\/omnithemes.com\/contact\/).",
       "additional_head": {
         "label": "HTML voor <head>-tag",
         "info": "Wordt gebruikt voor elke aangepaste HTML-code die op de hele site wordt toegepast. Wordt onderaan de <head>-tag geplaatst op alle themapagina's, behalve de betaalpagina."
@@ -811,7 +811,7 @@
       "sections_spacing": "Sectie-afstand",
       "lang_direction": {
         "label": "RTL-talen",
-        "info": "Voer de taalcodes in om talen in RTL-indeling weer te geven. Alle codes moeten voldoen aan de [ISO-taalcodetabel](https://www.w3schools.com/tags/ref_language_codes.asp) en gescheiden worden door komma's (bijv.: ar, fa, ps)."
+        "info": "Voer de taalcodes in om talen in RTL-indeling weer te geven. Alle codes moeten voldoen aan de [ISO-taalcodetabel](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) en gescheiden worden door komma's (bijv.: ar, fa, ps)."
       },
       "page_width": "Paginabreedte",
       "enable_rounded_corners": {
@@ -907,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block)",
+        "header_general": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block)",
         "mega_menu": {
-          "simple_menu": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style)",
-          "tree_menu": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style)",
-          "banner_menu": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style)",
-          "product_menu": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style)",
-          "blog_menu": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style)",
-          "tabbed_menu": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style)",
-          "contact_menu": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style)",
-          "cta_button": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu)"
+          "simple_menu": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style)",
+          "tree_menu": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style)",
+          "banner_menu": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style)",
+          "product_menu": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style)",
+          "blog_menu": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style)",
+          "tabbed_menu": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style)",
+          "contact_menu": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style)",
+          "cta_button": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu)"
         },
-        "announcement_bar": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar)",
-        "mobile_navigation": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation)"
+        "announcement_bar": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar)",
+        "mobile_navigation": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation)"
       },
       "footer": {
-        "footer": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/footer/footer)",
-        "quicklinks": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/footer/quicklinks)"
+        "footer": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/footer\/footer)",
+        "quicklinks": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks)"
       },
       "section_and_blocks": {
-        "blog_post": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/blog-post)",
-        "collection_list": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/collection-list)",
-        "collage": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/collage)",
-        "collection_list_banner": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner)",
-        "collection_list_carousel": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel)",
-        "comparison_table": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/comparison-table)",
-        "contact_form": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/contact-form)",
-        "custom_liquid": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid)",
-        "email_signup": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter)",
-        "event_calendar": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar)",
-        "faq": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/faqs)",
-        "featured_category": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/featured-categories)",
-        "featured_collection": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/featured-collections)",
-        "featured_product": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/featured-product)",
-        "flash_sale": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/flash-sale)",
-        "flow": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/flow)",
-        "highlight_text_with_image": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image)",
-        "image_comparison": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/image-comparison)",
-        "logo_list": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/logo-list)",
-        "map": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/map-1)",
-        "media_gallery": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/media-gallery)",
-        "media_with_text": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/media-with-text)",
-        "multiple_store": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores)",
-        "page": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/page)",
-        "product_attribute_table": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table)",
-        "product_bundle": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/product-bundle)",
-        "product_comparison_table": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table)",
-        "product_highlight": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/product-highlight)",
-        "product_grid": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/product-grid)",
-        "promo_code_list": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list)",
-        "promotion_banner": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner)",
-        "promotion_grid": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid)",
-        "recently_viewed_products": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products)",
-        "related_blog_posts": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts)",
-        "related_collections": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/related-collections)",
-        "rich_text": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/rich-text)",
-        "scrolling_promotion": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion)",
-        "shop_the_look": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look)",
-        "slideshow": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/slideshow)",
-        "social_feeds": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/social-feeds)",
-        "tabs": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/tabs)",
-        "testimonial": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/testimonial)",
-        "testimonial_with_cards": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards)",
-        "text_columns_with_icons": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons)",
-        "text_columns_with_images": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images)",
-        "timeline": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/timeline)",
-        "vertical_slideshow": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow)",
-        "video": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/video)",
-        "video_hero": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/video-hero)",
-        "video_looping": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/video-looping)",
-        "video_shopping": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/video-shopping)",
-        "flexible_area": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/sections-blocks/flexible-area)"
+        "blog_post": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post)",
+        "collection_list": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list)",
+        "collage": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage)",
+        "collection_list_banner": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner)",
+        "collection_list_carousel": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel)",
+        "comparison_table": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table)",
+        "contact_form": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form)",
+        "custom_liquid": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid)",
+        "email_signup": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter)",
+        "event_calendar": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar)",
+        "faq": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs)",
+        "featured_category": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories)",
+        "featured_collection": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections)",
+        "featured_product": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product)",
+        "flash_sale": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale)",
+        "flow": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow)",
+        "highlight_text_with_image": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image)",
+        "image_comparison": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison)",
+        "logo_list": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list)",
+        "map": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1)",
+        "media_gallery": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery)",
+        "media_with_text": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text)",
+        "multiple_store": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores)",
+        "page": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page)",
+        "product_attribute_table": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table)",
+        "product_bundle": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle)",
+        "product_comparison_table": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table)",
+        "product_highlight": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight)",
+        "product_grid": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid)",
+        "promo_code_list": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list)",
+        "promotion_banner": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner)",
+        "promotion_grid": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid)",
+        "recently_viewed_products": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products)",
+        "related_blog_posts": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts)",
+        "related_collections": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections)",
+        "rich_text": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text)",
+        "scrolling_promotion": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion)",
+        "shop_the_look": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look)",
+        "slideshow": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow)",
+        "social_feeds": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds)",
+        "tabs": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs)",
+        "testimonial": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial)",
+        "testimonial_with_cards": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards)",
+        "text_columns_with_icons": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons)",
+        "text_columns_with_images": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images)",
+        "timeline": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline)",
+        "vertical_slideshow": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow)",
+        "video": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video)",
+        "video_hero": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero)",
+        "video_looping": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping)",
+        "video_shopping": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping)",
+        "flexible_area": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area)"
       },
       "product_page": {
-        "product_description": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/product-page/product-description)",
+        "product_description": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description)",
         "product_information": {
-          "product_information_general": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/product-page/product-information)",
-          "buy_buttons": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons)",
-          "back_in_stock_alert": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert)",
-          "basic_info": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc)",
-          "collapsible_tab": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs)",
-          "collection_link": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link)",
-          "complementary_product": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products)",
-          "customizable_options": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide/customizable-options)",
-          "estimate_delivery": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product)",
-          "engraving": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/engraving)",
-          "featured_icon": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons)",
-          "frequently_bought_together": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products)",
-          "gift_wrapping": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option)",
-          "horizontal_tab": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs)",
-          "inventory_status": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status)",
-          "nutrition_fact_bar": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar)",
-          "payment_method": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product)",
-          "product_sibling": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/user-guide/product-siblings)",
-          "rating": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings)",
-          "size_chart": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart)",
-          "social_sharing": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons)",
-          "sticky_add_to_cart": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar)",
-          "table_of_information": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information)",
-          "trust_badge": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges)",
-          "volume_pricing": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/volume-pricing-table)",
-          "other_blocks": "Leer [hoe je dit blok gebruikt.](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks)"
+          "product_information_general": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information)",
+          "buy_buttons": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons)",
+          "back_in_stock_alert": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert)",
+          "basic_info": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc)",
+          "collapsible_tab": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs)",
+          "collection_link": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link)",
+          "complementary_product": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products)",
+          "customizable_options": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options)",
+          "estimate_delivery": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product)",
+          "engraving": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving)",
+          "featured_icon": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons)",
+          "frequently_bought_together": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products)",
+          "gift_wrapping": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option)",
+          "horizontal_tab": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs)",
+          "inventory_status": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status)",
+          "nutrition_fact_bar": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar)",
+          "payment_method": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product)",
+          "product_sibling": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings)",
+          "rating": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings)",
+          "size_chart": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart)",
+          "social_sharing": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons)",
+          "sticky_add_to_cart": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar)",
+          "table_of_information": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information)",
+          "trust_badge": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges)",
+          "volume_pricing": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table)",
+          "other_blocks": "Leer [hoe je dit blok gebruikt.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks)"
         },
-        "product_specification": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/product-page/product-specifications)",
-        "product_recommendation": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/product-page/product-recommendations)",
-        "quick_order_list": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/product-page/quick-order-list)"
+        "product_specification": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications)",
+        "product_recommendation": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations)",
+        "quick_order_list": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list)"
       },
       "collection_page": {
-        "collection_banner": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/collection-page/collection-banner)"
+        "collection_banner": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner)"
       },
       "pages_and_templates": {
-        "blog_post_page": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages)",
-        "blog_page": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/page-templates/blog-page)",
-        "cart_page": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/page-templates/cart-page)",
-        "collection_list_page": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/page-templates/collection-list-page)",
-        "search_page": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/page-templates/search-page)"
+        "blog_post_page": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages)",
+        "blog_page": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page)",
+        "cart_page": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page)",
+        "collection_list_page": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page)",
+        "search_page": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page)"
       },
       "overlay_group": {
-        "cookie_banner": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner)",
-        "popup": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/overlay-group-1/popup)",
-        "store_selector": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/overlay-group-1/store-selector)",
-        "quick_view": "Leer [hoe je gebruikt deze sectie.](https://support.omnithemes.com/blogs/overlay-group-1/quick-view)",
-        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
+        "cookie_banner": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner)",
+        "popup": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup)",
+        "store_selector": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector)",
+        "quick_view": "Leer [hoe je gebruikt deze sectie.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view)",
+        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
       }
     },
     "all": {
@@ -1051,10 +1051,10 @@
       "icon": {
         "info_button_icon": "Geldt voor het animatietype 'Gesneden met pictogram'.",
         "custom_icon": "Aangepast pictogram (SVG-code)",
-        "custom_icon_info": "Voor hulp met aangepaste SVG-code of het oplossen van problemen die voortvloeien uit aangepaste SVG-code, kunt u [contact opnemen met onze ondersteuning](https://omnithemes.com/contact/).",
+        "custom_icon_info": "Voor hulp met aangepaste SVG-code of het oplossen van problemen die voortvloeien uit aangepaste SVG-code, kunt u [contact opnemen met onze ondersteuning](https:\/\/omnithemes.com\/contact\/).",
         "label": "Icon",
         "another_icon_label": "Gebruik een ander pictogram",
-        "another_icon_info": "Als u andere pictogrammen wilt gebruiken dan de bovenstaande opties, zoek dan een pictogram in onze [pictogramlijst](https://support.omnithemes.com/blogs/user-guide/theme-icons) en vul hier de naam van het pictogram in (bijv. price tag).",
+        "another_icon_info": "Als u andere pictogrammen wilt gebruiken dan de bovenstaande opties, zoek dan een pictogram in onze [pictogramlijst](https:\/\/support.omnithemes.com\/blogs\/user-guide\/theme-icons) en vul hier de naam van het pictogram in (bijv. price tag).",
         "options": {
           "none": "Geen",
           "faq": "Vragen en antwoorden",
@@ -1202,8 +1202,8 @@
         "heading_image": "Koptekst afbeelding",
         "image_height": "Afbeeldingshoogte",
         "image_width": "Afbeeldingbreedte",
-        "note_image_size": "Voor aanbevolen afbeeldingsformaten kunt u onze [gebruikershandleiding](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) raadplegen.",
-        "note_image_size_video_shopping": "Raadpleeg onze [gebruikershandleiding](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) voor aanbevolen afbeeldingsformaten. Te grote afbeeldingen worden aangepast voor optimale weergave op mobiele apparaten. Aanbevolen verhoudingen: 1:1, 3:4, 4:3."
+        "note_image_size": "Voor aanbevolen afbeeldingsformaten kunt u onze [gebruikershandleiding](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) raadplegen.",
+        "note_image_size_video_shopping": "Raadpleeg onze [gebruikershandleiding](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) voor aanbevolen afbeeldingsformaten. Te grote afbeeldingen worden aangepast voor optimale weergave op mobiele apparaten. Aanbevolen verhoudingen: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Beeldverhouding",
@@ -1416,7 +1416,7 @@
               "label": "Menu-itemkoppeling"
             },
             "menu": {
-              "info": "Kies een menu dat u voor dit menu-item wilt gebruiken. Leer hoe u een menu met 4 niveaus maakt [hier.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
+              "info": "Kies een menu dat u voor dit menu-item wilt gebruiken. Leer hoe u een menu met 4 niveaus maakt [hier.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Van toepassing op tabbladen en submenu-items. Bij grote afbeeldingen is de afgeronde optie niet beschikbaar."
@@ -2021,7 +2021,7 @@
         },
         "group_mtf": {
           "label": "Op Metafield gebaseerde blogberichten",
-          "info": "Gebruik metavelden om overeenkomende blogberichten van voorkeursblogs te tonen. [Meer informatie](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts#index=6)"
+          "info": "Gebruik metavelden om overeenkomende blogberichten van voorkeursblogs te tonen. [Meer informatie](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts#index=6)"
         },
         "handle_blog": {
           "label": "Blog-handvatten",
@@ -2085,7 +2085,7 @@
             },
             "show_rating": {
               "label": "Productbeoordeling weergeven",
-              "info": "Om een ​​beoordeling weer te geven, voegt u een productbeoordelingsapp toe. [Meer informatie](https://help.shopify.com/en/manual/products/product-reviews)"
+              "info": "Om een ​​beoordeling weer te geven, voegt u een productbeoordelingsapp toe. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews)"
             },
             "image_ratio": {
               "info": "Niet toepassen op overlay-tekststijl."
@@ -2165,7 +2165,7 @@
           "name": "Leveranciersnaam",
           "settings": {
             "paragraph__1": "Toon meer details over de leverancier van het product volgens deze prioriteit (van hoog naar laag):",
-            "paragraph__2": "(1) door de naam van de leverancier te koppelen aan de verzameling van de overeenkomstige leverancier. [Meer informatie](https://shopify.dev/docs/api/liquid/filters#link_to_vendor)",
+            "paragraph__2": "(1) door de naam van de leverancier te koppelen aan de verzameling van de overeenkomstige leverancier. [Meer informatie](https:\/\/shopify.dev\/docs\/api\/liquid\/filters#link_to_vendor)",
             "paragraph__3": "(2) Door een pagina te selecteren om de inhoud ervan in een pop-up weer te geven zonder de huidige site te verlaten. Als u metaveld inschakelt om leverancierscollecties weer te geven in de beheeromgeving, wordt de link hier automatisch toegepast.",
             "paragraph__4": "(3) door een URL in te vullen die naar een externe link leidt.",
             "link_vendor": {
@@ -2192,7 +2192,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamische afrekenknoppen weergeven",
-              "info": "Met de betaalmethoden die in uw winkel beschikbaar zijn, zien klanten hun voorkeursoptie, zoals PayPal of Apple Pay. [Meer informatie](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Met de betaalmethoden die in uw winkel beschikbaar zijn, zien klanten hun voorkeursoptie, zoals PayPal of Apple Pay. [Meer informatie](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_add_to_cart": {
               "label": "Toon toevoegen aan winkelwagen"
@@ -2206,7 +2206,7 @@
             "pickup_availability": {
               "content": "Beschikbaarheid voor afhalen",
               "label": "Functie voor afhaalbeschikbaarheid inschakelen",
-              "info": "Leer [hier](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup) hoe u deze functie instelt"
+              "info": "Leer [hier](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup) hoe u deze functie instelt"
             },
             "preorder": {
               "preorder_show": {
@@ -2240,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Melden bij binnenkomende voorraad",
-              "info": "Lees meer over [de status van binnenkomende voorraad](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) en hoe u [voorraadoverdrachten kunt maken.](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
+              "info": "Lees meer over [de status van binnenkomende voorraad](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) en hoe u [voorraadoverdrachten kunt maken.](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
             },
             "message_incoming": {
               "label": "Inkomende overdrachtskennisgeving",
@@ -2281,7 +2281,7 @@
         },
         "estimate_delivery": {
           "name": "Geschatte levertijd",
-          "paragraph": "Om de boodschap voor elk product aan te passen, maakt u een metaveld met de sleutel 'custom.delivery_date_message' en typt u 'Rich text'. [Meer informatie over het maken van metavelden.](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields)",
+          "paragraph": "Om de boodschap voor elk product aan te passen, maakt u een metaveld met de sleutel 'custom.delivery_date_message' en typt u 'Rich text'. [Meer informatie over het maken van metavelden.](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields)",
           "settings": {
             "message": {
               "info__1": "U kunt deze codes in het bericht gebruiken:",
@@ -2582,8 +2582,8 @@
           "right_column_label": "Label rechterkolom",
           "details": {
             "label": "Details",
-            "info": "Gebruik een dubbele punt om twee kolommen in een tabel te scheiden. Gebruik een koppelteken om rijen te laten inspringen. Voeg een nieuwe rij toe met regeleinden (met SHIFT + ENTER). [Meer informatie](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information)",
-            "info_horizontal": "Gebruik een dubbele punt om twee kolommen in een tabel te scheiden. Gebruik een koppelteken om rijen te laten inspringen. Voeg een nieuwe rij toe met regeleinden (met SHIFT + ENTER). [Meer informatie](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs)"
+            "info": "Gebruik een dubbele punt om twee kolommen in een tabel te scheiden. Gebruik een koppelteken om rijen te laten inspringen. Voeg een nieuwe rij toe met regeleinden (met SHIFT + ENTER). [Meer informatie](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information)",
+            "info_horizontal": "Gebruik een dubbele punt om twee kolommen in een tabel te scheiden. Gebruik een koppelteken om rijen te laten inspringen. Voeg een nieuwe rij toe met regeleinden (met SHIFT + ENTER). [Meer informatie](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs)"
           },
           "extra_details": "Extra details",
           "use_secondary_background": "Gebruik secundaire achtergrond"
@@ -2606,7 +2606,7 @@
       "settings": {
         "mtf_info": {
           "label": "Gebruik metavelden met de sleutel 'custom.metafield_key' om informatie aan te passen. Pas het gedeelte 'metafield_key' aan uw voorkeuren aan.",
-          "info_nutrition": "Alleen metaveldsleutels voor tekst in één regel. Plaats elke sleutel tussen [] vóór %, één per regel. Voorbeeld: Materiaal: [custom.material]%. Leer [hier](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) hoe u metavelden configureert."
+          "info_nutrition": "Alleen metaveldsleutels voor tekst in één regel. Plaats elke sleutel tussen [] vóór %, één per regel. Voorbeeld: Materiaal: [custom.material]%. Leer [hier](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) hoe u metavelden configureert."
         },
         "make_content_center": {
           "label": "Maak primaire inhoudscentrum"
@@ -2619,7 +2619,7 @@
         },
         "option_to_classify_variant_media": {
           "label": "Opties voor het classificeren van variantmedia",
-          "info": "Vul de optienaam in die gebruikt wordt om de media van elke variant te classificeren. Voeg één optienaam per regel toe. Gebruik puntkomma's om de optielabels in verschillende talen te scheiden (bijv. Kleur;Colour;Couleur). Lees meer over [het instellen van producten](https://support.omnithemes.com/blogs/product-page/how-to-show-multiple-images-for-each-product-variant)."
+          "info": "Vul de optienaam in die gebruikt wordt om de media van elke variant te classificeren. Voeg één optienaam per regel toe. Gebruik puntkomma's om de optielabels in verschillende talen te scheiden (bijv. Kleur;Colour;Couleur). Lees meer over [het instellen van producten](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-multiple-images-for-each-product-variant)."
         },
         "show_product_name": {
           "label": "Producttitel weergeven"
@@ -2672,7 +2672,7 @@
         },
         "header": {
           "content": "Media",
-          "info": "Meer informatie over [mediatypen](https://help.shopify.com/manual/products/product-media)"
+          "info": "Meer informatie over [mediatypen](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_loop": {
           "label": "Videolooping inschakelen"
@@ -2718,7 +2718,7 @@
           "label": "Betalingsiconen weergeven"
         },
         "custom_payment": {
-          "info": "Pas je betaalpictogrammen aan. Vul bijvoorbeeld je gekozen betaalmethoden in dit veld in: apple_pay, google_pay, tabby, tamara. [Meer informatie](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
+          "info": "Pas je betaalpictogrammen aan. Vul bijvoorbeeld je gekozen betaalmethoden in dit veld in: apple_pay, google_pay, tabby, tamara. [Meer informatie](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
           "label": "Aangepaste betalingspictogrammen SVG"
         },
         "header_add_info": {
@@ -2748,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Volgen op Winkel",
-          "info": "Geef de volgknop weer voor je winkel in de Shop-app. [Meer informatie](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Geef de volgknop weer voor je winkel in de Shop-app. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Volgen in de winkel inschakelen"
@@ -3452,7 +3452,7 @@
           "info": "Let op: opties met meer dan 20 items per pagina worden niet aanbevolen voor prestatieoptimalisatie."
         },
         "paragraph": {
-          "content": "Wijzig fragmenten door je blogberichten te bewerken. [Meer informatie](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Wijzig fragmenten door je blogberichten te bewerken. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Berichten worden op mobiel gestapeld."
@@ -3497,7 +3497,7 @@
           "label": "Maak de titel van de collectie op de volledige breedte op het bureaublad"
         },
         "paragraph": {
-          "content": "Voeg een beschrijving of afbeelding toe door je collectie te bewerken. [Meer informatie](https://help.shopify.com/manual/products/collections/collection-layout)"
+          "content": "Voeg een beschrijving of afbeelding toe door je collectie te bewerken. [Meer informatie](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
         },
         "show_collection_name": {
           "label": "Toon collectietitel"
@@ -3507,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Toon collectie afbeelding",
-          "info": "Voor het beste resultaat gebruikt u een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Voor het beste resultaat gebruikt u een afbeelding met een beeldverhouding van 16:9. [Meer informatie](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3570,7 +3570,7 @@
         },
         "enable_filtering": {
           "label": "Filteren inschakelen",
-          "info": "Leer hoe u [filters kunt aanpassen](https://support.omnithemes.com/blogs/collection-page/product-filter?_pos=1&_sid=ea7fd92cc&_ss=r)."
+          "info": "Leer hoe u [filters kunt aanpassen](https:\/\/support.omnithemes.com\/blogs\/collection-page\/product-filter?_pos=1&_sid=ea7fd92cc&_ss=r)."
         },
         "sticky_filtering": {
           "label": "Sticky werkbalk inschakelen"
@@ -3635,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Microdataschema inschakelen",
-            "info": "Zoekmachines indexeren deze informatie mogelijk nog niet. Raadpleeg de [CollectionPage schemadocumentatie](https://schema.org/CollectionPage) voor meer informatie."
+            "info": "Zoekmachines indexeren deze informatie mogelijk nog niet. Raadpleeg de [CollectionPage schemadocumentatie](https:\/\/schema.org\/CollectionPage) voor meer informatie."
           }
         }
       }
@@ -3666,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Voeg afbeeldingen toe door je collecties te bewerken. [Meer informatie](https://help.shopify.com/manual/products/collections)"
+          "info": "Voeg afbeeldingen toe door je collecties te bewerken. [Meer informatie](https:\/\/help.shopify.com\/manual\/products\/collections)"
         },
         "show_collection": {
           "label": "Collecties weergeven",
@@ -3944,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Meer informatie over [mediatypen](https://help.shopify.com/manual/products/product-media)"
+          "info": "Meer informatie over [mediatypen](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_sticky_image": {
           "label": "Sticky content op desktop inschakelen"
@@ -4071,7 +4071,7 @@
         "column": {
           "settings": {
             "image": {
-              "info": "Raadpleeg onze [gebruikershandleiding](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) voor aanbevolen afbeeldingsformaten. Te grote afbeeldingen worden aangepast voor optimale weergave op mobiele apparaten. Aanbevolen verhoudingen: 1:1, 3:4, 4:3."
+              "info": "Raadpleeg onze [gebruikershandleiding](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) voor aanbevolen afbeeldingsformaten. Te grote afbeeldingen worden aangepast voor optimale weergave op mobiele apparaten. Aanbevolen verhoudingen: 1:1, 3:4, 4:3."
             }
           }
         }
@@ -4154,7 +4154,7 @@
       "name": "Productaanbevelingen",
       "settings": {
         "paragraph__1": {
-          "content": "Dynamische aanbevelingen gebruiken bestel- en productinformatie om in de loop van de tijd te veranderen en te verbeteren. [Meer informatie](https://support.omnithemes.com/blogs/product-page/product-recommendations)"
+          "content": "Dynamische aanbevelingen gebruiken bestel- en productinformatie om in de loop van de tijd te veranderen en te verbeteren. [Meer informatie](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations)"
         },
         "show_highlighted_attributes": {
           "label": "Toon gemarkeerde kenmerken"
@@ -4538,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Productlabels en badges",
       "settings": {
-        "introduce": "Gebruik deze sectie om labels en badges toe te voegen aan uw producten en productkaarten. [Zie tutorials](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
+        "introduce": "Gebruik deze sectie om labels en badges toe te voegen aan uw producten en productkaarten. [Zie tutorials](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
         "enable": {
           "label": "Productlabels en badges inschakelen"
         }
@@ -4558,7 +4558,7 @@
           "name": "Uitverkocht label",
           "introduce": "Het 'Uitverkocht'-label wordt automatisch weergegeven op alle niet-beschikbare producten.",
           "content": {
-            "info": "Gebruik {inventory} voor \"Op voorraad/Uitverkocht\", {quantity} voor de totale hoeveelheid in voorraad."
+            "info": "Gebruik {inventory} voor \"Op voorraad\/Uitverkocht\", {quantity} voor de totale hoeveelheid in voorraad."
           }
         },
         "text-label": {
@@ -4587,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Weergeven op productpagina",
-          "info": "Om labels en badges in Snel bekijken en Productinformatie weer te geven, voegt u het blok 'Labels en badges' toe aan die secties of raadpleegt u [deze handleiding.](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
+          "info": "Om labels en badges in Snel bekijken en Productinformatie weer te geven, voegt u het blok 'Labels en badges' toe aan die secties of raadpleegt u [deze handleiding.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Het pictogram wordt voor de labeltekst weergegeven."
@@ -4598,8 +4598,8 @@
           "info__3": "{sale_amount} voor het kortingsbedrag.",
           "info__4": "{qty} voor totale hoeveelheid in voorraad.",
           "info__5": "{count_down} voor de afteltimer tot de einddatum. (Schema moet ingeschakeld zijn)",
-          "info__6": "<br /> om een ​​regel te onderbreken.",
-          "info__7": "<b>uw inhoud</b> voor vetgedrukte tekst.",
+          "info__6": "<br \/> om een ​​regel te onderbreken.",
+          "info__7": "<b>uw inhoud<\/b> voor vetgedrukte tekst.",
           "info__8": "{price} voor productprijs.",
           "info_metafield": "{metafield_key} for a product or variant metafield (only supports Single line text type). Note: Metafield keys must be configured first in Theme settings > Product labels and badges to display here."
         },
@@ -5053,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Link naar ticketpagina",
-          "info": "Voeg een ticketpagina toe om tickets te verkopen aan bezoekers. Maak een [digitaal product](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) aan om meer informatie over het evenement te geven en deze eventueel te verbergen in productvermeldingen. [Neem contact met ons op](https://omnithemes.com/contact/) voor gratis ondersteuning om producten uit te sluiten van interne zoekopdrachten en productaanbevelingen."
+          "info": "Voeg een ticketpagina toe om tickets te verkopen aan bezoekers. Maak een [digitaal product](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) aan om meer informatie over het evenement te geven en deze eventueel te verbergen in productvermeldingen. [Neem contact met ons op](https:\/\/omnithemes.com\/contact\/) voor gratis ondersteuning om producten uit te sluiten van interne zoekopdrachten en productaanbevelingen."
         },
         "ticket_button_label": {
           "label": "Label van ticketknop"
@@ -5313,7 +5313,7 @@
         "note_3": "3. Maak een productmetaveld met de sleutel \"product_specs\" (Metaobject/Lijst met waarden) en selecteer het zojuist gemaakte metaobject.",
         "note_4": "4. Wijs waarden toe aan elk product via het metaveld op de productdetailpagina van de beheerder.",
         "note_5": "5. Vul de sleutel \"product_specs\" van het betreffende metaveld in dit veld in.",
-        "note_6": "Voor meer informatie kunt u [contact met ons opnemen voor gratis ondersteuning.](https://omnithemes.com/contact/)",
+        "note_6": "Voor meer informatie kunt u [contact met ons opnemen voor gratis ondersteuning.](https:\/\/omnithemes.com\/contact\/)",
         "hightlight_dark": {
           "label": "Highlight (licht)"
         },
@@ -5352,7 +5352,7 @@
           "info": "Voeg een label toe om de kortingscode automatisch in de winkelwagen toe te passen."
         },
         "promo_code_note": {
-          "content": "De onderstaande start- en einddatum moeten overeenkomen met de start- en einddatum van de kortingsregel in Shopify-beheer > Kortingen. Meer informatie over [kortingscode](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
+          "content": "De onderstaande start- en einddatum moeten overeenkomen met de start- en einddatum van de kortingsregel in Shopify-beheer > Kortingen. Meer informatie over [kortingscode](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Promotievoorwaarden label"
@@ -5644,7 +5644,7 @@
     "store-selector": {
       "name": "Winkelkiezer",
       "settings": {
-        "paragraph": "Voeg winkelblokken toe en koppel de winkelinformatie aan je locatie-instellingen om de afhaalmogelijkheid van je producten te tonen. [Lees meer in onze handleiding.](https://support.omnithemes.com/blogs/overlay-group-1/store-selector)",
+        "paragraph": "Voeg winkelblokken toe en koppel de winkelinformatie aan je locatie-instellingen om de afhaalmogelijkheid van je producten te tonen. [Lees meer in onze handleiding.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector)",
         "store_selector_header_label": {
           "label": "Standaardlabel"
         }

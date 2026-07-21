@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Font",
-          "info": "La selezione di un carattere diverso può influire sulla velocità del tuo negozio. [Ulteriori informazioni sui caratteri di sistema.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "La selezione di un carattere diverso può influire sulla velocità del tuo negozio. [Ulteriori informazioni sui caratteri di sistema.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Intestazioni"
@@ -112,7 +112,7 @@
           "content": "Corpo"
         },
         "type_body_font": {
-          "info": "La selezione di un carattere diverso può influire sulla velocità del tuo negozio. [Ulteriori informazioni sui caratteri di sistema.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "La selezione di un carattere diverso può influire sulla velocità del tuo negozio. [Ulteriori informazioni sui caratteri di sistema.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Scala delle dimensioni del carattere"
@@ -136,7 +136,7 @@
         "info": "Le impostazioni seguenti aggiungono automaticamente campioni di colore al filtro nella raccolta e nella pagina di ricerca.",
         "swatches_filter": {
           "header": "Filtro",
-          "info": "Per filtrare utilizzando colori o valori di immagine aggiuntivi, crea metaoggetti e riferimenti a metaoggetti, quindi modifica le impostazioni di seguito in base alle tue preferenze. [Scopri come mostrare i filtri visivi utilizzando i metaoggetti.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
+          "info": "Per filtrare utilizzando colori o valori di immagine aggiuntivi, crea metaoggetti e riferimenti a metaoggetti, quindi modifica le impostazioni di seguito in base alle tue preferenze. [Scopri come mostrare i filtri visivi utilizzando i metaoggetti.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
           "display_text": "Visualizza il testo accanto ai campioni",
           "visual_style": {
             "label": "Stile di valore visivo",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Caratteristiche evidenziate",
-        "paragraph": "Metti in risalto le qualità distintive del prodotto sulle card per comunicare il valore a colpo d'occhio e supportare decisioni di acquisto più rapide e consapevoli. Scopri di più nella nostra [guida utente](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
+        "paragraph": "Metti in risalto le qualità distintive del prodotto sulle card per comunicare il valore a colpo d'occhio e supportare decisioni di acquisto più rapide e consapevoli. Scopri di più nella nostra [guida utente](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "Parte superiore della carta",
           "option__2": "Sotto il titolo del prodotto",
@@ -193,13 +193,13 @@
       },
       "text_option_name": "Nome dell'opzione di testo",
       "text_option_value": "Valori delle opzioni di testo",
-      "text_option_info": "Compila il/ i nome(i) dell'opzione utilizzata come campione di testo, le frasi in diverse lingue sono separate da una virgola (Es. Taglia, Size).",
+      "text_option_info": "Compila il\/ i nome(i) dell'opzione utilizzata come campione di testo, le frasi in diverse lingue sono separate da una virgola (Es. Taglia, Size).",
       "text_swatches_info": "Un \"nome opzione:valore\" per riga.\r\n",
       "color_option_name": "Nome opzione di colore",
       "color_option_info": "Compila tutti i nome(i) dell'opzione colore utilizzati nel negozio, le frasi in diverse lingue sono separate da una virgola (Es. Colore, Colour, Colore).\r\n",
       "color_option_values": "Valori di campioni di colore",
       "color_swatches_example": "Un \"nome colore:valore\" per riga. Fino a tre colori possono essere utilizzati per mostrare delle strisce verticali. Es.: 'Strisce Rosse Blu:#e22#22e'",
-      "color_swatches_guide": "Per utilizzare un'immagine per un campione di colore, [carica un'immagine PNG](/admin/settings/files) con il nome del file corrispondente al nome del colore e gli spazi sostituiti da trattini. Per esempio. per \"Hot Pink\", carica \"hot-pink.png\".",
+      "color_swatches_guide": "Per utilizzare un'immagine per un campione di colore, [carica un'immagine PNG](\/admin\/settings\/files) con il nome del file corrispondente al nome del colore e gli spazi sostituiti da trattini. Per esempio. per \"Hot Pink\", carica \"hot-pink.png\".",
       "products_color_swatches_enable_on_collection_page": "Abilita su schede di prodotti",
       "replace_color_with_variant_images": "Sostituisci le opzioni di colore con immagini varianti",
       "products_color_swatches_style": "Stile campione",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Incidi questo prodotto",
       "highlight_icon": {
         "name": "Attributi evidenziati",
-        "info": "Mostra le icone sulle schede prodotto per consentire ai clienti di comprendere rapidamente le caratteristiche evidenziate dei prodotti (ad esempio ingredienti, allergeni). Scopri di più nella nostra [guida per l'utente.](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)",
+        "info": "Mostra le icone sulle schede prodotto per consentire ai clienti di comprendere rapidamente le caratteristiche evidenziate dei prodotti (ad esempio ingredienti, allergeni). Scopri di più nella nostra [guida per l'utente.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)",
         "icon_1": "Icona 1",
         "icon_2": "Icona 2",
         "icon_3": "Icona 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Usa il colore del pulsante",
       "button_colors": "Colori dei pulsanti"
     },
-    "menu": {
+    "menu":{
       "animation": {
         "label": "Animazione di livello 1 della voce di menu",
         "note": "Funziona solo con lo stile di evidenziazione del menu Marker e Bling bling"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https://www.linkedin.com/shopify"
+          "info": "https:\/\/www.linkedin.com\/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "Tic toc",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "Youtube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https://www.line.me/shopify"
+          "info": "https:\/\/www.line.me\/shopify"
         }
       }
     },
@@ -440,7 +440,7 @@
     },
     "product_label": {
       "name": "Etichette e badge dei prodotti",
-      "info": "Product labels and badges are set up in Product labels and badges section in Overlay group. If you want to show product metafields as labels and badges, fill in the metafield keys in the text box below, then navigate to the section to configure the labels' display. Only Single line text metafield type is accepted. Learn more in [our user guide.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
+      "info": "Product labels and badges are set up in Product labels and badges section in Overlay group. If you want to show product metafields as labels and badges, fill in the metafield keys in the text box below, then navigate to the section to configure the labels' display. Only Single line text metafield type is accepted. Learn more in [our user guide.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Metafield utilizzati nelle etichette",
@@ -495,9 +495,9 @@
       "cart_upsell": "Carrello upsell",
       "enable_cart_upsell": "Abilita nel minicart",
       "cart_upsell_note": "Se abilitato nel minicarrello e nella pagina del carrello, i consigli di upsell possono essere mostrati seguendo questa priorità (dall'alto al basso):",
-      "cart_upsell_note_1": "(1) creando un metacampo del prodotto nell'upsell del carrello e questo campo non è vuoto. [Consulta la nostra guida per l'utente per ulteriori dettagli.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields #carrello-upsell-metafield)",
+      "cart_upsell_note_1": "(1) creando un metacampo del prodotto nell'upsell del carrello e questo campo non è vuoto. [Consulta la nostra guida per l'utente per ulteriori dettagli.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields #carrello-upsell-metafield)",
       "cart_upsell_note_2": "(2) selezionando manualmente un elenco di prodotti nelle impostazioni seguenti",
-      "cart_upsell_note_3": "(3) utilizzando consigli dinamici basati sui consigli sui prodotti Shopify.[Ulteriori informazioni.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+      "cart_upsell_note_3": "(3) utilizzando consigli dinamici basati sui consigli sui prodotti Shopify.[Ulteriori informazioni.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
       "product_infor": "Se si utilizza un prodotto Metafield per aggiungere prodotti Upsell, lascia vuoto questo campo.",
       "number_of_product_shown": "Numero di prodotti mostrati",
       "section_label": "Etichetta della sezione",
@@ -528,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Regex di convalida (Avanzato)",
-          "info": "A scopo di convalida sul campo. Per favore evita di usarlo se non hai familiarità con Regex. Per assistenza con Regex o per risolvere i problemi che ne derivano, [contatta il nostro supporto](https://omnithemes.com/contact/)."
+          "info": "A scopo di convalida sul campo. Per favore evita di usarlo se non hai familiarità con Regex. Per assistenza con Regex o per risolvere i problemi che ne derivano, [contatta il nostro supporto](https:\/\/omnithemes.com\/contact\/)."
         }
       },
       "settings": {
@@ -634,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Giorni Minimi",
-          "info": "Il numero minimo di giorni necessari per spedire tutti gli ordini. Se necessario, utilizza un punto e virgola per distinguere i mercati di spedizione (ad esempio USA:6;GB:3) oppure inserisci un numero per richiedere tutti i mercati disponibili. I codici paese devono seguire lo [standard ISO 3166.](https://www.iban.com/country-codes)",
-          "note": "Per personalizzare ciascun prodotto, crea un metafield con la chiave \"custom.delivery_date_min\" e digita \"Testo\". [Ulteriori informazioni sulla creazione di metafield](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) o [contatta il nostro supporto](https://omnithemes.com/contact/) ."
+          "info": "Il numero minimo di giorni necessari per spedire tutti gli ordini. Se necessario, utilizza un punto e virgola per distinguere i mercati di spedizione (ad esempio USA:6;GB:3) oppure inserisci un numero per richiedere tutti i mercati disponibili. I codici paese devono seguire lo [standard ISO 3166.](https:\/\/www.iban.com\/country-codes)",
+          "note": "Per personalizzare ciascun prodotto, crea un metafield con la chiave \"custom.delivery_date_min\" e digita \"Testo\". [Ulteriori informazioni sulla creazione di metafield](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) o [contatta il nostro supporto](https:\/\/omnithemes.com\/contact\/) ."
         },
         "max_days": {
           "label": "Giorni Massimi",
-          "info": "Il numero massimo di giorni necessari per spedire tutti gli ordini. Se necessario, utilizza un punto e virgola per distinguere i mercati di spedizione (ad esempio USA:6;GB:3) oppure inserisci un numero per richiedere tutti i mercati disponibili. I codici paese devono seguire lo [standard ISO 3166.](https://www.iban.com/country-codes)",
-          "note": "Per personalizzare ciascun prodotto, crea un metafield con la chiave \"custom.delivery_date_max\" e digita \"Testo\". [Ulteriori informazioni sulla creazione di metafield](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) o [contatta il nostro supporto](https://omnithemes.com/contact/) ."
+          "info": "Il numero massimo di giorni necessari per spedire tutti gli ordini. Se necessario, utilizza un punto e virgola per distinguere i mercati di spedizione (ad esempio USA:6;GB:3) oppure inserisci un numero per richiedere tutti i mercati disponibili. I codici paese devono seguire lo [standard ISO 3166.](https:\/\/www.iban.com\/country-codes)",
+          "note": "Per personalizzare ciascun prodotto, crea un metafield con la chiave \"custom.delivery_date_max\" e digita \"Testo\". [Ulteriori informazioni sulla creazione di metafield](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) o [contatta il nostro supporto](https:\/\/omnithemes.com\/contact\/) ."
         },
         "cutoff_time": {
           "content": "Tempo di interruzione"
@@ -713,7 +713,7 @@
       "note": "Mostra l'URL originale per le pagine di raccolta impaginate come tag canonici.",
       "header": {
         "content": "Informazioni d'affari",
-        "info": "Utilizzato per essere mostrato nei dati strutturati del sito e nella scheda grafica SERP di Google. Ulteriori informazioni sullo [schema dell'organizzazione](https://developers.google.com/search/docs/appearance/structured-data/organization)."
+        "info": "Utilizzato per essere mostrato nei dati strutturati del sito e nella scheda grafica SERP di Google. Ulteriori informazioni sullo [schema dell'organizzazione](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
       },
       "enable_organization_schema": {
         "label": "Abilita lo schema dell'organizzazione"
@@ -754,15 +754,15 @@
       "other": {
         "header": "Altro schema",
         "schema_breadcrumbs": "Aggiungi lo schema al breadcrumb",
-        "info_breadcrumbs": "Fare riferimento alla [documentazione dello schema BreadcrumbList](https://schema.org/BreadcrumbList) per i dettagli.",
+        "info_breadcrumbs": "Fare riferimento alla [documentazione dello schema BreadcrumbList](https:\/\/schema.org\/BreadcrumbList) per i dettagli.",
         "search": "Aggiungi lo schema SearchAction alla home page",
-        "info_search": "Per i dettagli, fare riferimento alla [documentazione dello schema SearchAction](https://schema.org/SearchAction)."
+        "info_search": "Per i dettagli, fare riferimento alla [documentazione dello schema SearchAction](https:\/\/schema.org\/SearchAction)."
       }
     },
     "combined_listing": {
       "name": "Annunci combinati (solo Plus)",
       "enable_combined": "Abilita elenchi combinati di prodotti",
-      "info": "Installa l'app [Elenco combinato](https://apps.shopify.com/combined-listings) e abilita questa impostazione per utilizzare questa funzione. Disponibile solo sui piani Plus ed Enterprise Commerce."
+      "info": "Installa l'app [Elenco combinato](https:\/\/apps.shopify.com\/combined-listings) e abilita questa impostazione per utilizzare questa funzione. Disponibile solo sui piani Plus ed Enterprise Commerce."
     },
     "reorder": {
       "name": "Riordina",
@@ -773,10 +773,10 @@
       "name": "Avanzate",
       "product_reviews_app": {
         "label": "Applicazione per le recensioni dei prodotti",
-        "info": "Seleziona l'app di recensione da integrare con la valutazione nativa del prodotto del tema. Alcune app nell'opzione \"Altro\" potrebbero non essere completamente compatibili con il tema, per favore [contattaci per supporto](https://omnithemes.com/contact/)."
+        "info": "Seleziona l'app di recensione da integrare con la valutazione nativa del prodotto del tema. Alcune app nell'opzione \"Altro\" potrebbero non essere completamente compatibili con il tema, per favore [contattaci per supporto](https:\/\/omnithemes.com\/contact\/)."
       },
       "custom_html": "Codice personalizzato",
-      "custom_info": "Per ricevere supporto nella gestione del codice personalizzato o nella risoluzione dei problemi relativi al codice personalizzato, [contattaci](https://omnithemes.com/contact/).",
+      "custom_info": "Per ricevere supporto nella gestione del codice personalizzato o nella risoluzione dei problemi relativi al codice personalizzato, [contattaci](https:\/\/omnithemes.com\/contact\/).",
       "additional_head": {
         "label": "HTML per la tag <head>",
         "info": "Utilizzato per qualsiasi codice HTML personalizzato da applicare a tutto il sito. Posizionato nella parte inferiore del tag <head> su tutte le pagine del tema, ad eccezione della pagina di pagamento."
@@ -811,7 +811,7 @@
       "sections_spacing": "Spaziatura delle sezioni",
       "lang_direction": {
         "label": "Lingue RTL",
-        "info": "Inserisci i codici della lingua per mostrare le lingue nel layout RTL. Tutti i codici devono seguire la [Tabella dei codici lingua ISO](https://www.w3schools.com/tags/ref_lingual_codes.asp) e separati utilizzando virgole (Es: ar,fa,ps)"
+        "info": "Inserisci i codici della lingua per mostrare le lingue nel layout RTL. Tutti i codici devono seguire la [Tabella dei codici lingua ISO](https:\/\/www.w3schools.com\/tags\/ref_lingual_codes.asp) e separati utilizzando virgole (Es: ar,fa,ps)"
       },
       "page_width": "Larghezza della pagina",
       "enable_rounded_corners": {
@@ -849,8 +849,8 @@
       "disable_zoom_info": "Animazione di ingrandimento dell'immagine utilizzata in: Immagini della scheda del prodotto, Immagini della scheda di collezione, Galleria media, Griglia di promozione, Popup di promozione, Colonne di testo con immagine.",
       "enable_page_transition": "Abilita la transizione della pagina"
     },
-    "icon": {
-      "icon_options": {
+    "icon":{
+      "icon_options":{
         "option_1": "Classico",
         "option_2": "Moderno"
       }
@@ -859,7 +859,7 @@
       "name": "Cookie banner",
       "settings": {
         "paragraph": {
-          "content": "Chiedete ai vostri clienti il consenso all'uso dei cookie e al trattamento dei loro dati, come richiesto dalla Direttiva ePrivacy e dal Regolamento generale sulla protezione dei dati dell'Unione Europea. [Per saperne di più](https://help.shopify.com/manual/your-account/privacy/GDPR)"
+          "content": "Chiedete ai vostri clienti il consenso all'uso dei cookie e al trattamento dei loro dati, come richiesto dalla Direttiva ePrivacy e dal Regolamento generale sulla protezione dei dati dell'Unione Europea. [Per saperne di più](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
         },
         "notice": {
           "label": "Avviso sui cookie"
@@ -907,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) questa sezione.",
+        "header_general": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) questa sezione.",
         "mega_menu": {
-          "simple_menu": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) questo blocco.",
-          "tree_menu": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) questo blocco.",
-          "banner_menu": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) questo blocco.",
-          "product_menu": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) questo blocco.",
-          "blog_menu": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) questo blocco.",
-          "tabbed_menu": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) questo blocco.",
-          "contact_menu": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) questo blocco.",
-          "cta_button": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) questo blocco."
+          "simple_menu": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) questo blocco.",
+          "tree_menu": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) questo blocco.",
+          "banner_menu": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) questo blocco.",
+          "product_menu": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) questo blocco.",
+          "blog_menu": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) questo blocco.",
+          "tabbed_menu": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) questo blocco.",
+          "contact_menu": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) questo blocco.",
+          "cta_button": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) questo blocco."
         },
-        "announcement_bar": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) questa sezione.",
-        "mobile_navigation": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) questa sezione."
+        "announcement_bar": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) questa sezione.",
+        "mobile_navigation": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) questa sezione."
       },
       "footer": {
-        "footer": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/footer/footer) questa sezione.",
-        "quicklinks": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/footer/quicklinks) questa sezione."
+        "footer": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) questa sezione.",
+        "quicklinks": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) questa sezione."
       },
       "section_and_blocks": {
-        "blog_post": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/blog-post) questa sezione.",
-        "collection_list": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/collection-list) questa sezione.",
-        "collage": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/collage) questa sezione.",
-        "collection_list_banner": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) questa sezione.",
-        "collection_list_carousel": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) questa sezione.",
-        "comparison_table": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) questa sezione.",
-        "contact_form": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/contact-form) questa sezione.",
-        "custom_liquid": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) questa sezione.",
-        "email_signup": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) questa sezione.",
-        "event_calendar": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) questa sezione.",
-        "faq": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/faqs) questa sezione.",
-        "featured_category": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) questa sezione.",
-        "featured_collection": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) questa sezione.",
-        "featured_product": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/featured-product) questa sezione.",
-        "flash_sale": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) questa sezione.",
-        "flow": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/flow) questa sezione.",
-        "highlight_text_with_image": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) questa sezione.",
-        "image_comparison": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) questa sezione.",
-        "logo_list": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/logo-list) questa sezione.",
-        "map": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/map-1) questa sezione.",
-        "media_gallery": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) questa sezione.",
-        "media_with_text": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) questa sezione.",
-        "multiple_store": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) questa sezione.",
-        "page": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/page) questa sezione.",
-        "product_attribute_table": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) questa sezione.",
-        "product_bundle": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) questa sezione.",
-        "product_comparison_table": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) questa sezione.",
-        "product_highlight": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) questa sezione.",
-        "product_grid": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/product-grid) questa sezione.",
-        "promo_code_list": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) questa sezione.",
-        "promotion_banner": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) questa sezione.",
-        "promotion_grid": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) questa sezione.",
-        "recently_viewed_products": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) questa sezione.",
-        "related_blog_posts": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) questa sezione.",
-        "related_collections": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/related-collections) questa sezione.",
-        "rich_text": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/rich-text) questa sezione.",
-        "scrolling_promotion": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) questa sezione.",
-        "shop_the_look": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) questa sezione.",
-        "slideshow": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/slideshow) questa sezione.",
-        "social_feeds": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) questa sezione.",
-        "tabs": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/tabs) questa sezione.",
-        "testimonial": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/testimonial) questa sezione.",
-        "testimonial_with_cards": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) questa sezione.",
-        "text_columns_with_icons": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) questa sezione.",
-        "text_columns_with_images": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) questa sezione.",
-        "timeline": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/timeline) questa sezione.",
-        "vertical_slideshow": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) questa sezione.",
-        "video": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/video) questa sezione.",
-        "video_hero": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/video-hero) questa sezione.",
-        "video_looping": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/video-looping) questa sezione.",
-        "video_shopping": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) questa sezione.",
-        "flexible_area": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) questa sezione."
+        "blog_post": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) questa sezione.",
+        "collection_list": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) questa sezione.",
+        "collage": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) questa sezione.",
+        "collection_list_banner": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) questa sezione.",
+        "collection_list_carousel": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) questa sezione.",
+        "comparison_table": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) questa sezione.",
+        "contact_form": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) questa sezione.",
+        "custom_liquid": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) questa sezione.",
+        "email_signup": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) questa sezione.",
+        "event_calendar": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) questa sezione.",
+        "faq": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) questa sezione.",
+        "featured_category": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) questa sezione.",
+        "featured_collection": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) questa sezione.",
+        "featured_product": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) questa sezione.",
+        "flash_sale": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) questa sezione.",
+        "flow": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) questa sezione.",
+        "highlight_text_with_image": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) questa sezione.",
+        "image_comparison": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) questa sezione.",
+        "logo_list": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) questa sezione.",
+        "map": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) questa sezione.",
+        "media_gallery": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) questa sezione.",
+        "media_with_text": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) questa sezione.",
+        "multiple_store": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) questa sezione.",
+        "page": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) questa sezione.",
+        "product_attribute_table": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) questa sezione.",
+        "product_bundle": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) questa sezione.",
+        "product_comparison_table": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) questa sezione.",
+        "product_highlight": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) questa sezione.",
+        "product_grid": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) questa sezione.",
+        "promo_code_list": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) questa sezione.",
+        "promotion_banner": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) questa sezione.",
+        "promotion_grid": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) questa sezione.",
+        "recently_viewed_products": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) questa sezione.",
+        "related_blog_posts": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) questa sezione.",
+        "related_collections": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) questa sezione.",
+        "rich_text": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) questa sezione.",
+        "scrolling_promotion": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) questa sezione.",
+        "shop_the_look": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) questa sezione.",
+        "slideshow": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) questa sezione.",
+        "social_feeds": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) questa sezione.",
+        "tabs": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) questa sezione.",
+        "testimonial": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) questa sezione.",
+        "testimonial_with_cards": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) questa sezione.",
+        "text_columns_with_icons": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) questa sezione.",
+        "text_columns_with_images": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) questa sezione.",
+        "timeline": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) questa sezione.",
+        "vertical_slideshow": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) questa sezione.",
+        "video": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) questa sezione.",
+        "video_hero": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) questa sezione.",
+        "video_looping": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) questa sezione.",
+        "video_shopping": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) questa sezione.",
+        "flexible_area": "Scopri [come utilizzare](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) questa sezione."
       },
       "product_page": {
-        "product_description": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/product-description) questa sezione.",
+        "product_description": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) questa sezione.",
         "product_information": {
-          "product_information_general": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/product-information) questa sezione.",
-          "buy_buttons": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) questo blocco.",
-          "back_in_stock_alert": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) questo blocco.",
-          "basic_info": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) questo blocco.",
-          "collapsible_tab": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) questo blocco.",
-          "collection_link": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) questo blocco.",
-          "complementary_product": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) questo blocco.",
-          "customizable_options": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide/customizable-options) questo blocco.",
-          "estimate_delivery": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) questo blocco.",
-          "engraving": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/engraving) questo blocco.",
-          "featured_icon": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) questo blocco.",
-          "frequently_bought_together": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) questo blocco.",
-          "gift_wrapping": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) questo blocco.",
-          "horizontal_tab": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) questo blocco.",
-          "inventory_status": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) questo blocco.",
-          "nutrition_fact_bar": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) questo blocco.",
-          "payment_method": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) questo blocco.",
-          "product_sibling": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/user-guide/product-siblings) questo blocco.",
-          "rating": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) questo blocco.",
-          "size_chart": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) questo blocco.",
-          "social_sharing": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) questo blocco.",
-          "sticky_add_to_cart": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) questo blocco.",
-          "table_of_information": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) questo blocco.",
-          "trust_badge": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) questo blocco.",
-          "volume_pricing": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) questo blocco.",
-          "other_blocks": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) questo blocco."
+          "product_information_general": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) questa sezione.",
+          "buy_buttons": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) questo blocco.",
+          "back_in_stock_alert": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) questo blocco.",
+          "basic_info": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) questo blocco.",
+          "collapsible_tab": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) questo blocco.",
+          "collection_link": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) questo blocco.",
+          "complementary_product": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) questo blocco.",
+          "customizable_options": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) questo blocco.",
+          "estimate_delivery": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) questo blocco.",
+          "engraving": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) questo blocco.",
+          "featured_icon": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) questo blocco.",
+          "frequently_bought_together": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) questo blocco.",
+          "gift_wrapping": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) questo blocco.",
+          "horizontal_tab": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) questo blocco.",
+          "inventory_status": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) questo blocco.",
+          "nutrition_fact_bar": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) questo blocco.",
+          "payment_method": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) questo blocco.",
+          "product_sibling": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) questo blocco.",
+          "rating": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) questo blocco.",
+          "size_chart": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) questo blocco.",
+          "social_sharing": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) questo blocco.",
+          "sticky_add_to_cart": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) questo blocco.",
+          "table_of_information": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) questo blocco.",
+          "trust_badge": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) questo blocco.",
+          "volume_pricing": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) questo blocco.",
+          "other_blocks": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) questo blocco."
         },
-        "product_specification": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/product-specifications) questa sezione.",
-        "product_recommendation": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/product-recommendations) questa sezione.",
-        "quick_order_list": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/product-page/quick-order-list) questa sezione."
+        "product_specification": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) questa sezione.",
+        "product_recommendation": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) questa sezione.",
+        "quick_order_list": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) questa sezione."
       },
       "collection_page": {
-        "collection_banner": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/collection-page/collection-banner) questa sezione."
+        "collection_banner": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) questa sezione."
       },
       "pages_and_templates": {
-        "blog_post_page": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) questa sezione.",
-        "blog_page": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/page-templates/blog-page) questa sezione.",
-        "cart_page": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/page-templates/cart-page) questa sezione.",
-        "collection_list_page": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/page-templates/collection-list-page) questa sezione.",
-        "search_page": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/page-templates/search-page) questa sezione."
+        "blog_post_page": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) questa sezione.",
+        "blog_page": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) questa sezione.",
+        "cart_page": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) questa sezione.",
+        "collection_list_page": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) questa sezione.",
+        "search_page": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) questa sezione."
       },
       "overlay_group": {
-        "cookie_banner": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) questa sezione.",
-        "popup": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/overlay-group-1/popup) questa sezione.",
-        "store_selector": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) questa sezione.",
-        "quick_view": "Scopri [come utilizzare](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) questa sezione.",
-        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
+        "cookie_banner": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) questa sezione.",
+        "popup": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) questa sezione.",
+        "store_selector": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) questa sezione.",
+        "quick_view": "Scopri [come utilizzare](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) questa sezione.",
+        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
       }
     },
     "all": {
@@ -1051,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Si applica al tipo di animazione \"Affettato con icona\".",
         "custom_icon": "Icona personalizzata",
-        "custom_icon_info": "Per assistenza con il codice SVG personalizzato o per risolvere i problemi derivanti dal codice SVG personalizzato, [contatta il nostro supporto](https://omnithemes.com/contact/).",
+        "custom_icon_info": "Per assistenza con il codice SVG personalizzato o per risolvere i problemi derivanti dal codice SVG personalizzato, [contatta il nostro supporto](https:\/\/omnithemes.com\/contact\/).",
         "label": "Icona",
         "another_icon_label": "Usa un'altra icona",
         "another_icon_info": "Se desideri utilizzare icone diverse dalle opzioni sopra, cerca un'icona dal nostro [elenco di icone](https://support.omnithemes.com/blogs/user-guide/theme-icons) e inserisci il nome dell'icona qui ( Ad esempio: cartellino del prezzo).",
@@ -1202,8 +1202,8 @@
         "heading_image": "Immagine dell'intestazione",
         "image_height": "Altezza dell'immagine",
         "image_width": "Larghezza dell'immagine",
-        "note_image_size": "Per le dimensioni delle immagini consigliate, consulta la nostra [guida per l'utente](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section).",
-        "note_image_size_video_shopping": "Per le dimensioni delle immagini consigliate, consulta la nostra [guida per l'utente](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Le immagini di grandi dimensioni verranno ridimensionate per una visualizzazione mobile ottimale. Rapporti consigliati: 1:1, 3:4, 4:3."
+        "note_image_size": "Per le dimensioni delle immagini consigliate, consulta la nostra [guida per l'utente](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section).",
+        "note_image_size_video_shopping": "Per le dimensioni delle immagini consigliate, consulta la nostra [guida per l'utente](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Le immagini di grandi dimensioni verranno ridimensionate per una visualizzazione mobile ottimale. Rapporti consigliati: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Rapporto immagine",
@@ -1231,7 +1231,7 @@
         }
       },
       "text": {
-        "heading": "Intestazione",
+        "heading": "Intestazione", 
         "headline": "Titolo",
         "text_outline": "Contorno del testo",
         "text_fill": "Riempimento del testo",
@@ -1416,7 +1416,7 @@
               "label": "Collegamento voce di menu"
             },
             "menu": {
-              "info": "Scegli un menu da applicare per questa voce di menu. Scopri come creare un menu a 4 livelli [qui.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
+              "info": "Scegli un menu da applicare per questa voce di menu. Scopri come creare un menu a 4 livelli [qui.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Si applica alle voci di scheda e sottomenu. Per immagini di grandi dimensioni, l'opzione arrotondata non è disponibile."
@@ -2085,7 +2085,7 @@
             },
             "show_rating": {
               "label": "Mostra la valutazione del prodotto",
-              "info": "Per visualizzare una valutazione, aggiungi un'app di valutazione del prodotto. [Ulteriori informazioni](https://help.shopify.com/en/manual/products/product-reviews)"
+              "info": "Per visualizzare una valutazione, aggiungi un'app di valutazione del prodotto. [Ulteriori informazioni](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews)"
             },
             "image_ratio": {
               "info": "Non applicare allo stile di testo in sovrimpressione."
@@ -2114,7 +2114,7 @@
         }
       }
     },
-    "featured-category": {
+    "featured-category":{
       "name": "Categorie in evidenza",
       "category_card": {
         "name": "Scheda categoria",
@@ -2165,7 +2165,7 @@
           "name": "Nome del venditore",
           "settings": {
             "paragraph__1": "Mostra maggiori dettagli sul fornitore del prodotto seguendo questa priorità (dall'alto al basso):",
-            "paragraph__2": "(1) collegando il nome del fornitore alla raccolta del fornitore corrispondente. [Ulteriori informazioni](https://shopify.dev/docs/api/liquid/filters#link_to_vendor)",
+            "paragraph__2": "(1) collegando il nome del fornitore alla raccolta del fornitore corrispondente. [Ulteriori informazioni](https:\/\/shopify.dev\/docs\/api\/liquid\/filters#link_to_vendor)",
             "paragraph__3": "(2) selezionando una pagina per mostrare il contenuto della pagina in un popup senza lasciare il sito corrente. Se abiliti il ​​metafield per mostrare la raccolta del fornitore nell'amministratore, il collegamento verrà applicato automaticamente qui.",
             "paragraph__4": "(3) compilando un URL per indirizzare a un collegamento esterno.",
             "link_vendor": {
@@ -2192,7 +2192,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Mostra i pulsanti di check-out dinamico",
-              "info": "Utilizzando i metodi di pagamento disponibili nel tuo negozio, i clienti vedono la loro opzione preferita, come PayPal o Apple Pay. [Ulteriori informazioni](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Utilizzando i metodi di pagamento disponibili nel tuo negozio, i clienti vedono la loro opzione preferita, come PayPal o Apple Pay. [Ulteriori informazioni](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_add_to_cart": {
               "label": "Mostra aggiungi al carrello"
@@ -2206,7 +2206,7 @@
             "pickup_availability": {
               "content": "Disponibilità di ritiro",
               "label": "Abilita funzione di disponibilità di pickup",
-              "info": "Scopri come configurare questa funzione [qui](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup)"
+              "info": "Scopri come configurare questa funzione [qui](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup)"
             },
             "preorder": {
               "preorder_show": {
@@ -2240,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Notifica sull'inventario in arrivo",
-              "info": "Ulteriori informazioni sullo [stato dell'inventario in entrata](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) e su come [creare trasferimenti di inventario.](https: //help.shopify.com/it/manual/products/inventario/transfers/create-transfer)"
+              "info": "Ulteriori informazioni sullo [stato dell'inventario in entrata](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) e su come [creare trasferimenti di inventario.](https: \/\/help.shopify.com\/it\/manual\/products\/inventario\/transfers\/create-transfer)"
             },
             "message_incoming": {
               "label": "Avviso di trasferimento in arrivo",
@@ -2281,7 +2281,7 @@
         },
         "estimate_delivery": {
           "name": "Tempo di consegna stimato",
-          "paragraph": "Per personalizzare il messaggio per ciascun prodotto, crea un metafield con la chiave \"custom.delivery_date_message\" e digita \"Rich text\". [Ulteriori informazioni sulla creazione di metafield.](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields)",
+          "paragraph": "Per personalizzare il messaggio per ciascun prodotto, crea un metafield con la chiave \"custom.delivery_date_message\" e digita \"Rich text\". [Ulteriori informazioni sulla creazione di metafield.](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields)",
           "settings": {
             "message": {
               "info__1": "Puoi usare questi codici nel messaggio:",
@@ -2672,7 +2672,7 @@
         },
         "header": {
           "content": "Media",
-          "info": "Ulteriori informazioni sui [tipi di media](https://help.shopify.com/manual/products/product-media)"
+          "info": "Ulteriori informazioni sui [tipi di media](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_loop": {
           "label": "Abilita il looping video"
@@ -2718,7 +2718,7 @@
           "label": "Mostra le icone di pagamento"
         },
         "custom_payment": {
-          "info": "Personalizza le tue icone di pagamento. Ad esempio, compila questo campo con i metodi scelti: apple_pay, google_pay, tabby, tamara. [Ulteriori informazioni](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
+          "info": "Personalizza le tue icone di pagamento. Ad esempio, compila questo campo con i metodi scelti: apple_pay, google_pay, tabby, tamara. [Ulteriori informazioni](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
           "label": "Icone di pagamento personalizzate SVG"
         },
         "header_add_info": {
@@ -2748,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Segui su Shop",
-          "info": "Visualizza il pulsante Segui per la tua vetrina sull'app Shop. [Ulteriori informazioni](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Visualizza il pulsante Segui per la tua vetrina sull'app Shop. [Ulteriori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Abilita Segui nel Negozio"
@@ -3452,7 +3452,7 @@
           "info": "Nota: le opzioni più grandi di 20 elementi per pagina non sono consigliate a scopo di ottimizzazione delle prestazioni."
         },
         "paragraph": {
-          "content": "Cambia estratti modificando i post del tuo blog. [Ulteriori informazioni](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Cambia estratti modificando i post del tuo blog. [Ulteriori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "I post vengono impilati sui dispositivi mobili."
@@ -3497,7 +3497,7 @@
           "label": "Rendi il titolo della raccolta a larghezza intera sul desktop"
         },
         "paragraph": {
-          "content": "Aggiungi una descrizione o un'immagine modificando la tua raccolta. [Ulteriori informazioni](https://help.shopify.com/manual/products/collections/collection-layout)"
+          "content": "Aggiungi una descrizione o un'immagine modificando la tua raccolta. [Ulteriori informazioni](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
         },
         "show_collection_name": {
           "label": "Mostra il titolo della raccolta"
@@ -3507,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Mostra l'immagine della collezione",
-          "info": "Per ottenere risultati ottimali, utilizza un'immagine con proporzioni 16:9. [Ulteriori informazioni](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Per ottenere risultati ottimali, utilizza un'immagine con proporzioni 16:9. [Ulteriori informazioni](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3635,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Abilita lo schema dei microdati",
-            "info": "I motori di ricerca potrebbero non ancora indicizzare queste informazioni. Per i dettagli, fare riferimento alla [documentazione dello schema CollectionPage](https://schema.org/CollectionPage)."
+            "info" : "I motori di ricerca potrebbero non ancora indicizzare queste informazioni. Per i dettagli, fare riferimento alla [documentazione dello schema CollectionPage](https:\/\/schema.org\/CollectionPage)."
           }
         }
       }
@@ -3666,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Aggiungi immagini modificando le tue raccolte. [Ulteriori informazioni](https://help.shopify.com/manual/products/collections)"
+          "info": "Aggiungi immagini modificando le tue raccolte. [Ulteriori informazioni](https:\/\/help.shopify.com\/manual\/products\/collections)"
         },
         "show_collection": {
           "label": "Mostra collezioni",
@@ -3944,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Ulteriori informazioni sui [tipi di media.](https://help.shopify.com/manual/products/product-media)"
+          "info": "Ulteriori informazioni sui [tipi di media.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_sticky_image": {
           "label": "Abilita contenuto permanente sul desktop"
@@ -3961,7 +3961,7 @@
           }
         },
         "show_arrow_button": {
-          "label": "Abilita il cursore successivo/precedente su desktop"
+          "label": "Abilita il cursore successivo\/precedente su desktop"
         },
         "mobile_media_size": {
           "label": "Dimensione media mobile",
@@ -4358,11 +4358,11 @@
           "label": "Pausa su hover"
         },
         "show_arrow": {
-          "label": "Frecce successive/precedenti",
+          "label": "Frecce successive\/precedenti",
           "info": "Mostra frecce di navigazione"
         },
         "show_part_slide": {
-          "label": "Diapositive successive/precedenti"
+          "label": "Diapositive successive\/precedenti"
         },
         "slider_visual": {
           "options__2": {
@@ -4468,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores": {
+    "multiple_stores":{
       "name": "Più negozi",
       "blocks": {
         "name": "Posizione del negozio",
@@ -4538,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Etichette e badge di prodotti",
       "settings": {
-        "introduce": "Utilizza questa sezione per aggiungere etichette e badge ai tuoi prodotti e alle schede prodotto. [Vedi tutorial](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
+        "introduce": "Utilizza questa sezione per aggiungere etichette e badge ai tuoi prodotti e alle schede prodotto. [Vedi tutorial](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
         "enable": {
           "label": "Abilita le etichette e i badge dei prodotti"
         }
@@ -4558,7 +4558,7 @@
           "name": "Etichetta esaurita",
           "introduce": "L'etichetta esaurita viene visualizzata automaticamente su tutti i prodotti non disponibili.",
           "content": {
-            "info": "Usa {inventario} per \"in magazzino/esaurito\", {quantità} per la quantità totale nell'inventario."
+            "info": "Usa {inventario} per \"in magazzino\/esaurito\", {quantità} per la quantità totale nell'inventario."
           }
         },
         "text-label": {
@@ -4574,12 +4574,12 @@
         "new-label": {
           "name": "Nuova etichetta del prodotto"
         },
-        "day_start": {
+        "day_start":{
           "label": "Mostra l'etichetta entro il numero di giorni trascorsi",
           "creation_date": "Data di creazione del prodotto",
           "activation_date": "Date d'activation du produit"
         },
-        "day_end": {
+        "day_end":{
           "label": "Numero di giorni"
         },
         "show_on_product_card": {
@@ -4587,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Mostra sulla pagina del prodotto",
-          "info": "Per mostrare etichette e badge nella Visualizzazione rapida e nelle Informazioni sul prodotto, aggiungi il blocco \"Etichette e badge\" in tali sezioni oppure consulta [questa guida.](https://support.omnithemes.com/blogs/overlay-group-1 /guida-utente-etichette-prodotto-badge)"
+          "info": "Per mostrare etichette e badge nella Visualizzazione rapida e nelle Informazioni sul prodotto, aggiungi il blocco \"Etichette e badge\" in tali sezioni oppure consulta [questa guida.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1 \/guida-utente-etichette-prodotto-badge)"
         },
         "icon": {
           "info": "L'icona mostrerà davanti al testo dell'etichetta."
@@ -4598,8 +4598,8 @@
           "info__3": "{sale_amount} per importo di sconto.",
           "info__4": "{qty} per la quantità totale in inventario.",
           "info__5": "{count_down} per il conto alla rovescia fino alla data di scadenza. (Deve essere abilitata la pianificazione)",
-          "info__6": "<br /> per rompere la linea.",
-          "info__7": "<b> Il tuo contenuto </b> per testo in grassetto.",
+          "info__6": "<br \/> per rompere la linea.",
+          "info__7": "<b> Il tuo contenuto <\/b> per testo in grassetto.",
           "info__8": "{price} per il prezzo del prodotto.",
           "info_metafield": "{metafield_key} for a product or variant metafield (only supports Single line text type). Note: Metafield keys must be configured first in Theme settings > Product labels and badges to display here."
         },
@@ -5053,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Collegamento alla pagina del biglietto",
-          "info": "Aggiungi una pagina del biglietto per vendere i biglietti ai partecipanti. Crea un [prodotto digitale](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) per fornire maggiori informazioni sull'evento e, facoltativamente, nascondi dagli elenchi dei prodotti. [Contattaci](https://omnithemes.com/contact/) per ricevere supporto gratuito per escludere prodotti dalla ricerca interna e dai consigli sui prodotti."
+          "info": "Aggiungi una pagina del biglietto per vendere i biglietti ai partecipanti. Crea un [prodotto digitale](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) per fornire maggiori informazioni sull'evento e, facoltativamente, nascondi dagli elenchi dei prodotti. [Contattaci](https:\/\/omnithemes.com\/contact\/) per ricevere supporto gratuito per escludere prodotti dalla ricerca interna e dai consigli sui prodotti."
         },
         "ticket_button_label": {
           "label": "Etichetta del pulsante del biglietto"
@@ -5308,12 +5308,12 @@
           "info": "Inserisci tutti i nomi dell'opzione utilizzata nel negozio, le frasi in lingue diverse sono separate da una virgola. (Es. Colore, Colore, Colore). Inserisci il nome di un'opzione di prodotto. Ciascun valore di questa opzione sarà una colonna nella tabella degli attributi."
         },
         "note": "I valori del metafield possono essere utilizzati anche come criteri.",
-        "note_1": "1. Crea un metaoggetto con la chiave \"product_specs_list\", contenente un campo con il nome esatto \"specs\" (testo a riga singola/un valore).",
+        "note_1": "1. Crea un metaoggetto con la chiave \"product_specs_list\", contenente un campo con il nome esatto \"specs\" (testo a riga singola\/un valore).",
         "note_2": "2. Creare voci per il metaoggetto (ad es. \"Pelle secca\", \"Protezione UV\").",
-        "note_3": "3. Crea un metacampo prodotto con la chiave \"product_specs\" (Metaoggetto/Elenco valori) e seleziona il metaoggetto appena creato.",
+        "note_3": "3. Crea un metacampo prodotto con la chiave \"product_specs\" (Metaoggetto\/Elenco valori) e seleziona il metaoggetto appena creato.",
         "note_4": "4. Assegna valori per ciascun prodotto tramite metafield nella pagina dei dettagli del prodotto di amministrazione.",
         "note_5": "5. Compila in questo campo la chiave \"product_specs\" del rispettivo metafield.",
-        "note_6": "Per maggiori dettagli, [contattaci per il supporto gratuito.](https://omnithemes.com/contact/)",
+        "note_6": "Per maggiori dettagli, [contattaci per il supporto gratuito.](https:\/\/omnithemes.com\/contact\/)",
         "hightlight_dark": {
           "label": "Evidenzia (scuro)"
         },
@@ -5352,7 +5352,7 @@
           "info": "Aggiungi etichetta per applicare automaticamente il codice coupon nel carrello."
         },
         "promo_code_note": {
-          "content": "La data di inizio e fine di seguito dovrebbe allinearsi con la data di inizio e fine della regola di sconto in Shopify Admin> Sconti. Ulteriori informazioni su [Codice sconto.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
+          "content": "La data di inizio e fine di seguito dovrebbe allinearsi con la data di inizio e fine della regola di sconto in Shopify Admin> Sconti. Ulteriori informazioni su [Codice sconto.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Etichetta dei termini promozionali"
@@ -5638,7 +5638,7 @@
               }
             }
           }
-        }
+        }    
       }
     },
     "store-selector": {
@@ -5653,7 +5653,7 @@
         "name": "Negozio",
         "settings": {
           "store_name": {
-            "info": "Il nome del negozio deve corrispondere al nome del tuo negozio definito nelle [impostazioni di posizione.](/admin/settings/locations)",
+            "info": "Il nome del negozio deve corrispondere al nome del tuo negozio definito nelle [impostazioni di posizione.](\/admin\/settings\/locations)",
             "default": "Il mio negozio"
           },
           "pickup_price": {
@@ -5680,7 +5680,7 @@
     "quick-order-list": {
       "name": "Elenco ordini rapido",
       "settings": {
-        "desktop_layout": {
+        "desktop_layout":{
           "sidebar": "Barra laterale"
         },
         "show_images": {
@@ -5747,7 +5747,7 @@
           "original": "Rapporto post originale"
         }
       },
-      "blocks": {
+      "blocks":{
         "social_post": {
           "social_post_image": {
             "name": "Immagine post social"

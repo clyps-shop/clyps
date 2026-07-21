@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Schriftart",
-          "info": "Die Auswahl einer anderen Schriftart kann sich auf die Geschwindigkeit Ihres Shops auswirken. [Erfahren Sie mehr über Systemschriftarten.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Die Auswahl einer anderen Schriftart kann sich auf die Geschwindigkeit Ihres Shops auswirken. [Erfahren Sie mehr über Systemschriftarten.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Überschriften"
@@ -112,7 +112,7 @@
           "content": "Körper"
         },
         "type_body_font": {
-          "info": "Die Auswahl einer anderen Schriftart kann sich auf die Geschwindigkeit Ihres Shops auswirken. [Erfahren Sie mehr über Systemschriftarten.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Die Auswahl einer anderen Schriftart kann sich auf die Geschwindigkeit Ihres Shops auswirken. [Erfahren Sie mehr über Systemschriftarten.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Schriftgrößenskala"
@@ -136,7 +136,7 @@
         "info": "Die folgenden Einstellungen fügen automatisch Farbfelder zum Filter in der Sammlung und auf der Suchseite hinzu.",
         "swatches_filter": {
           "header": "Filter",
-          "info": "Um mithilfe zusätzlicher Farb- oder Bildwerte zu filtern, erstellen Sie Metaobjekte und Metaobjektreferenzen und ändern Sie dann die Einstellungen unten nach Ihren Wünschen. [Erfahren Sie mehr über das Anzeigen visueller Filter mithilfe von Metaobjekten.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
+          "info": "Um mithilfe zusätzlicher Farb- oder Bildwerte zu filtern, erstellen Sie Metaobjekte und Metaobjektreferenzen und ändern Sie dann die Einstellungen unten nach Ihren Wünschen. [Erfahren Sie mehr über das Anzeigen visueller Filter mithilfe von Metaobjekten.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
           "display_text": "Text neben Farbfeldern anzeigen",
           "visual_style": {
             "label": "Visueller Wertstil",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Hervorgehobene Funktionen",
-        "paragraph": "Präsentieren Sie herausragende Produkteigenschaften auf Karten, um den Wert auf einen Blick zu vermitteln und schnellere, fundiertere Kaufentscheidungen zu ermöglichen. Erfahren Sie mehr in unserem [Benutzerhandbuch](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
+        "paragraph": "Präsentieren Sie herausragende Produkteigenschaften auf Karten, um den Wert auf einen Blick zu vermitteln und schnellere, fundiertere Kaufentscheidungen zu ermöglichen. Erfahren Sie mehr in unserem [Benutzerhandbuch](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "Oberseite der Karte",
           "option__2": "Unter dem Produkttitel",
@@ -193,13 +193,13 @@
       },
       "text_option_name": "Name der Textoption",
       "text_option_value": "Werte für Textoptionen",
-      "text_option_info": "Füllen Sie den/die Namen der als Textprobe verwendeten Option aus, Sätze in verschiedenen Sprachen sind durch ein Komma getrennt (Z.B. Größe, Size).",
+      "text_option_info": "Füllen Sie den\/die Namen der als Textprobe verwendeten Option aus, Sätze in verschiedenen Sprachen sind durch ein Komma getrennt (Z.B. Größe, Size).",
       "text_swatches_info": "Ein 'Optionsname:Wert' pro Zeile.\r\n",
       "color_option_name": "Farboption Name",
       "color_option_info": "Füllen Sie alle Namen der im Geschäft verwendeten Farboption aus, Sätze in verschiedenen Sprachen sind durch ein Komma getrennt (Z.B. Farbe, Colour, Farbe).\r\n",
       "color_option_values": "Farbmusterwerte",
       "color_swatches_example": "Ein 'Farbname:Wert' pro Zeile. Bis zu drei Farben können verwendet werden, um vertikale Streifen anzuzeigen. Z.B.: 'Rot Blau Streifen:#e22#22e'",
-      "color_swatches_guide": "Um ein Bild als Farbmuster zu verwenden, [laden Sie ein PNG-Bild hoch](/admin/settings/files), wobei der Dateiname mit dem Farbnamen übereinstimmt und Leerzeichen durch Bindestriche ersetzt werden. Z.B. Für „Hot Pink“ laden Sie „hot-pink.png“ hoch.",
+      "color_swatches_guide": "Um ein Bild als Farbmuster zu verwenden, [laden Sie ein PNG-Bild hoch](\/admin\/settings\/files), wobei der Dateiname mit dem Farbnamen übereinstimmt und Leerzeichen durch Bindestriche ersetzt werden. Z.B. Für „Hot Pink“ laden Sie „hot-pink.png“ hoch.",
       "products_color_swatches_enable_on_collection_page": "Aktivieren auf der Produktkarten",
       "replace_color_with_variant_images": "Ersetzen Sie Farboptionen durch Variantenbilder",
       "products_color_swatches_style": "Swatch-Stil",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Gravieren Sie dieses Produkt",
       "highlight_icon": {
         "name": "Hervorgehobene Attribute",
-        "info": "Zeigen Sie Symbole auf Produktkarten an, damit Kunden die hervorgehobenen Eigenschaften der Produkte (z. B. Inhaltsstoffe, Allergene) schnell verstehen können. Erfahren Sie mehr in unserem [Benutzerhandbuch.](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)",
+        "info": "Zeigen Sie Symbole auf Produktkarten an, damit Kunden die hervorgehobenen Eigenschaften der Produkte (z. B. Inhaltsstoffe, Allergene) schnell verstehen können. Erfahren Sie mehr in unserem [Benutzerhandbuch.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)",
         "icon_1": "Symbol 1",
         "icon_2": "Symbol 2",
         "icon_3": "Symbol 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Verwenden Sie die Schaltflächenfarbe",
       "button_colors": "Knopffarben"
     },
-    "menu": {
+    "menu":{
       "animation": {
         "label": "Animation der Menüpunktebene 1",
         "note": "Funktioniert nur mit dem Hervorhebungsstil „Marker“ und „Bling Bling“."
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https://www.linkedin.com/shopify"
+          "info": "https:\/\/www.linkedin.com\/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "Tick ​​Tack",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "Youtube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https://www.line.me/shopify"
+          "info": "https:\/\/www.line.me\/shopify"
         }
       }
     },
@@ -440,7 +440,7 @@
     },
     "product_label": {
       "name": "Produktetiketten und Abzeichen",
-      "info": "Product labels and badges are set up in Product labels and badges section in Overlay group. If you want to show product metafields as labels and badges, fill in the metafield keys in the text box below, then navigate to the section to configure the labels' display. Only Single line text metafield type is accepted. Learn more in [our user guide.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
+      "info": "Product labels and badges are set up in Product labels and badges section in Overlay group. If you want to show product metafields as labels and badges, fill in the metafield keys in the text box below, then navigate to the section to configure the labels' display. Only Single line text metafield type is accepted. Learn more in [our user guide.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "In Etiketten verwendete Metafelder",
@@ -495,9 +495,9 @@
       "cart_upsell": "Warenkorb-Upsell",
       "enable_cart_upsell": "Im Minicart aktivieren",
       "cart_upsell_note": "Wenn sie im Mini-Warenkorb und auf der Warenkorbseite aktiviert sind, können Upsell-Empfehlungen nach dieser Priorität (von hoch nach niedrig) angezeigt werden:",
-      "cart_upsell_note_1": "(1) durch Erstellen eines Produkt-Metafelds im Warenkorb-Upsell und dieses Feld ist nicht leer. [Weitere Informationen finden Sie in unserem Benutzerhandbuch.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields #cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) durch Erstellen eines Produkt-Metafelds im Warenkorb-Upsell und dieses Feld ist nicht leer. [Weitere Informationen finden Sie in unserem Benutzerhandbuch.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields #cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) durch manuelle Auswahl einer Produktliste in den Einstellungen unten",
-      "cart_upsell_note_3": "(3) durch die Verwendung dynamischer Empfehlungen basierend auf Shopify-Produktempfehlungen.[Erfahren Sie mehr.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+      "cart_upsell_note_3": "(3) durch die Verwendung dynamischer Empfehlungen basierend auf Shopify-Produktempfehlungen.[Erfahren Sie mehr.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
       "product_infor": "Wenn Sie ein Produkt-Metafeld verwenden, um Upsell-Produkte hinzuzufügen, lassen Sie dieses Feld leer.",
       "number_of_product_shown": "Anzahl der angezeigten Produkte",
       "section_label": "Abschnittsbeschriftung",
@@ -528,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Validierungs regex (Erweitert)",
-          "info": "Zur Feldvalidierung. Bitte vermeiden Sie die Verwendung, wenn Sie mit Regex nicht vertraut sind. Wenn Sie Hilfe zu Regex benötigen oder daraus resultierende Probleme beheben möchten, [kontaktieren Sie bitte unseren Support](https://omnithemes.com/contact/)."
+          "info": "Zur Feldvalidierung. Bitte vermeiden Sie die Verwendung, wenn Sie mit Regex nicht vertraut sind. Wenn Sie Hilfe zu Regex benötigen oder daraus resultierende Probleme beheben möchten, [kontaktieren Sie bitte unseren Support](https:\/\/omnithemes.com\/contact\/)."
         }
       },
       "settings": {
@@ -634,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Min Tage",
-          "info": "Die Mindestanzahl an Tagen, die für den Versand aller Bestellungen erforderlich sind. Verwenden Sie bei Bedarf ein Semikolon, um zwischen den Versandmärkten zu unterscheiden (z. B. US:6;GB:3), oder geben Sie eine Zahl ein, um alle verfügbaren Märkte zu berücksichtigen. Ländercodes sollten dem [ISO 3166-Standard] folgen. (https://www.iban.com/country-codes)",
-          "note": "Um es für jedes Produkt anzupassen, erstellen Sie ein Metafeld mit dem Schlüssel „custom.delivery_date_min“ und geben Sie „Text“ ein. [Erfahren Sie mehr über das Erstellen von Metafeldern](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) oder [kontaktieren Sie unseren Support](https://omnithemes.com/contact/) ."
+          "info": "Die Mindestanzahl an Tagen, die für den Versand aller Bestellungen erforderlich sind. Verwenden Sie bei Bedarf ein Semikolon, um zwischen den Versandmärkten zu unterscheiden (z. B. US:6;GB:3), oder geben Sie eine Zahl ein, um alle verfügbaren Märkte zu berücksichtigen. Ländercodes sollten dem [ISO 3166-Standard] folgen. (https:\/\/www.iban.com\/country-codes)",
+          "note": "Um es für jedes Produkt anzupassen, erstellen Sie ein Metafeld mit dem Schlüssel „custom.delivery_date_min“ und geben Sie „Text“ ein. [Erfahren Sie mehr über das Erstellen von Metafeldern](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) oder [kontaktieren Sie unseren Support](https:\/\/omnithemes.com\/contact\/) ."
         },
         "max_days": {
           "label": "Max Tage",
-          "info": "Die maximale Anzahl an Tagen, die zum Versand aller Bestellungen benötigt werden. Verwenden Sie bei Bedarf ein Semikolon, um zwischen den Versandmärkten zu unterscheiden (z. B. US:6;GB:3), oder geben Sie eine Zahl ein, um alle verfügbaren Märkte zu berücksichtigen. Ländercodes sollten dem [ISO 3166-Standard] folgen. (https://www.iban.com/country-codes)",
-          "note": "Um es für jedes Produkt anzupassen, erstellen Sie ein Metafeld mit dem Schlüssel „custom.delivery_date_max“ und geben Sie „Text“ ein. [Erfahren Sie mehr über das Erstellen von Metafeldern](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) oder [kontaktieren Sie unseren Support](https://omnithemes.com/contact/) ."
+          "info": "Die maximale Anzahl an Tagen, die zum Versand aller Bestellungen benötigt werden. Verwenden Sie bei Bedarf ein Semikolon, um zwischen den Versandmärkten zu unterscheiden (z. B. US:6;GB:3), oder geben Sie eine Zahl ein, um alle verfügbaren Märkte zu berücksichtigen. Ländercodes sollten dem [ISO 3166-Standard] folgen. (https:\/\/www.iban.com\/country-codes)",
+          "note": "Um es für jedes Produkt anzupassen, erstellen Sie ein Metafeld mit dem Schlüssel „custom.delivery_date_max“ und geben Sie „Text“ ein. [Erfahren Sie mehr über das Erstellen von Metafeldern](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) oder [kontaktieren Sie unseren Support](https:\/\/omnithemes.com\/contact\/) ."
         },
         "cutoff_time": {
           "content": "Abschaltzeit"
@@ -713,7 +713,7 @@
       "note": "Original-URL für paginierte Sammlungsseiten als kanonische Tags anzeigen.",
       "header": {
         "content": "Geschäftsinformationen",
-        "info": "Wird zur Anzeige in den strukturierten Daten der Website und auf der SERP-Grafikkarte von Google verwendet. Erfahren Sie mehr über [Organisationsschema](https://developers.google.com/search/docs/appearance/structured-data/organization)."
+        "info": "Wird zur Anzeige in den strukturierten Daten der Website und auf der SERP-Grafikkarte von Google verwendet. Erfahren Sie mehr über [Organisationsschema](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
       },
       "enable_organization_schema": {
         "label": "Organisationsschema aktivieren"
@@ -754,15 +754,15 @@
       "other": {
         "header": "Anderes Schema",
         "schema_breadcrumbs": "Schema zu Breadcrumbs hinzufügen",
-        "info_breadcrumbs": "Einzelheiten finden Sie in der [Dokumentation zum BreadcrumbList-Schema](https://schema.org/BreadcrumbList).",
+        "info_breadcrumbs": "Einzelheiten finden Sie in der [Dokumentation zum BreadcrumbList-Schema](https:\/\/schema.org\/BreadcrumbList).",
         "search": "Fügen Sie das SearchAction-Schema zur Startseite hinzu",
-        "info_search": "Einzelheiten finden Sie in der [SearchAction-Schemadokumentation](https://schema.org/SearchAction)."
+        "info_search": "Einzelheiten finden Sie in der [SearchAction-Schemadokumentation](https:\/\/schema.org\/SearchAction)."
       }
     },
     "combined_listing": {
       "name": "Kombinierte Einträge (nur Plus)",
       "enable_combined": "Aktivieren Sie kombinierte Produkteinträge",
-      "info": "Installieren Sie die App [Combined Listing](https://apps.shopify.com/combined-listings) und aktivieren Sie diese Einstellung, um diese Funktion zu nutzen. Nur für Plus- und Enterprise-Commerce-Pläne verfügbar."
+      "info": "Installieren Sie die App [Combined Listing](https:\/\/apps.shopify.com\/combined-listings) und aktivieren Sie diese Einstellung, um diese Funktion zu nutzen. Nur für Plus- und Enterprise-Commerce-Pläne verfügbar."
     },
     "reorder": {
       "name": "Neu anordnen",
@@ -773,10 +773,10 @@
       "name": "Fortschrittlich",
       "product_reviews_app": {
         "label": "Produktbewertungs-App",
-        "info": "Wählen Sie die Bewertungs-App aus, die in die native Produktbewertung des Themas integriert werden soll. Einige Apps in der Option „Andere“ sind möglicherweise nicht vollständig mit dem Thema kompatibel. Bitte [kontaktieren Sie uns für Support](https://omnithemes.com/contact/)."
+        "info": "Wählen Sie die Bewertungs-App aus, die in die native Produktbewertung des Themas integriert werden soll. Einige Apps in der Option „Andere“ sind möglicherweise nicht vollständig mit dem Thema kompatibel. Bitte [kontaktieren Sie uns für Support](https:\/\/omnithemes.com\/contact\/)."
       },
       "custom_html": "Benutzerdefinierter Code",
-      "custom_info": "Wenn Sie Unterstützung bei der Handhabung von benutzerdefiniertem Code oder der Behebung von Problemen im Zusammenhang mit benutzerdefiniertem Code benötigen, [kontaktieren Sie uns](https://omnithemes.com/contact/).",
+      "custom_info": "Wenn Sie Unterstützung bei der Handhabung von benutzerdefiniertem Code oder der Behebung von Problemen im Zusammenhang mit benutzerdefiniertem Code benötigen, [kontaktieren Sie uns](https:\/\/omnithemes.com\/contact\/).",
       "additional_head": {
         "label": "HTML-Code für den <head>-Tag",
         "info": "Wird für jeden benutzerdefinierten HTML-Code verwendet, der auf der gesamten Website angewendet werden soll. Wird auf allen Themenseiten, mit Ausnahme der Checkout-Seite, am Ende des <head>-Tags platziert."
@@ -811,7 +811,7 @@
       "sections_spacing": "Abschnittsabstand",
       "lang_direction": {
         "label": "RTL-Sprachen",
-        "info": "Geben Sie die Sprachcodes ein, um Sprachen im RTL-Layout anzuzeigen. Alle Codes müssen der [ISO-Sprachcodetabelle](https://www.w3schools.com/tags/ref_lingual_codes.asp) folgen und durch Kommas getrennt sein (Beispiel: ar,fa,ps)"
+        "info": "Geben Sie die Sprachcodes ein, um Sprachen im RTL-Layout anzuzeigen. Alle Codes müssen der [ISO-Sprachcodetabelle](https:\/\/www.w3schools.com\/tags\/ref_lingual_codes.asp) folgen und durch Kommas getrennt sein (Beispiel: ar,fa,ps)"
       },
       "page_width": "Seitenbreite",
       "enable_rounded_corners": {
@@ -849,8 +849,8 @@
       "disable_zoom_info": "Einblendanimation für Bilder verwendet in: Produktkartenbilder, Sammlungskartenbilder, Mediengalerie, Werbegitter, Werbepopup, Textspalten mit Bild.",
       "enable_page_transition": "Seitenübergang aktivieren"
     },
-    "icon": {
-      "icon_options": {
+    "icon":{
+      "icon_options":{
         "option_1": "Klassiker",
         "option_2": "Modern"
       }
@@ -859,7 +859,7 @@
       "name": "Cookie Banner",
       "settings": {
         "paragraph": {
-          "content": "Bitten Sie Ihre Kunden um die Zustimmung zur Verwendung von Cookies und zur Verarbeitung ihrer Daten, wie in der Datenschutzrichtlinie für elektronische Kommunikation und der Allgemeinen Datenschutzverordnung der Europäischen Union vorgeschrieben. [Weitere Informationen](https://help.shopify.com/manual/your-account/privacy/GDPR)"
+          "content": "Bitten Sie Ihre Kunden um die Zustimmung zur Verwendung von Cookies und zur Verarbeitung ihrer Daten, wie in der Datenschutzrichtlinie für elektronische Kommunikation und der Allgemeinen Datenschutzverordnung der Europäischen Union vorgeschrieben. [Weitere Informationen](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
         },
         "notice": {
           "label": "Cookie Mitteilung"
@@ -907,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) diesen Abschnitt verwendet.",
+        "header_general": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) diesen Abschnitt verwendet.",
         "mega_menu": {
-          "simple_menu": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) diesen Block verwendet.",
-          "tree_menu": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) diesen Block verwendet.",
-          "banner_menu": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) diesen Block verwendet.",
-          "product_menu": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) diesen Block verwendet.",
-          "blog_menu": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) diesen Block verwendet.",
-          "tabbed_menu": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) diesen Block verwendet.",
-          "contact_menu": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) diesen Block verwendet.",
-          "cta_button": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) diesen Block verwendet."
+          "simple_menu": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) diesen Block verwendet.",
+          "tree_menu": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) diesen Block verwendet.",
+          "banner_menu": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) diesen Block verwendet.",
+          "product_menu": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) diesen Block verwendet.",
+          "blog_menu": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) diesen Block verwendet.",
+          "tabbed_menu": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) diesen Block verwendet.",
+          "contact_menu": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) diesen Block verwendet.",
+          "cta_button": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) diesen Block verwendet."
         },
-        "announcement_bar": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) diesen Abschnitt verwendet.",
-        "mobile_navigation": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) diesen Abschnitt verwendet."
+        "announcement_bar": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) diesen Abschnitt verwendet.",
+        "mobile_navigation": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) diesen Abschnitt verwendet."
       },
       "footer": {
-        "footer": "Lerne [wie man](https://support.omnithemes.com/blogs/footer/footer) diesen Abschnitt verwendet.",
-        "quicklinks": "Lerne [wie man](https://support.omnithemes.com/blogs/footer/quicklinks) diesen Abschnitt verwendet."
+        "footer": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) diesen Abschnitt verwendet.",
+        "quicklinks": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) diesen Abschnitt verwendet."
       },
       "section_and_blocks": {
-        "blog_post": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/blog-post) diesen Abschnitt verwendet.",
-        "collection_list": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/collection-list) diesen Abschnitt verwendet.",
-        "collage": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/collage) diesen Abschnitt verwendet.",
-        "collection_list_banner": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) diesen Abschnitt verwendet.",
-        "collection_list_carousel": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) diesen Abschnitt verwendet.",
-        "comparison_table": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) diesen Abschnitt verwendet.",
-        "contact_form": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/contact-form) diesen Abschnitt verwendet.",
-        "custom_liquid": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) diesen Abschnitt verwendet.",
-        "email_signup": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) diesen Abschnitt verwendet.",
-        "event_calendar": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) diesen Abschnitt verwendet.",
-        "faq": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/faqs) diesen Abschnitt verwendet.",
-        "featured_category": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) diesen Abschnitt verwendet.",
-        "featured_collection": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) diesen Abschnitt verwendet.",
-        "featured_product": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/featured-product) diesen Abschnitt verwendet.",
-        "flash_sale": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) diesen Abschnitt verwendet.",
-        "flow": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/flow) diesen Abschnitt verwendet.",
-        "highlight_text_with_image": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) diesen Abschnitt verwendet.",
-        "image_comparison": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) diesen Abschnitt verwendet.",
-        "logo_list": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/logo-list) diesen Abschnitt verwendet.",
-        "map": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/map-1) diesen Abschnitt verwendet.",
-        "media_gallery": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) diesen Abschnitt verwendet.",
-        "media_with_text": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) diesen Abschnitt verwendet.",
-        "multiple_store": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) diesen Abschnitt verwendet.",
-        "page": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/page) diesen Abschnitt verwendet.",
-        "product_attribute_table": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) diesen Abschnitt verwendet.",
-        "product_bundle": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) diesen Abschnitt verwendet.",
-        "product_comparison_table": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) diesen Abschnitt verwendet.",
-        "product_highlight": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) diesen Abschnitt verwendet.",
-        "product_grid": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/product-grid) diesen Abschnitt verwendet.",
-        "promo_code_list": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) diesen Abschnitt verwendet.",
-        "promotion_banner": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) diesen Abschnitt verwendet.",
-        "promotion_grid": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) diesen Abschnitt verwendet.",
-        "recently_viewed_products": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) diesen Abschnitt verwendet.",
-        "related_blog_posts": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) diesen Abschnitt verwendet.",
-        "related_collections": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/related-collections) diesen Abschnitt verwendet.",
-        "rich_text": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/rich-text) diesen Abschnitt verwendet.",
-        "scrolling_promotion": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) diesen Abschnitt verwendet.",
-        "shop_the_look": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) diesen Abschnitt verwendet.",
-        "slideshow": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/slideshow) diesen Abschnitt verwendet.",
-        "social_feeds": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) diesen Abschnitt verwendet.",
-        "tabs": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/tabs) diesen Abschnitt verwendet.",
-        "testimonial": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/testimonial) diesen Abschnitt verwendet.",
-        "testimonial_with_cards": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) diesen Abschnitt verwendet.",
-        "text_columns_with_icons": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) diesen Abschnitt verwendet.",
-        "text_columns_with_images": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) diesen Abschnitt verwendet.",
-        "timeline": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/timeline) diesen Abschnitt verwendet.",
-        "vertical_slideshow": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) diesen Abschnitt verwendet.",
-        "video": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/video) diesen Abschnitt verwendet.",
-        "video_hero": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/video-hero) diesen Abschnitt verwendet.",
-        "video_looping": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/video-looping) diesen Abschnitt verwendet.",
-        "video_shopping": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) diesen Abschnitt verwendet.",
-        "flexible_area": "Lerne [wie man](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) diesen Abschnitt verwendet."
+        "blog_post": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) diesen Abschnitt verwendet.",
+        "collection_list": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) diesen Abschnitt verwendet.",
+        "collage": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) diesen Abschnitt verwendet.",
+        "collection_list_banner": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) diesen Abschnitt verwendet.",
+        "collection_list_carousel": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) diesen Abschnitt verwendet.",
+        "comparison_table": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) diesen Abschnitt verwendet.",
+        "contact_form": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) diesen Abschnitt verwendet.",
+        "custom_liquid": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) diesen Abschnitt verwendet.",
+        "email_signup": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) diesen Abschnitt verwendet.",
+        "event_calendar": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) diesen Abschnitt verwendet.",
+        "faq": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) diesen Abschnitt verwendet.",
+        "featured_category": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) diesen Abschnitt verwendet.",
+        "featured_collection": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) diesen Abschnitt verwendet.",
+        "featured_product": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) diesen Abschnitt verwendet.",
+        "flash_sale": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) diesen Abschnitt verwendet.",
+        "flow": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) diesen Abschnitt verwendet.",
+        "highlight_text_with_image": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) diesen Abschnitt verwendet.",
+        "image_comparison": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) diesen Abschnitt verwendet.",
+        "logo_list": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) diesen Abschnitt verwendet.",
+        "map": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) diesen Abschnitt verwendet.",
+        "media_gallery": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) diesen Abschnitt verwendet.",
+        "media_with_text": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) diesen Abschnitt verwendet.",
+        "multiple_store": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) diesen Abschnitt verwendet.",
+        "page": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) diesen Abschnitt verwendet.",
+        "product_attribute_table": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) diesen Abschnitt verwendet.",
+        "product_bundle": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) diesen Abschnitt verwendet.",
+        "product_comparison_table": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) diesen Abschnitt verwendet.",
+        "product_highlight": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) diesen Abschnitt verwendet.",
+        "product_grid": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) diesen Abschnitt verwendet.",
+        "promo_code_list": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) diesen Abschnitt verwendet.",
+        "promotion_banner": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) diesen Abschnitt verwendet.",
+        "promotion_grid": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) diesen Abschnitt verwendet.",
+        "recently_viewed_products": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) diesen Abschnitt verwendet.",
+        "related_blog_posts": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) diesen Abschnitt verwendet.",
+        "related_collections": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) diesen Abschnitt verwendet.",
+        "rich_text": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) diesen Abschnitt verwendet.",
+        "scrolling_promotion": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) diesen Abschnitt verwendet.",
+        "shop_the_look": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) diesen Abschnitt verwendet.",
+        "slideshow": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) diesen Abschnitt verwendet.",
+        "social_feeds": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) diesen Abschnitt verwendet.",
+        "tabs": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) diesen Abschnitt verwendet.",
+        "testimonial": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) diesen Abschnitt verwendet.",
+        "testimonial_with_cards": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) diesen Abschnitt verwendet.",
+        "text_columns_with_icons": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) diesen Abschnitt verwendet.",
+        "text_columns_with_images": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) diesen Abschnitt verwendet.",
+        "timeline": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) diesen Abschnitt verwendet.",
+        "vertical_slideshow": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) diesen Abschnitt verwendet.",
+        "video": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) diesen Abschnitt verwendet.",
+        "video_hero": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) diesen Abschnitt verwendet.",
+        "video_looping": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) diesen Abschnitt verwendet.",
+        "video_shopping": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) diesen Abschnitt verwendet.",
+        "flexible_area": "Lerne [wie man](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) diesen Abschnitt verwendet."
       },
       "product_page": {
-        "product_description": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/product-description) diesen Abschnitt verwendet.",
+        "product_description": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) diesen Abschnitt verwendet.",
         "product_information": {
-          "product_information_general": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/product-information) diesen Abschnitt verwendet.",
-          "buy_buttons": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) diesen Block verwendet.",
-          "back_in_stock_alert": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) diesen Block verwendet.",
-          "basic_info": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) diesen Block verwendet.",
-          "collapsible_tab": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) diesen Block verwendet.",
-          "collection_link": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) diesen Block verwendet.",
-          "complementary_product": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) diesen Block verwendet.",
-          "customizable_options": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide/customizable-options) diesen Block verwendet.",
-          "estimate_delivery": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) diesen Block verwendet.",
-          "engraving": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/engraving) diesen Block verwendet.",
-          "featured_icon": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) diesen Block verwendet.",
-          "frequently_bought_together": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) diesen Block verwendet.",
-          "gift_wrapping": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) diesen Block verwendet.",
-          "horizontal_tab": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) diesen Block verwendet.",
-          "inventory_status": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) diesen Block verwendet.",
-          "nutrition_fact_bar": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) diesen Block verwendet.",
-          "payment_method": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) diesen Block verwendet.",
-          "product_sibling": "Lerne [wie man](https://support.omnithemes.com/blogs/user-guide/product-siblings) diesen Block verwendet.",
-          "rating": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) diesen Block verwendet.",
-          "size_chart": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) diesen Block verwendet.",
-          "social_sharing": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) diesen Block verwendet.",
-          "sticky_add_to_cart": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) diesen Block verwendet.",
-          "table_of_information": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) diesen Block verwendet.",
-          "trust_badge": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) diesen Block verwendet.",
-          "volume_pricing": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) diesen Block verwendet.",
-          "other_blocks": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) diesen Block verwendet."
+          "product_information_general": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) diesen Abschnitt verwendet.",
+          "buy_buttons": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) diesen Block verwendet.",
+          "back_in_stock_alert": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) diesen Block verwendet.",
+          "basic_info": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) diesen Block verwendet.",
+          "collapsible_tab": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) diesen Block verwendet.",
+          "collection_link": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) diesen Block verwendet.",
+          "complementary_product": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) diesen Block verwendet.",
+          "customizable_options": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) diesen Block verwendet.",
+          "estimate_delivery": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) diesen Block verwendet.",
+          "engraving": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) diesen Block verwendet.",
+          "featured_icon": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) diesen Block verwendet.",
+          "frequently_bought_together": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) diesen Block verwendet.",
+          "gift_wrapping": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) diesen Block verwendet.",
+          "horizontal_tab": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) diesen Block verwendet.",
+          "inventory_status": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) diesen Block verwendet.",
+          "nutrition_fact_bar": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) diesen Block verwendet.",
+          "payment_method": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) diesen Block verwendet.",
+          "product_sibling": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) diesen Block verwendet.",
+          "rating": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) diesen Block verwendet.",
+          "size_chart": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) diesen Block verwendet.",
+          "social_sharing": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) diesen Block verwendet.",
+          "sticky_add_to_cart": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) diesen Block verwendet.",
+          "table_of_information": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) diesen Block verwendet.",
+          "trust_badge": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) diesen Block verwendet.",
+          "volume_pricing": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) diesen Block verwendet.",
+          "other_blocks": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) diesen Block verwendet."
         },
-        "product_specification": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/product-specifications) diesen Abschnitt verwendet.",
-        "product_recommendation": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/product-recommendations) diesen Abschnitt verwendet.",
-        "quick_order_list": "Lerne [wie man](https://support.omnithemes.com/blogs/product-page/quick-order-list) diesen Abschnitt verwendet."
+        "product_specification": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) diesen Abschnitt verwendet.",
+        "product_recommendation": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) diesen Abschnitt verwendet.",
+        "quick_order_list": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) diesen Abschnitt verwendet."
       },
       "collection_page": {
-        "collection_banner": "Lerne [wie man](https://support.omnithemes.com/blogs/collection-page/collection-banner) diesen Abschnitt verwendet."
+        "collection_banner": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) diesen Abschnitt verwendet."
       },
       "pages_and_templates": {
-        "blog_post_page": "Lerne [wie man](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) diesen Abschnitt verwendet.",
-        "blog_page": "Lerne [wie man](https://support.omnithemes.com/blogs/page-templates/blog-page) diesen Abschnitt verwendet.",
-        "cart_page": "Lerne [wie man](https://support.omnithemes.com/blogs/page-templates/cart-page) diesen Abschnitt verwendet.",
-        "collection_list_page": "Lerne [wie man](https://support.omnithemes.com/blogs/page-templates/collection-list-page) diesen Abschnitt verwendet.",
-        "search_page": "Lerne [wie man](https://support.omnithemes.com/blogs/page-templates/search-page) diesen Abschnitt verwendet."
+        "blog_post_page": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) diesen Abschnitt verwendet.",
+        "blog_page": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) diesen Abschnitt verwendet.",
+        "cart_page": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) diesen Abschnitt verwendet.",
+        "collection_list_page": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) diesen Abschnitt verwendet.",
+        "search_page": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) diesen Abschnitt verwendet."
       },
       "overlay_group": {
-        "cookie_banner": "Lerne [wie man](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) diesen Abschnitt verwendet.",
-        "popup": "Lerne [wie man](https://support.omnithemes.com/blogs/overlay-group-1/popup) diesen Abschnitt verwendet.",
-        "store_selector": "Lerne [wie man](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) diesen Abschnitt verwendet.",
-        "quick_view": "Lerne [wie man](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) diesen Abschnitt verwendet.",
-        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
+        "cookie_banner": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) diesen Abschnitt verwendet.",
+        "popup": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) diesen Abschnitt verwendet.",
+        "store_selector": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) diesen Abschnitt verwendet.",
+        "quick_view": "Lerne [wie man](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) diesen Abschnitt verwendet.",
+        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
       }
     },
     "all": {
@@ -1051,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Gilt für den Animationstyp \"Geschnitten mit Symbol\".",
         "custom_icon": "Benutzerdefiniertes Symbol",
-        "custom_icon_info": "Wenn Sie Hilfe bei benutzerdefiniertem SVG-Code benötigen oder Probleme beheben möchten, die sich aus benutzerdefiniertem SVG-Code ergeben, [kontaktieren Sie bitte unseren Support](https://omnithemes.com/contact/).",
+        "custom_icon_info": "Wenn Sie Hilfe bei benutzerdefiniertem SVG-Code benötigen oder Probleme beheben möchten, die sich aus benutzerdefiniertem SVG-Code ergeben, [kontaktieren Sie bitte unseren Support](https:\/\/omnithemes.com\/contact\/).",
         "label": "Symbol",
         "another_icon_label": "Verwenden Sie ein anderes Symbol",
         "another_icon_info": "Wenn Sie andere Symbole als die oben genannten Optionen verwenden möchten, suchen Sie nach einem Symbol aus unserer [Symbolliste](https://support.omnithemes.com/blogs/user-guide/theme-icons) und geben Sie hier den Symbolnamen ein ( Beispiel: Preisschild).",
@@ -1202,8 +1202,8 @@
         "heading_image": "Überschriftenbild",
         "image_height": "Bildhöhe",
         "image_width": "Bild breite",
-        "note_image_size": "Empfohlene Bildgrößen finden Sie in unserem [Benutzerhandbuch](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section).",
-        "note_image_size_video_shopping": "Empfohlene Bildgrößen finden Sie in unserem [Benutzerhandbuch](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Übergroße Bilder werden für eine optimale mobile Anzeige in der Größe angepasst. Empfohlene Verhältnisse: 1:1, 3:4, 4:3."
+        "note_image_size": "Empfohlene Bildgrößen finden Sie in unserem [Benutzerhandbuch](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section).",
+        "note_image_size_video_shopping": "Empfohlene Bildgrößen finden Sie in unserem [Benutzerhandbuch](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Übergroße Bilder werden für eine optimale mobile Anzeige in der Größe angepasst. Empfohlene Verhältnisse: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Bildverhältnis",
@@ -1416,7 +1416,7 @@
               "label": "Link der Menüartikeln"
             },
             "menu": {
-              "info": "Wählen Sie ein Menü aus, das Sie für diesen Menüpunkt anwenden möchten. Erfahren Sie [hier](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus), wie Sie ein 4-Ebenen-Menü erstellen."
+              "info": "Wählen Sie ein Menü aus, das Sie für diesen Menüpunkt anwenden möchten. Erfahren Sie [hier](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus), wie Sie ein 4-Ebenen-Menü erstellen."
             },
             "image_style": {
               "info": "Gilt für Registerkarten und Untermenüelemente. Bei großen Bildgrößen ist die Option „Abgerundet“ nicht verfügbar."
@@ -2085,7 +2085,7 @@
             },
             "show_rating": {
               "label": "Produktbewertung anzeigen",
-              "info": "Um eine Bewertung anzuzeigen, fügen Sie eine Produktbewertungs-App hinzu. [Weitere Informationen](https://help.shopify.com/en/manual/products/product-reviews)"
+              "info": "Um eine Bewertung anzuzeigen, fügen Sie eine Produktbewertungs-App hinzu. [Weitere Informationen](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews)"
             },
             "image_ratio": {
               "info": "Nicht auf Overlay-Textstil anwenden."
@@ -2114,7 +2114,7 @@
         }
       }
     },
-    "featured-category": {
+    "featured-category":{
       "name": "Ausgewählte Kategorien",
       "category_card": {
         "name": "Kategoriekarte",
@@ -2165,7 +2165,7 @@
           "name": "Name des Anbieters",
           "settings": {
             "paragraph__1": "Weitere Details zum Anbieter des Produkts nach dieser Priorität anzeigen (von hoch nach niedrig):",
-            "paragraph__2": "(1) durch Verknüpfen des Anbieternamens mit der Sammlung des entsprechenden Anbieters. [Weitere Informationen](https://shopify.dev/docs/api/liquid/filters#link_to_vendor)",
+            "paragraph__2": "(1) durch Verknüpfen des Anbieternamens mit der Sammlung des entsprechenden Anbieters. [Weitere Informationen](https:\/\/shopify.dev\/docs\/api\/liquid\/filters#link_to_vendor)",
             "paragraph__3": "(2) durch Auswahl einer Seite, um deren Inhalt in einem Popup anzuzeigen, ohne die aktuelle Website zu verlassen. Wenn Sie das Metafeld aktivieren, um die Anbietersammlung im Adminbereich anzuzeigen, wird der Link hier automatisch angewendet.",
             "paragraph__4": "(3) durch Eingabe einer URL, um auf einen externen Link zu verweisen.",
             "link_vendor": {
@@ -2192,7 +2192,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Dynamische Checkout-Schaltflächen anzeigen",
-              "info": "Mithilfe der in Ihrem Shop verfügbaren Zahlungsmethoden sehen Kunden ihre bevorzugte Option, beispielsweise PayPal oder Apple Pay. [Weitere Informationen](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Mithilfe der in Ihrem Shop verfügbaren Zahlungsmethoden sehen Kunden ihre bevorzugte Option, beispielsweise PayPal oder Apple Pay. [Weitere Informationen](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_add_to_cart": {
               "label": "In den Warenkorb legen"
@@ -2206,7 +2206,7 @@
             "pickup_availability": {
               "content": "Abholverfügbarkeit",
               "label": "Abholverfügbarkeitsfunktion aktivieren",
-              "info": "Erfahren Sie, wie Sie diese Funktion einrichten [hier](https://help.shopify.com/en/manual/shipping/seting-all-managing-your-shipping/local-methods/local-pickup)"
+              "info": "Erfahren Sie, wie Sie diese Funktion einrichten [hier](https:\/\/help.shopify.com\/en\/manual\/shipping\/seting-all-managing-your-shipping\/local-methods\/local-pickup)"
             },
             "preorder": {
               "preorder_show": {
@@ -2240,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Bei eingehendem Inventar benachrichtigen",
-              "info": "Erfahren Sie mehr über [Status des eingehenden Lagerbestands](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) und wie Sie [Bestandsübertragungen erstellen.](https: //help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
+              "info": "Erfahren Sie mehr über [Status des eingehenden Lagerbestands](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) und wie Sie [Bestandsübertragungen erstellen.](https: \/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
             },
             "message_incoming": {
               "label": "Eingehende Überweisungsmitteilung",
@@ -2281,7 +2281,7 @@
         },
         "estimate_delivery": {
           "name": "Voraussichtliche Lieferzeit",
-          "paragraph": "Um die Nachricht für jedes Produkt anzupassen, erstellen Sie ein Metafeld mit dem Schlüssel „custom.delivery_date_message“ und geben Sie „Rich Text“ ein. [Erfahren Sie mehr über das Erstellen von Metafeldern.](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields)",
+          "paragraph": "Um die Nachricht für jedes Produkt anzupassen, erstellen Sie ein Metafeld mit dem Schlüssel „custom.delivery_date_message“ und geben Sie „Rich Text“ ein. [Erfahren Sie mehr über das Erstellen von Metafeldern.](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields)",
           "settings": {
             "message": {
               "info__1": "Sie können diese Codes in der Nachricht verwenden:",
@@ -2672,7 +2672,7 @@
         },
         "header": {
           "content": "Medien",
-          "info": "Erfahren Sie mehr über [Medientypen](https://help.shopify.com/manual/products/product-media)"
+          "info": "Erfahren Sie mehr über [Medientypen](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_loop": {
           "label": "Aktivieren Sie Video-Looping"
@@ -2718,7 +2718,7 @@
           "label": "Zahlungssymbole anzeigen"
         },
         "custom_payment": {
-          "info": "Passen Sie Ihre Zahlungssymbole an. Füllen Sie dieses Feld beispielsweise mit den von Ihnen gewählten Methoden aus: apple_pay, google_pay, tabby, tamara. [Weitere Informationen](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
+          "info": "Passen Sie Ihre Zahlungssymbole an. Füllen Sie dieses Feld beispielsweise mit den von Ihnen gewählten Methoden aus: apple_pay, google_pay, tabby, tamara. [Weitere Informationen](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
           "label": "Benutzerdefinierte Zahlungssymbole SVG"
         },
         "header_add_info": {
@@ -2748,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Folgen Sie auf Shop",
-          "info": "Zeigen Sie die Schaltfläche „Folgen“ für Ihre Storefront in der Shop-App an. [Mehr erfahren](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Zeigen Sie die Schaltfläche „Folgen“ für Ihre Storefront in der Shop-App an. [Mehr erfahren](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Aktivieren Sie „Folgen im Shop“."
@@ -3452,7 +3452,7 @@
           "info": "Hinweis: Optionen mit mehr als 20 Elementen pro Seite werden aus Gründen der Leistungsoptimierung nicht empfohlen."
         },
         "paragraph": {
-          "content": "Ändern Sie Auszüge, indem Sie Ihre Blogbeiträge bearbeiten. [Weitere Informationen](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Ändern Sie Auszüge, indem Sie Ihre Blogbeiträge bearbeiten. [Weitere Informationen](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Beiträge werden auf Mobilgeräten gestapelt."
@@ -3497,7 +3497,7 @@
           "label": "Machen Sie den Sammlungstitel auf dem Desktop in voller Breite verfügbar"
         },
         "paragraph": {
-          "content": "Fügen Sie eine Beschreibung oder ein Bild hinzu, indem Sie Ihre Sammlung bearbeiten. [Weitere Informationen](https://help.shopify.com/manual/products/collections/collection-layout)"
+          "content": "Fügen Sie eine Beschreibung oder ein Bild hinzu, indem Sie Ihre Sammlung bearbeiten. [Weitere Informationen](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
         },
         "show_collection_name": {
           "label": "Sammlungstitel anzeigen"
@@ -3507,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Sammlungsbild anzeigen",
-          "info": "Um optimale Ergebnisse zu erzielen, verwenden Sie ein Bild mit einem Seitenverhältnis von 16:9. [Mehr erfahren](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Um optimale Ergebnisse zu erzielen, verwenden Sie ein Bild mit einem Seitenverhältnis von 16:9. [Mehr erfahren](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3635,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Mikrodatenschema aktivieren",
-            "info": "Suchmaschinen indizieren diese Informationen möglicherweise noch nicht. Einzelheiten finden Sie in der [CollectionPage-Schemadokumentation](https://schema.org/CollectionPage)."
+            "info" : "Suchmaschinen indizieren diese Informationen möglicherweise noch nicht. Einzelheiten finden Sie in der [CollectionPage-Schemadokumentation](https:\/\/schema.org\/CollectionPage)."
           }
         }
       }
@@ -3666,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Fügen Sie Bilder hinzu, indem Sie Ihre Sammlungen bearbeiten. [Mehr erfahren](https://help.shopify.com/manual/products/collections)"
+          "info": "Fügen Sie Bilder hinzu, indem Sie Ihre Sammlungen bearbeiten. [Mehr erfahren](https:\/\/help.shopify.com\/manual\/products\/collections)"
         },
         "show_collection": {
           "label": "Kollektionen anzeigen",
@@ -3944,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Erfahren Sie mehr über [Medientypen.](https://help.shopify.com/manual/products/product-media)"
+          "info": "Erfahren Sie mehr über [Medientypen.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_sticky_image": {
           "label": "Aktivieren Sie Sticky-Inhalte auf dem Desktop"
@@ -3961,7 +3961,7 @@
           }
         },
         "show_arrow_button": {
-          "label": "Aktivieren Sie den nächsten/vorherigen Schieberegler auf dem Desktop"
+          "label": "Aktivieren Sie den nächsten\/vorherigen Schieberegler auf dem Desktop"
         },
         "mobile_media_size": {
           "label": "Mobile Mediengröße",
@@ -4358,11 +4358,11 @@
           "label": "Pause auf Schwebe"
         },
         "show_arrow": {
-          "label": "Nächste/Vorherige Pfeile",
+          "label": "Nächste\/Vorherige Pfeile",
           "info": "Navigationspfeile zeigen"
         },
         "show_part_slide": {
-          "label": "Nächste/Vorherige Folien"
+          "label": "Nächste\/Vorherige Folien"
         },
         "slider_visual": {
           "options__2": {
@@ -4468,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores": {
+    "multiple_stores":{
       "name": "Mehrere Geschäfte",
       "blocks": {
         "name": "Standort des Geschäfts",
@@ -4538,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Produktsbeschriftungen und Abzeichen",
       "settings": {
-        "introduce": "In diesem Abschnitt können Sie Etiketten und Abzeichen zu Ihren Produkten und Produktkarten hinzufügen. [Siehe Tutorials](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
+        "introduce": "In diesem Abschnitt können Sie Etiketten und Abzeichen zu Ihren Produkten und Produktkarten hinzufügen. [Siehe Tutorials](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
         "enable": {
           "label": "Aktivieren Sie Produktbeschriftungen und Abzeichen"
         }
@@ -4558,7 +4558,7 @@
           "name": "ausverkauftes Label",
           "introduce": "Das Etikett \"Ausverkauft\" wird automatisch bei allen nicht verfügbaren Produkten angezeigt.",
           "content": {
-            "info": "Verwenden Sie {inventory} für \"Auf Lager/Ausverkauft\", {quantity} für die Gesamtmenge im Bestand."
+            "info": "Verwenden Sie {inventory} für \"Auf Lager\/Ausverkauft\", {quantity} für die Gesamtmenge im Bestand."
           }
         },
         "text-label": {
@@ -4574,12 +4574,12 @@
         "new-label": {
           "name": "Neues Produktetikett"
         },
-        "day_start": {
+        "day_start":{
           "label": "Label innerhalb der Anzahl der Tage seitdem anzeigen",
           "creation_date": "Erstellungsdatum des Produkts",
           "activation_date": "Date d'activation du produit"
         },
-        "day_end": {
+        "day_end":{
           "label": "Anzahl der Tage"
         },
         "show_on_product_card": {
@@ -4587,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "auf Produktseite zeigen",
-          "info": "Um Etiketten und Abzeichen in der Schnellansicht und in den Produktinformationen anzuzeigen, fügen Sie bitte den Block „Etiketten und Abzeichen“ in diesen Abschnitten hinzu oder lesen Sie [diese Anleitung.](https://support.omnithemes.com/blogs/overlay-group-1 /user-guide-product-labels-badges)"
+          "info": "Um Etiketten und Abzeichen in der Schnellansicht und in den Produktinformationen anzuzeigen, fügen Sie bitte den Block „Etiketten und Abzeichen“ in diesen Abschnitten hinzu oder lesen Sie [diese Anleitung.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1 \/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Das Symbol wird vor dem Beschriftungstext angezeigt"
@@ -4598,8 +4598,8 @@
           "info__3": "{sale_amount} für den Rabattbetrag.",
           "info__4": "{qty} für die Gesamtmenge im Inventar.",
           "info__5": "{count_down} für das Countdown-Timer bis zum Enddatum. (Muss den Zeitplan aktivieren)",
-          "info__6": "<br /> Linie zu brechen.",
-          "info__7": "<b> Ihr Inhalt </b> für fetten Text.",
+          "info__6": "<br \/> Linie zu brechen.",
+          "info__7": "<b> Ihr Inhalt <\/b> für fetten Text.",
           "info__8": "{price} für den Produktpreis.",
           "info_metafield": "{metafield_key} for a product or variant metafield (only supports Single line text type). Note: Metafield keys must be configured first in Theme settings > Product labels and badges to display here."
         },
@@ -5053,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Link zur Ticketseite",
-          "info": "Fügen Sie eine Ticketseite hinzu, um Tickets an Teilnehmer zu verkaufen. Erstellen Sie ein [digitales Produkt](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products), um weitere Informationen über die Veranstaltung bereitzustellen und optional auszublenden es aus Produktlisten. [Kontaktieren Sie uns](https://omnithemes.com/contact/) für kostenlose Unterstützung beim Ausschluss von Produkten aus der internen Suche und Produktempfehlungen."
+          "info": "Fügen Sie eine Ticketseite hinzu, um Tickets an Teilnehmer zu verkaufen. Erstellen Sie ein [digitales Produkt](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products), um weitere Informationen über die Veranstaltung bereitzustellen und optional auszublenden es aus Produktlisten. [Kontaktieren Sie uns](https:\/\/omnithemes.com\/contact\/) für kostenlose Unterstützung beim Ausschluss von Produkten aus der internen Suche und Produktempfehlungen."
         },
         "ticket_button_label": {
           "label": "Beschriftung der Ticketschaltfläche"
@@ -5308,12 +5308,12 @@
           "info": "Geben Sie alle Namen der im Shop verwendeten Option ein. Ausdrücke verschiedener Sprachen werden durch ein Komma getrennt. (z. B. Farbe, Farbe, Couleur). Geben Sie den Namen einer Produktoption ein. Jeder Wert dieser Option stellt eine Spalte in der Attributtabelle dar."
         },
         "note": "Als Kriterien können auch Metafeldwerte verwendet werden.",
-        "note_1": "1. Erstellen Sie ein Metaobjekt mit dem Schlüssel „product_specs_list“, das ein Feld mit dem genauen Namen „specs“ enthält (einzeiliger Text/ein Wert).",
+        "note_1": "1. Erstellen Sie ein Metaobjekt mit dem Schlüssel „product_specs_list“, das ein Feld mit dem genauen Namen „specs“ enthält (einzeiliger Text\/ein Wert).",
         "note_2": "2. Erstellen Sie Einträge für das Metaobjekt (z. B. „Trockene Haut“, „UV-Schutz“).",
-        "note_3": "3. Erstellen Sie ein Produkt-Metafeld mit dem Schlüssel „product_specs“ (Metaobjekt/Werteliste) und wählen Sie das gerade erstellte Metaobjekt aus.",
+        "note_3": "3. Erstellen Sie ein Produkt-Metafeld mit dem Schlüssel „product_specs“ (Metaobjekt\/Werteliste) und wählen Sie das gerade erstellte Metaobjekt aus.",
         "note_4": "4. Weisen Sie jedem Produkt Werte über das Metafeld auf der Admin-Produktdetailseite zu.",
         "note_5": "5. Füllen Sie in diesem Feld den Schlüssel „product_specs“ des jeweiligen Metafelds aus.",
-        "note_6": "Für weitere Informationen kontaktieren Sie uns bitte für kostenlosen Support.](https://omnithemes.com/contact/)",
+        "note_6": "Für weitere Informationen kontaktieren Sie uns bitte für kostenlosen Support.](https:\/\/omnithemes.com\/contact\/)",
         "hightlight_dark": {
           "label": "Highlight (dunkel)"
         },
@@ -5352,7 +5352,7 @@
           "info": "Fügen Sie Etikett hinzu, um den Gutscheincode automatisch im Warenkorb anzuwenden."
         },
         "promo_code_note": {
-          "content": "Das folgende Start- und Enddatum sollte mit dem Start- und Enddatum der Rabattregel in Shopify Admin> Rabatte übereinstimmen. Weitere Informationen zu [Rabattcode.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
+          "content": "Das folgende Start- und Enddatum sollte mit dem Start- und Enddatum der Rabattregel in Shopify Admin> Rabatte übereinstimmen. Weitere Informationen zu [Rabattcode.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Promo -Begriffe Label"
@@ -5638,7 +5638,7 @@
               }
             }
           }
-        }
+        }    
       }
     },
     "store-selector": {
@@ -5653,7 +5653,7 @@
         "name": "Speichern",
         "settings": {
           "store_name": {
-            "info": "Der Shopname muss mit dem Namen Ihres Shops übereinstimmen, der in Ihren [Standorteinstellungen](/admin/settings/locations) definiert ist.",
+            "info": "Der Shopname muss mit dem Namen Ihres Shops übereinstimmen, der in Ihren [Standorteinstellungen](\/admin\/settings\/locations) definiert ist.",
             "default": "Il mio negozio"
           },
           "pickup_price": {
@@ -5680,7 +5680,7 @@
     "quick-order-list": {
       "name": "Schnellbestellliste",
       "settings": {
-        "desktop_layout": {
+        "desktop_layout":{
           "sidebar": "Seitenleiste"
         },
         "show_images": {
@@ -5747,7 +5747,7 @@
           "original": "Verhältnis des Originalbeitrags"
         }
       },
-      "blocks": {
+      "blocks":{
         "social_post": {
           "social_post_image": {
             "name": "Bild eines Social-Media-Beitrags"

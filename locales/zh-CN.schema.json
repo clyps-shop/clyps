@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "字体",
-          "info": "选择不同的字体可能影响到您商店的速度 [了解更多关于系统字体。](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "选择不同的字体可能影响到您商店的速度 [了解更多关于系统字体。](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "header__1": {
           "content": "标题"
@@ -112,7 +112,7 @@
           "content": "主体"
         },
         "type_body_font": {
-          "info": "选择不同的字体可能影响到您商店的速度 [了解更多关于系统字体。](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "选择不同的字体可能影响到您商店的速度 [了解更多关于系统字体。](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "字体大小比例"
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "高亮特色",
-        "paragraph": "通过片卡上显示产品的突出特征，便于最快地掌握产品的价值和快速协助，同时加快客户购买决定。了解更多[用户指南](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
+        "paragraph": "通过片卡上显示产品的突出特征，便于最快地掌握产品的价值和快速协助，同时加快客户购买决定。了解更多[用户指南](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "卡片顶部",
           "option__2": "产品标题下方",
@@ -244,7 +244,7 @@
       "default_engraving_label": "雕刻此产品",
       "highlight_icon": {
         "name": "突出属性",
-        "info": "在产品卡上显示图标以尽快了解产品的突出特征（如：成分、过敏原）。可以在我们的[账号指导](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)了解更多。",
+        "info": "在产品卡上显示图标以尽快了解产品的突出特征（如：成分、过敏原）。可以在我们的[账号指导](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)了解更多。",
         "icon_1": "图标1",
         "icon_2": "图标2",
         "icon_3": "图标3",
@@ -289,7 +289,7 @@
       "use_color_button": "使用按钮颜色",
       "button_colors": "按钮颜色"
     },
-    "menu": {
+    "menu":{
       "animation": {
         "label": "一级菜单项动画",
         "note": "仅适用于Marker 和 Bling bling 菜单高亮样式"
@@ -347,7 +347,7 @@
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https://www.line.me/shopify"
+          "info": "https:\/\/www.line.me\/shopify"
         }
       }
     },
@@ -440,7 +440,7 @@
     },
     "product_label": {
       "name": "产品的标签和徽章",
-      "info": "Product labels and badges are set up in Product labels and badges section in Overlay group. If you want to show product metafields as labels and badges, fill in the metafield keys in the text box below, then navigate to the section to configure the labels' display. Only Single line text metafield type is accepted. Learn more in [our user guide.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
+      "info": "Product labels and badges are set up in Product labels and badges section in Overlay group. If you want to show product metafields as labels and badges, fill in the metafield keys in the text box below, then navigate to the section to configure the labels' display. Only Single line text metafield type is accepted. Learn more in [our user guide.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "标签中使用元字段",
@@ -754,9 +754,9 @@
       "other": {
         "header": "其他构架",
         "schema_breadcrumbs": "添加构架到面包屑导航",
-        "info_breadcrumbs": "请 在[BreadcrumbList 构架文档](https://schema.org/BreadcrumbList)参考详细信息",
+        "info_breadcrumbs": "请 在[BreadcrumbList 构架文档](https:\/\/schema.org\/BreadcrumbList)参考详细信息",
         "search": "将SearchAction 构架添加到主页",
-        "info_search": "请在[SearchAction 构架文档](https://schema.org/SearchAction) 参考详细信息"
+        "info_search": "请在[SearchAction 构架文档](https:\/\/schema.org\/SearchAction) 参考详细信息"
       }
     },
     "combined_listing": {
@@ -849,8 +849,8 @@
       "disable_zoom_info": "图片放大动画用于：产品卡片图片、合集卡片图片、媒体库、促销网格、促销弹窗、带图片的文字列",
       "enable_page_transition": "启用页面过渡"
     },
-    "icon": {
-      "icon_options": {
+    "icon":{
+      "icon_options":{
         "option_1": "古典",
         "option_2": "现代"
       }
@@ -907,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block)此内容",
+        "header_general": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block)此内容",
         "mega_menu": {
-          "simple_menu": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style)此模块",
-          "tree_menu": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style)此模块",
-          "banner_menu": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style)此模块",
-          "product_menu": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style)此模块",
-          "blog_menu": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style)此模块",
-          "tabbed_menu": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style)此模块",
-          "contact_menu": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style)此模块",
-          "cta_button": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu)此模块"
+          "simple_menu": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style)此模块",
+          "tree_menu": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style)此模块",
+          "banner_menu": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style)此模块",
+          "product_menu": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style)此模块",
+          "blog_menu": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style)此模块",
+          "tabbed_menu": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style)此模块",
+          "contact_menu": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style)此模块",
+          "cta_button": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu)此模块"
         },
-        "announcement_bar": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar)此内容",
-        "mobile_navigation": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation)此内容"
+        "announcement_bar": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar)此内容",
+        "mobile_navigation": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation)此内容"
       },
       "footer": {
-        "footer": "了解[如何使用](https://support.omnithemes.com/blogs/footer/footer)此内容",
-        "quicklinks": "了解[如何使用](https://support.omnithemes.com/blogs/footer/quicklinks)此内容"
+        "footer": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/footer\/footer)此内容",
+        "quicklinks": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks)此内容"
       },
       "section_and_blocks": {
-        "blog_post": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/blog-post)此内容",
-        "collection_list": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/collection-list)此内容",
-        "collage": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/collage)此内容",
-        "collection_list_banner": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner)此内容",
-        "collection_list_carousel": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel)此内容",
-        "comparison_table": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/comparison-table)此内容",
-        "contact_form": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/contact-form)此内容",
-        "custom_liquid": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid)此内容",
-        "email_signup": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter)此内容",
-        "event_calendar": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar)此内容",
-        "faq": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/faqs)此内容",
-        "featured_category": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/featured-categories)此内容",
-        "featured_collection": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/featured-collections)此内容",
-        "featured_product": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/featured-product)此内容",
-        "flash_sale": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/flash-sale)此内容",
-        "flow": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/flow)此内容",
-        "highlight_text_with_image": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image)此内容",
-        "image_comparison": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/image-comparison)此内容",
-        "logo_list": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/logo-list)此内容",
-        "map": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/map-1)此内容",
-        "media_gallery": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/media-gallery)此内容",
-        "media_with_text": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/media-with-text)此内容",
-        "multiple_store": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores)此内容",
-        "page": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/page)此内容",
-        "product_attribute_table": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table)此内容",
-        "product_bundle": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/product-bundle)此内容",
-        "product_comparison_table": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table)此内容",
-        "product_highlight": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/product-highlight)此内容",
-        "product_grid": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/product-grid)此内容",
-        "promo_code_list": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list)此内容",
-        "promotion_banner": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner)此内容",
-        "promotion_grid": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid)此内容",
-        "recently_viewed_products": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products)此内容",
-        "related_blog_posts": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts)此内容",
-        "related_collections": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/related-collections)此内容",
-        "rich_text": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/rich-text)此内容",
-        "scrolling_promotion": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion)此内容",
-        "shop_the_look": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look)此内容",
-        "slideshow": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/slideshow)此内容",
-        "social_feeds": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/social-feeds)此内容",
-        "tabs": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/tabs)此内容",
-        "testimonial": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/testimonial)此内容",
-        "testimonial_with_cards": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards)此内容",
-        "text_columns_with_icons": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons)此内容",
-        "text_columns_with_images": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images)此内容",
-        "timeline": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/timeline)此内容",
-        "vertical_slideshow": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow)此内容",
-        "video": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/video)此内容",
-        "video_hero": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/video-hero)此内容",
-        "video_looping": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/video-looping)此内容",
-        "video_shopping": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/video-shopping)此内容",
-        "flexible_area": "了解[如何使用](https://support.omnithemes.com/blogs/sections-blocks/flexible-area)此内容"
+        "blog_post": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post)此内容",
+        "collection_list": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list)此内容",
+        "collage": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage)此内容",
+        "collection_list_banner": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner)此内容",
+        "collection_list_carousel": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel)此内容",
+        "comparison_table": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table)此内容",
+        "contact_form": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form)此内容",
+        "custom_liquid": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid)此内容",
+        "email_signup": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter)此内容",
+        "event_calendar": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar)此内容",
+        "faq": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs)此内容",
+        "featured_category": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories)此内容",
+        "featured_collection": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections)此内容",
+        "featured_product": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product)此内容",
+        "flash_sale": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale)此内容",
+        "flow": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow)此内容",
+        "highlight_text_with_image": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image)此内容",
+        "image_comparison": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison)此内容",
+        "logo_list": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list)此内容",
+        "map": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1)此内容",
+        "media_gallery": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery)此内容",
+        "media_with_text": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text)此内容",
+        "multiple_store": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores)此内容",
+        "page": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page)此内容",
+        "product_attribute_table": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table)此内容",
+        "product_bundle": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle)此内容",
+        "product_comparison_table": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table)此内容",
+        "product_highlight": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight)此内容",
+        "product_grid": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid)此内容",
+        "promo_code_list": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list)此内容",
+        "promotion_banner": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner)此内容",
+        "promotion_grid": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid)此内容",
+        "recently_viewed_products": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products)此内容",
+        "related_blog_posts": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts)此内容",
+        "related_collections": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections)此内容",
+        "rich_text": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text)此内容",
+        "scrolling_promotion": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion)此内容",
+        "shop_the_look": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look)此内容",
+        "slideshow": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow)此内容",
+        "social_feeds": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds)此内容",
+        "tabs": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs)此内容",
+        "testimonial": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial)此内容",
+        "testimonial_with_cards": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards)此内容",
+        "text_columns_with_icons": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons)此内容",
+        "text_columns_with_images": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images)此内容",
+        "timeline": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline)此内容",
+        "vertical_slideshow": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow)此内容",
+        "video": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video)此内容",
+        "video_hero": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero)此内容",
+        "video_looping": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping)此内容",
+        "video_shopping": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping)此内容",
+        "flexible_area": "了解[如何使用](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area)此内容"
       },
       "product_page": {
-        "product_description": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/product-description)此内容",
+        "product_description": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description)此内容",
         "product_information": {
-          "product_information_general": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/product-information)此内容",
-          "buy_buttons": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons)此模块",
-          "back_in_stock_alert": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert)此模块",
-          "basic_info": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc)此模块",
-          "collapsible_tab": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs)此模块",
-          "collection_link": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link)此模块",
-          "complementary_product": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products)此模块",
-          "customizable_options": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide/customizable-options)此模块",
-          "estimate_delivery": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product)此模块",
-          "engraving": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/engraving)此模块",
-          "featured_icon": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons)此模块",
-          "frequently_bought_together": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products)此模块",
-          "gift_wrapping": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option)此模块",
-          "horizontal_tab": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs)此模块",
-          "inventory_status": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status)此模块",
-          "nutrition_fact_bar": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar)此模块",
-          "payment_method": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product)此模块",
-          "product_sibling": "了解[如何使用](https://support.omnithemes.com/blogs/user-guide/product-siblings)此模块",
-          "rating": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings)此模块",
-          "size_chart": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart)此模块",
-          "social_sharing": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons)此模块",
-          "sticky_add_to_cart": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar)此模块",
-          "table_of_information": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information)此模块",
-          "trust_badge": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges)此模块",
-          "volume_pricing": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/volume-pricing-table)此模块",
-          "other_blocks": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks)此模块"
+          "product_information_general": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information)此内容",
+          "buy_buttons": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons)此模块",
+          "back_in_stock_alert": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert)此模块",
+          "basic_info": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc)此模块",
+          "collapsible_tab": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs)此模块",
+          "collection_link": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link)此模块",
+          "complementary_product": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products)此模块",
+          "customizable_options": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options)此模块",
+          "estimate_delivery": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product)此模块",
+          "engraving": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving)此模块",
+          "featured_icon": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons)此模块",
+          "frequently_bought_together": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products)此模块",
+          "gift_wrapping": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option)此模块",
+          "horizontal_tab": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs)此模块",
+          "inventory_status": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status)此模块",
+          "nutrition_fact_bar": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar)此模块",
+          "payment_method": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product)此模块",
+          "product_sibling": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings)此模块",
+          "rating": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings)此模块",
+          "size_chart": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart)此模块",
+          "social_sharing": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons)此模块",
+          "sticky_add_to_cart": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar)此模块",
+          "table_of_information": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information)此模块",
+          "trust_badge": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges)此模块",
+          "volume_pricing": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table)此模块",
+          "other_blocks": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks)此模块"
         },
-        "product_specification": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/product-specifications)此内容",
-        "product_recommendation": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/product-recommendations)此内容",
-        "quick_order_list": "了解[如何使用](https://support.omnithemes.com/blogs/product-page/quick-order-list)此内容"
+        "product_specification": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications)此内容",
+        "product_recommendation": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations)此内容",
+        "quick_order_list": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list)此内容"
       },
       "collection_page": {
-        "collection_banner": "了解[如何使用](https://support.omnithemes.com/blogs/collection-page/collection-banner)此内容"
+        "collection_banner": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner)此内容"
       },
       "pages_and_templates": {
-        "blog_post_page": "了解[如何使用](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages)此内容",
-        "blog_page": "了解[如何使用](https://support.omnithemes.com/blogs/page-templates/blog-page)此内容",
-        "cart_page": "了解[如何使用](https://support.omnithemes.com/blogs/page-templates/cart-page)此内容",
-        "collection_list_page": "了解[如何使用](https://support.omnithemes.com/blogs/page-templates/collection-list-page)此内容",
-        "search_page": "了解[如何使用](https://support.omnithemes.com/blogs/page-templates/search-page)此内容"
+        "blog_post_page": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages)此内容",
+        "blog_page": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page)此内容",
+        "cart_page": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page)此内容",
+        "collection_list_page": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page)此内容",
+        "search_page": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page)此内容"
       },
       "overlay_group": {
-        "cookie_banner": "了解[如何使用](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner)此内容",
-        "popup": "了解[如何使用](https://support.omnithemes.com/blogs/overlay-group-1/popup)此内容",
-        "store_selector": "了解[如何使用](https://support.omnithemes.com/blogs/overlay-group-1/store-selector)此内容",
-        "quick_view": "了解[如何使用](https://support.omnithemes.com/blogs/overlay-group-1/quick-view)此内容",
-        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
+        "cookie_banner": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner)此内容",
+        "popup": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup)此内容",
+        "store_selector": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector)此内容",
+        "quick_view": "了解[如何使用](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view)此内容",
+        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
       }
     },
     "all": {
@@ -1416,7 +1416,7 @@
               "label": "菜单项链接"
             },
             "menu": {
-              "info": "选择一个菜单应用于此菜单项。了解如何创建四级菜单，请点击「这里」(https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
+              "info": "选择一个菜单应用于此菜单项。了解如何创建四级菜单，请点击「这里」(https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "适用于选项卡和子菜单项"
@@ -2114,7 +2114,7 @@
         }
       }
     },
-    "featured-category": {
+    "featured-category":{
       "name": "特色分类",
       "category_card": {
         "name": "分类卡片",
@@ -2240,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "通知即将到货的库存",
-              "info": "可在[即将到货的库存状态](https://support.omnithemes.com/blogs/product-page/product-information#index=25)和 [创建仓库转移](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)的方式中了解更多信息。"
+              "info": "可在[即将到货的库存状态](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information#index=25)和 [创建仓库转移](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)的方式中了解更多信息。"
             },
             "message_incoming": {
               "label": "入库转移通知",
@@ -2718,7 +2718,7 @@
           "label": "显示支付图标"
         },
         "custom_payment": {
-          "info": "自定义您的支付图标。例如，在此字段中填写您选择的支付方式：apple_pay、google_pay、tabby、tamara。[了解更多] (https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
+          "info": "自定义您的支付图标。例如，在此字段中填写您选择的支付方式：apple_pay、google_pay、tabby、tamara。[了解更多] (https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
           "label": "自定义支付图标SVG"
         },
         "header_add_info": {
@@ -3635,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "启用微数据构架",
-            "info": "搜索引擎可能尚未索引这些信息。请在[CollectionPage 构架文档](https://schema.org/CollectionPage)参考详细信息"
+            "info": "搜索引擎可能尚未索引这些信息。请在[CollectionPage 构架文档](https:\/\/schema.org\/CollectionPage)参考详细信息"
           }
         }
       }
@@ -5725,7 +5725,7 @@
           "option__6": "适应媒体比例"
         }
       }
-    },
+    },    
     "social-feeds": {
       "name": "社交动态",
       "settings": {
@@ -5747,7 +5747,7 @@
           "original": "原本帖子比例"
         }
       },
-      "blocks": {
+      "blocks":{
         "social_post": {
           "social_post_image": {
             "name": "社交帖子图片"

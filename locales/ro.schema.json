@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Font",
-          "info": "Selectarea unui font diferit poate afecta viteza magazinului tău. [Află mai multe despre fonturile de sistem.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Selectarea unui font diferit poate afecta viteza magazinului tău. [Află mai multe despre fonturile de sistem.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Antete"
@@ -112,7 +112,7 @@
           "content": "Corp"
         },
         "type_body_font": {
-          "info": "Selectarea unui font diferit poate afecta viteza magazinului tău. [Află mai multe despre fonturile de sistem.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "info": "Selectarea unui font diferit poate afecta viteza magazinului tău. [Află mai multe despre fonturile de sistem.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Scara dimensiunii fontului"
@@ -136,7 +136,7 @@
         "info": "Setările de mai jos adaugă automat mostre de culori la filtru în paginile de colecții și căutare.",
         "swatches_filter": {
           "header": "Filtru",
-          "info": "Pentru a filtra folosind valori suplimentare de culoare sau imagine, creează metaobiecte și referințe de metaobiecte, apoi modifică setările de mai jos conform preferințelor tale. [Află despre afișarea filtrelor vizuale folosind metaobiecte.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
+          "info": "Pentru a filtra folosind valori suplimentare de culoare sau imagine, creează metaobiecte și referințe de metaobiecte, apoi modifică setările de mai jos conform preferințelor tale. [Află despre afișarea filtrelor vizuale folosind metaobiecte.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
           "display_text": "Afișează text lângă mostre",
           "visual_style": {
             "label": "Stil valoare vizuală",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Caracteristici evidențiate",
-        "paragraph": "Prezintă calități remarcabile ale produselor pe carduri pentru a comunica valoarea dintr-o privire și pentru a sprijini decizii de cumpărare mai rapide și mai sigure. Află mai multe în [ghidul nostru de utilizare](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
+        "paragraph": "Prezintă calități remarcabile ale produselor pe carduri pentru a comunica valoarea dintr-o privire și pentru a sprijini decizii de cumpărare mai rapide și mai sigure. Află mai multe în [ghidul nostru de utilizare](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "Susul cardului",
           "option__2": "Sub titlul produsului",
@@ -199,7 +199,7 @@
       "color_option_info": "Completează toate numele (numele) opțiunii de culoare utilizate în magazin, frazele în limbi diferite sunt separate prin virgulă. (Ex: Culoare, Culoare, Couleur).",
       "color_option_values": "Valori mostră de culoare",
       "color_swatches_example": "Un 'nume_culoare:valoare' pe linie. Pot fi utilizate până la trei culori pentru a afișa dungi verticale. Ex: 'Dungi Roșu Albastru:#e22#22e'",
-      "color_swatches_guide": "Pentru a utiliza o imagine pentru mostră de culoare, [încarcă o imagine PNG](/admin/settings/files) cu numele fișierului corespunzător numelui culorii și spațiile înlocuite cu cratime. Ex: pentru 'Roz Intens', încarcă 'roz-intens.png'.",
+      "color_swatches_guide": "Pentru a utiliza o imagine pentru mostră de culoare, [încarcă o imagine PNG](\/admin\/settings\/files) cu numele fișierului corespunzător numelui culorii și spațiile înlocuite cu cratime. Ex: pentru 'Roz Intens', încarcă 'roz-intens.png'.",
       "products_color_swatches_enable_on_collection_page": "Activează pe cardurile de produs",
       "replace_color_with_variant_images": "Înlocuiește opțiunile de culoare cu imagini de variantă",
       "products_color_swatches_style": "Stil mostră",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Gravează acest produs",
       "highlight_icon": {
         "name": "Atribute evidențiate",
-        "info": "Afișează pictograme pe cardurile de produs pentru ca clienții să înțeleagă rapid caracteristicile evidențiate ale produselor (ex: ingrediente, alergeni). Află mai multe în [ghidul nostru de utilizare.](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)",
+        "info": "Afișează pictograme pe cardurile de produs pentru ca clienții să înțeleagă rapid caracteristicile evidențiate ale produselor (ex: ingrediente, alergeni). Află mai multe în [ghidul nostru de utilizare.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)",
         "icon_1": "Iconiță 1",
         "icon_2": "Iconiță 2",
         "icon_3": "Iconiță 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Utilizează culoarea butonului",
       "button_colors": "Culori butoane"
     },
-    "menu": {
+    "menu":{
       "animation": {
         "label": "Animație element meniu nivel 1",
         "note": "Funcționează doar cu stilurile de evidențiere a meniului Marker și Bling bling"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https://www.linkedin.com/shopify"
+          "info": "https:\/\/www.linkedin.com\/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://shopify.tumblr.com"
+          "info": "https:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https://www.line.me/shopify"
+          "info": "https:\/\/www.line.me\/shopify"
         }
       }
     },
@@ -440,7 +440,7 @@
     },
     "product_label": {
       "name": "Etichete și insigne de produs",
-      "info": "Etichetele și insignele de produs sunt configurate în secțiunea \"Etichete și insigne de produs\" din grupul \"Suprapunere\". Dacă doriți să afișați metafield-uri de produs ca etichete și insigne, introduceți cheile metafield-urilor în caseta de text de mai jos, apoi navigați la secțiunea pentru a configura afișarea etichetelor. Se acceptă doar tipul de metafield \"Text pe o singură linie\". Aflați mai multe în [ghidul nostru de utilizare.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
+      "info": "Etichetele și insignele de produs sunt configurate în secțiunea \"Etichete și insigne de produs\" din grupul \"Suprapunere\". Dacă doriți să afișați metafield-uri de produs ca etichete și insigne, introduceți cheile metafield-urilor în caseta de text de mai jos, apoi navigați la secțiunea pentru a configura afișarea etichetelor. Se acceptă doar tipul de metafield \"Text pe o singură linie\". Aflați mai multe în [ghidul nostru de utilizare.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Metafield-uri utilizate în etichete",
@@ -495,9 +495,9 @@
       "cart_upsell": "Upsell în coș",
       "enable_cart_upsell": "Activează în mini-coș",
       "cart_upsell_note": "Dacă este activat în mini-coș și în pagina coșului, recomandările de upsell pot fi afișate în următoarea ordine de prioritate (de la mare la mic):",
-      "cart_upsell_note_1": "(1) prin crearea unui metafield de produs în upsell-ul coșului, iar acest câmp nu este gol.[Consultați ghidul nostru de utilizare pentru mai multe detalii.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) prin crearea unui metafield de produs în upsell-ul coșului, iar acest câmp nu este gol.[Consultați ghidul nostru de utilizare pentru mai multe detalii.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) prin selectarea manuală a unei liste de produse în setările de mai jos",
-      "cart_upsell_note_3": "(3) prin utilizarea recomandărilor dinamice bazate pe recomandările de produse Shopify.[Aflați mai multe.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+      "cart_upsell_note_3": "(3) prin utilizarea recomandărilor dinamice bazate pe recomandările de produse Shopify.[Aflați mai multe.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
       "product_infor": "Dacă utilizați un câmp meta de produs pentru a adăuga produse de upsell, lăsați acest câmp necompletat.",
       "number_of_product_shown": "Numărul de produse afișate",
       "section_label": "Etichetă secțiune",
@@ -528,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Regex de validare (Avansat)",
-          "info": "În scopul validării câmpului. Vă rugăm să evitați utilizarea sa dacă nu sunteți familiarizat cu Regex. Pentru asistență cu Regex sau pentru remedierea problemelor care decurg din acesta, vă rugăm să [contactați echipa noastră de suport](https://omnithemes.com/contact/)."
+          "info": "În scopul validării câmpului. Vă rugăm să evitați utilizarea sa dacă nu sunteți familiarizat cu Regex. Pentru asistență cu Regex sau pentru remedierea problemelor care decurg din acesta, vă rugăm să [contactați echipa noastră de suport](https:\/\/omnithemes.com\/contact\/)."
         }
       },
       "settings": {
@@ -634,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Număr minim de zile de livrare",
-          "info": "Numărul minim de zile necesare pentru expedierea tuturor comenzilor. Utilizați un punct și virgulă pentru a diferenția între piețele de transport, dacă este necesar (de exemplu, US:6;GB:3), sau introduceți un singur număr pentru a se aplica tuturor piețelor disponibile. Codurile de țară ar trebui să respecte [standardul ISO 3166.](https://www.iban.com/country-codes)",
-          "note": "Pentru a personaliza pentru fiecare produs, creați un câmp meta cu cheia 'custom.delivery_date_min' și tipul 'Text'. [Aflați mai multe despre crearea câmpurilor meta](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) sau [contactați asistența noastră](https://omnithemes.com/contact/)."
+          "info": "Numărul minim de zile necesare pentru expedierea tuturor comenzilor. Utilizați un punct și virgulă pentru a diferenția între piețele de transport, dacă este necesar (de exemplu, US:6;GB:3), sau introduceți un singur număr pentru a se aplica tuturor piețelor disponibile. Codurile de țară ar trebui să respecte [standardul ISO 3166.](https:\/\/www.iban.com\/country-codes)",
+          "note": "Pentru a personaliza pentru fiecare produs, creați un câmp meta cu cheia 'custom.delivery_date_min' și tipul 'Text'. [Aflați mai multe despre crearea câmpurilor meta](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) sau [contactați asistența noastră](https:\/\/omnithemes.com\/contact\/)."
         },
         "max_days": {
           "label": "Număr maxim de zile de livrare",
-          "info": "Numărul maxim de zile necesare pentru expedierea tuturor comenzilor. Utilizați un punct și virgulă pentru a diferenția între piețele de transport, dacă este necesar (de exemplu, US:6;GB:3), sau introduceți un singur număr pentru a se aplica tuturor piețelor disponibile. Codurile de țară ar trebui să respecte [standardul ISO 3166.](https://www.iban.com/country-codes)",
-          "note": "Pentru a personaliza pentru fiecare produs, creați un câmp meta cu cheia 'custom.delivery_date_max' și tipul 'Text'. [Aflați mai multe despre crearea câmpurilor meta](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) sau [contactați asistența noastră](https://omnithemes.com/contact/)."
+          "info": "Numărul maxim de zile necesare pentru expedierea tuturor comenzilor. Utilizați un punct și virgulă pentru a diferenția între piețele de transport, dacă este necesar (de exemplu, US:6;GB:3), sau introduceți un singur număr pentru a se aplica tuturor piețelor disponibile. Codurile de țară ar trebui să respecte [standardul ISO 3166.](https:\/\/www.iban.com\/country-codes)",
+          "note": "Pentru a personaliza pentru fiecare produs, creați un câmp meta cu cheia 'custom.delivery_date_max' și tipul 'Text'. [Aflați mai multe despre crearea câmpurilor meta](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) sau [contactați asistența noastră](https:\/\/omnithemes.com\/contact\/)."
         },
         "cutoff_time": {
           "content": "Ora limită"
@@ -713,7 +713,7 @@
       "note": "Afișați URL-ul original pentru paginile colecțiilor paginate ca etichete canonice.",
       "header": {
         "content": "Informații despre afacere",
-        "info": "Folosit pentru a afișa în datele structurate ale site-ului și pe cardul grafic SERP al Google. Aflați mai multe despre [schema organizațională](https://developers.google.com/search/docs/appearance/structured-data/organization)."
+        "info": "Folosit pentru a afișa în datele structurate ale site-ului și pe cardul grafic SERP al Google. Aflați mai multe despre [schema organizațională](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
       },
       "enable_organization_schema": {
         "label": "Activează schema organizației"
@@ -754,15 +754,15 @@
       "other": {
         "header": "Alte scheme",
         "schema_breadcrumbs": "Adaugă schemă la \"breadcrumbs\"",
-        "info_breadcrumbs": "Consultați [documentația schemei BreadcrumbList](https://schema.org/BreadcrumbList) pentru detalii.",
+        "info_breadcrumbs": "Consultați [documentația schemei BreadcrumbList](https:\/\/schema.org\/BreadcrumbList) pentru detalii.",
         "search": "Adaugă schema SearchAction la pagina de pornire",
-        "info_search": "Consultați [documentația schemei SearchAction](https://schema.org/SearchAction) pentru detalii."
+        "info_search": "Consultați [documentația schemei SearchAction](https:\/\/schema.org\/SearchAction) pentru detalii."
       }
     },
     "combined_listing": {
       "name": "Listări combinate (doar Plus)",
       "enable_combined": "Activează listările combinate de produse",
-      "info": "Instalați aplicația [Combined Listing](https://apps.shopify.com/combined-listings) și activați această setare pentru a utiliza această funcție. Disponibilă doar pentru planurile Plus și enterprise commerce."
+      "info": "Instalați aplicația [Combined Listing](https:\/\/apps.shopify.com\/combined-listings) și activați această setare pentru a utiliza această funcție. Disponibilă doar pentru planurile Plus și enterprise commerce."
     },
     "reorder": {
       "name": "Recomandă",
@@ -773,10 +773,10 @@
       "name": "Avansat",
       "product_reviews_app": {
         "label": "Aplicație de recenzii produse",
-        "info": "Selectați aplicația de recenzii pentru a o integra cu sistemul de evaluare nativ al temei. Este posibil ca unele aplicații din opțiunea „Altele” să nu fie pe deplin compatibile cu tema; vă rugăm să [ne contactați pentru suport](https://omnithemes.com/contact/)."
+        "info": "Selectați aplicația de recenzii pentru a o integra cu sistemul de evaluare nativ al temei. Este posibil ca unele aplicații din opțiunea „Altele” să nu fie pe deplin compatibile cu tema; vă rugăm să [ne contactați pentru suport](https:\/\/omnithemes.com\/contact\/)."
       },
       "custom_html": "Cod personalizat",
-      "custom_info": "Pentru suport în gestionarea codului personalizat sau remedierea problemelor legate de codul personalizat, vă rugăm să [ne contactați](https://omnithemes.com/contact/).",
+      "custom_info": "Pentru suport în gestionarea codului personalizat sau remedierea problemelor legate de codul personalizat, vă rugăm să [ne contactați](https:\/\/omnithemes.com\/contact\/).",
       "additional_head": {
         "label": "HTML pentru eticheta <head>",
         "info": "Utilizat pentru orice cod HTML personalizat care să se aplice la nivelul întregului site. Plasat la sfârșitul etichetei <head> pe toate paginile temei, cu excepția paginii de finalizare a comenzii."
@@ -811,7 +811,7 @@
       "sections_spacing": "Distanța dintre secțiuni",
       "lang_direction": {
         "label": "Limbi RTL",
-        "info": "Introduceți codurile de limbă pentru a afișa limbile în format RTL. Toate codurile trebuie să respecte [Tabelul de coduri ISO pentru limbi](https://www.w3schools.com/tags/ref_language_codes.asp) și să fie separate prin virgule (Ex: ar,fa,ps)"
+        "info": "Introduceți codurile de limbă pentru a afișa limbile în format RTL. Toate codurile trebuie să respecte [Tabelul de coduri ISO pentru limbi](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) și să fie separate prin virgule (Ex: ar,fa,ps)"
       },
       "page_width": "Lățime pagină",
       "enable_rounded_corners": {
@@ -849,8 +849,8 @@
       "disable_zoom_info": "Animația de zoom-in a imaginii este utilizată în: imagini card produs, imagini card colecție, galerie media, grilă promoțională, pop-up promoțional, coloane de text cu imagine.",
       "enable_page_transition": "Activează tranziția paginii"
     },
-    "icon": {
-      "icon_options": {
+    "icon":{
+      "icon_options":{
         "option_1": "Clasic",
         "option_2": "Modern"
       }
@@ -859,7 +859,7 @@
       "name": "Banner de cookie-uri",
       "settings": {
         "paragraph": {
-          "content": "Solicitați consimțământul clienților dvs. pentru utilizarea cookie-urilor și procesarea datelor lor, așa cum impun Directiva ePrivacy și Regulamentul General privind Protecția Datelor ale Uniunii Europene. [Aflați mai multe](https://help.shopify.com/manual/your-account/privacy/GDPR)"
+          "content": "Solicitați consimțământul clienților dvs. pentru utilizarea cookie-urilor și procesarea datelor lor, așa cum impun Directiva ePrivacy și Regulamentul General privind Protecția Datelor ale Uniunii Europene. [Aflați mai multe](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
         },
         "notice": {
           "label": "Notificare cookie"
@@ -907,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) această secțiune.",
+        "header_general": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) această secțiune.",
         "mega_menu": {
-          "simple_menu": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) acest bloc.",
-          "tree_menu": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) acest bloc.",
-          "banner_menu": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) acest bloc.",
-          "product_menu": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) acest bloc.",
-          "blog_menu": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) acest bloc.",
-          "tabbed_menu": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) acest bloc.",
-          "contact_menu": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) acest bloc.",
-          "cta_button": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) acest bloc."
+          "simple_menu": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) acest bloc.",
+          "tree_menu": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) acest bloc.",
+          "banner_menu": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) acest bloc.",
+          "product_menu": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) acest bloc.",
+          "blog_menu": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) acest bloc.",
+          "tabbed_menu": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) acest bloc.",
+          "contact_menu": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) acest bloc.",
+          "cta_button": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) acest bloc."
         },
-        "announcement_bar": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) această secțiune.",
-        "mobile_navigation": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) această secțiune."
+        "announcement_bar": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) această secțiune.",
+        "mobile_navigation": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) această secțiune."
       },
       "footer": {
-        "footer": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/footer/footer) această secțiune.",
-        "quicklinks": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/footer/quicklinks) această secțiune."
+        "footer": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) această secțiune.",
+        "quicklinks": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) această secțiune."
       },
       "section_and_blocks": {
-        "blog_post": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/blog-post) această secțiune.",
-        "collection_list": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/collection-list) această secțiune.",
-        "collage": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/collage) această secțiune.",
-        "collection_list_banner": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) această secțiune.",
-        "collection_list_carousel": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) această secțiune.",
-        "comparison_table": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) această secțiune.",
-        "contact_form": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/contact-form) această secțiune.",
-        "custom_liquid": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) această secțiune.",
-        "email_signup": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) această secțiune.",
-        "event_calendar": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) această secțiune.",
-        "faq": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/faqs) această secțiune.",
-        "featured_category": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) această secțiune.",
-        "featured_collection": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) această secțiune.",
-        "featured_product": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/featured-product) această secțiune.",
-        "flash_sale": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) această secțiune.",
-        "flow": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/flow) această secțiune.",
-        "highlight_text_with_image": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) această secțiune.",
-        "image_comparison": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) această secțiune.",
-        "logo_list": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/logo-list) această secțiune.",
-        "map": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/map-1) această secțiune.",
-        "media_gallery": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) această secțiune.",
-        "media_with_text": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) această secțiune.",
-        "multiple_store": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) această secțiune.",
-        "page": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/page) această secțiune.",
-        "product_attribute_table": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) această secțiune.",
-        "product_bundle": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) această secțiune.",
-        "product_comparison_table": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) această secțiune.",
-        "product_highlight": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) această secțiune.",
-        "product_grid": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/product-grid) această secțiune.",
-        "promo_code_list": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) această secțiune.",
-        "promotion_banner": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) această secțiune.",
-        "promotion_grid": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) această secțiune.",
-        "recently_viewed_products": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) această secțiune.",
-        "related_blog_posts": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) această secțiune.",
-        "related_collections": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/related-collections) această secțiune.",
-        "rich_text": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/rich-text) această secțiune.",
-        "scrolling_promotion": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) această secțiune.",
-        "shop_the_look": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) această secțiune.",
-        "slideshow": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/slideshow) această secțiune.",
-        "social_feeds": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) această secțiune.",
-        "tabs": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/tabs) această secțiune.",
-        "testimonial": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/testimonial) această secțiune.",
-        "testimonial_with_cards": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) această secțiune.",
-        "text_columns_with_icons": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) această secțiune.",
-        "text_columns_with_images": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) această secțiune.",
-        "timeline": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/timeline) această secțiune.",
-        "vertical_slideshow": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) această secțiune.",
-        "video": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/video) această secțiune.",
-        "video_hero": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/video-hero) această secțiune.",
-        "video_looping": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/video-looping) această secțiune.",
-        "video_shopping": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) această secțiune.",
-        "flexible_area": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) această secțiune."
+        "blog_post": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) această secțiune.",
+        "collection_list": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) această secțiune.",
+        "collage": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) această secțiune.",
+        "collection_list_banner": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) această secțiune.",
+        "collection_list_carousel": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) această secțiune.",
+        "comparison_table": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) această secțiune.",
+        "contact_form": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) această secțiune.",
+        "custom_liquid": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) această secțiune.",
+        "email_signup": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) această secțiune.",
+        "event_calendar": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) această secțiune.",
+        "faq": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) această secțiune.",
+        "featured_category": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) această secțiune.",
+        "featured_collection": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) această secțiune.",
+        "featured_product": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) această secțiune.",
+        "flash_sale": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) această secțiune.",
+        "flow": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) această secțiune.",
+        "highlight_text_with_image": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) această secțiune.",
+        "image_comparison": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) această secțiune.",
+        "logo_list": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) această secțiune.",
+        "map": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) această secțiune.",
+        "media_gallery": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) această secțiune.",
+        "media_with_text": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) această secțiune.",
+        "multiple_store": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) această secțiune.",
+        "page": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) această secțiune.",
+        "product_attribute_table": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) această secțiune.",
+        "product_bundle": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) această secțiune.",
+        "product_comparison_table": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) această secțiune.",
+        "product_highlight": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) această secțiune.",
+        "product_grid": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) această secțiune.",
+        "promo_code_list": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) această secțiune.",
+        "promotion_banner": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) această secțiune.",
+        "promotion_grid": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) această secțiune.",
+        "recently_viewed_products": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) această secțiune.",
+        "related_blog_posts": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) această secțiune.",
+        "related_collections": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) această secțiune.",
+        "rich_text": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) această secțiune.",
+        "scrolling_promotion": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) această secțiune.",
+        "shop_the_look": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) această secțiune.",
+        "slideshow": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) această secțiune.",
+        "social_feeds": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) această secțiune.",
+        "tabs": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) această secțiune.",
+        "testimonial": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) această secțiune.",
+        "testimonial_with_cards": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) această secțiune.",
+        "text_columns_with_icons": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) această secțiune.",
+        "text_columns_with_images": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) această secțiune.",
+        "timeline": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) această secțiune.",
+        "vertical_slideshow": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) această secțiune.",
+        "video": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) această secțiune.",
+        "video_hero": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) această secțiune.",
+        "video_looping": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) această secțiune.",
+        "video_shopping": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) această secțiune.",
+        "flexible_area": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) această secțiune."
       },
       "product_page": {
-        "product_description": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/product-page/product-description) această secțiune.",
+        "product_description": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) această secțiune.",
         "product_information": {
-          "product_information_general": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/product-page/product-information) această secțiune.",
-          "buy_buttons": "Aflați [cum să setați](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) acest bloc.",
-          "back_in_stock_alert": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) o alertă de „revenit în stoc” pentru acest bloc.",
-          "basic_info": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) informațiile de bază ale produsului (titlu, preț, descriere etc.) pentru acest bloc.",
-          "collapsible_tab": "Aflați [cum să creați](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) file colapsabile pentru acest bloc.",
-          "collection_link": "Aflați [cum să adăugați](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) un link de colecție pentru acest bloc.",
-          "complementary_product": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) produsele complementare pentru acest bloc.",
-          "customizable_options": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide/customizable-options) acest bloc.",
-          "estimate_delivery": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) data estimată de livrare a produsului pentru acest bloc.",
-          "engraving": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/product-page/engraving) acest bloc.",
-          "featured_icon": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) informații evidențiate (pictograme opționale) pentru acest bloc.",
-          "frequently_bought_together": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) produsele frecvent cumpărate împreună pentru acest bloc.",
-          "gift_wrapping": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) opțiunea de ambalare cadou pentru acest bloc.",
-          "horizontal_tab": "Aflați [cum să adăugați](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) filele orizontale pentru acest bloc.",
-          "inventory_status": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) starea stocului produsului pentru acest bloc.",
-          "nutrition_fact_bar": "Aflați [cum să adăugați](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) o bară cu informații nutriționale pentru acest bloc.",
-          "payment_method": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) metoda de plată pentru fiecare produs pentru acest bloc.",
-          "product_sibling": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/user-guide/product-siblings) acest bloc.",
-          "rating": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) evaluările pentru acest bloc.",
-          "size_chart": "Aflați [cum să adăugați](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) un tabel de mărimi pentru acest bloc.",
-          "social_sharing": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) pictogramele de partajare socială pentru acest bloc.",
-          "sticky_add_to_cart": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) o bară de adăugare în coș fixă pentru acest bloc.",
-          "table_of_information": "Aflați [cum să adăugați](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) un tabel de informații pentru acest bloc.",
-          "trust_badge": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) insignele de încredere pentru acest bloc.",
-          "volume_pricing": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) acest bloc.",
-          "other_blocks": "Aflați [cum să afișați](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) alte blocuri pentru acest bloc."
+          "product_information_general": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) această secțiune.",
+          "buy_buttons": "Aflați [cum să setați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) acest bloc.",
+          "back_in_stock_alert": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) o alertă de „revenit în stoc” pentru acest bloc.",
+          "basic_info": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) informațiile de bază ale produsului (titlu, preț, descriere etc.) pentru acest bloc.",
+          "collapsible_tab": "Aflați [cum să creați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) file colapsabile pentru acest bloc.",
+          "collection_link": "Aflați [cum să adăugați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) un link de colecție pentru acest bloc.",
+          "complementary_product": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) produsele complementare pentru acest bloc.",
+          "customizable_options": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) acest bloc.",
+          "estimate_delivery": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) data estimată de livrare a produsului pentru acest bloc.",
+          "engraving": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) acest bloc.",
+          "featured_icon": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) informații evidențiate (pictograme opționale) pentru acest bloc.",
+          "frequently_bought_together": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) produsele frecvent cumpărate împreună pentru acest bloc.",
+          "gift_wrapping": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) opțiunea de ambalare cadou pentru acest bloc.",
+          "horizontal_tab": "Aflați [cum să adăugați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) filele orizontale pentru acest bloc.",
+          "inventory_status": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) starea stocului produsului pentru acest bloc.",
+          "nutrition_fact_bar": "Aflați [cum să adăugați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) o bară cu informații nutriționale pentru acest bloc.",
+          "payment_method": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) metoda de plată pentru fiecare produs pentru acest bloc.",
+          "product_sibling": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) acest bloc.",
+          "rating": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) evaluările pentru acest bloc.",
+          "size_chart": "Aflați [cum să adăugați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) un tabel de mărimi pentru acest bloc.",
+          "social_sharing": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) pictogramele de partajare socială pentru acest bloc.",
+          "sticky_add_to_cart": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) o bară de adăugare în coș fixă pentru acest bloc.",
+          "table_of_information": "Aflați [cum să adăugați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) un tabel de informații pentru acest bloc.",
+          "trust_badge": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) insignele de încredere pentru acest bloc.",
+          "volume_pricing": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) acest bloc.",
+          "other_blocks": "Aflați [cum să afișați](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) alte blocuri pentru acest bloc."
         },
-        "product_specification": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/product-page/product-specifications) această secțiune.",
-        "product_recommendation": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/product-page/product-recommendations) această secțiune.",
-        "quick_order_list": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/product-page/quick-order-list) această secțiune."
+        "product_specification": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) această secțiune.",
+        "product_recommendation": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) această secțiune.",
+        "quick_order_list": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) această secțiune."
       },
       "collection_page": {
-        "collection_banner": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/collection-page/collection-banner) această secțiune."
+        "collection_banner": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) această secțiune."
       },
       "pages_and_templates": {
-        "blog_post_page": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) această secțiune.",
-        "blog_page": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/page-templates/blog-page) această secțiune.",
-        "cart_page": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/page-templates/cart-page) această secțiune.",
-        "collection_list_page": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/page-templates/collection-list-page) această secțiune.",
-        "search_page": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/page-templates/search-page) această secțiune."
+        "blog_post_page": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) această secțiune.",
+        "blog_page": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) această secțiune.",
+        "cart_page": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) această secțiune.",
+        "collection_list_page": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) această secțiune.",
+        "search_page": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) această secțiune."
       },
       "overlay_group": {
-        "cookie_banner": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) această secțiune.",
-        "popup": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/overlay-group-1/popup) această secțiune.",
-        "store_selector": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) această secțiune.",
-        "quick_view": "Aflați [cum să utilizați](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) această secțiune.",
-        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
+        "cookie_banner": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) această secțiune.",
+        "popup": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) această secțiune.",
+        "store_selector": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) această secțiune.",
+        "quick_view": "Aflați [cum să utilizați](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) această secțiune.",
+        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
       }
     },
     "all": {
@@ -1051,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Se aplică tipului de animație „Tăiat cu pictogramă”.",
         "custom_icon": "Pictogramă personalizată (cod SVG)",
-        "custom_icon_info": "Pentru asistență cu codul SVG personalizat sau pentru remedierea problemelor care decurg din codul SVG personalizat, vă rugăm să [contactați suportul nostru](https://omnithemes.com/contact/).",
+        "custom_icon_info": "Pentru asistență cu codul SVG personalizat sau pentru remedierea problemelor care decurg din codul SVG personalizat, vă rugăm să [contactați suportul nostru](https:\/\/omnithemes.com\/contact\/).",
         "label": "Pictogramă",
         "another_icon_label": "Folosește altă pictogramă",
         "another_icon_info": "Dacă dorești să utilizezi pictograme diferite față de opțiunile de mai sus, caută o pictogramă din [lista noastră de pictograme](https://support.omnithemes.com/blogs/user-guide/theme-icons) și completează numele pictogramei aici (Ex: price tag).",
@@ -1202,8 +1202,8 @@
         "heading_image": "Imagine antet",
         "image_height": "Înălțime imagine",
         "image_width": "Lățime imagine",
-        "note_image_size": "Pentru dimensiunile de imagine recomandate, verifică [ghidul nostru de utilizare](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)",
-        "note_image_size_video_shopping": "Pentru dimensiunile de imagine recomandate, verifică [ghidul nostru de utilizare](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Imaginile supradimensionate vor fi redimensionate pentru o afișare optimă pe mobil. Rapoarte recomandate: 1:1, 3:4, 4:3."
+        "note_image_size": "Pentru dimensiunile de imagine recomandate, verifică [ghidul nostru de utilizare](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)",
+        "note_image_size_video_shopping": "Pentru dimensiunile de imagine recomandate, verifică [ghidul nostru de utilizare](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Imaginile supradimensionate vor fi redimensionate pentru o afișare optimă pe mobil. Rapoarte recomandate: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Raport imagine",
@@ -1416,7 +1416,7 @@
               "label": "Link element meniu"
             },
             "menu": {
-              "info": "Alegeți un meniu de aplicat pentru acest element de meniu. Aflați cum să creați un meniu pe 4 niveluri [aici.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
+              "info": "Alegeți un meniu de aplicat pentru acest element de meniu. Aflați cum să creați un meniu pe 4 niveluri [aici.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Se aplică elementelor de tab și submeniu. Pentru dimensiuni mari de imagine, opțiunea rotunjită nu este disponibilă."
@@ -2114,7 +2114,7 @@
         }
       }
     },
-    "featured-category": {
+    "featured-category":{
       "name": "Categorii recomandate",
       "category_card": {
         "name": "Carte categorie",
@@ -2206,7 +2206,7 @@
             "pickup_availability": {
               "content": "Disponibilitate pentru ridicare",
               "label": "Activează funcția de disponibilitate pentru ridicare",
-              "info": "Află cum să configurezi această funcție [aici](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup)"
+              "info": "Află cum să configurezi această funcție [aici](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup)"
             },
             "preorder": {
               "preorder_show": {
@@ -2240,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Notifică la inventarul primit",
-              "info": "Află mai multe despre [starea inventarului primit](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) și cum să [creezi transferuri de inventar.](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
+              "info": "Află mai multe despre [starea inventarului primit](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) și cum să [creezi transferuri de inventar.](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
             },
             "message_incoming": {
               "label": "Notificare transfer primit",
@@ -2672,7 +2672,7 @@
         },
         "header": {
           "content": "Media",
-          "info": "Aflați mai multe despre [tipurile de media](https://help.shopify.com/manual/products/product-media)"
+          "info": "Aflați mai multe despre [tipurile de media](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_video_loop": {
           "label": "Activează redarea video în buclă"
@@ -2718,7 +2718,7 @@
           "label": "Afișează iconițele de plată"
         },
         "custom_payment": {
-          "info": "Personalizați-vă iconițele de plată. De exemplu, completați acest câmp cu metodele alese: apple_pay, google_pay, tabby, tamara. [Aflați mai multe](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
+          "info": "Personalizați-vă iconițele de plată. De exemplu, completați acest câmp cu metodele alese: apple_pay, google_pay, tabby, tamara. [Aflați mai multe](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
           "label": "Iconițe de plată personalizate SVG"
         },
         "header_add_info": {
@@ -2748,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Urmărește pe Shop",
-          "info": "Afișați butonul de urmărire pentru magazinul dumneavoastră pe aplicația Shop. [Aflați mai multe](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
+          "info": "Afișați butonul de urmărire pentru magazinul dumneavoastră pe aplicația Shop. [Aflați mai multe](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Activează Urmărește pe Shop"
@@ -3452,7 +3452,7 @@
           "info": "Notă: Opțiunile cu mai mult de 20 de articole pe pagină nu sunt recomandate pentru optimizarea performanței."
         },
         "paragraph": {
-          "content": "Modificați extrasele editând articolele de pe blog. [Aflați mai multe](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Modificați extrasele editând articolele de pe blog. [Aflați mai multe](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Postările sunt suprapuse pe mobil."
@@ -3497,7 +3497,7 @@
           "label": "Fă titlul colecției lățime completă pe desktop"
         },
         "paragraph": {
-          "content": "Adăugați o descriere sau o imagine editând colecția dvs. [Aflați mai multe](https://help.shopify.com/manual/products/collections/collection-layout)"
+          "content": "Adăugați o descriere sau o imagine editând colecția dvs. [Aflați mai multe](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
         },
         "show_collection_name": {
           "label": "Afișează titlul colecției"
@@ -3507,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Afișează imaginea colecției",
-          "info": "Pentru cele mai bune rezultate, utilizați o imagine cu un raport de aspect de 16:9. [Aflați mai multe](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
+          "info": "Pentru cele mai bune rezultate, utilizați o imagine cu un raport de aspect de 16:9. [Aflați mai multe](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3635,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Activează schema microdata",
-            "info": "Motoarele de căutare s-ar putea să nu indexeze încă aceste informații. Consultați [documentația schemei CollectionPage](https://schema.org/CollectionPage) pentru detalii."
+            "info" : "Motoarele de căutare s-ar putea să nu indexeze încă aceste informații. Consultați [documentația schemei CollectionPage](https:\/\/schema.org\/CollectionPage) pentru detalii."
           }
         }
       }
@@ -3666,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Adăugați imagini editând colecțiile. [Aflați mai multe](https://help.shopify.com/manual/products/collections)"
+          "info": "Adăugați imagini editând colecțiile. [Aflați mai multe](https:\/\/help.shopify.com\/manual\/products\/collections)"
         },
         "show_collection": {
           "label": "Afișează colecțiile",
@@ -3944,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Aflați mai multe despre [tipurile de media.](https://help.shopify.com/manual/products/product-media)"
+          "info": "Aflați mai multe despre [tipurile de media.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "enable_sticky_image": {
           "label": "Activează conținut lipicios pe desktop"
@@ -3961,7 +3961,7 @@
           }
         },
         "show_arrow_button": {
-          "label": "Activează sliderul următor/anterior pe desktop"
+          "label": "Activează sliderul următor\/anterior pe desktop"
         },
         "mobile_media_size": {
           "label": "Dimensiune media mobil",
@@ -4358,11 +4358,11 @@
           "label": "Pauză la trecerea cu mouse-ul"
         },
         "show_arrow": {
-          "label": "Săgeți Următor/Anterior",
+          "label": "Săgeți Următor\/Anterior",
           "info": "Afișează săgețile de navigare"
         },
         "show_part_slide": {
-          "label": "Diapozitive Următor/Anterior"
+          "label": "Diapozitive Următor\/Anterior"
         },
         "slider_visual": {
           "options__2": {
@@ -4468,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores": {
+    "multiple_stores":{
       "name": "Mai multe magazine",
       "blocks": {
         "name": "Locația magazinului",
@@ -4538,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Etichete și insigne de produs",
       "settings": {
-        "introduce": "Folosiți această secțiune pentru a adăuga etichete și insigne produselor și cardurilor de produs. [Consultați tutoriale](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
+        "introduce": "Folosiți această secțiune pentru a adăuga etichete și insigne produselor și cardurilor de produs. [Consultați tutoriale](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
         "enable": {
           "label": "Activează etichetele și insignele de produs"
         }
@@ -4558,7 +4558,7 @@
           "name": "Etichetă stoc epuizat",
           "introduce": "Eticheta de stoc epuizat se afișează automat pe toate produsele indisponibile.",
           "content": {
-            "info": "Utilizați {inventory} pentru \"În stoc/Stoc epuizat\", {quantity} pentru cantitatea totală din inventar."
+            "info": "Utilizați {inventory} pentru \"În stoc\/Stoc epuizat\", {quantity} pentru cantitatea totală din inventar."
           }
         },
         "text-label": {
@@ -4574,12 +4574,12 @@
         "new-label": {
           "name": "Etichetă produs nou"
         },
-        "day_start": {
+        "day_start":{
           "label": "Afișează eticheta în numărul de zile de la",
           "creation_date": "Data creării produsului",
           "activation_date": "Data activării produsului"
         },
-        "day_end": {
+        "day_end":{
           "label": "Număr de zile"
         },
         "show_on_product_card": {
@@ -4587,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Afișează pe pagina produsului",
-          "info": "Pentru a afișa etichete și insigne în Vizualizare rapidă și Informații despre produs, vă rugăm să adăugați blocul 'Etichete și insigne' în acele secțiuni sau consultați [acest ghid.](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
+          "info": "Pentru a afișa etichete și insigne în Vizualizare rapidă și Informații despre produs, vă rugăm să adăugați blocul 'Etichete și insigne' în acele secțiuni sau consultați [acest ghid.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Pictograma va apărea în fața textului etichetei."
@@ -4598,8 +4598,8 @@
           "info__3": "{sale_amount} pentru valoarea reducerii.",
           "info__4": "{qty} pentru cantitatea totală din inventar.",
           "info__5": "{count_down} pentru numărătoarea inversă până la data de încheiere. (Trebuie activată programarea)",
-          "info__6": "<br /> pentru a întrerupe linia.",
-          "info__7": "<b>conținutul dvs.</b> pentru text îngroșat.",
+          "info__6": "<br \/> pentru a întrerupe linia.",
+          "info__7": "<b>conținutul dvs.<\/b> pentru text îngroșat.",
           "info__8": "{price} pentru prețul produsului.",
           "info_metafield": "{metafield_key} pentru un metafield de produs sau variantă (suportă doar tipul de text pe o singură linie). Notă: Cheile metafield trebuie configurate mai întâi în Setări temă > Etichete și insigne de produs pentru a fi afișate aici."
         },
@@ -5053,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Link pagină bilete",
-          "info": "Adaugă o pagină de bilete pentru a vinde bilete participanților. Creează un [produs digital](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) pentru a oferi mai multe informații despre eveniment și, opțional, ascunde-l din listele de produse. [Contactează-ne](https://omnithemes.com/contact/) pentru suport gratuit pentru a exclude produsele din căutările interne și recomandările de produse."
+          "info": "Adaugă o pagină de bilete pentru a vinde bilete participanților. Creează un [produs digital](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) pentru a oferi mai multe informații despre eveniment și, opțional, ascunde-l din listele de produse. [Contactează-ne](https:\/\/omnithemes.com\/contact\/) pentru suport gratuit pentru a exclude produsele din căutările interne și recomandările de produse."
         },
         "ticket_button_label": {
           "label": "Etichetă buton bilet"
@@ -5308,12 +5308,12 @@
           "info": "Introduceți toate numele opțiunii (opțiunilor) utilizate în magazin, frazele în limbi diferite sunt separate prin virgulă. (Ex: Culoare, Culoare, Couleur). Introduceți numele unei opțiuni de produs. Fiecare valoare a acestei opțiuni va fi o coloană în tabelul de atribute."
         },
         "note": "Valorile metafield pot fi, de asemenea, utilizate ca criterii.",
-        "note_1": "1. Creează un metaobiect cu cheia \"product_specs_list\", conținând un câmp cu numele exact \"specs\" (Text pe o singură linie/O singură valoare).",
+        "note_1": "1. Creează un metaobiect cu cheia \"product_specs_list\", conținând un câmp cu numele exact \"specs\" (Text pe o singură linie\/O singură valoare).",
         "note_2": "2. Creează înregistrări pentru metaobiect (ex: \"Piele uscată\", \"Protecție UV\").",
-        "note_3": "3. Creează un metafield de produs cu cheia \"product_specs\" (Metaobiect/Listă de valori) și selectează metaobiectul tocmai creat.",
+        "note_3": "3. Creează un metafield de produs cu cheia \"product_specs\" (Metaobiect\/Listă de valori) și selectează metaobiectul tocmai creat.",
         "note_4": "4. Atribuie valori pentru fiecare produs prin metafield în pagina de detalii a produsului din admin.",
         "note_5": "5. Completează cheia \"product_specs\" a metafield-ului respectiv în acest câmp.",
-        "note_6": "Pentru mai multe detalii, vă rugăm să [ne contactați pentru suport gratuit.](https://omnithemes.com/contact/)",
+        "note_6": "Pentru mai multe detalii, vă rugăm să [ne contactați pentru suport gratuit.](https:\/\/omnithemes.com\/contact\/)",
         "hightlight_dark": {
           "label": "Evidențiere (întunecat)"
         },
@@ -5352,7 +5352,7 @@
           "info": "Adaugă etichetă pentru a aplica automat codul cuponului în coș."
         },
         "promo_code_note": {
-          "content": "Data de început și de sfârșit de mai jos ar trebui să se alinieze cu data de început și de sfârșit a regulii de reducere din administrarea Shopify > Reduceri. Află mai multe despre [codul de reducere.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
+          "content": "Data de început și de sfârșit de mai jos ar trebui să se alinieze cu data de început și de sfârșit a regulii de reducere din administrarea Shopify > Reduceri. Află mai multe despre [codul de reducere.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Etichetă termeni promoție"
@@ -5638,7 +5638,7 @@
               }
             }
           }
-        }
+        }    
       }
     },
     "store-selector": {
@@ -5653,7 +5653,7 @@
         "name": "Magazin",
         "settings": {
           "store_name": {
-            "info": "Numele magazinului trebuie să se potrivească cu numele magazinului dvs. definit în [setările de locație.](/admin/settings/locations)",
+            "info": "Numele magazinului trebuie să se potrivească cu numele magazinului dvs. definit în [setările de locație.](\/admin\/settings\/locations)",
             "default": "Magazinul meu"
           },
           "pickup_price": {
@@ -5680,7 +5680,7 @@
     "quick-order-list": {
       "name": "Listă de comandă rapidă",
       "settings": {
-        "desktop_layout": {
+        "desktop_layout":{
           "sidebar": "Bara laterală"
         },
         "show_images": {
@@ -5747,7 +5747,7 @@
           "original": "Raport postare originală"
         }
       },
-      "blocks": {
+      "blocks":{
         "social_post": {
           "social_post_image": {
             "name": "Imagine postare socială"

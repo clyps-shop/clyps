@@ -7296,3 +7296,9 @@ html[dir="rtl"] .swym-ui-component .swym-atw-notification-container .swym-atw-no
 .\32xl\:pb-12{padding-bottom:3rem}
 .\32xl\:pl-12{padding-left:3rem}
 .\32xl\:pr-12{padding-right:3rem}}
+
+/* clyps Badges: stack below the built-in product label/badge when both are present */
+.link-product-variant:has(.top-left-container:not(:empty)) ~ .clyps-badges,
+.x-badges-container:not(:empty) + .clyps-badges {
+  margin-top: 2.25rem;
+}

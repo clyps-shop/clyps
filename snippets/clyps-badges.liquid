@@ -3,24 +3,54 @@
   Renders tag-based badges configured in Theme settings > Badges for a given product.
   Accepts:
     - product: {Object} product to check tags against
-    - class: {String} optional extra classes for positioning/layout
+    - mode: {String} "pills" (default) renders the visual badge pills using the
+      theme's own top/bottom-left/right label container classes, so the built-in
+      product label/badge JS (which looks up that container via querySelector and
+      appends into it) merges clyps badges into the same stack instead of
+      overlapping them. "sr-text" renders a visually-hidden text list instead,
+      meant to be placed outside an aria-labelled ancestor (e.g. a card's product
+      link) so screen readers still get the badge info even when "pills" sits
+      inside one.
+    - position: {String} "top-left" (default), "top-right", "bottom-left" or
+      "bottom-right" - which corner container to join/create
+    - class: {String} optional extra classes, only used in "pills" mode
 {%- endcomment -%}
-<div class="clyps-badges pointer-events-none flex flex-col items-start gap-1 empty:hidden{% if class %} {{ class }}{% endif %}">
-  {%- for i in (1..10) -%}
-    {%- liquid
-      assign clyps_badge_tag_key = 'badge_' | append: i | append: '_tag'
-      assign clyps_badge_text_key = 'badge_' | append: i | append: '_text'
-      assign clyps_badge_tag = settings[clyps_badge_tag_key] | strip
-      assign clyps_badge_text = settings[clyps_badge_text_key]
-    -%}
-    {%- if clyps_badge_tag != blank and clyps_badge_text != blank and product.tags contains clyps_badge_tag -%}
+{%- liquid
+  assign clyps_mode = mode | default: 'pills'
+  assign clyps_position = position | default: 'top-left'
+-%}
+{%- if clyps_mode == 'pills' -%}
+  <div class="{{ clyps_position }}-container label-container clyps-badges flex absolute gap-1 space-y-1{% if clyps_position contains 'top' %} top-3 flex-col{% else %} bottom-3 flex-col{% endif %}{% if clyps_position contains 'left' %} items-start left-3{% else %} items-end right-3{% endif %} pointer-events-none empty:hidden{% if class %} {{ class }}{% endif %}">
+    {%- for i in (1..10) -%}
       {%- liquid
-        assign clyps_badge_bg_key = 'badge_' | append: i | append: '_background_color'
-        assign clyps_badge_color_key = 'badge_' | append: i | append: '_text_color'
-        assign clyps_badge_bg = settings[clyps_badge_bg_key]
-        assign clyps_badge_color = settings[clyps_badge_color_key]
+        assign clyps_badge_tag_key = 'badge_' | append: i | append: '_tag'
+        assign clyps_badge_text_key = 'badge_' | append: i | append: '_text'
+        assign clyps_badge_tag = settings[clyps_badge_tag_key] | strip
+        assign clyps_badge_text = settings[clyps_badge_text_key]
       -%}
-      <span class="clyps-badge inline-flex items-center justify-center rounded-full pl-2 pr-2 pt-1 pb-1 text-sm leading-normal whitespace-nowrap" style="background-color: {{ clyps_badge_bg | escape }}; color: {{ clyps_badge_color | escape }};">{{ clyps_badge_text | escape }}</span>
-    {%- endif -%}
-  {%- endfor -%}
-</div>
+      {%- if clyps_badge_tag != blank and clyps_badge_text != blank and product.tags contains clyps_badge_tag -%}
+        {%- liquid
+          assign clyps_badge_bg_key = 'badge_' | append: i | append: '_background_color'
+          assign clyps_badge_color_key = 'badge_' | append: i | append: '_text_color'
+          assign clyps_badge_bg = settings[clyps_badge_bg_key]
+          assign clyps_badge_color = settings[clyps_badge_color_key]
+        -%}
+        <div class="x-badge-content ltr x-badge-text clyps-badge select-none inline-flex justify-center pt-1 pb-1 pl-2 pr-2 items-center gap-2 rounded-full" style="background-color: {{ clyps_badge_bg | escape }}; color: {{ clyps_badge_color | escape }};">{{ clyps_badge_text | escape }}</div>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+{%- else -%}
+  <span class="clyps-badges-sr sr-only">
+    {%- for i in (1..10) -%}
+      {%- liquid
+        assign clyps_badge_tag_key = 'badge_' | append: i | append: '_tag'
+        assign clyps_badge_text_key = 'badge_' | append: i | append: '_text'
+        assign clyps_badge_tag = settings[clyps_badge_tag_key] | strip
+        assign clyps_badge_text = settings[clyps_badge_text_key]
+      -%}
+      {%- if clyps_badge_tag != blank and clyps_badge_text != blank and product.tags contains clyps_badge_tag -%}
+        {{ clyps_badge_text | escape }}.
+      {%- endif -%}
+    {%- endfor -%}
+  </span>
+{%- endif -%}

@@ -312,7 +312,7 @@
     >
       <div class="splide__track">
         <div class="x-badges-container pointer-events-none z-10 text-sm x-badges-product-detail empty:h-0 empty:min-h-0 empty:mb-0 min-h-[45px] absolute w-full h-full items-center flex-wrap gap-x-1 gap-y-2 md:gap-y-4 mb-5"></div>
-        {% render 'clyps-badges', product: product, class: 'absolute top-3 left-3 z-20' %}
+        {% render 'clyps-badges', product: product, mode: 'pills', class: 'z-20' %}
         <div id="media_product-{{ section.id }}" class="splide__list flex">
           {% if product.media.size > 0 %}
             {%- assign media_index = 1 -%}

@@ -265,6 +265,7 @@
       {%- endif -%}
       {%- if settings.product_image_type == "slide_img" and count_media > 1 and class_slide != 'recommendations' and settings.show_arrow == false %} disable-label-hover{% endif -%}"
       {%- unless mediaGallery %}{% if media_aspect_ratio == "natural" and card_product.featured_media and card_product.featured_media.media_type != "model" %} style="height: 0; padding-bottom: {{ 1 | divided_by: card_product.featured_media.aspect_ratio | times: 100 }}%;"{% endif %}{% endunless -%}>
+      {% unless disable_badges %}{% render 'clyps-badges', product: card_product, mode: 'pills' %}{% endunless %}
       <div x-data="xDoubleTouch('{{ card_product.url | within: collection }}')" class="w-full h-full z-0 overflow-hidden absolute top-0 left-0{% if animation_loading and loading != 'eager' %} animate_transition_card__image{% endif %}">
         <div
           id="x-slideshow-card-product-{{ section_id }}-{{ product_card_id }}-{{ index | minus: 1 }}"
@@ -730,7 +731,7 @@
         </div>
       {% endunless %}
     </a>
-    {% unless disable_badges %}{% render 'clyps-badges', product: card_product, class: 'absolute top-2 left-2 z-20' %}{% endunless %}
+    {% unless disable_badges %}{% render 'clyps-badges', product: card_product, mode: 'sr-text' %}{% endunless %}
     {% if product_complementary %}
       </div>
     {% endif %}

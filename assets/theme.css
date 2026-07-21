@@ -7297,8 +7297,19 @@ html[dir="rtl"] .swym-ui-component .swym-atw-notification-container .swym-atw-no
 .\32xl\:pl-12{padding-left:3rem}
 .\32xl\:pr-12{padding-right:3rem}}
 
-/* clyps Badges: stack below the built-in product label/badge when both are present */
-.link-product-variant:has(.top-left-container:not(:empty)) ~ .clyps-badges,
+/* clyps Badges: visually-hidden text for screen readers when the visual pill sits inside an aria-labelled link */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+/* clyps Badges: on the product page, stack below the built-in badge container when it has content */
 .x-badges-container:not(:empty) + .clyps-badges {
   margin-top: 2.25rem;
 }

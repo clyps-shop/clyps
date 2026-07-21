@@ -14,38 +14,6 @@
     "product-labels-and-badges": {
       "type": "product-labels-and-badges",
       "blocks": {
-        "new_label_EWPeqV": {
-          "type": "new-label",
-          "settings": {
-            "day_start": "activation_date",
-            "day_end": 30,
-            "show_on_product_card": true,
-            "show_on_product_page": true,
-            "applied_products": [
-              "romy-hoops-ohrclips"
-            ],
-            "applied_collections": [],
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "content": "New",
-            "display_type": "round",
-            "opacity": 100,
-            "font_size": 90,
-            "font_size_mobile": 90,
-            "size": 2,
-            "size_mobile": 2,
-            "position": "top-left",
-            "horizontal_position": 5,
-            "vertical_position": 5,
-            "background_color": "#058942",
-            "text_color": "#ffffff",
-            "border_color": "#000000",
-            "background_color_dark": "#058942",
-            "text_color_dark": "#ffffff",
-            "border_color_dark": "rgba(0,0,0,0)"
-          }
-        },
         "db437385-f419-4af9-9154-0a7b80de9329": {
           "type": "text-label",
           "disabled": true,
@@ -131,8 +99,8 @@
             "position": "top-left",
             "horizontal_position": 5,
             "vertical_position": 5,
-            "background_color": "#eaeaf5",
-            "text_color": "#0d0d0d",
+            "background_color": "#272014",
+            "text_color": "#FFFFFF",
             "border_color": "rgba(0,0,0,0)",
             "background_color_dark": "#eaeaf5",
             "text_color_dark": "#0d0d0d",
@@ -141,7 +109,6 @@
         }
       },
       "block_order": [
-        "new_label_EWPeqV",
         "db437385-f419-4af9-9154-0a7b80de9329",
         "product-labels-and-badges-0",
         "product-labels-and-badges-1"

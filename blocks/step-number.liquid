@@ -1,0 +1,315 @@
+{%- liquid
+  assign desktop_width = block.settings.desktop_width | times: 1
+  assign mobile_width  = block.settings.mobile_width  | times: 1
+-%}
+
+{%- style -%}
+  /* Width handling wie bei deinen anderen Flexible-Area-Blocks */
+  .splide__list > .flexible-area-step:has(.width-{{ block.id }}) { max-width: unset; width: 100%; }
+
+  .flexible-area-step:has(.width-{{ block.id }}) {
+    {% if mobile_width < 100 %}
+      width: calc({{ mobile_width }}% - 100px);
+      flex-grow: 1;
+      max-width: {{ mobile_width }}%;
+    {% else %}
+      width: 100%;
+      max-width: 100%;
+    {% endif %}
+  }
+
+  @media (min-width: 768px) {
+    .flexible-area-step:has(.width-{{ block.id }}) {
+      {% if desktop_width < 100 %}
+        width: calc({{ desktop_width }}% - 100px);
+        flex-grow: 1;
+        max-width: {{ desktop_width }}%;
+      {% else %}
+        width: 100%;
+        max-width: 100%;
+      {% endif %}
+    }
+  }
+
+  /* --- Step Layout --- */
+ .step-{{ block.id }} {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .step-{{ block.id }} {
+    min-height: calc({{ block.settings.number_size }}px * 1.0);
+  }
+}
+
+
+  /* Zahl: aus dem Layout rausnehmen => beeinflusst Zentrierung nicht */
+ .step-{{ block.id }} .step-number {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  line-height: 1;
+  font-family: var(--font-heading-family);
+  opacity: {{ block.settings.number_opacity | divided_by: 100.0 }};
+  font-size: {{ block.settings.number_size_mobile }}px;
+  pointer-events: none;
+  user-select: none;
+  white-space: nowrap;
+}
+
+@media (max-width: 767px) {
+  .step-{{ block.id }} {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: unset;
+  }
+  .step-{{ block.id }} .step-number {
+    position: relative;
+    left: unset;
+    top: unset;
+    transform: none;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}
+
+  /* Content: ECHT zentriert zur Seite (margin:auto) */
+  .step-{{ block.id }} .step-content {
+    width: min({{ block.settings.content_max_width }}px, 100%);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: {{ block.settings.content_padding_top_mobile }}px;
+  }
+
+  @media (min-width: 768px) {
+    .step-{{ block.id }} .step-content {
+      padding-top: {{ block.settings.content_padding_top }}px;
+    }
+  }
+
+  /* Typo: KEIN font-family setzen -> Theme-Fonts greifen */
+  .step-{{ block.id }} .step-title {
+    {% if block.settings.title_color_light.alpha != 0.0 %}
+      color: {{ block.settings.title_color_light }};
+    {% endif %}
+  }
+  .dark .step-{{ block.id }} .step-title {
+    {% if block.settings.title_color_dark.alpha != 0.0 %}
+      color: {{ block.settings.title_color_dark }};
+    {% endif %}
+  }
+
+  .step-{{ block.id }} .step-subtitle {
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    opacity: .75;
+    margin-top: .35rem;
+  }
+
+  .step-{{ block.id }} .step-text {
+    margin-top: 1.25rem;
+  }
+{%- endstyle -%}
+
+<div
+  data-width="{{ desktop_width }}"
+  data-width-mobile="{{ mobile_width }}"
+  class="item-block width-{{ block.id }} w-full"
+  {{ block.shopify_attributes }}
+>
+  <div class="step-{{ block.id }}">
+    <div class="step-number" aria-hidden="true">
+      {{ block.settings.step_number | escape }}
+    </div>
+
+    <div class="step-content">
+      {% if block.settings.title != blank %}
+        <h2 class="step-title h2 block leading-tight">
+          {{ block.settings.title | escape }}
+        </h2>
+      {% endif %}
+
+      {% if block.settings.subtitle != blank %}
+        <p class="step-subtitle">
+          {{ block.settings.subtitle | escape }}
+        </p>
+      {% endif %}
+
+      {% if block.settings.text != blank %}
+        <div class="step-text rte">
+          {{ block.settings.text }}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Step Block",
+  "class": "flexible-area-step flexible-area-block splide__slide x-splide-slide",
+  "settings": [
+    {
+      "type": "select",
+      "id": "desktop_width",
+      "label": "Desktop width",
+      "options": [
+        { "label": "50%", "value": "50" },
+        { "label": "66%", "value": "66" },
+        { "label": "75%", "value": "75" },
+        { "label": "100%", "value": "100" }
+      ],
+      "default": "100"
+    },
+    {
+      "type": "select",
+      "id": "mobile_width",
+      "label": "Mobile width",
+      "options": [
+        { "label": "50%", "value": "50" },
+        { "label": "100%", "value": "100" }
+      ],
+      "default": "100"
+    },
+
+    {
+      "type": "header",
+      "content": "Inhalt"
+    },
+    {
+      "type": "text",
+      "id": "step_number",
+      "label": "Zahl",
+      "default": "01"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Titel",
+      "default": "KUNSTHARZ"
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "label": "Untertitel",
+      "default": "CLIP-VERSCHLUSS"
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text",
+      "default": "<p>Hier kommt dein Erklärungstext rein.</p>"
+    },
+
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "content_max_width",
+      "min": 480,
+      "max": 1200,
+      "step": 20,
+      "unit": "px",
+      "label": "Content max width",
+      "default": 900
+    },
+    {
+      "type": "range",
+      "id": "content_padding_top",
+      "min": 0,
+      "max": 200,
+      "step": 4,
+      "unit": "px",
+      "label": "Content Abstand oben (Desktop)",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "content_padding_top_mobile",
+      "min": 0,
+      "max": 200,
+      "step": 4,
+      "unit": "px",
+      "label": "Content Abstand oben (Mobile)",
+      "default": 0
+    },
+
+    {
+      "type": "header",
+      "content": "Zahl Style"
+    },
+    {
+      "type": "range",
+      "id": "number_size",
+      "min": 80,
+      "max": 320,
+      "step": 4,
+      "unit": "px",
+      "label": "Zahl Größe (Desktop)",
+      "default": 220
+    },
+    {
+      "type": "range",
+      "id": "number_size_mobile",
+      "min": 60,
+      "max": 220,
+      "step": 4,
+      "unit": "px",
+      "label": "Zahl Größe (Mobile)",
+      "default": 140
+    },
+    {
+      "type": "range",
+      "id": "number_opacity",
+      "min": 0,
+      "max": 30,
+      "step": 1,
+      "unit": "%",
+      "label": "Zahl Deckkraft",
+      "default": 10
+    },
+    {
+      "type": "color",
+      "id": "number_color_light",
+      "default": "rgba(0,0,0,0)",
+      "label": "Zahlfarbe (Light)"
+    },
+    {
+      "type": "color",
+      "id": "number_color_dark",
+      "default": "rgba(0,0,0,0)",
+      "label": "Zahlfarbe (Dark)"
+    },
+
+    {
+      "type": "header",
+      "content": "Titel Farbe"
+    },
+    {
+      "type": "color",
+      "id": "title_color_light",
+      "default": "rgba(0,0,0,0)",
+      "label": "Titelfarbe (Light)"
+    },
+    {
+      "type": "color",
+      "id": "title_color_dark",
+      "default": "rgba(0,0,0,0)",
+      "label": "Titelfarbe (Dark)"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Step Block",
+      "category": "Basics"
+    }
+  ]
+}
+{% endschema %}

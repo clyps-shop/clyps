@@ -1,0 +1,250 @@
+{%- liquid
+  assign desktop_width = block.settings.desktop_width | times: 1
+  assign mobile_width  = block.settings.mobile_width  | times: 1
+-%}
+
+{%- style -%}
+  /* Width handling – angelehnt an rich-text */
+  .splide__list > .flexible-area-feature-row:has(.width-{{ block.id }}) {
+    max-width: unset;
+    width: 100%;
+  }
+
+  .flexible-area-feature-row:has(.width-{{ block.id }}) {
+    {% if mobile_width < 100 %}
+      width: calc({{ mobile_width }}% - 100px);
+      flex-grow: 1;
+      max-width: {{ mobile_width }}%;
+    {% else %}
+      width: 100%;
+      max-width: 100%;
+    {% endif %}
+  }
+
+  @media (min-width: 768px) {
+    .flexible-area-feature-row:has(.width-{{ block.id }}) {
+      {% if desktop_width < 100 %}
+        width: calc({{ desktop_width }}% - 100px);
+        flex-grow: 1;
+        max-width: {{ desktop_width }}%;
+      {% else %}
+        width: 100%;
+        max-width: 100%;
+      {% endif %}
+    }
+  }
+
+  /* Alignment handling – angelehnt an rich-text */
+  .flexible-area-block:has(.content-alignment-{{ block.id }}) {
+    {% if block.settings.mobile_content_alignment == 'adapt' %}
+      text-align: left;
+    {% else %}
+      text-align: {{ block.settings.mobile_content_alignment }};
+    {% endif %}
+  }
+
+  .flexible-area-group .flexible-area-block:has(.content-alignment-{{ block.id }}) {
+    {% if block.settings.mobile_content_alignment == 'center' %}
+      margin-left: auto;
+      margin-right: auto;
+    {% elsif block.settings.mobile_content_alignment == 'left' or block.settings.mobile_content_alignment == 'adapt' %}
+    {% else %}
+      margin-left: auto;
+      margin-right: unset;
+    {% endif %}
+  }
+
+  @media screen and (min-width: 768px) {
+    .flexible-area-block:has(.content-alignment-{{ block.id }}) {
+      {% if block.settings.content_alignment == 'adapt' %}
+        text-align: left;
+      {% else %}
+        text-align: {{ block.settings.content_alignment }};
+      {% endif %}
+    }
+
+    .flexible-area-group .flexible-area-block:has(.content-alignment-{{ block.id }}) {
+      {% if block.settings.content_alignment == 'center' %}
+        margin-left: auto;
+        margin-right: auto;
+      {% elsif block.settings.content_alignment == 'left' or block.settings.content_alignment == 'adapt' %}
+      {% else %}
+        margin-left: auto;
+        margin-right: unset;
+      {% endif %}
+    }
+  }
+
+  /* Visuals */
+  .clyps-feature-row-{{ block.id }} {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 24px;
+    align-items: center;
+    padding: 22px 0;
+    border-top: 1px solid {{ block.settings.divider_color }};
+    border-bottom: 1px solid {{ block.settings.divider_color }};
+  }
+
+  .clyps-feature-row-{{ block.id }}.clyps-no-top {
+    border-top: 0;
+  }
+
+  .clyps-feature-row-{{ block.id }}.clyps-no-bottom {
+    border-bottom: 0;
+  }
+
+  .clyps-feature-left-{{ block.id }} {
+    font-size: 18px;
+    font-weight: 500;
+    color: {{ block.settings.left_color }};
+    line-height: 1.2;
+  }
+
+  .clyps-feature-right-{{ block.id }} {
+    font-size: 16px;
+    font-weight: 400;
+    color: {{ block.settings.right_color }};
+    text-align: right;
+    white-space: nowrap;
+    line-height: 1.2;
+  }
+
+  @media (max-width: 768px) {
+    .clyps-feature-row-{{ block.id }} {
+      grid-template-columns: 1fr;
+      gap: 6px;
+    }
+
+    .clyps-feature-right-{{ block.id }} {
+      text-align: left;
+      white-space: normal;
+    }
+  }
+{%- endstyle -%}
+
+<div
+  data-width="{{ desktop_width }}"
+  data-width-mobile="{{ mobile_width }}"
+  x-intersect.once="$el.classList.add('is-visible')"
+  class="x-theme-block-feature-row item-block width-{{ block.id }} w-full anm-fade-element content-alignment-{{ block.id }}"
+  {{ block.shopify_attributes }}
+>
+  <div class="clyps-feature-row-{{ block.id }}
+    {% unless block.settings.show_top_divider %}clyps-no-top{% endunless %}
+    {% unless block.settings.show_bottom_divider %}clyps-no-bottom{% endunless %}
+  ">
+    <div class="clyps-feature-left-{{ block.id }}">{{ block.settings.left_text | escape }}</div>
+    <div class="clyps-feature-right-{{ block.id }}">{{ block.settings.right_text | escape }}</div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Feature – links / rechts",
+  "class": "flexible-area-feature-row flexible-area-block splide__slide x-splide-slide",
+  "settings": [
+    {
+      "type": "select",
+      "id": "desktop_width",
+      "label": "Desktop Breite",
+      "options": [
+        { "label": "16%", "value": "16" },
+        { "label": "20%", "value": "20" },
+        { "label": "25%", "value": "25" },
+        { "label": "30%", "value": "30" },
+        { "label": "50%", "value": "50" },
+        { "label": "66%", "value": "66" },
+        { "label": "70%", "value": "70" },
+        { "label": "75%", "value": "75" },
+        { "label": "80%", "value": "80" },
+        { "label": "83%", "value": "83" },
+        { "label": "100%", "value": "100" }
+      ],
+      "default": "100"
+    },
+    {
+      "type": "select",
+      "id": "mobile_width",
+      "label": "Mobile Breite",
+      "options": [
+        { "label": "50%", "value": "50" },
+        { "label": "100%", "value": "100" }
+      ],
+      "default": "100"
+    },
+    {
+      "type": "text",
+      "id": "left_text",
+      "label": "Text links",
+      "default": "Edelstahl"
+    },
+    {
+      "type": "text",
+      "id": "right_text",
+      "label": "Text rechts",
+      "default": "Rostfrei & hautfreundlich"
+    },
+    {
+      "type": "select",
+      "id": "content_alignment",
+      "options": [
+        { "value": "left", "label": "Links" },
+        { "value": "center", "label": "Zentriert" },
+        { "value": "right", "label": "Rechts" },
+        { "value": "adapt", "label": "Adapt (wie Gruppe)" }
+      ],
+      "default": "adapt",
+      "label": "Ausrichtung (Desktop)"
+    },
+    {
+      "type": "select",
+      "id": "mobile_content_alignment",
+      "options": [
+        { "value": "left", "label": "Links" },
+        { "value": "center", "label": "Zentriert" },
+        { "value": "right", "label": "Rechts" },
+        { "value": "adapt", "label": "Adapt (wie Gruppe)" }
+      ],
+      "default": "adapt",
+      "label": "Ausrichtung (Mobile)"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_top_divider",
+      "label": "Obere Linie anzeigen",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_bottom_divider",
+      "label": "Untere Linie anzeigen",
+      "default": true
+    },
+    {
+      "type": "color",
+      "id": "divider_color",
+      "label": "Linienfarbe",
+      "default": "#EEE9E2"
+    },
+    {
+      "type": "color",
+      "id": "left_color",
+      "label": "Linke Textfarbe",
+      "default": "#4a3b2a"
+    },
+    {
+      "type": "color",
+      "id": "right_color",
+      "label": "Rechte Textfarbe",
+      "default": "#b7b0a6"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Feature – links / rechts",
+      "category": "Basics"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,454 @@
+{% comment %}
+  Image USP Bar – zeigt USP-Leisten unter dem Produktbild an.
+  Daten kommen aus Metaobjekten via Produkt-Metafield: custom.usp_bar (list.metaobject_reference)
+
+  Benötigte Metaobjekt-Definition: "product_usp_item"
+  Felder:
+    - usp_headline        (single_line_text)   – z.B. "Hoher Tragekomfort"
+    - usp_description     (multi_line_text)     – Erklärungstext für Tooltip
+    - image_position      (number_integer)      – Sortierung / Bild-Position
+    - tooltip_text        (single_line_text)    – z.B. "Mehr Infos"
+    - tooltip_icon        (file_reference)      – Optionales Icon (SVG/PNG)
+
+  Produkt-Metafield:
+    - Namespace: custom
+    - Key: usp_bar
+    - Typ: list.metaobject_reference (product_usp_item)
+
+  Usage in product-template.liquid:
+    {% render 'image-usp-bar', product: product %}
+{% endcomment %}
+
+{%- liquid
+  assign usp_items_raw = product.metafields.custom.usp_bar.value
+  assign usp_count = 0
+
+  if usp_items_raw != blank
+    assign usp_count = usp_items_raw | size
+    if usp_count == 0
+      assign usp_count = 1
+      assign usp_single = true
+    endif
+  endif
+-%}
+{%- if usp_count > 0 -%}
+  
+<style>
+  /* ============================================
+     IMAGE USP BAR – Styles
+     ============================================ */
+  .usp-bar {
+    --usp-bg: {{ section.settings.usp_bar_bg | default: '#f0f0f0' }};
+    --usp-bg-opacity: {{ section.settings.usp_bar_bg_opacity | default: 90 }};
+    --usp-text-color: {{ section.settings.usp_bar_text_color | default: '#000000' }};
+    --usp-font-weight: {{ section.settings.usp_bar_font_weight | default: '700' }};
+    --usp-font-size-mobile: {{ section.settings.usp_bar_font_size_mobile | default: 14 }}px;
+    --usp-font-size-desktop: {{ section.settings.usp_bar_font_size_desktop | default: 13 }}px;
+    --tooltip-bg: {{ section.settings.usp_tooltip_bg | default: '#ffffff' }};
+    --tooltip-bg-opacity: {{ section.settings.usp_tooltip_bg_opacity | default: 95 }};
+    --tooltip-text-color: {{ section.settings.usp_tooltip_text_color | default: '#000000' }};
+    --tooltip-radius: {{ section.settings.usp_tooltip_radius | default: 4 }}px;
+    --tooltip-font-size-mobile: {{ section.settings.usp_tooltip_font_size_mobile | default: 13 }}px;
+    --tooltip-font-size-desktop: {{ section.settings.usp_tooltip_font_size_desktop | default: 14 }}px;
+    --tooltip-link-font-size-mobile: {{ section.settings.usp_tooltip_link_font_size_mobile | default: 13 }}px;
+    --tooltip-link-font-size-desktop: {{ section.settings.usp_tooltip_link_font_size_desktop | default: 14 }}px;
+
+    position: relative;
+    width: 100%;
+    z-index: 10;
+    margin-top: -1px;
+  }
+  @media (max-width: 767px) {
+  .usp-bar--overlay {
+    position: absolute !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    margin-top: 0 !important;
+  }
+  .usp-bar:not(.usp-bar--overlay) {
+    display: none;
+  }
+}
+
+  /* When teleported into first image */
+  .usp-bar--overlay {
+    position: absolute !important;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 0;
+  }
+  .usp-bar-parent {
+    position: relative !important;
+    overflow: visible !important;
+  }
+
+  /* --- USP Slide Container --- */
+  .usp-bar__slides {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .usp-bar__slide {
+    display: none;
+    flex-direction: column;
+  }
+  .usp-bar__slide.is-active {
+    display: flex;
+  }
+
+  /* --- Bottom Bar (Headline + Tooltip Trigger) --- */
+  .usp-bar__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 16px;
+    background: rgba(
+  {{ section.settings.usp_bar_bg | color_extract: 'red' }},
+  {{ section.settings.usp_bar_bg | color_extract: 'green' }},
+  {{ section.settings.usp_bar_bg | color_extract: 'blue' }},
+  {{ section.settings.usp_bar_bg_opacity | default: 90 | times: 0.01 }}
+);
+    color: {{ section.settings.usp_bar_text_color | default: '#000000' }} !important;
+    min-height: 44px;
+    gap: 12px;
+  }
+
+  .usp-bar__headline {
+    font-weight: var(--usp-font-weight);
+    font-size: var(--usp-font-size-mobile);
+    color: {{ section.settings.usp_bar_text_color | default: '#000000' }} !important;
+    line-height: 1.3;
+    margin: 0;
+    flex: 1;
+  }
+  @media (min-width: 768px) {
+    .usp-bar__headline {
+      font-size: var(--usp-font-size-desktop);
+    }
+  }
+
+  /* --- Tooltip Trigger --- */
+  .usp-bar__tooltip-trigger {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+    white-space: nowrap;
+    color: {{ section.settings.usp_bar_text_color | default: '#000000' }} !important;
+    font-size: var(--tooltip-link-font-size-mobile);
+    text-decoration: none;
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+  }
+  @media (min-width: 768px) {
+    .usp-bar__tooltip-trigger {
+      font-size: var(--tooltip-link-font-size-desktop);
+    }
+  }
+
+  .usp-bar__tooltip-trigger:hover {
+    text-decoration: underline;
+  }
+
+  .usp-bar__tooltip-trigger svg {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+  }
+
+  .usp-bar__tooltip-icon-img {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    object-fit: contain;
+  }
+
+  /* --- Tooltip Box --- */
+  .usp-bar__tooltip {
+    background: rgba(
+  {{ section.settings.usp_bar_bg | color_extract: 'red' }},
+  {{ section.settings.usp_bar_bg | color_extract: 'green' }},
+  {{ section.settings.usp_bar_bg | color_extract: 'blue' }},
+  {{ section.settings.usp_bar_bg_opacity | default: 90 | times: 0.01 }}
+);
+    color: var(--tooltip-text-color);
+    padding: 16px 18px;
+    font-size: var(--tooltip-font-size-mobile);
+    line-height: 1.55;
+    border-radius: var(--tooltip-radius);
+    position: relative;
+    {% if section.settings.usp_tooltip_shadow %}
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.05);
+    {% endif %}
+  }
+  @media (min-width: 768px) {
+    .usp-bar__tooltip {
+      font-size: var(--tooltip-font-size-desktop);
+    }
+  }
+
+  /* Tooltip Arrow */
+  .usp-bar__tooltip::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    right: 24px;
+    width: 16px;
+    height: 16px;
+    background: var(--tooltip-bg);
+    transform: rotate(45deg);
+    {% if section.settings.usp_tooltip_shadow %}
+      box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.04);
+    {% endif %}
+  }
+
+  /* --- Navigation Dots --- */
+  .usp-bar__dots {
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    padding: 8px 0 4px;
+  }
+
+  .usp-bar__dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.15);
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.2s ease;
+  }
+  .usp-bar__dot:hover {
+    background: rgba(0, 0, 0, 0.3);
+  }
+  .usp-bar__dot.is-active {
+    background: rgba(0, 0, 0, 0.5);
+    transform: scale(1.15);
+  }
+
+  /* --- Transition --- */
+  .usp-bar__tooltip-wrapper {
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.3s ease;
+    max-height: 0;
+    opacity: 0;
+  }
+  .usp-bar__tooltip-wrapper.is-open {
+    max-height: 600px;
+    opacity: 1;
+  }
+
+  /* --- Video --- */
+  .usp-bar__video {
+    width: 100%;
+    border-radius: var(--tooltip-radius);
+    display: block;
+  }
+  .usp-bar__tooltip-text-below-video {
+    margin-top: 10px;
+  }
+</style>
+
+<div
+  class="usp-bar"
+  x-data="{
+    activeIndex: 0,
+    tooltipOpen: false,
+    count: {{ usp_count }},
+    setSlide(index) {
+      this.tooltipOpen = false;
+      this.$el.querySelectorAll('video').forEach(v => v.pause());
+      this.activeIndex = index;
+    },
+    toggleTooltip() {
+      this.tooltipOpen = !this.tooltipOpen;
+      if (!this.tooltipOpen) {
+        this.$el.querySelectorAll('video').forEach(v => v.pause());
+      }
+    }
+  }"
+  x-init="
+    $nextTick(() => {
+      const bar = $el;
+      const container = bar.closest('.product-media-container');
+      if (!container) return;
+      /* Target the main image slider container (not __track, so bar stays fixed during slide transitions) */
+      const mainSplide = container.querySelector('.splide');
+      if (mainSplide) {
+        mainSplide.style.position = 'relative';
+        bar.classList.add('usp-bar--overlay');
+        mainSplide.appendChild(bar);
+        return;
+      }
+      /* Fallback for stacked layout */
+      const firstImg = container.querySelector('img, picture');
+      if (firstImg) {
+        const wrapper = firstImg.closest('[data-media-id]') || firstImg.closest('div');
+        if (wrapper) {
+          wrapper.classList.add('usp-bar-parent');
+          bar.classList.add('usp-bar--overlay');
+          wrapper.appendChild(bar);
+        }
+      }
+    })
+  "
+  @keydown.escape="tooltipOpen = false"
+  @click.outside="tooltipOpen = false"
+>
+  <div class="usp-bar__slides">
+    {%- if usp_single -%}
+      {%- liquid
+        assign headline = usp_items_raw.usp_headline | default: ''
+        assign description = usp_items_raw.usp_description | default: ''
+        assign tooltip_text = usp_items_raw.tooltip_text | default: 'Mehr Infos'
+        assign tooltip_icon = usp_items_raw.tooltip_icon
+        assign tooltip_video = usp_items_raw.tooltip_video
+        assign position = usp_items_raw.image_position | default: 1
+        assign has_tooltip_content = false
+        if description != blank or tooltip_video != blank
+          assign has_tooltip_content = true
+        endif
+      -%}
+
+      <div class="usp-bar__slide is-active" data-usp-position="{{ position }}">
+        {%- if has_tooltip_content -%}
+          <div class="usp-bar__tooltip-wrapper" :class="{ 'is-open': tooltipOpen }">
+            <div class="usp-bar__tooltip">
+              {%- if tooltip_video != blank -%}
+                <video
+                  class="usp-bar__video"
+                  src="{{ tooltip_video | file_url }}"
+                  controls
+                  playsinline
+                  preload="metadata"
+                ></video>
+              {%- endif -%}
+              {%- if description != blank -%}
+                <div{% if tooltip_video != blank %} class="usp-bar__tooltip-text-below-video"{% endif %}>
+                  {{ description }}
+                </div>
+              {%- endif -%}
+            </div>
+          </div>
+        {%- endif -%}
+
+        <div class="usp-bar__bottom">
+          <span class="usp-bar__headline">{{ headline }}</span>
+          {%- if has_tooltip_content -%}
+            <button
+              class="usp-bar__tooltip-trigger"
+              @click="toggleTooltip()"
+              
+              
+              aria-label="{{ tooltip_text }}"
+            >
+              {%- if tooltip_icon != blank -%}
+                <img class="usp-bar__tooltip-icon-img" src="{{ tooltip_icon | image_url: width: 32 }}" alt="" width="16" height="16" loading="lazy">
+              {%- else -%}
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z" clip-rule="evenodd" />
+                </svg>
+              {%- endif -%}
+              <span style="text-decoration: underline;">{{ tooltip_text }}</span>
+            </button>
+          {%- endif -%}
+        </div>
+      </div>
+    {%- else -%}
+    {%- for usp_item in usp_items_raw -%}
+      {%- liquid
+        assign headline = usp_item.usp_headline | default: ''
+        assign description = usp_item.usp_description | default: ''
+        assign tooltip_text = usp_item.tooltip_text | default: 'Mehr Infos'
+        assign tooltip_icon = usp_item.tooltip_icon
+        assign tooltip_video = usp_item.tooltip_video
+        assign position = usp_item.image_position | default: forloop.index
+        assign has_tooltip_content = false
+        if description != blank or tooltip_video != blank
+          assign has_tooltip_content = true
+        endif
+      -%}
+
+      <div
+        class="usp-bar__slide"
+        :class="{ 'is-active': activeIndex === {{ forloop.index0 }} }"
+        data-usp-position="{{ position }}"
+      >
+        {%- if has_tooltip_content -%}
+          <div
+            class="usp-bar__tooltip-wrapper"
+            :class="{ 'is-open': tooltipOpen && activeIndex === {{ forloop.index0 }} }"
+          >
+            <div class="usp-bar__tooltip">
+              {%- if tooltip_video != blank -%}
+                <video
+                  class="usp-bar__video"
+                  src="{{ tooltip_video | file_url }}"
+                  controls
+                  playsinline
+                  preload="metadata"
+                ></video>
+              {%- endif -%}
+              {%- if description != blank -%}
+                <div{% if tooltip_video != blank %} class="usp-bar__tooltip-text-below-video"{% endif %}>
+                  {{ description }}
+                </div>
+              {%- endif -%}
+            </div>
+          </div>
+        {%- endif -%}
+
+        <div class="usp-bar__bottom">
+          <span class="usp-bar__headline">{{ headline }}</span>
+
+          {%- if has_tooltip_content -%}
+            <button
+              class="usp-bar__tooltip-trigger"
+              @click="toggleTooltip()"
+              
+              
+              aria-label="{{ tooltip_text }}"
+            >
+              {%- if tooltip_icon != blank -%}
+                <img
+                  class="usp-bar__tooltip-icon-img"
+                  src="{{ tooltip_icon | image_url: width: 32 }}"
+                  alt=""
+                  width="16"
+                  height="16"
+                  loading="lazy"
+                >
+              {%- else -%}
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                  <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z" clip-rule="evenodd" />
+                </svg>
+              {%- endif -%}
+              <span style="text-decoration: underline;">{{ tooltip_text }}</span>
+            </button>
+          {%- endif -%}
+        </div>
+      </div>
+    {%- endfor -%}
+    {%- endif -%}
+  </div>
+
+  {%- if usp_count > 1 -%}
+    <div class="usp-bar__dots">
+      {%- for usp_item in usp_items_raw -%}
+        <button
+          class="usp-bar__dot"
+          :class="{ 'is-active': activeIndex === {{ forloop.index0 }} }"
+          @click="setSlide({{ forloop.index0 }})"
+          aria-label="USP {{ forloop.index }}"
+        ></button>
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+</div>
+{%- endif -%}

@@ -1,0 +1,424 @@
+{% doc %}
+  @prompt
+    Ein Countdown mit Tage Stunden Minuten, Kannst du die Boxen entfernen? Ich will nur Zahlen. Und meine Überschriften Schriftart
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-countdown-{{ ai_gen_id }} {
+    display: block;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    padding: {{ block.settings.padding }}px;
+    background-color: {{ block.settings.background_color }};
+    border-radius: {{ block.settings.border_radius }}px;
+  }
+
+  .ai-countdown-container-{{ ai_gen_id }} {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .ai-countdown-heading-{{ ai_gen_id }} {
+    color: {{ block.settings.heading_color }};
+    font-size: {{ block.settings.heading_size }}px;
+    font-family: {{ settings.type_header_font.family }}, {{ settings.type_header_font.fallback_families }};
+    font-weight: {{ settings.type_header_font.weight }};
+    font-style: {{ settings.type_header_font.style }};
+    margin: 0;
+    text-align: center;
+  }
+
+  .ai-countdown-timer-{{ ai_gen_id }} {
+    display: flex;
+    gap: {{ block.settings.spacing }}px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .ai-countdown-unit-{{ ai_gen_id }} {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .ai-countdown-value-{{ ai_gen_id }} {
+    color: {{ block.settings.number_color }};
+    font-size: {{ block.settings.number_size }}px;
+    font-family: {{ settings.type_header_font.family }}, {{ settings.type_header_font.fallback_families }};
+    font-weight: {{ settings.type_header_font.weight }};
+    font-style: {{ settings.type_header_font.style }};
+    text-align: center;
+    line-height: 1;
+  }
+
+  .ai-countdown-label-{{ ai_gen_id }} {
+    color: {{ block.settings.label_color }};
+    font-size: {{ block.settings.label_size }}px;
+    text-transform: {{ block.settings.label_transform }};
+  }
+
+  .ai-countdown-expired-{{ ai_gen_id }} {
+    color: {{ block.settings.expired_text_color }};
+    font-size: {{ block.settings.expired_text_size }}px;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 749px) {
+  .ai-countdown-{{ ai_gen_id }} {
+    width: 100%;
+    padding: calc({{ block.settings.padding }}px * 0.6);
+  }
+
+  .ai-countdown-value-{{ ai_gen_id }} {
+    font-size: calc({{ block.settings.number_size }}px * 0.7);
+  }
+
+  .ai-countdown-heading-{{ ai_gen_id }} {
+    font-size: calc({{ block.settings.heading_size }}px * 0.75);
+  }
+
+  .ai-countdown-timer-{{ ai_gen_id }} {
+    gap: calc({{ block.settings.spacing }}px * 0.6);
+  }
+
+  .ai-countdown-label-{{ ai_gen_id }} {
+    font-size: calc({{ block.settings.label_size }}px * 0.9);
+  }
+}
+{% endstyle %}
+
+<countdown-timer-{{ ai_gen_id }}
+  class="ai-countdown-{{ ai_gen_id }}"
+  data-end-date="{{ block.settings.end_date }}"
+  data-end-time="{{ block.settings.end_time }}"
+  {{ block.shopify_attributes }}
+>
+  <div class="ai-countdown-container-{{ ai_gen_id }}">
+    {% if block.settings.heading != blank %}
+      <h2 class="ai-countdown-heading-{{ ai_gen_id }}">{{ block.settings.heading }}</h2>
+    {% endif %}
+
+    <div class="ai-countdown-timer-{{ ai_gen_id }}" data-timer>
+      <div class="ai-countdown-unit-{{ ai_gen_id }}">
+        <div class="ai-countdown-value-{{ ai_gen_id }}" data-days>0</div>
+        <div class="ai-countdown-label-{{ ai_gen_id }}">{{ block.settings.days_label }}</div>
+      </div>
+
+      <div class="ai-countdown-unit-{{ ai_gen_id }}">
+        <div class="ai-countdown-value-{{ ai_gen_id }}" data-hours>0</div>
+        <div class="ai-countdown-label-{{ ai_gen_id }}">{{ block.settings.hours_label }}</div>
+      </div>
+
+      <div class="ai-countdown-unit-{{ ai_gen_id }}">
+        <div class="ai-countdown-value-{{ ai_gen_id }}" data-minutes>0</div>
+        <div class="ai-countdown-label-{{ ai_gen_id }}">{{ block.settings.minutes_label }}</div>
+      </div>
+
+      <div class="ai-countdown-unit-{{ ai_gen_id }}">
+  <div class="ai-countdown-value-{{ ai_gen_id }}" data-seconds>0</div>
+  <div class="ai-countdown-label-{{ ai_gen_id }}">{{ block.settings.seconds_label }}</div>
+</div>
+
+    </div>
+
+    <div class="ai-countdown-expired-{{ ai_gen_id }}" data-expired style="display: none;">
+      {{ block.settings.expired_message }}
+    </div>
+  </div>
+</countdown-timer-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class CountdownTimer{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.endDate = this.dataset.endDate;
+        this.endTime = this.dataset.endTime;
+        this.timerElement = this.querySelector('[data-timer]');
+        this.expiredElement = this.querySelector('[data-expired]');
+        this.daysElement = this.querySelector('[data-days]');
+        this.hoursElement = this.querySelector('[data-hours]');
+        this.minutesElement = this.querySelector('[data-minutes]');
+        this.secondsElement = this.querySelector('[data-seconds]');
+        this.interval = null;
+      }
+
+      connectedCallback() {
+        if (this.endDate && this.endTime) {
+          this.startCountdown();
+        } else {
+          this.showExpired();
+        }
+      }
+
+      disconnectedCallback() {
+        if (this.interval) {
+          clearInterval(this.interval);
+        }
+      }
+
+      startCountdown() {
+        this.updateCountdown();
+        this.interval = setInterval(() => {
+          this.updateCountdown();
+        }, 1000);
+      }
+
+      updateCountdown() {
+        const endDateTime = new Date(this.endDate + 'T' + this.endTime).getTime();
+        const now = new Date().getTime();
+        const distance = endDateTime - now;
+
+        if (distance < 0) {
+          this.showExpired();
+          if (this.interval) {
+            clearInterval(this.interval);
+          }
+          return;
+        }
+
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        this.daysElement.textContent = String(days).padStart(2, '0');
+        this.hoursElement.textContent = String(hours).padStart(2, '0');
+        this.minutesElement.textContent = String(minutes).padStart(2, '0');
+        this.secondsElement.textContent = String(seconds).padStart(2, '0');
+      }
+
+      showExpired() {
+        if (this.timerElement) {
+          this.timerElement.style.display = 'none';
+        }
+        if (this.expiredElement) {
+          this.expiredElement.style.display = 'block';
+        }
+      }
+    }
+
+    customElements.define('countdown-timer-{{ ai_gen_id }}', CountdownTimer{{ ai_gen_id }});
+  })();
+</script>
+
+{% schema %}
+{
+  "name": "Countdown Timer",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Inhalt"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Überschrift",
+      "default": "Angebot endet in"
+    },
+    {
+      "type": "text",
+      "id": "end_date",
+      "label": "Enddatum",
+      "info": "Format: YYYY-MM-DD (z.B. 2026-12-31)",
+      "default": "2026-12-31"
+    },
+    {
+      "type": "text",
+      "id": "end_time",
+      "label": "Endzeit",
+      "info": "Format: HH:MM (z.B. 23:59)",
+      "default": "23:59"
+    },
+    {
+      "type": "text",
+      "id": "expired_message",
+      "label": "Abgelaufene Nachricht",
+      "default": "Das Angebot ist abgelaufen"
+    },
+    {
+      "type": "header",
+      "content": "Beschriftungen"
+    },
+    {
+      "type": "text",
+      "id": "days_label",
+      "label": "Tage Beschriftung",
+      "default": "Tage"
+    },
+    {
+      "type": "text",
+      "id": "hours_label",
+      "label": "Stunden Beschriftung",
+      "default": "Stunden"
+    },
+    {
+      "type": "text",
+      "id": "minutes_label",
+      "label": "Minuten Beschriftung",
+      "default": "Minuten"
+    },
+    {
+  "type": "text",
+  "id": "seconds_label",
+  "label": "Sekunden Beschriftung",
+  "default": "Sekunden"
+},
+    {
+      "type": "select",
+      "id": "label_transform",
+      "label": "Beschriftung Texttransformation",
+      "options": [
+        {
+          "value": "none",
+          "label": "Keine"
+        },
+        {
+          "value": "uppercase",
+          "label": "Großbuchstaben"
+        },
+        {
+          "value": "lowercase",
+          "label": "Kleinbuchstaben"
+        },
+        {
+          "value": "capitalize",
+          "label": "Kapitälchen"
+        }
+      ],
+      "default": "none"
+    },
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "desktop_width_percent",
+      "label": "Desktop Breite",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 100
+    },
+    {
+      "type": "range",
+      "id": "padding",
+      "label": "Innenabstand",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "spacing",
+      "label": "Abstand zwischen Einheiten",
+      "min": 10,
+      "max": 50,
+      "step": 5,
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "label": "Rahmenradius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 8
+    },
+    {
+      "type": "header",
+      "content": "Farben"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Hintergrundfarbe",
+      "default": "#FFFFFF"
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Überschrift Farbe",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "number_color",
+      "label": "Zahlen Farbe",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "label_color",
+      "label": "Beschriftung Farbe",
+      "default": "#525151"
+    },
+    {
+      "type": "color",
+      "id": "expired_text_color",
+      "label": "Abgelaufener Text Farbe",
+      "default": "#CE021E"
+    },
+    {
+      "type": "header",
+      "content": "Typografie"
+    },
+    {
+      "type": "range",
+      "id": "heading_size",
+      "label": "Überschrift Größe",
+      "min": 16,
+      "max": 60,
+      "step": 2,
+      "unit": "px",
+      "default": 32
+    },
+    {
+      "type": "range",
+      "id": "number_size",
+      "label": "Zahlen Größe",
+      "min": 20,
+      "max": 80,
+      "step": 2,
+      "unit": "px",
+      "default": 48
+    },
+    {
+      "type": "range",
+      "id": "label_size",
+      "label": "Beschriftung Größe",
+      "min": 10,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "default": 14
+    },
+    {
+      "type": "range",
+      "id": "expired_text_size",
+      "label": "Abgelaufener Text Größe",
+      "min": 14,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 20
+    }
+  ],
+  "presets": [
+    {
+      "name": "Countdown Timer"
+    }
+  ]
+}
+{% endschema %}

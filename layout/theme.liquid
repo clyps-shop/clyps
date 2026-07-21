@@ -82,6 +82,24 @@
       <meta name="description" content="{{ page_description | escape }}">
     {% endif %}
     {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
+    {%- style -%}
+      /* clyps Badges: visually-hidden text for screen readers when the visual pill sits inside an aria-labelled link */
+      .sr-only {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+      /* clyps Badges: on the product page, stack below the built-in badge container when it has content */
+      .x-badges-container:not(:empty) + .clyps-badges {
+        margin-top: 2.25rem;
+      }
+    {%- endstyle -%}
     {% # theme-check-disable AssetPreload %}
     <link rel="preload" href="{{ settings.type_body_font | font_url }}" as="font" type="font/woff2" crossorigin="anonymous" />
     {% # theme-check-enable AssetPreload %}

@@ -20,7 +20,7 @@
         assign clyps_badge_bg = settings[clyps_badge_bg_key]
         assign clyps_badge_color = settings[clyps_badge_color_key]
       -%}
-      <span class="clyps-badge inline-flex items-center rounded-full px-3 py-1 text-xs font-medium leading-none whitespace-nowrap" style="background-color: {{ clyps_badge_bg }}; color: {{ clyps_badge_color }};">{{ clyps_badge_text | escape }}</span>
+      <span class="clyps-badge inline-flex items-center rounded-full px-3 py-1 text-xs font-medium leading-none whitespace-nowrap" style="background-color: {{ clyps_badge_bg | escape }}; color: {{ clyps_badge_color | escape }};">{{ clyps_badge_text | escape }}</span>
     {%- endif -%}
   {%- endfor -%}
 </div>

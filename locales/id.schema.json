@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Font",
-          "info": "Memilih font yang berbeda dapat memengaruhi kecepatan toko Anda. [Pelajari lebih lanjut tentang font sistem.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Memilih font yang berbeda dapat memengaruhi kecepatan toko Anda. [Pelajari lebih lanjut tentang font sistem.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Judul"
@@ -112,7 +112,7 @@
           "content": "Isi"
         },
         "type_body_font": {
-          "info": "Memilih font yang berbeda dapat memengaruhi kecepatan toko Anda. [Pelajari lebih lanjut tentang font sistem.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Memilih font yang berbeda dapat memengaruhi kecepatan toko Anda. [Pelajari lebih lanjut tentang font sistem.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Skala ukuran font"
@@ -136,7 +136,7 @@
         "info": "Pengaturan di bawah ini secara otomatis menambahkan contoh warna ke filter di halaman koleksi dan pencarian.",
         "swatches_filter": {
           "header": "Filter",
-          "info": "Untuk memfilter menggunakan nilai warna atau gambar tambahan, buat metaobjek dan referensi metaobjek, lalu ubah pengaturan di bawah sesuai preferensi Anda. [Pelajari tentang menampilkan filter visual menggunakan metaobjek.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "Untuk memfilter menggunakan nilai warna atau gambar tambahan, buat metaobjek dan referensi metaobjek, lalu ubah pengaturan di bawah sesuai preferensi Anda. [Pelajari tentang menampilkan filter visual menggunakan metaobjek.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "Tampilkan teks di samping contoh",
           "visual_style": {
             "label": "Gaya nilai visual",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Fitur yang disorot",
-        "paragraph": "Tampilkan kualitas produk yang menonjol di kartu untuk mengkomunikasikan nilai secara sekilas dan mendukung keputusan pembelian yang lebih cepat dan percaya diri. Pelajari lebih lanjut di [panduan pengguna](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards) kami.",
+        "paragraph": "Tampilkan kualitas produk yang menonjol di kartu untuk mengkomunikasikan nilai secara sekilas dan mendukung keputusan pembelian yang lebih cepat dan percaya diri. Pelajari lebih lanjut di [panduan pengguna](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards) kami.",
         "highlighted_features_position": {
           "option__1": "Atas kartu",
           "option__2": "Di bawah judul produk",
@@ -199,7 +199,7 @@
       "color_option_info": "Isi semua nama opsi warna yang digunakan di toko, frasa dalam bahasa yang berbeda dipisahkan dengan koma. (Contoh: Color, Colour, Couleur).",
       "color_option_values": "Nilai contoh warna",
       "color_swatches_example": "Satu 'nama warna:nilai' per baris. Hingga tiga warna dapat digunakan untuk menampilkan garis vertikal. Contoh: 'Red Blue Stripes:#e22#22e'",
-      "color_swatches_guide": "Untuk menggunakan gambar sebagai contoh warna, [unggah gambar PNG](\/admin\/settings\/files) dengan nama file yang cocok dengan nama warna, dan spasi diganti dengan tanda hubung. Contoh: untuk 'Hot Pink', unggah 'hot-pink.png'.",
+      "color_swatches_guide": "Untuk menggunakan gambar sebagai contoh warna, [unggah gambar PNG](/admin/settings/files) dengan nama file yang cocok dengan nama warna, dan spasi diganti dengan tanda hubung. Contoh: untuk 'Hot Pink', unggah 'hot-pink.png'.",
       "products_color_swatches_enable_on_collection_page": "Aktifkan di kartu produk",
       "replace_color_with_variant_images": "Ganti opsi warna dengan gambar varian",
       "products_color_swatches_style": "Gaya contoh",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Ukir produk ini",
       "highlight_icon": {
         "name": "Atribut yang disorot",
-        "info": "Tampilkan ikon pada kartu produk agar pelanggan dapat dengan cepat memahami karakteristik produk yang disorot (misalnya bahan, alergen). Pelajari lebih lanjut di [panduan pengguna](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards) kami.",
+        "info": "Tampilkan ikon pada kartu produk agar pelanggan dapat dengan cepat memahami karakteristik produk yang disorot (misalnya bahan, alergen). Pelajari lebih lanjut di [panduan pengguna](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards) kami.",
         "icon_1": "Ikon 1",
         "icon_2": "Ikon 2",
         "icon_3": "Ikon 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Gunakan warna tombol",
       "button_colors": "Warna tombol"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "Animasi item menu level 1",
         "note": "Hanya berfungsi dengan gaya sorotan menu Penanda dan Bling bling"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "LinkedIn",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "Label dan lencana produk",
-      "info": "Label dan lencana produk diatur di bagian Label dan lencana produk dalam grup Overlay. Jika Anda ingin menampilkan metafield produk sebagai label dan lencana, isi kunci metafield di kotak teks di bawah, lalu navigasikan ke bagian untuk mengonfigurasi tampilan label. Hanya jenis metafield teks satu baris yang diterima. Pelajari lebih lanjut di [panduan pengguna kami.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "Label dan lencana produk diatur di bagian Label dan lencana produk dalam grup Overlay. Jika Anda ingin menampilkan metafield produk sebagai label dan lencana, isi kunci metafield di kotak teks di bawah, lalu navigasikan ke bagian untuk mengonfigurasi tampilan label. Hanya jenis metafield teks satu baris yang diterima. Pelajari lebih lanjut di [panduan pengguna kami.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Metafield yang digunakan dalam label",
           "info": "Isi kunci metafield produk lengkap (misalnya custom.metafield-1). Satu kunci metafield per baris."
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "Favicon",
@@ -468,9 +495,9 @@
       "cart_upsell": "Upsell keranjang",
       "enable_cart_upsell": "Aktifkan di minicart",
       "cart_upsell_note": "Jika diaktifkan di minicart dan halaman keranjang, rekomendasi upsell dapat ditampilkan mengikuti prioritas ini (dari tinggi ke rendah):",
-      "cart_upsell_note_1": "(1) dengan membuat metafield produk di upsell keranjang dan kolom ini tidak kosong.[Lihat panduan pengguna kami untuk detail lebih lanjut.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) dengan membuat metafield produk di upsell keranjang dan kolom ini tidak kosong.[Lihat panduan pengguna kami untuk detail lebih lanjut.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) dengan memilih daftar produk secara manual di pengaturan di bawah",
-      "cart_upsell_note_3": "(3) dengan menggunakan rekomendasi dinamis berdasarkan rekomendasi produk Shopify.[Pelajari lebih lanjut.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) dengan menggunakan rekomendasi dinamis berdasarkan rekomendasi produk Shopify.[Pelajari lebih lanjut.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "Jika Anda menggunakan metafield produk untuk menambahkan produk upsell, biarkan kolom ini kosong.",
       "number_of_product_shown": "Jumlah produk yang ditampilkan",
       "section_label": "Label bagian",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Regex validasi (Lanjutan)",
-          "info": "Untuk tujuan validasi kolom. Harap hindari menggunakannya jika Anda tidak terbiasa dengan Regex. Untuk bantuan dengan Regex atau memperbaiki masalah yang timbul darinya, silakan [hubungi dukungan kami](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Untuk tujuan validasi kolom. Harap hindari menggunakannya jika Anda tidak terbiasa dengan Regex. Untuk bantuan dengan Regex atau memperbaiki masalah yang timbul darinya, silakan [hubungi dukungan kami](https://omnithemes.com/contact/)."
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Jumlah hari minimum pengiriman",
-          "info": "Jumlah hari minimum yang dibutuhkan untuk mengirim semua pesanan. Gunakan titik koma untuk membedakan antara pasar pengiriman jika diperlukan (misalnya US:6;GB:3), atau isi satu angka untuk berlaku di semua pasar yang tersedia. Kode negara harus mengikuti [standar ISO 3166.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Untuk menyesuaikan setiap produk, buat metafield dengan kunci 'custom.delivery_date_min' dan jenis 'Text'. [Pelajari lebih lanjut tentang membuat metafield](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) atau [hubungi dukungan kami](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Jumlah hari minimum yang dibutuhkan untuk mengirim semua pesanan. Gunakan titik koma untuk membedakan antara pasar pengiriman jika diperlukan (misalnya US:6;GB:3), atau isi satu angka untuk berlaku di semua pasar yang tersedia. Kode negara harus mengikuti [standar ISO 3166.](https://www.iban.com/country-codes)",
+          "note": "Untuk menyesuaikan setiap produk, buat metafield dengan kunci 'custom.delivery_date_min' dan jenis 'Text'. [Pelajari lebih lanjut tentang membuat metafield](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) atau [hubungi dukungan kami](https://omnithemes.com/contact/)."
         },
         "max_days": {
           "label": "Jumlah hari maksimum pengiriman",
-          "info": "Jumlah hari maksimum yang dibutuhkan untuk mengirim semua pesanan. Gunakan titik koma untuk membedakan antara pasar pengiriman jika diperlukan (misalnya US:6;GB:3), atau isi satu angka untuk berlaku di semua pasar yang tersedia. Kode negara harus mengikuti [standar ISO 3166.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Untuk menyesuaikan setiap produk, buat metafield dengan kunci 'custom.delivery_date_max' dan jenis 'Text'. [Pelajari lebih lanjut tentang membuat metafield](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) atau [hubungi dukungan kami](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Jumlah hari maksimum yang dibutuhkan untuk mengirim semua pesanan. Gunakan titik koma untuk membedakan antara pasar pengiriman jika diperlukan (misalnya US:6;GB:3), atau isi satu angka untuk berlaku di semua pasar yang tersedia. Kode negara harus mengikuti [standar ISO 3166.](https://www.iban.com/country-codes)",
+          "note": "Untuk menyesuaikan setiap produk, buat metafield dengan kunci 'custom.delivery_date_max' dan jenis 'Text'. [Pelajari lebih lanjut tentang membuat metafield](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) atau [hubungi dukungan kami](https://omnithemes.com/contact/)."
         },
         "cutoff_time": {
           "content": "Waktu batas"
@@ -686,7 +713,7 @@
       "note": "Tampilkan URL asli untuk halaman koleksi yang diberi nomor sebagai tag kanonis.",
       "header": {
         "content": "Informasi bisnis",
-        "info": "Digunakan untuk ditampilkan dalam data terstruktur situs dan pada kartu grafik SERP Google. Pelajari lebih lanjut tentang [skema organisasi](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
+        "info": "Digunakan untuk ditampilkan dalam data terstruktur situs dan pada kartu grafik SERP Google. Pelajari lebih lanjut tentang [skema organisasi](https://developers.google.com/search/docs/appearance/structured-data/organization)."
       },
       "enable_organization_schema": {
         "label": "Aktifkan skema organisasi"
@@ -727,15 +754,15 @@
       "other": {
         "header": "Skema lainnya",
         "schema_breadcrumbs": "Tambahkan skema ke breadcrumbs",
-        "info_breadcrumbs": "Lihat [dokumentasi skema BreadcrumbList](https:\/\/schema.org\/BreadcrumbList) untuk detailnya.",
+        "info_breadcrumbs": "Lihat [dokumentasi skema BreadcrumbList](https://schema.org/BreadcrumbList) untuk detailnya.",
         "search": "Tambahkan skema SearchAction ke halaman beranda",
-        "info_search": "Lihat [dokumentasi skema SearchAction](https:\/\/schema.org\/SearchAction) untuk detailnya."
+        "info_search": "Lihat [dokumentasi skema SearchAction](https://schema.org/SearchAction) untuk detailnya."
       }
     },
     "combined_listing": {
       "name": "Daftar Gabungan (Khusus Plus)",
       "enable_combined": "Aktifkan Daftar Gabungan Produk",
-      "info": "Instal aplikasi [Daftar Gabungan](https:\/\/apps.shopify.com\/combined-listings) dan aktifkan pengaturan ini untuk menggunakan fitur ini. Tersedia hanya pada paket Plus dan enterprise commerce."
+      "info": "Instal aplikasi [Daftar Gabungan](https://apps.shopify.com/combined-listings) dan aktifkan pengaturan ini untuk menggunakan fitur ini. Tersedia hanya pada paket Plus dan enterprise commerce."
     },
     "reorder": {
       "name": "Susun Ulang",
@@ -746,10 +773,10 @@
       "name": "Lanjutan",
       "product_reviews_app": {
         "label": "Aplikasi ulasan produk",
-        "info": "Pilih aplikasi ulasan untuk diintegrasikan dengan peringkat produk bawaan tema. Beberapa aplikasi di opsi 'Lainnya' mungkin tidak sepenuhnya kompatibel dengan tema, harap [hubungi kami untuk dukungan](https:\/\/omnithemes.com\/contact\/)."
+        "info": "Pilih aplikasi ulasan untuk diintegrasikan dengan peringkat produk bawaan tema. Beberapa aplikasi di opsi 'Lainnya' mungkin tidak sepenuhnya kompatibel dengan tema, harap [hubungi kami untuk dukungan](https://omnithemes.com/contact/)."
       },
       "custom_html": "Kode kustom",
-      "custom_info": "Untuk dukungan dalam menangani kode kustom atau memperbaiki masalah terkait kode kustom, harap [hubungi kami](https:\/\/omnithemes.com\/contact\/).",
+      "custom_info": "Untuk dukungan dalam menangani kode kustom atau memperbaiki masalah terkait kode kustom, harap [hubungi kami](https://omnithemes.com/contact/).",
       "additional_head": {
         "label": "HTML untuk tag <head>",
         "info": "Digunakan untuk kode HTML kustom apa pun yang diterapkan di seluruh situs. Ditempatkan di bagian bawah tag <head> di semua halaman tema, kecuali halaman checkout."
@@ -784,7 +811,7 @@
       "sections_spacing": "Jarak antar bagian",
       "lang_direction": {
         "label": "Bahasa RTL",
-        "info": "Masukkan kode bahasa untuk menampilkan bahasa dalam tata letak RTL. Semua kode harus mengikuti [Tabel Kode Bahasa ISO](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) dan dipisahkan dengan koma (Contoh: ar,fa,ps)"
+        "info": "Masukkan kode bahasa untuk menampilkan bahasa dalam tata letak RTL. Semua kode harus mengikuti [Tabel Kode Bahasa ISO](https://www.w3schools.com/tags/ref_language_codes.asp) dan dipisahkan dengan koma (Contoh: ar,fa,ps)"
       },
       "page_width": "Lebar halaman",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "Animasi zoom-in gambar digunakan di: Gambar kartu produk, Gambar kartu koleksi, Galeri media, Kisi promosi, Pop-up promosi, Kolom teks dengan gambar.",
       "enable_page_transition": "Aktifkan transisi halaman"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "Klasik",
         "option_2": "Modern"
       }
@@ -832,7 +859,7 @@
       "name": "Spanduk cookie",
       "settings": {
         "paragraph": {
-          "content": "Mintalah persetujuan pelanggan Anda untuk menggunakan cookie dan memproses data mereka, sebagaimana disyaratkan oleh Petunjuk ePrivasi dan Peraturan Perlindungan Data Umum Uni Eropa. [Pelajari lebih lanjut](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "Mintalah persetujuan pelanggan Anda untuk menggunakan cookie dan memproses data mereka, sebagaimana disyaratkan oleh Petunjuk ePrivasi dan Peraturan Perlindungan Data Umum Uni Eropa. [Pelajari lebih lanjut](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "Pemberitahuan cookie"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) bagian ini.",
+        "header_general": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) bagian ini.",
         "mega_menu": {
-          "simple_menu": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) blok ini.",
-          "tree_menu": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) blok ini.",
-          "banner_menu": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) blok ini.",
-          "product_menu": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) blok ini.",
-          "blog_menu": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) blok ini.",
-          "tabbed_menu": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) blok ini.",
-          "contact_menu": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) blok ini.",
-          "cta_button": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) blok ini."
+          "simple_menu": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) blok ini.",
+          "tree_menu": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) blok ini.",
+          "banner_menu": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) blok ini.",
+          "product_menu": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) blok ini.",
+          "blog_menu": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) blok ini.",
+          "tabbed_menu": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) blok ini.",
+          "contact_menu": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) blok ini.",
+          "cta_button": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) blok ini."
         },
-        "announcement_bar": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) bagian ini.",
-        "mobile_navigation": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) bagian ini."
+        "announcement_bar": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) bagian ini.",
+        "mobile_navigation": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) bagian ini."
       },
       "footer": {
-        "footer": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) bagian ini.",
-        "quicklinks": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) bagian ini."
+        "footer": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/footer/footer) bagian ini.",
+        "quicklinks": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/footer/quicklinks) bagian ini."
       },
       "section_and_blocks": {
-        "blog_post": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) bagian ini.",
-        "collection_list": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) bagian ini.",
-        "collage": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) bagian ini.",
-        "collection_list_banner": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) bagian ini.",
-        "collection_list_carousel": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) bagian ini.",
-        "comparison_table": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) bagian ini.",
-        "contact_form": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) bagian ini.",
-        "custom_liquid": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) bagian ini.",
-        "email_signup": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) bagian ini.",
-        "event_calendar": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) bagian ini.",
-        "faq": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) bagian ini.",
-        "featured_category": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) bagian ini.",
-        "featured_collection": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) bagian ini.",
-        "featured_product": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) bagian ini.",
-        "flash_sale": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) bagian ini.",
-        "flow": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) bagian ini.",
-        "highlight_text_with_image": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) bagian ini.",
-        "image_comparison": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) bagian ini.",
-        "logo_list": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) bagian ini.",
-        "map": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) bagian ini.",
-        "media_gallery": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) bagian ini.",
-        "media_with_text": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) bagian ini.",
-        "multiple_store": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) bagian ini.",
-        "page": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) bagian ini.",
-        "product_attribute_table": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) bagian ini.",
-        "product_bundle": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) bagian ini.",
-        "product_comparison_table": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) bagian ini.",
-        "product_highlight": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) bagian ini.",
-        "product_grid": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) bagian ini.",
-        "promo_code_list": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) bagian ini.",
-        "promotion_banner": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) bagian ini.",
-        "promotion_grid": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) bagian ini.",
-        "recently_viewed_products": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) bagian ini.",
-        "related_blog_posts": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) bagian ini.",
-        "related_collections": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) bagian ini.",
-        "rich_text": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) bagian ini.",
-        "scrolling_promotion": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) bagian ini.",
-        "shop_the_look": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) bagian ini.",
-        "slideshow": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) bagian ini.",
-        "social_feeds": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) bagian ini.",
-        "tabs": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) bagian ini.",
-        "testimonial": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) bagian ini.",
-        "testimonial_with_cards": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) bagian ini.",
-        "text_columns_with_icons": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) bagian ini.",
-        "text_columns_with_images": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) bagian ini.",
-        "timeline": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) bagian ini.",
-        "vertical_slideshow": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) bagian ini.",
-        "video": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) bagian ini.",
-        "video_hero": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) bagian ini.",
-        "video_looping": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) bagian ini.",
-        "video_shopping": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) bagian ini.",
-        "flexible_area": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) bagian ini."
+        "blog_post": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/blog-post) bagian ini.",
+        "collection_list": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/collection-list) bagian ini.",
+        "collage": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/collage) bagian ini.",
+        "collection_list_banner": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) bagian ini.",
+        "collection_list_carousel": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) bagian ini.",
+        "comparison_table": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) bagian ini.",
+        "contact_form": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/contact-form) bagian ini.",
+        "custom_liquid": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) bagian ini.",
+        "email_signup": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) bagian ini.",
+        "event_calendar": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) bagian ini.",
+        "faq": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/faqs) bagian ini.",
+        "featured_category": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) bagian ini.",
+        "featured_collection": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) bagian ini.",
+        "featured_product": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/featured-product) bagian ini.",
+        "flash_sale": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) bagian ini.",
+        "flow": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/flow) bagian ini.",
+        "highlight_text_with_image": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) bagian ini.",
+        "image_comparison": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) bagian ini.",
+        "logo_list": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/logo-list) bagian ini.",
+        "map": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/map-1) bagian ini.",
+        "media_gallery": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) bagian ini.",
+        "media_with_text": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) bagian ini.",
+        "multiple_store": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) bagian ini.",
+        "page": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/page) bagian ini.",
+        "product_attribute_table": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) bagian ini.",
+        "product_bundle": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) bagian ini.",
+        "product_comparison_table": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) bagian ini.",
+        "product_highlight": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) bagian ini.",
+        "product_grid": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/product-grid) bagian ini.",
+        "promo_code_list": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) bagian ini.",
+        "promotion_banner": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) bagian ini.",
+        "promotion_grid": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) bagian ini.",
+        "recently_viewed_products": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) bagian ini.",
+        "related_blog_posts": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) bagian ini.",
+        "related_collections": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/related-collections) bagian ini.",
+        "rich_text": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/rich-text) bagian ini.",
+        "scrolling_promotion": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) bagian ini.",
+        "shop_the_look": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) bagian ini.",
+        "slideshow": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/slideshow) bagian ini.",
+        "social_feeds": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) bagian ini.",
+        "tabs": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/tabs) bagian ini.",
+        "testimonial": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/testimonial) bagian ini.",
+        "testimonial_with_cards": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) bagian ini.",
+        "text_columns_with_icons": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) bagian ini.",
+        "text_columns_with_images": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) bagian ini.",
+        "timeline": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/timeline) bagian ini.",
+        "vertical_slideshow": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) bagian ini.",
+        "video": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/video) bagian ini.",
+        "video_hero": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/video-hero) bagian ini.",
+        "video_looping": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/video-looping) bagian ini.",
+        "video_shopping": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) bagian ini.",
+        "flexible_area": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) bagian ini."
       },
       "product_page": {
-        "product_description": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) bagian ini.",
+        "product_description": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/product-description) bagian ini.",
         "product_information": {
-          "product_information_general": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) bagian ini.",
-          "buy_buttons": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) blok ini.",
-          "back_in_stock_alert": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) blok ini.",
-          "basic_info": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) blok ini.",
-          "collapsible_tab": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) blok ini.",
-          "collection_link": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) blok ini.",
-          "complementary_product": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) blok ini.",
-          "customizable_options": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) blok ini.",
-          "estimate_delivery": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) blok ini.",
-          "engraving": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) blok ini.",
-          "featured_icon": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) blok ini.",
-          "frequently_bought_together": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) blok ini.",
-          "gift_wrapping": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) blok ini.",
-          "horizontal_tab": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) blok ini.",
-          "inventory_status": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) blok ini.",
-          "nutrition_fact_bar": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) blok ini.",
-          "payment_method": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) blok ini.",
-          "product_sibling": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) blok ini.",
-          "rating": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) blok ini.",
-          "size_chart": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) blok ini.",
-          "social_sharing": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) blok ini.",
-          "sticky_add_to_cart": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) blok ini.",
-          "table_of_information": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) blok ini.",
-          "trust_badge": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) blok ini.",
-          "volume_pricing": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) blok ini.",
-          "other_blocks": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) blok ini."
+          "product_information_general": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/product-information) bagian ini.",
+          "buy_buttons": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) blok ini.",
+          "back_in_stock_alert": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) blok ini.",
+          "basic_info": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) blok ini.",
+          "collapsible_tab": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) blok ini.",
+          "collection_link": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) blok ini.",
+          "complementary_product": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) blok ini.",
+          "customizable_options": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide/customizable-options) blok ini.",
+          "estimate_delivery": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) blok ini.",
+          "engraving": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/engraving) blok ini.",
+          "featured_icon": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) blok ini.",
+          "frequently_bought_together": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) blok ini.",
+          "gift_wrapping": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) blok ini.",
+          "horizontal_tab": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) blok ini.",
+          "inventory_status": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) blok ini.",
+          "nutrition_fact_bar": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) blok ini.",
+          "payment_method": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) blok ini.",
+          "product_sibling": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/user-guide/product-siblings) blok ini.",
+          "rating": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) blok ini.",
+          "size_chart": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) blok ini.",
+          "social_sharing": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) blok ini.",
+          "sticky_add_to_cart": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) blok ini.",
+          "table_of_information": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) blok ini.",
+          "trust_badge": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) blok ini.",
+          "volume_pricing": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) blok ini.",
+          "other_blocks": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) blok ini."
         },
-        "product_specification": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) bagian ini.",
-        "product_recommendation": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) bagian ini.",
-        "quick_order_list": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) bagian ini."
+        "product_specification": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/product-specifications) bagian ini.",
+        "product_recommendation": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/product-recommendations) bagian ini.",
+        "quick_order_list": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/product-page/quick-order-list) bagian ini."
       },
       "collection_page": {
-        "collection_banner": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) bagian ini."
+        "collection_banner": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/collection-page/collection-banner) bagian ini."
       },
       "pages_and_templates": {
-        "blog_post_page": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) bagian ini.",
-        "blog_page": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) bagian ini.",
-        "cart_page": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) bagian ini.",
-        "collection_list_page": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) bagian ini.",
-        "search_page": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) bagian ini."
+        "blog_post_page": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) bagian ini.",
+        "blog_page": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/page-templates/blog-page) bagian ini.",
+        "cart_page": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/page-templates/cart-page) bagian ini.",
+        "collection_list_page": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/page-templates/collection-list-page) bagian ini.",
+        "search_page": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/page-templates/search-page) bagian ini."
       },
       "overlay_group": {
-        "cookie_banner": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) bagian ini.",
-        "popup": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) bagian ini.",
-        "store_selector": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) bagian ini.",
-        "quick_view": "Pelajari [cara menggunakan](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) bagian ini.",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) bagian ini.",
+        "popup": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/overlay-group-1/popup) bagian ini.",
+        "store_selector": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) bagian ini.",
+        "quick_view": "Pelajari [cara menggunakan](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) bagian ini.",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Berlaku untuk jenis animasi 'Terpotong dengan ikon'.",
         "custom_icon": "Ikon kustom (kode SVG)",
-        "custom_icon_info": "Untuk bantuan dengan kode SVG kustom atau memperbaiki masalah yang timbul dari kode SVG kustom, harap [hubungi dukungan kami](https:\/\/omnithemes.com\/contact\/).",
+        "custom_icon_info": "Untuk bantuan dengan kode SVG kustom atau memperbaiki masalah yang timbul dari kode SVG kustom, harap [hubungi dukungan kami](https://omnithemes.com/contact/).",
         "label": "Ikon",
         "another_icon_label": "Gunakan ikon lain",
         "another_icon_info": "Jika Anda ingin menggunakan ikon yang berbeda dari opsi di atas, cari ikon dari [daftar ikon](https://support.omnithemes.com/blogs/user-guide/theme-icons) kami dan isi nama ikon di sini (Contoh: label harga).",
@@ -1175,8 +1202,8 @@
         "heading_image": "Gambar judul",
         "image_height": "Tinggi gambar",
         "image_width": "Lebar gambar",
-        "note_image_size": "Untuk ukuran gambar yang direkomendasikan, periksa [panduan pengguna](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) kami.",
-        "note_image_size_video_shopping": "Untuk ukuran gambar yang direkomendasikan, periksa [panduan pengguna](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) kami. Gambar yang terlalu besar akan diubah ukurannya untuk tampilan seluler yang optimal. Rasio yang direkomendasikan: 1:1, 3:4, 4:3."
+        "note_image_size": "Untuk ukuran gambar yang direkomendasikan, periksa [panduan pengguna](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) kami.",
+        "note_image_size_video_shopping": "Untuk ukuran gambar yang direkomendasikan, periksa [panduan pengguna](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) kami. Gambar yang terlalu besar akan diubah ukurannya untuk tampilan seluler yang optimal. Rasio yang direkomendasikan: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Rasio gambar",
@@ -1389,7 +1416,7 @@
               "label": "Tautan item menu"
             },
             "menu": {
-              "info": "Pilih menu untuk diterapkan pada item menu ini. Pelajari cara membuat menu 4 tingkat [di sini.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
+              "info": "Pilih menu untuk diterapkan pada item menu ini. Pelajari cara membuat menu 4 tingkat [di sini.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Berlaku untuk item tab dan submenu. Untuk ukuran gambar besar, opsi bulat tidak tersedia."
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "Kategori unggulan",
       "category_card": {
         "name": "Kartu kategori",
@@ -2213,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Beri tahu tentang inventaris masuk",
-              "info": "Pelajari lebih lanjut tentang [status inventaris masuk](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) dan cara [membuat transfer inventaris.](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
+              "info": "Pelajari lebih lanjut tentang [status inventaris masuk](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) dan cara [membuat transfer inventaris.](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
             },
             "message_incoming": {
               "label": "Pemberitahuan transfer masuk",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "Media",
-          "info": "Pelajari lebih lanjut tentang [jenis media](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Pelajari lebih lanjut tentang [jenis media](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_loop": {
           "label": "Aktifkan putaran video"
@@ -2691,7 +2718,7 @@
           "label": "Tampilkan ikon pembayaran"
         },
         "custom_payment": {
-          "info": "Sesuaikan ikon pembayaran Anda. Misalnya, isi kolom ini dengan metode pilihan Anda: apple_pay, google_pay, tabby, tamara. [Pelajari lebih lanjut](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "Sesuaikan ikon pembayaran Anda. Misalnya, isi kolom ini dengan metode pilihan Anda: apple_pay, google_pay, tabby, tamara. [Pelajari lebih lanjut](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "Ikon pembayaran kustom SVG"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Ikuti di Shop",
-          "info": "Tampilkan tombol ikuti untuk toko Anda di aplikasi Shop. [Pelajari lebih lanjut](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "Tampilkan tombol ikuti untuk toko Anda di aplikasi Shop. [Pelajari lebih lanjut](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Aktifkan Ikuti di Shop"
@@ -3425,7 +3452,7 @@
           "info": "Catatan: Opsi lebih dari 20 item per halaman tidak disarankan untuk tujuan optimasi kinerja."
         },
         "paragraph": {
-          "content": "Ubah kutipan dengan mengedit postingan blog Anda. [Pelajari lebih lanjut](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Ubah kutipan dengan mengedit postingan blog Anda. [Pelajari lebih lanjut](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Postingan ditumpuk di seluler."
@@ -3470,7 +3497,7 @@
           "label": "Jadikan judul koleksi lebar penuh di desktop"
         },
         "paragraph": {
-          "content": "Tambahkan deskripsi atau gambar dengan mengedit koleksi Anda. [Pelajari lebih lanjut](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "Tambahkan deskripsi atau gambar dengan mengedit koleksi Anda. [Pelajari lebih lanjut](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "Tampilkan judul koleksi"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Tampilkan gambar koleksi",
-          "info": "Untuk hasil terbaik, gunakan gambar dengan rasio aspek 16:9. [Pelajari lebih lanjut](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "Untuk hasil terbaik, gunakan gambar dengan rasio aspek 16:9. [Pelajari lebih lanjut](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Aktifkan skema mikrodatalog",
-            "info" : "Mesin telusur mungkin belum mengindeks informasi ini. Lihat [dokumentasi skema CollectionPage](https:\/\/schema.org\/CollectionPage) untuk detailnya."
+            "info": "Mesin telusur mungkin belum mengindeks informasi ini. Lihat [dokumentasi skema CollectionPage](https://schema.org/CollectionPage) untuk detailnya."
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Tambahkan gambar dengan mengedit koleksi Anda. [Pelajari lebih lanjut](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "Tambahkan gambar dengan mengedit koleksi Anda. [Pelajari lebih lanjut](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "Tampilkan koleksi",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Pelajari lebih lanjut tentang [jenis media.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Pelajari lebih lanjut tentang [jenis media.](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_sticky_image": {
           "label": "Aktifkan konten lengket di desktop"
@@ -3934,7 +3961,7 @@
           }
         },
         "show_arrow_button": {
-          "label": "Aktifkan slider berikutnya\/sebelumnya di desktop"
+          "label": "Aktifkan slider berikutnya/sebelumnya di desktop"
         },
         "mobile_media_size": {
           "label": "Ukuran media seluler",
@@ -4331,11 +4358,11 @@
           "label": "Jeda saat mengarahkan kursor"
         },
         "show_arrow": {
-          "label": "Panah Berikutnya\/Sebelumnya",
+          "label": "Panah Berikutnya/Sebelumnya",
           "info": "Tampilkan panah navigasi"
         },
         "show_part_slide": {
-          "label": "Slide Berikutnya\/Sebelumnya"
+          "label": "Slide Berikutnya/Sebelumnya"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "Beberapa toko",
       "blocks": {
         "name": "Lokasi toko",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Label dan lencana produk",
       "settings": {
-        "introduce": "Gunakan bagian ini untuk menambahkan label dan lencana ke produk dan kartu produk Anda. [Lihat tutorial](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "Gunakan bagian ini untuk menambahkan label dan lencana ke produk dan kartu produk Anda. [Lihat tutorial](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "Aktifkan label dan lencana produk"
         }
@@ -4531,7 +4558,7 @@
           "name": "Label habis terjual",
           "introduce": "Label habis terjual secara otomatis ditampilkan pada semua produk yang tidak tersedia.",
           "content": {
-            "info": "Gunakan {inventory} untuk \"Tersedia\/Habis terjual\", {quantity} untuk jumlah total dalam inventaris."
+            "info": "Gunakan {inventory} untuk \"Tersedia/Habis terjual\", {quantity} untuk jumlah total dalam inventaris."
           }
         },
         "text-label": {
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "Label produk baru"
         },
-        "day_start":{
+        "day_start": {
           "label": "Tampilkan label dalam jumlah hari sejak",
           "creation_date": "Tanggal pembuatan produk",
           "activation_date": "Tanggal aktivasi produk"
         },
-        "day_end":{
+        "day_end": {
           "label": "Jumlah hari"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Tampilkan di halaman produk",
-          "info": "Untuk menampilkan label dan lencana dalam Tampilan Cepat dan Informasi Produk, harap tambahkan blok 'Label dan lencana' di bagian tersebut, atau periksa [panduan ini.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
+          "info": "Untuk menampilkan label dan lencana dalam Tampilan Cepat dan Informasi Produk, harap tambahkan blok 'Label dan lencana' di bagian tersebut, atau periksa [panduan ini.](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Ikon akan ditampilkan di depan teks label."
@@ -4571,8 +4598,8 @@
           "info__3": "{sale_amount} untuk jumlah diskon.",
           "info__4": "{qty} untuk jumlah total dalam inventaris.",
           "info__5": "{count_down} untuk penghitung waktu mundur hingga tanggal akhir. (Harus mengaktifkan jadwal)",
-          "info__6": "<br \/> untuk ganti baris.",
-          "info__7": "<b>konten Anda<\/b> untuk teks tebal.",
+          "info__6": "<br /> untuk ganti baris.",
+          "info__7": "<b>konten Anda</b> untuk teks tebal.",
           "info__8": "{price} untuk harga produk.",
           "info_metafield": "{metafield_key} untuk metafield produk atau varian (hanya mendukung tipe teks satu baris). Catatan: Kunci metafield harus dikonfigurasi terlebih dahulu di Pengaturan Tema > Label dan lencana produk untuk ditampilkan di sini."
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Tautan halaman tiket",
-          "info": "Tambahkan halaman tiket untuk menjual tiket kepada peserta. Buat [produk digital](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) untuk memberikan informasi lebih lanjut tentang acara, dan secara opsional sembunyikan dari daftar produk. [Hubungi kami](https:\/\/omnithemes.com\/contact\/) untuk dukungan gratis untuk mengecualikan produk dari pencarian internal dan rekomendasi produk."
+          "info": "Tambahkan halaman tiket untuk menjual tiket kepada peserta. Buat [produk digital](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) untuk memberikan informasi lebih lanjut tentang acara, dan secara opsional sembunyikan dari daftar produk. [Hubungi kami](https://omnithemes.com/contact/) untuk dukungan gratis untuk mengecualikan produk dari pencarian internal dan rekomendasi produk."
         },
         "ticket_button_label": {
           "label": "Label tombol tiket"
@@ -5281,12 +5308,12 @@
           "info": "Isi semua nama opsi yang digunakan di toko, frasa dari bahasa yang berbeda dipisahkan oleh koma. (Contoh: Color, Colour, Couleur). Isi nama satu opsi produk. Setiap nilai opsi ini akan menjadi kolom dalam tabel atribut."
         },
         "note": "Nilai metafield juga dapat digunakan sebagai kriteria.",
-        "note_1": "1. Buat metaobject dengan kunci \"product_specs_list\", berisi satu bidang dengan nama persis \"specs\" (Teks satu baris\/Satu nilai).",
+        "note_1": "1. Buat metaobject dengan kunci \"product_specs_list\", berisi satu bidang dengan nama persis \"specs\" (Teks satu baris/Satu nilai).",
         "note_2": "2. Buat entri untuk metaobject (misalnya \"Kulit Kering\", \"Perlindungan UV\").",
-        "note_3": "3. Buat metafield produk dengan kunci \"product_specs\" (Metaobject\/Daftar nilai) dan pilih metaobject yang baru dibuat.",
+        "note_3": "3. Buat metafield produk dengan kunci \"product_specs\" (Metaobject/Daftar nilai) dan pilih metaobject yang baru dibuat.",
         "note_4": "4. Tetapkan nilai untuk setiap produk melalui metafield di halaman detail produk admin.",
         "note_5": "5. Isi kunci \"product_specs\" dari metafield yang relevan di bidang ini.",
-        "note_6": "Untuk detail lebih lanjut, silakan [hubungi kami untuk dukungan gratis.](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "Untuk detail lebih lanjut, silakan [hubungi kami untuk dukungan gratis.](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "Sorotan (gelap)"
         },
@@ -5325,7 +5352,7 @@
           "info": "Tambahkan label untuk menerapkan kode kupon secara otomatis di keranjang."
         },
         "promo_code_note": {
-          "content": "Tanggal mulai dan berakhir di bawah ini harus selaras dengan tanggal mulai dan berakhir aturan Diskon di admin Shopify > Diskon. Pelajari lebih lanjut tentang [kode diskon.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
+          "content": "Tanggal mulai dan berakhir di bawah ini harus selaras dengan tanggal mulai dan berakhir aturan Diskon di admin Shopify > Diskon. Pelajari lebih lanjut tentang [kode diskon.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Label ketentuan promo"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5626,7 +5653,7 @@
         "name": "Toko",
         "settings": {
           "store_name": {
-            "info": "Nama toko harus sesuai dengan nama toko Anda yang ditentukan dalam [pengaturan lokasi.](\/admin\/settings\/locations)",
+            "info": "Nama toko harus sesuai dengan nama toko Anda yang ditentukan dalam [pengaturan lokasi.](/admin/settings/locations)",
             "default": "Toko saya"
           },
           "pickup_price": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "Daftar pesanan cepat",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "Sidebar"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "Rasio postingan asli"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "Gambar postingan sosial"

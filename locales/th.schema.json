@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "แบบอักษร",
-          "info": "การเลือกแบบอักษรที่แตกต่างกันอาจส่งผลต่อความเร็วของร้านค้าของคุณ [เรียนรู้เพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "การเลือกแบบอักษรที่แตกต่างกันอาจส่งผลต่อความเร็วของร้านค้าของคุณ [เรียนรู้เพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "หัวข้อ"
@@ -112,7 +112,7 @@
           "content": "เนื้อหา"
         },
         "type_body_font": {
-          "info": "การเลือกแบบอักษรที่แตกต่างกันอาจส่งผลต่อความเร็วของร้านค้าของคุณ [เรียนรู้เพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "การเลือกแบบอักษรที่แตกต่างกันอาจส่งผลต่อความเร็วของร้านค้าของคุณ [เรียนรู้เพิ่มเติมเกี่ยวกับแบบอักษรของระบบ](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "มาตราส่วนขนาดแบบอักษร"
@@ -136,7 +136,7 @@
         "info": "การตั้งค่าด้านล่างจะเพิ่มตัวอย่างสีลงในตัวกรองในหน้าคอลเลกชันและหน้าค้นหาโดยอัตโนมัติ",
         "swatches_filter": {
           "header": "ตัวกรอง",
-          "info": "หากต้องการกรองโดยใช้ค่าสีหรือรูปภาพเพิ่มเติม ให้สร้าง metaobjects และ metaobject references จากนั้นเปลี่ยนการตั้งค่าด้านล่างตามความต้องการของคุณ [เรียนรู้เกี่ยวกับการแสดงตัวกรองภาพโดยใช้ metaobjects](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "หากต้องการกรองโดยใช้ค่าสีหรือรูปภาพเพิ่มเติม ให้สร้าง metaobjects และ metaobject references จากนั้นเปลี่ยนการตั้งค่าด้านล่างตามความต้องการของคุณ [เรียนรู้เกี่ยวกับการแสดงตัวกรองภาพโดยใช้ metaobjects](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "แสดงข้อความถัดจากตัวอย่าง",
           "visual_style": {
             "label": "รูปแบบค่าภาพ",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "คุณสมบัติเด่น",
-        "paragraph": "แสดงคุณสมบัติเด่นของผลิตภัณฑ์บนบัตรเพื่อให้สื่อสารคุณค่าได้อย่างรวดเร็วและสนับสนุนการตัดสินใจซื้อที่เร็วขึ้นและมั่นใจมากขึ้น เรียนรู้เพิ่มเติมใน [คู่มือผู้ใช้](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards) ของเรา",
+        "paragraph": "แสดงคุณสมบัติเด่นของผลิตภัณฑ์บนบัตรเพื่อให้สื่อสารคุณค่าได้อย่างรวดเร็วและสนับสนุนการตัดสินใจซื้อที่เร็วขึ้นและมั่นใจมากขึ้น เรียนรู้เพิ่มเติมใน [คู่มือผู้ใช้](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards) ของเรา",
         "highlighted_features_position": {
           "option__1": "ด้านบนของบัตร",
           "option__2": "ใต้ชื่อสินค้า",
@@ -199,7 +199,7 @@
       "color_option_info": "กรอกชื่อตัวเลือกสีทั้งหมดที่ใช้ในร้านค้า โดยวลีของภาษาต่างๆ คั่นด้วยเครื่องหมายจุลภาค (เช่น Color, Colour, Couleur)",
       "color_option_values": "ค่าตัวอย่างสี",
       "color_swatches_example": "หนึ่ง 'ชื่อสี:ค่า' ต่อบรรทัด สามารถใช้สีได้สูงสุดสามสีเพื่อแสดงลายทางแนวตั้ง เช่น: 'Red Blue Stripes:#e22#22e'",
-      "color_swatches_guide": "หากต้องการใช้รูปภาพสำหรับตัวอย่างสี ให้ [อัปโหลดรูปภาพ PNG](\/admin\/settings\/files) โดยมีชื่อไฟล์ตรงกับชื่อสี และแทนที่ช่องว่างด้วยเครื่องหมายยัติภังค์ เช่น สำหรับ 'Hot Pink' ให้อัปโหลด 'hot-pink.png'",
+      "color_swatches_guide": "หากต้องการใช้รูปภาพสำหรับตัวอย่างสี ให้ [อัปโหลดรูปภาพ PNG](/admin/settings/files) โดยมีชื่อไฟล์ตรงกับชื่อสี และแทนที่ช่องว่างด้วยเครื่องหมายยัติภังค์ เช่น สำหรับ 'Hot Pink' ให้อัปโหลด 'hot-pink.png'",
       "products_color_swatches_enable_on_collection_page": "เปิดใช้งานบนบัตรสินค้า",
       "replace_color_with_variant_images": "แทนที่ตัวเลือกสีด้วยรูปภาพตัวเลือกสินค้า",
       "products_color_swatches_style": "รูปแบบตัวอย่าง",
@@ -244,7 +244,7 @@
       "default_engraving_label": "แกะสลักสินค้านี้",
       "highlight_icon": {
         "name": "คุณสมบัติเด่น",
-        "info": "แสดงไอคอนบนบัตรสินค้าเพื่อให้ลูกค้าเข้าใจคุณสมบัติเด่นของผลิตภัณฑ์ได้อย่างรวดเร็ว (เช่น ส่วนผสม, สารก่อภูมิแพ้) เรียนรู้เพิ่มเติมใน [คู่มือผู้ใช้](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards) ของเรา",
+        "info": "แสดงไอคอนบนบัตรสินค้าเพื่อให้ลูกค้าเข้าใจคุณสมบัติเด่นของผลิตภัณฑ์ได้อย่างรวดเร็ว (เช่น ส่วนผสม, สารก่อภูมิแพ้) เรียนรู้เพิ่มเติมใน [คู่มือผู้ใช้](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards) ของเรา",
         "icon_1": "ไอคอน 1",
         "icon_2": "ไอคอน 2",
         "icon_3": "ไอคอน 3",
@@ -289,7 +289,7 @@
       "use_color_button": "ใช้สีปุ่ม",
       "button_colors": "สีปุ่ม"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "แอนิเมชันรายการเมนูระดับ 1",
         "note": "ใช้ได้กับรูปแบบไฮไลต์เมนู Marker และ Bling bling เท่านั้น"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "ป้ายกำกับและป้ายสินค้า",
-      "info": "ป้ายกำกับและป้ายสินค้าถูกตั้งค่าในส่วนป้ายกำกับและป้ายสินค้าในกลุ่มโอเวอร์เลย์ หากคุณต้องการแสดงเมตาฟิลด์สินค้าเป็นป้ายกำกับและป้าย ให้กรอกคีย์เมตาฟิลด์ในช่องข้อความด้านล่าง จากนั้นไปที่ส่วนเพื่อกำหนดค่าการแสดงผลของป้ายกำกับ อนุญาตเฉพาะประเภทเมตาฟิลด์ข้อความบรรทัดเดียวเท่านั้น เรียนรู้เพิ่มเติมใน [คู่มือผู้ใช้ของเรา](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "ป้ายกำกับและป้ายสินค้าถูกตั้งค่าในส่วนป้ายกำกับและป้ายสินค้าในกลุ่มโอเวอร์เลย์ หากคุณต้องการแสดงเมตาฟิลด์สินค้าเป็นป้ายกำกับและป้าย ให้กรอกคีย์เมตาฟิลด์ในช่องข้อความด้านล่าง จากนั้นไปที่ส่วนเพื่อกำหนดค่าการแสดงผลของป้ายกำกับ อนุญาตเฉพาะประเภทเมตาฟิลด์ข้อความบรรทัดเดียวเท่านั้น เรียนรู้เพิ่มเติมใน [คู่มือผู้ใช้ของเรา](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "เมตาฟิลด์ที่ใช้ในป้ายกำกับ",
           "info": "กรอกคีย์เมตาฟิลด์สินค้าเต็มรูปแบบ (เช่น custom.metafield-1) หนึ่งคีย์เมตาฟิลด์ต่อหนึ่งแถว"
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "ไอคอน Favicon",
@@ -468,9 +495,9 @@
       "cart_upsell": "การขายเพิ่มในรถเข็น",
       "enable_cart_upsell": "เปิดใช้งานในมินิคาร์ท",
       "cart_upsell_note": "หากเปิดใช้งานในมินิคาร์ทและหน้ารถเข็น คำแนะนำการขายเพิ่มจะแสดงตามลำดับความสำคัญนี้ (จากสูงไปต่ำ):",
-      "cart_upsell_note_1": "(1) โดยการสร้างเมตาฟิลด์สินค้าในการขายเพิ่มในรถเข็น และฟิลด์นี้ไม่ว่างเปล่า [ดูคู่มือผู้ใช้ของเราสำหรับรายละเอียดเพิ่มเติม](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) โดยการสร้างเมตาฟิลด์สินค้าในการขายเพิ่มในรถเข็น และฟิลด์นี้ไม่ว่างเปล่า [ดูคู่มือผู้ใช้ของเราสำหรับรายละเอียดเพิ่มเติม](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) โดยการเลือกรายการสินค้าด้วยตนเองในการตั้งค่าด้านล่าง",
-      "cart_upsell_note_3": "(3) โดยการใช้คำแนะนำแบบไดนามิกตามคำแนะนำสินค้าของ Shopify [เรียนรู้เพิ่มเติม](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) โดยการใช้คำแนะนำแบบไดนามิกตามคำแนะนำสินค้าของ Shopify [เรียนรู้เพิ่มเติม](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "หากคุณใช้เมตาฟิลด์สินค้าเพื่อเพิ่มสินค้าขายเพิ่ม ให้เว้นช่องนี้ว่างไว้",
       "number_of_product_shown": "จำนวนสินค้าที่แสดง",
       "section_label": "ป้ายกำกับส่วน",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Validation regex (ขั้นสูง)",
-          "info": "สำหรับวัตถุประสงค์ในการตรวจสอบฟิลด์ โปรดหลีกเลี่ยงการใช้หากคุณไม่คุ้นเคยกับ Regex สำหรับความช่วยเหลือเกี่ยวกับ Regex หรือการแก้ไขปัญหาที่เกิดขึ้น โปรด [ติดต่อฝ่ายสนับสนุนของเรา](https:\/\/omnithemes.com\/contact\/)"
+          "info": "สำหรับวัตถุประสงค์ในการตรวจสอบฟิลด์ โปรดหลีกเลี่ยงการใช้หากคุณไม่คุ้นเคยกับ Regex สำหรับความช่วยเหลือเกี่ยวกับ Regex หรือการแก้ไขปัญหาที่เกิดขึ้น โปรด [ติดต่อฝ่ายสนับสนุนของเรา](https://omnithemes.com/contact/)"
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "วันส่งมอบขั้นต่ำ",
-          "info": "จำนวนวันขั้นต่ำที่ต้องใช้ในการจัดส่งคำสั่งซื้อทั้งหมด ใช้เครื่องหมายอัฒภาคเพื่อแยกความแตกต่างระหว่างตลาดจัดส่งหากจำเป็น (เช่น US:6;GB:3) หรือกรอกตัวเลขเดียวเพื่อใช้กับตลาดที่มีอยู่ทั้งหมด รหัสประเทศควรอ้างอิงตาม [มาตรฐาน ISO 3166](https:\/\/www.iban.com\/country-codes)",
-          "note": "หากต้องการปรับแต่งสำหรับสินค้าแต่ละรายการ ให้สร้างเมตาฟิลด์ด้วยคีย์ 'custom.delivery_date_min' และประเภท 'Text' [เรียนรู้เพิ่มเติมเกี่ยวกับการสร้างเมตาฟิลด์](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) หรือ [ติดต่อฝ่ายสนับสนุนของเรา](https:\/\/omnithemes.com\/contact\/)."
+          "info": "จำนวนวันขั้นต่ำที่ต้องใช้ในการจัดส่งคำสั่งซื้อทั้งหมด ใช้เครื่องหมายอัฒภาคเพื่อแยกความแตกต่างระหว่างตลาดจัดส่งหากจำเป็น (เช่น US:6;GB:3) หรือกรอกตัวเลขเดียวเพื่อใช้กับตลาดที่มีอยู่ทั้งหมด รหัสประเทศควรอ้างอิงตาม [มาตรฐาน ISO 3166](https://www.iban.com/country-codes)",
+          "note": "หากต้องการปรับแต่งสำหรับสินค้าแต่ละรายการ ให้สร้างเมตาฟิลด์ด้วยคีย์ 'custom.delivery_date_min' และประเภท 'Text' [เรียนรู้เพิ่มเติมเกี่ยวกับการสร้างเมตาฟิลด์](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) หรือ [ติดต่อฝ่ายสนับสนุนของเรา](https://omnithemes.com/contact/)."
         },
         "max_days": {
           "label": "วันส่งมอบสูงสุด",
-          "info": "จำนวนวันสูงสุดที่ต้องใช้ในการจัดส่งคำสั่งซื้อทั้งหมด ใช้เครื่องหมายอัฒภาคเพื่อแยกความแตกต่างระหว่างตลาดจัดส่งหากจำเป็น (เช่น US:6;GB:3) หรือกรอกตัวเลขเดียวเพื่อใช้กับตลาดที่มีอยู่ทั้งหมด รหัสประเทศควรอ้างอิงตาม [มาตรฐาน ISO 3166](https:\/\/www.iban.com\/country-codes)",
-          "note": "หากต้องการปรับแต่งสำหรับสินค้าแต่ละรายการ ให้สร้างเมตาฟิลด์ด้วยคีย์ 'custom.delivery_date_max' และประเภท 'Text' [เรียนรู้เพิ่มเติมเกี่ยวกับการสร้างเมตาฟิลด์](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) หรือ [ติดต่อฝ่ายสนับสนุนของเรา](https:\/\/omnithemes.com\/contact\/)."
+          "info": "จำนวนวันสูงสุดที่ต้องใช้ในการจัดส่งคำสั่งซื้อทั้งหมด ใช้เครื่องหมายอัฒภาคเพื่อแยกความแตกต่างระหว่างตลาดจัดส่งหากจำเป็น (เช่น US:6;GB:3) หรือกรอกตัวเลขเดียวเพื่อใช้กับตลาดที่มีอยู่ทั้งหมด รหัสประเทศควรอ้างอิงตาม [มาตรฐาน ISO 3166](https://www.iban.com/country-codes)",
+          "note": "หากต้องการปรับแต่งสำหรับสินค้าแต่ละรายการ ให้สร้างเมตาฟิลด์ด้วยคีย์ 'custom.delivery_date_max' และประเภท 'Text' [เรียนรู้เพิ่มเติมเกี่ยวกับการสร้างเมตาฟิลด์](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) หรือ [ติดต่อฝ่ายสนับสนุนของเรา](https://omnithemes.com/contact/)."
         },
         "cutoff_time": {
           "content": "เวลาตัดยอด"
@@ -686,7 +713,7 @@
       "note": "แสดง URL ต้นฉบับสำหรับหน้าคอลเล็กชันที่มีการแบ่งหน้าเป็นแท็ก Canonical",
       "header": {
         "content": "ข้อมูลธุรกิจ",
-        "info": "ใช้เพื่อแสดงในข้อมูลที่มีโครงสร้างของเว็บไซต์และบนกราฟการ์ด SERP ของ Google เรียนรู้เพิ่มเติมเกี่ยวกับ [organization schema](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)"
+        "info": "ใช้เพื่อแสดงในข้อมูลที่มีโครงสร้างของเว็บไซต์และบนกราฟการ์ด SERP ของ Google เรียนรู้เพิ่มเติมเกี่ยวกับ [organization schema](https://developers.google.com/search/docs/appearance/structured-data/organization)"
       },
       "enable_organization_schema": {
         "label": "เปิดใช้งาน organization schema"
@@ -727,15 +754,15 @@
       "other": {
         "header": "Schema อื่นๆ",
         "schema_breadcrumbs": "เพิ่ม schema ให้กับ breadcrumbs",
-        "info_breadcrumbs": "ดูรายละเอียดที่ [เอกสาร BreadcrumbList schema](https:\/\/schema.org\/BreadcrumbList)",
+        "info_breadcrumbs": "ดูรายละเอียดที่ [เอกสาร BreadcrumbList schema](https://schema.org/BreadcrumbList)",
         "search": "เพิ่ม SearchAction schema ไปยังหน้าแรก",
-        "info_search": "ดูรายละเอียดที่ [เอกสาร SearchAction schema](https:\/\/schema.org\/SearchAction)"
+        "info_search": "ดูรายละเอียดที่ [เอกสาร SearchAction schema](https://schema.org/SearchAction)"
       }
     },
     "combined_listing": {
       "name": "รายการสินค้าแบบรวม (เฉพาะ Plus)",
       "enable_combined": "เปิดใช้งานรายการสินค้าแบบรวม",
-      "info": "ติดตั้งแอป [Combined Listing](https:\/\/apps.shopify.com\/combined-listings) และเปิดใช้งานการตั้งค่านี้เพื่อใช้ฟีเจอร์นี้ มีให้ใช้งานเฉพาะแผน Plus และ Enterprise commerce เท่านั้น"
+      "info": "ติดตั้งแอป [Combined Listing](https://apps.shopify.com/combined-listings) และเปิดใช้งานการตั้งค่านี้เพื่อใช้ฟีเจอร์นี้ มีให้ใช้งานเฉพาะแผน Plus และ Enterprise commerce เท่านั้น"
     },
     "reorder": {
       "name": "สั่งซื้อใหม่",
@@ -746,10 +773,10 @@
       "name": "ขั้นสูง",
       "product_reviews_app": {
         "label": "แอปรีวิวสินค้า",
-        "info": "เลือกแอปรีวิวเพื่อรวมเข้ากับการให้คะแนนสินค้าในธีม แอปบางตัวในตัวเลือก 'อื่นๆ' อาจไม่เข้ากันได้กับธีมอย่างสมบูรณ์ โปรด [ติดต่อเราเพื่อขอความช่วยเหลือ](https:\/\/omnithemes.com\/contact\/)"
+        "info": "เลือกแอปรีวิวเพื่อรวมเข้ากับการให้คะแนนสินค้าในธีม แอปบางตัวในตัวเลือก 'อื่นๆ' อาจไม่เข้ากันได้กับธีมอย่างสมบูรณ์ โปรด [ติดต่อเราเพื่อขอความช่วยเหลือ](https://omnithemes.com/contact/)"
       },
       "custom_html": "โค้ดที่กำหนดเอง",
-      "custom_info": "สำหรับความช่วยเหลือในการจัดการโค้ดที่กำหนดเอง หรือแก้ไขปัญหาที่เกี่ยวข้องกับโค้ดที่กำหนดเอง โปรด [ติดต่อเรา](https:\/\/omnithemes.com\/contact\/)",
+      "custom_info": "สำหรับความช่วยเหลือในการจัดการโค้ดที่กำหนดเอง หรือแก้ไขปัญหาที่เกี่ยวข้องกับโค้ดที่กำหนดเอง โปรด [ติดต่อเรา](https://omnithemes.com/contact/)",
       "additional_head": {
         "label": "HTML สำหรับแท็ก <head>",
         "info": "ใช้สำหรับโค้ด HTML ที่กำหนดเองเพื่อใช้ทั่วทั้งเว็บไซต์ วางไว้ที่ด้านล่างของแท็ก <head> ในทุกหน้าของธีม ยกเว้นหน้าชำระเงิน"
@@ -784,7 +811,7 @@
       "sections_spacing": "ระยะห่างระหว่างส่วน",
       "lang_direction": {
         "label": "ภาษา RTL",
-        "info": "ป้อนรหัสภาษาเพื่อแสดงภาษาในรูปแบบ RTL รหัสทั้งหมดต้องเป็นไปตาม [ตารางรหัสภาษา ISO](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) และคั่นด้วยเครื่องหมายจุลภาค (ตัวอย่าง: ar,fa,ps)"
+        "info": "ป้อนรหัสภาษาเพื่อแสดงภาษาในรูปแบบ RTL รหัสทั้งหมดต้องเป็นไปตาม [ตารางรหัสภาษา ISO](https://www.w3schools.com/tags/ref_language_codes.asp) และคั่นด้วยเครื่องหมายจุลภาค (ตัวอย่าง: ar,fa,ps)"
       },
       "page_width": "ความกว้างของหน้า",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "ภาพเคลื่อนไหวซูมเข้าของรูปภาพใช้ใน: รูปภาพการ์ดผลิตภัณฑ์, รูปภาพการ์ดคอลเลกชัน, แกลเลอรี่สื่อ, ตารางโปรโมชั่น, ป๊อปอัปโปรโมชั่น, คอลัมน์ข้อความพร้อมรูปภาพ",
       "enable_page_transition": "เปิดใช้งานการเปลี่ยนหน้า"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "คลาสสิก",
         "option_2": "สมัยใหม่"
       }
@@ -832,7 +859,7 @@
       "name": "แบนเนอร์คุกกี้",
       "settings": {
         "paragraph": {
-          "content": "ขอความยินยอมจากลูกค้าของคุณในการใช้คุกกี้และประมวลผลข้อมูลของพวกเขา ตามข้อกำหนดของ ePrivacy Directive และ General Data Protection Regulation ของสหภาพยุโรป [เรียนรู้เพิ่มเติม](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "ขอความยินยอมจากลูกค้าของคุณในการใช้คุกกี้และประมวลผลข้อมูลของพวกเขา ตามข้อกำหนดของ ePrivacy Directive และ General Data Protection Regulation ของสหภาพยุโรป [เรียนรู้เพิ่มเติม](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "ประกาศเกี่ยวกับคุกกี้"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) ส่วนนี้",
+        "header_general": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) ส่วนนี้",
         "mega_menu": {
-          "simple_menu": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) บล็อกนี้",
-          "tree_menu": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) บล็อกนี้",
-          "banner_menu": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) บล็อกนี้",
-          "product_menu": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) บล็อกนี้",
-          "blog_menu": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) บล็อกนี้",
-          "tabbed_menu": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) บล็อกนี้",
-          "contact_menu": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) บล็อกนี้",
-          "cta_button": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) บล็อกนี้"
+          "simple_menu": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) บล็อกนี้",
+          "tree_menu": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) บล็อกนี้",
+          "banner_menu": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) บล็อกนี้",
+          "product_menu": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) บล็อกนี้",
+          "blog_menu": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) บล็อกนี้",
+          "tabbed_menu": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) บล็อกนี้",
+          "contact_menu": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) บล็อกนี้",
+          "cta_button": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) บล็อกนี้"
         },
-        "announcement_bar": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) ส่วนนี้",
-        "mobile_navigation": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) ส่วนนี้"
+        "announcement_bar": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) ส่วนนี้",
+        "mobile_navigation": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) ส่วนนี้"
       },
       "footer": {
-        "footer": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) ส่วนนี้",
-        "quicklinks": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) ส่วนนี้"
+        "footer": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/footer/footer) ส่วนนี้",
+        "quicklinks": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/footer/quicklinks) ส่วนนี้"
       },
       "section_and_blocks": {
-        "blog_post": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) ส่วนนี้",
-        "collection_list": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) ส่วนนี้",
-        "collage": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) ส่วนนี้",
-        "collection_list_banner": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) ส่วนนี้",
-        "collection_list_carousel": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) ส่วนนี้",
-        "comparison_table": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) ส่วนนี้",
-        "contact_form": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) ส่วนนี้",
-        "custom_liquid": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) ส่วนนี้",
-        "email_signup": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) ส่วนนี้",
-        "event_calendar": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) ส่วนนี้",
-        "faq": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) ส่วนนี้",
-        "featured_category": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) ส่วนนี้",
-        "featured_collection": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) ส่วนนี้",
-        "featured_product": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) ส่วนนี้",
-        "flash_sale": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) ส่วนนี้",
-        "flow": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) ส่วนนี้",
-        "highlight_text_with_image": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) ส่วนนี้",
-        "image_comparison": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) ส่วนนี้",
-        "logo_list": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) ส่วนนี้",
-        "map": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) ส่วนนี้",
-        "media_gallery": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) ส่วนนี้",
-        "media_with_text": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) ส่วนนี้",
-        "multiple_store": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) ส่วนนี้",
-        "page": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) ส่วนนี้",
-        "product_attribute_table": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) ส่วนนี้",
-        "product_bundle": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) ส่วนนี้",
-        "product_comparison_table": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) ส่วนนี้",
-        "product_highlight": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) ส่วนนี้",
-        "product_grid": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) ส่วนนี้",
-        "promo_code_list": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) ส่วนนี้",
-        "promotion_banner": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) ส่วนนี้",
-        "promotion_grid": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) ส่วนนี้",
-        "recently_viewed_products": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) ส่วนนี้",
-        "related_blog_posts": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) ส่วนนี้",
-        "related_collections": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) ส่วนนี้",
-        "rich_text": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) ส่วนนี้",
-        "scrolling_promotion": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) ส่วนนี้",
-        "shop_the_look": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) ส่วนนี้",
-        "slideshow": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) ส่วนนี้",
-        "social_feeds": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) ส่วนนี้",
-        "tabs": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) ส่วนนี้",
-        "testimonial": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) ส่วนนี้",
-        "testimonial_with_cards": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) ส่วนนี้",
-        "text_columns_with_icons": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) ส่วนนี้",
-        "text_columns_with_images": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) ส่วนนี้",
-        "timeline": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) ส่วนนี้",
-        "vertical_slideshow": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) ส่วนนี้",
-        "video": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) ส่วนนี้",
-        "video_hero": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) ส่วนนี้",
-        "video_looping": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) ส่วนนี้",
-        "video_shopping": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) ส่วนนี้",
-        "flexible_area": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) ส่วนนี้"
+        "blog_post": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/blog-post) ส่วนนี้",
+        "collection_list": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/collection-list) ส่วนนี้",
+        "collage": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/collage) ส่วนนี้",
+        "collection_list_banner": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) ส่วนนี้",
+        "collection_list_carousel": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) ส่วนนี้",
+        "comparison_table": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) ส่วนนี้",
+        "contact_form": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/contact-form) ส่วนนี้",
+        "custom_liquid": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) ส่วนนี้",
+        "email_signup": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) ส่วนนี้",
+        "event_calendar": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) ส่วนนี้",
+        "faq": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/faqs) ส่วนนี้",
+        "featured_category": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) ส่วนนี้",
+        "featured_collection": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) ส่วนนี้",
+        "featured_product": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/featured-product) ส่วนนี้",
+        "flash_sale": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) ส่วนนี้",
+        "flow": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/flow) ส่วนนี้",
+        "highlight_text_with_image": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) ส่วนนี้",
+        "image_comparison": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) ส่วนนี้",
+        "logo_list": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/logo-list) ส่วนนี้",
+        "map": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/map-1) ส่วนนี้",
+        "media_gallery": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) ส่วนนี้",
+        "media_with_text": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) ส่วนนี้",
+        "multiple_store": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) ส่วนนี้",
+        "page": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/page) ส่วนนี้",
+        "product_attribute_table": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) ส่วนนี้",
+        "product_bundle": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) ส่วนนี้",
+        "product_comparison_table": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) ส่วนนี้",
+        "product_highlight": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) ส่วนนี้",
+        "product_grid": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/product-grid) ส่วนนี้",
+        "promo_code_list": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) ส่วนนี้",
+        "promotion_banner": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) ส่วนนี้",
+        "promotion_grid": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) ส่วนนี้",
+        "recently_viewed_products": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) ส่วนนี้",
+        "related_blog_posts": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) ส่วนนี้",
+        "related_collections": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/related-collections) ส่วนนี้",
+        "rich_text": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/rich-text) ส่วนนี้",
+        "scrolling_promotion": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) ส่วนนี้",
+        "shop_the_look": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) ส่วนนี้",
+        "slideshow": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/slideshow) ส่วนนี้",
+        "social_feeds": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) ส่วนนี้",
+        "tabs": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/tabs) ส่วนนี้",
+        "testimonial": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/testimonial) ส่วนนี้",
+        "testimonial_with_cards": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) ส่วนนี้",
+        "text_columns_with_icons": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) ส่วนนี้",
+        "text_columns_with_images": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) ส่วนนี้",
+        "timeline": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/timeline) ส่วนนี้",
+        "vertical_slideshow": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) ส่วนนี้",
+        "video": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/video) ส่วนนี้",
+        "video_hero": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/video-hero) ส่วนนี้",
+        "video_looping": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/video-looping) ส่วนนี้",
+        "video_shopping": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) ส่วนนี้",
+        "flexible_area": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) ส่วนนี้"
       },
       "product_page": {
-        "product_description": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) ส่วนนี้",
+        "product_description": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/product-description) ส่วนนี้",
         "product_information": {
-          "product_information_general": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) ส่วนนี้",
-          "buy_buttons": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) บล็อกนี้",
-          "back_in_stock_alert": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) บล็อกนี้",
-          "basic_info": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) บล็อกนี้",
-          "collapsible_tab": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) บล็อกนี้",
-          "collection_link": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) บล็อกนี้",
-          "complementary_product": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) บล็อกนี้",
-          "customizable_options": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) บล็อกนี้",
-          "estimate_delivery": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) บล็อกนี้",
-          "engraving": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) บล็อกนี้",
-          "featured_icon": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) บล็อกนี้",
-          "frequently_bought_together": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) บล็อกนี้",
-          "gift_wrapping": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) บล็อกนี้",
-          "horizontal_tab": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) บล็อกนี้",
-          "inventory_status": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) บล็อกนี้",
-          "nutrition_fact_bar": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) บล็อกนี้",
-          "payment_method": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) บล็อกนี้",
-          "product_sibling": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) บล็อกนี้",
-          "rating": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) บล็อกนี้",
-          "size_chart": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) บล็อกนี้",
-          "social_sharing": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) บล็อกนี้",
-          "sticky_add_to_cart": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) บล็อกนี้",
-          "table_of_information": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) บล็อกนี้",
-          "trust_badge": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) บล็อกนี้",
-          "volume_pricing": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) บล็อกนี้",
-          "other_blocks": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) บล็อกนี้"
+          "product_information_general": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/product-information) ส่วนนี้",
+          "buy_buttons": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) บล็อกนี้",
+          "back_in_stock_alert": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) บล็อกนี้",
+          "basic_info": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) บล็อกนี้",
+          "collapsible_tab": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) บล็อกนี้",
+          "collection_link": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) บล็อกนี้",
+          "complementary_product": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) บล็อกนี้",
+          "customizable_options": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide/customizable-options) บล็อกนี้",
+          "estimate_delivery": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) บล็อกนี้",
+          "engraving": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/engraving) บล็อกนี้",
+          "featured_icon": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) บล็อกนี้",
+          "frequently_bought_together": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) บล็อกนี้",
+          "gift_wrapping": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) บล็อกนี้",
+          "horizontal_tab": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) บล็อกนี้",
+          "inventory_status": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) บล็อกนี้",
+          "nutrition_fact_bar": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) บล็อกนี้",
+          "payment_method": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) บล็อกนี้",
+          "product_sibling": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/user-guide/product-siblings) บล็อกนี้",
+          "rating": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) บล็อกนี้",
+          "size_chart": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) บล็อกนี้",
+          "social_sharing": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) บล็อกนี้",
+          "sticky_add_to_cart": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) บล็อกนี้",
+          "table_of_information": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) บล็อกนี้",
+          "trust_badge": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) บล็อกนี้",
+          "volume_pricing": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) บล็อกนี้",
+          "other_blocks": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) บล็อกนี้"
         },
-        "product_specification": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) ส่วนนี้",
-        "product_recommendation": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) ส่วนนี้",
-        "quick_order_list": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) ส่วนนี้"
+        "product_specification": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/product-specifications) ส่วนนี้",
+        "product_recommendation": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/product-recommendations) ส่วนนี้",
+        "quick_order_list": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/product-page/quick-order-list) ส่วนนี้"
       },
       "collection_page": {
-        "collection_banner": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) ส่วนนี้"
+        "collection_banner": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/collection-page/collection-banner) ส่วนนี้"
       },
       "pages_and_templates": {
-        "blog_post_page": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) ส่วนนี้",
-        "blog_page": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) ส่วนนี้",
-        "cart_page": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) ส่วนนี้",
-        "collection_list_page": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) ส่วนนี้",
-        "search_page": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) ส่วนนี้"
+        "blog_post_page": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) ส่วนนี้",
+        "blog_page": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/page-templates/blog-page) ส่วนนี้",
+        "cart_page": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/page-templates/cart-page) ส่วนนี้",
+        "collection_list_page": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/page-templates/collection-list-page) ส่วนนี้",
+        "search_page": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/page-templates/search-page) ส่วนนี้"
       },
       "overlay_group": {
-        "cookie_banner": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) ส่วนนี้",
-        "popup": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) ส่วนนี้",
-        "store_selector": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) ส่วนนี้",
-        "quick_view": "เรียนรู้ [วิธีใช้](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) ส่วนนี้",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) ส่วนนี้",
+        "popup": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/overlay-group-1/popup) ส่วนนี้",
+        "store_selector": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) ส่วนนี้",
+        "quick_view": "เรียนรู้ [วิธีใช้](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) ส่วนนี้",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "ใช้กับประเภทภาพเคลื่อนไหว 'Sliced with icon'",
         "custom_icon": "ไอคอนที่กำหนดเอง (โค้ด SVG)",
-        "custom_icon_info": "สำหรับความช่วยเหลือเกี่ยวกับโค้ด SVG ที่กำหนดเอง หรือแก้ไขปัญหาที่เกิดจากโค้ด SVG ที่กำหนดเอง โปรด [ติดต่อฝ่ายสนับสนุนของเรา](https:\/\/omnithemes.com\/contact\/)",
+        "custom_icon_info": "สำหรับความช่วยเหลือเกี่ยวกับโค้ด SVG ที่กำหนดเอง หรือแก้ไขปัญหาที่เกิดจากโค้ด SVG ที่กำหนดเอง โปรด [ติดต่อฝ่ายสนับสนุนของเรา](https://omnithemes.com/contact/)",
         "label": "ไอคอน",
         "another_icon_label": "ใช้อีกไอคอน",
         "another_icon_info": "หากคุณต้องการใช้ไอคอนที่แตกต่างจากตัวเลือกด้านบน ให้ค้นหาไอคอนจาก [รายการไอคอน](https://support.omnithemes.com/blogs/user-guide/theme-icons) ของเรา และกรอกชื่อไอคอนที่นี่ (เช่น: price tag)",
@@ -1389,7 +1416,7 @@
               "label": "ลิงก์รายการเมนู"
             },
             "menu": {
-              "info": "เลือกเมนูที่จะใช้กับรายการเมนูนี้ เรียนรู้วิธีสร้างเมนู 4 ระดับ [ที่นี่](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
+              "info": "เลือกเมนูที่จะใช้กับรายการเมนูนี้ เรียนรู้วิธีสร้างเมนู 4 ระดับ [ที่นี่](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "ใช้ได้กับรายการแท็บและเมนูย่อย สำหรับขนาดรูปภาพขนาดใหญ่ ตัวเลือกแบบโค้งมนจะไม่สามารถใช้ได้"
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "หมวดหมู่แนะนำ",
       "category_card": {
         "name": "บัตรหมวดหมู่",
@@ -2179,7 +2206,7 @@
             "pickup_availability": {
               "content": "ความพร้อมในการรับสินค้า",
               "label": "เปิดใช้งานคุณสมบัติความพร้อมในการรับสินค้า",
-              "info": "เรียนรู้วิธีตั้งค่าคุณสมบัตินี้ [ที่นี่](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup)"
+              "info": "เรียนรู้วิธีตั้งค่าคุณสมบัตินี้ [ที่นี่](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup)"
             },
             "preorder": {
               "preorder_show": {
@@ -2213,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "แจ้งเมื่อมีสินค้าเข้า",
-              "info": "เรียนรู้เพิ่มเติมเกี่ยวกับ [สถานะสินค้าคงคลังที่กำลังจะมาถึง](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) และวิธี [สร้างการโอนสินค้าคงคลัง](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
+              "info": "เรียนรู้เพิ่มเติมเกี่ยวกับ [สถานะสินค้าคงคลังที่กำลังจะมาถึง](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) และวิธี [สร้างการโอนสินค้าคงคลัง](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
             },
             "message_incoming": {
               "label": "แจ้งเตือนการโอนสินค้าเข้า",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "สื่อ",
-          "info": "เรียนรู้เพิ่มเติมเกี่ยวกับ [ประเภทสื่อ](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "เรียนรู้เพิ่มเติมเกี่ยวกับ [ประเภทสื่อ](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_loop": {
           "label": "เปิดใช้งานการวนซ้ำวิดีโอ"
@@ -2691,7 +2718,7 @@
           "label": "แสดงไอคอนการชำระเงิน"
         },
         "custom_payment": {
-          "info": "ปรับแต่งไอคอนการชำระเงินของคุณ ตัวอย่างเช่น กรอกวิธีการที่คุณเลือกในช่องนี้: apple_pay, google_pay, tabby, tamara [เรียนรู้เพิ่มเติม](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "ปรับแต่งไอคอนการชำระเงินของคุณ ตัวอย่างเช่น กรอกวิธีการที่คุณเลือกในช่องนี้: apple_pay, google_pay, tabby, tamara [เรียนรู้เพิ่มเติม](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "ไอคอนการชำระเงิน SVG ที่กำหนดเอง"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "ติดตามบน Shop",
-          "info": "แสดงปุ่มติดตามสำหรับหน้าร้านของคุณบนแอป Shop [เรียนรู้เพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "แสดงปุ่มติดตามสำหรับหน้าร้านของคุณบนแอป Shop [เรียนรู้เพิ่มเติม](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "เปิดใช้งานการติดตามบน Shop"
@@ -3425,7 +3452,7 @@
           "info": "หมายเหตุ: ไม่แนะนำให้ใช้ตัวเลือกที่มากกว่า 20 รายการต่อหน้าเพื่อวัตถุประสงค์ในการเพิ่มประสิทธิภาพ"
         },
         "paragraph": {
-          "content": "เปลี่ยนข้อความย่อโดยการแก้ไขโพสต์บล็อกของคุณ [เรียนรู้เพิ่มเติม](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "เปลี่ยนข้อความย่อโดยการแก้ไขโพสต์บล็อกของคุณ [เรียนรู้เพิ่มเติม](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "โพสต์จะซ้อนกันบนมือถือ"
@@ -3470,7 +3497,7 @@
           "label": "ทำให้ชื่อคอลเลกชันมีความกว้างเต็มบนเดสก์ท็อป"
         },
         "paragraph": {
-          "content": "เพิ่มคำอธิบายหรือรูปภาพโดยการแก้ไขคอลเลกชันของคุณ [เรียนรู้เพิ่มเติม](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "เพิ่มคำอธิบายหรือรูปภาพโดยการแก้ไขคอลเลกชันของคุณ [เรียนรู้เพิ่มเติม](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "แสดงชื่อคอลเลกชัน"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "แสดงรูปภาพคอลเลกชัน",
-          "info": "เพื่อให้ได้ผลลัพธ์ที่ดีที่สุด ให้ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 [เรียนรู้เพิ่มเติม](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "เพื่อให้ได้ผลลัพธ์ที่ดีที่สุด ให้ใช้รูปภาพที่มีอัตราส่วนภาพ 16:9 [เรียนรู้เพิ่มเติม](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "เปิดใช้งาน Microdata Schema",
-            "info" : "เครื่องมือค้นหาอาจยังไม่อินเด็กซ์ข้อมูลนี้ โปรดดูที่ [เอกสาร CollectionPage schema](https:\/\/schema.org\/CollectionPage) สำหรับรายละเอียด"
+            "info": "เครื่องมือค้นหาอาจยังไม่อินเด็กซ์ข้อมูลนี้ โปรดดูที่ [เอกสาร CollectionPage schema](https://schema.org/CollectionPage) สำหรับรายละเอียด"
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "เพิ่มรูปภาพโดยแก้ไขคอลเลกชันของคุณ [เรียนรู้เพิ่มเติม](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "เพิ่มรูปภาพโดยแก้ไขคอลเลกชันของคุณ [เรียนรู้เพิ่มเติม](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "แสดงคอลเลกชัน",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "เรียนรู้เพิ่มเติมเกี่ยวกับ [ประเภทสื่อ](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "เรียนรู้เพิ่มเติมเกี่ยวกับ [ประเภทสื่อ](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_sticky_image": {
           "label": "เปิดใช้งานเนื้อหาแบบ Sticky บนเดสก์ท็อป"
@@ -4331,11 +4358,11 @@
           "label": "หยุดชั่วคราวเมื่อชี้เมาส์"
         },
         "show_arrow": {
-          "label": "ลูกศรถัดไป\/ก่อนหน้า",
+          "label": "ลูกศรถัดไป/ก่อนหน้า",
           "info": "แสดงลูกศรนำทาง"
         },
         "show_part_slide": {
-          "label": "สไลด์ถัดไป\/ก่อนหน้า"
+          "label": "สไลด์ถัดไป/ก่อนหน้า"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "หลายร้านค้า",
       "blocks": {
         "name": "ที่ตั้งร้านค้า",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "ป้ายกำกับและป้ายสินค้า",
       "settings": {
-        "introduce": "ใช้ส่วนนี้เพื่อเพิ่มป้ายกำกับและสัญลักษณ์ให้กับสินค้าและการ์ดสินค้าของคุณ [ดูบทเรียน](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "ใช้ส่วนนี้เพื่อเพิ่มป้ายกำกับและสัญลักษณ์ให้กับสินค้าและการ์ดสินค้าของคุณ [ดูบทเรียน](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "เปิดใช้งานป้ายกำกับและสัญลักษณ์สินค้า"
         }
@@ -4531,7 +4558,7 @@
           "name": "ป้ายกำกับสินค้าหมด",
           "introduce": "ป้ายกำกับสินค้าหมดจะแสดงโดยอัตโนมัติบนสินค้าที่ไม่มีจำหน่ายทุกชิ้น",
           "content": {
-            "info": "ใช้ {inventory} สำหรับ \"มีสินค้าในสต็อก\/สินค้าหมด\", {quantity} สำหรับปริมาณรวมในสต็อก"
+            "info": "ใช้ {inventory} สำหรับ \"มีสินค้าในสต็อก/สินค้าหมด\", {quantity} สำหรับปริมาณรวมในสต็อก"
           }
         },
         "text-label": {
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "ป้ายกำกับสินค้าใหม่"
         },
-        "day_start":{
+        "day_start": {
           "label": "แสดงป้ายกำกับภายในจำนวนวันนับตั้งแต่",
           "creation_date": "วันที่สร้างสินค้า",
           "activation_date": "วันที่เปิดใช้งานสินค้า"
         },
-        "day_end":{
+        "day_end": {
           "label": "จำนวนวัน"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "แสดงบนหน้าสินค้า",
-          "info": "หากต้องการแสดงป้ายกำกับและป้ายในมุมมองด่วนและข้อมูลสินค้า โปรดเพิ่มบล็อก 'ป้ายกำกับและป้าย' ในส่วนเหล่านั้น หรือตรวจสอบ [คู่มือนี้](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
+          "info": "หากต้องการแสดงป้ายกำกับและป้ายในมุมมองด่วนและข้อมูลสินค้า โปรดเพิ่มบล็อก 'ป้ายกำกับและป้าย' ในส่วนเหล่านั้น หรือตรวจสอบ [คู่มือนี้](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "ไอคอนจะแสดงอยู่หน้าข้อความป้ายกำกับ"
@@ -4571,8 +4598,8 @@
           "info__3": "{sale_amount} สำหรับจำนวนเงินส่วนลด",
           "info__4": "{qty} สำหรับปริมาณรวมในสต็อก",
           "info__5": "{count_down} สำหรับตัวนับเวลาถอยหลังถึงวันสิ้นสุด (ต้องเปิดใช้งานการตั้งเวลา)",
-          "info__6": "<br \/> สำหรับขึ้นบรรทัดใหม่",
-          "info__7": "<b>เนื้อหาของคุณ<\/b> สำหรับข้อความตัวหนา",
+          "info__6": "<br /> สำหรับขึ้นบรรทัดใหม่",
+          "info__7": "<b>เนื้อหาของคุณ</b> สำหรับข้อความตัวหนา",
           "info__8": "{price} สำหรับราคาสินค้า",
           "info_metafield": "{metafield_key} สำหรับ metafield ของสินค้าหรือตัวแปร (รองรับเฉพาะประเภท Single line text เท่านั้น) หมายเหตุ: คีย์ Metafield ต้องได้รับการกำหนดค่าก่อนในการตั้งค่าธีม > ป้ายกำกับและป้ายสินค้า เพื่อแสดงที่นี่"
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "ลิงก์หน้าตั๋ว",
-          "info": "เพิ่มหน้าตั๋วเพื่อขายตั๋วให้กับผู้เข้าร่วม สร้าง [ผลิตภัณฑ์ดิจิทัล](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) เพื่อให้ข้อมูลเพิ่มเติมเกี่ยวกับกิจกรรม และอาจซ่อนจากรายการผลิตภัณฑ์ [ติดต่อเรา](https:\/\/omnithemes.com\/contact\/) เพื่อรับการสนับสนุนฟรีในการยกเว้นผลิตภัณฑ์จากการค้นหาภายในและคำแนะนำผลิตภัณฑ์"
+          "info": "เพิ่มหน้าตั๋วเพื่อขายตั๋วให้กับผู้เข้าร่วม สร้าง [ผลิตภัณฑ์ดิจิทัล](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) เพื่อให้ข้อมูลเพิ่มเติมเกี่ยวกับกิจกรรม และอาจซ่อนจากรายการผลิตภัณฑ์ [ติดต่อเรา](https://omnithemes.com/contact/) เพื่อรับการสนับสนุนฟรีในการยกเว้นผลิตภัณฑ์จากการค้นหาภายในและคำแนะนำผลิตภัณฑ์"
         },
         "ticket_button_label": {
           "label": "ป้ายกำกับปุ่มตั๋ว"
@@ -5281,12 +5308,12 @@
           "info": "กรอกชื่อตัวเลือกทั้งหมดที่ใช้ในร้านค้า วลีของภาษาต่างๆ จะคั่นด้วยเครื่องหมายจุลภาค (เช่น Color, Colour, Couleur) กรอกชื่อตัวเลือกผลิตภัณฑ์หนึ่งรายการ แต่ละค่าของตัวเลือกนี้จะเป็นคอลัมน์ในตารางคุณสมบัติ"
         },
         "note": "ค่า Metafield สามารถใช้เป็นเกณฑ์ได้เช่นกัน",
-        "note_1": "1. สร้าง metaobject ด้วยคีย์ \"product_specs_list\" ซึ่งมีหนึ่งฟิลด์ที่มีชื่อว่า \"specs\" (ข้อความบรรทัดเดียว\/หนึ่งค่า) อย่างถูกต้อง",
+        "note_1": "1. สร้าง metaobject ด้วยคีย์ \"product_specs_list\" ซึ่งมีหนึ่งฟิลด์ที่มีชื่อว่า \"specs\" (ข้อความบรรทัดเดียว/หนึ่งค่า) อย่างถูกต้อง",
         "note_2": "2. สร้างรายการสำหรับ metaobject (เช่น \"ผิวแห้ง\", \"ป้องกันรังสียูวี\")",
-        "note_3": "3. สร้าง metafield ผลิตภัณฑ์ด้วยคีย์ \"product_specs\" (Metaobject\/รายการค่า) และเลือก metaobject ที่เพิ่งสร้าง",
+        "note_3": "3. สร้าง metafield ผลิตภัณฑ์ด้วยคีย์ \"product_specs\" (Metaobject/รายการค่า) และเลือก metaobject ที่เพิ่งสร้าง",
         "note_4": "4. กำหนดค่าสำหรับผลิตภัณฑ์แต่ละรายการผ่าน metafield ในหน้าแสดงรายละเอียดผลิตภัณฑ์ของผู้ดูแลระบบ",
         "note_5": "5. กรอกคีย์ \"product_specs\" ของ metafield ที่เกี่ยวข้องในฟิลด์นี้",
-        "note_6": "สำหรับรายละเอียดเพิ่มเติม โปรด [ติดต่อเราเพื่อรับการสนับสนุนฟรี](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "สำหรับรายละเอียดเพิ่มเติม โปรด [ติดต่อเราเพื่อรับการสนับสนุนฟรี](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "ไฮไลต์ (มืด)"
         },
@@ -5325,7 +5352,7 @@
           "info": "เพิ่มป้ายกำกับเพื่อใช้รหัสคูปองในรถเข็นโดยอัตโนมัติ"
         },
         "promo_code_note": {
-          "content": "วันที่เริ่มต้นและสิ้นสุดด้านล่างควรสอดคล้องกับวันที่เริ่มต้นและสิ้นสุดของกฎส่วนลดใน Shopify admin > ส่วนลด เรียนรู้เพิ่มเติมเกี่ยวกับ [รหัสส่วนลด](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
+          "content": "วันที่เริ่มต้นและสิ้นสุดด้านล่างควรสอดคล้องกับวันที่เริ่มต้นและสิ้นสุดของกฎส่วนลดใน Shopify admin > ส่วนลด เรียนรู้เพิ่มเติมเกี่ยวกับ [รหัสส่วนลด](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "ป้ายกำกับข้อกำหนดโปรโมชั่น"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5626,7 +5653,7 @@
         "name": "ร้านค้า",
         "settings": {
           "store_name": {
-            "info": "ชื่อร้านค้าต้องตรงกับชื่อร้านค้าของคุณที่กำหนดไว้ในการตั้งค่า [ตำแหน่งของคุณ] (\/admin\/settings\/locations)",
+            "info": "ชื่อร้านค้าต้องตรงกับชื่อร้านค้าของคุณที่กำหนดไว้ในการตั้งค่า [ตำแหน่งของคุณ] (/admin/settings/locations)",
             "default": "ร้านค้าของฉัน"
           },
           "pickup_price": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "รายการสั่งซื้อด่วน",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "แถบด้านข้าง"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "อัตราส่วนโพสต์ต้นฉบับ"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "รูปภาพโพสต์โซเชียล"

@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "फ़ॉन्ट",
-          "info": "एक अलग फ़ॉन्ट का चयन करने से आपके स्टोर की गति प्रभावित हो सकती है। [सिस्टम फ़ॉन्ट के बारे में अधिक जानें।](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "एक अलग फ़ॉन्ट का चयन करने से आपके स्टोर की गति प्रभावित हो सकती है। [सिस्टम फ़ॉन्ट के बारे में अधिक जानें।](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "शीर्षक"
@@ -112,7 +112,7 @@
           "content": "मुख्य भाग"
         },
         "type_body_font": {
-          "info": "एक अलग फ़ॉन्ट का चयन करने से आपके स्टोर की गति प्रभावित हो सकती है। [सिस्टम फ़ॉन्ट के बारे में अधिक जानें।](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "एक अलग फ़ॉन्ट का चयन करने से आपके स्टोर की गति प्रभावित हो सकती है। [सिस्टम फ़ॉन्ट के बारे में अधिक जानें।](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "फ़ॉन्ट आकार स्केल"
@@ -136,7 +136,7 @@
         "info": "नीचे दी गई सेटिंग्स स्वचालित रूप से संग्रह और खोज पृष्ठ में फ़िल्टर में रंग के नमूने जोड़ती हैं।",
         "swatches_filter": {
           "header": "फ़िल्टर",
-          "info": "अतिरिक्त रंग या छवि मानों का उपयोग करके फ़िल्टर करने के लिए, मेटाऑब्जेक्ट और मेटाऑब्जेक्ट संदर्भ बनाएं, फिर अपनी पसंद के अनुसार नीचे दी गई सेटिंग्स बदलें। [मेटाऑब्जेक्ट का उपयोग करके दृश्य फ़िल्टर दिखाने के बारे में जानें।](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "अतिरिक्त रंग या छवि मानों का उपयोग करके फ़िल्टर करने के लिए, मेटाऑब्जेक्ट और मेटाऑब्जेक्ट संदर्भ बनाएं, फिर अपनी पसंद के अनुसार नीचे दी गई सेटिंग्स बदलें। [मेटाऑब्जेक्ट का उपयोग करके दृश्य फ़िल्टर दिखाने के बारे में जानें।](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "नमूनों के आगे टेक्स्ट प्रदर्शित करें",
           "visual_style": {
             "label": "दृश्य मान शैली",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "हाइलाइट की गई सुविधाएँ",
-        "paragraph": "एक नज़र में मूल्य संप्रेषित करने और त्वरित, अधिक आत्मविश्वास वाले खरीद निर्णयों का समर्थन करने के लिए कार्ड पर उत्कृष्ट उत्पाद गुणों का प्रदर्शन करें। हमारे [उपयोगकर्ता गाइड](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards) में और जानें।",
+        "paragraph": "एक नज़र में मूल्य संप्रेषित करने और त्वरित, अधिक आत्मविश्वास वाले खरीद निर्णयों का समर्थन करने के लिए कार्ड पर उत्कृष्ट उत्पाद गुणों का प्रदर्शन करें। हमारे [उपयोगकर्ता गाइड](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards) में और जानें।",
         "highlighted_features_position": {
           "option__1": "कार्ड का शीर्ष",
           "option__2": "उत्पाद शीर्षक के नीचे",
@@ -199,7 +199,7 @@
       "color_option_info": "स्टोर में उपयोग किए गए रंग विकल्प का नाम (नाम) भरें, विभिन्न भाषाओं के वाक्यांशों को अल्पविराम से अलग किया जाता है। (उदाहरण के लिए रंग, Colour, Couleur)।",
       "color_option_values": "रंग नमूना मान",
       "color_swatches_example": "प्रति पंक्ति एक 'रंग नाम:मान'। ऊर्ध्वाधर धारियां दिखाने के लिए अधिकतम तीन रंगों का उपयोग किया जा सकता है। उदाहरण: 'Red Blue Stripes:#e22#22e'",
-      "color_swatches_guide": "रंग के नमूने के लिए एक छवि का उपयोग करने के लिए, [एक PNG छवि अपलोड करें](\/admin\/settings\/files) जिसका फ़ाइल नाम रंग के नाम से मेल खाता हो, और रिक्त स्थान को हाइफ़न से बदला गया हो। उदाहरण के लिए 'हॉट पिंक' के लिए, 'hot-pink.png' अपलोड करें।",
+      "color_swatches_guide": "रंग के नमूने के लिए एक छवि का उपयोग करने के लिए, [एक PNG छवि अपलोड करें](/admin/settings/files) जिसका फ़ाइल नाम रंग के नाम से मेल खाता हो, और रिक्त स्थान को हाइफ़न से बदला गया हो। उदाहरण के लिए 'हॉट पिंक' के लिए, 'hot-pink.png' अपलोड करें।",
       "products_color_swatches_enable_on_collection_page": "उत्पाद कार्ड पर सक्षम करें",
       "replace_color_with_variant_images": "रंग विकल्पों को वेरिएंट छवियों से बदलें",
       "products_color_swatches_style": "नमूना शैली",
@@ -244,7 +244,7 @@
       "default_engraving_label": "इस उत्पाद को उत्कीर्ण करें",
       "highlight_icon": {
         "name": "हाइलाइट की गई विशेषताएं",
-        "info": "ग्राहकों को उत्पादों की हाइलाइट की गई विशेषताओं (जैसे सामग्री, एलर्जी) को जल्दी से समझने के लिए उत्पाद कार्ड पर आइकन दिखाएं। हमारे [उपयोगकर्ता गाइड](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards) में और जानें।",
+        "info": "ग्राहकों को उत्पादों की हाइलाइट की गई विशेषताओं (जैसे सामग्री, एलर्जी) को जल्दी से समझने के लिए उत्पाद कार्ड पर आइकन दिखाएं। हमारे [उपयोगकर्ता गाइड](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards) में और जानें।",
         "icon_1": "आइकन 1",
         "icon_2": "आइकन 2",
         "icon_3": "आइकन 3",
@@ -289,7 +289,7 @@
       "use_color_button": "बटन रंग का उपयोग करें",
       "button_colors": "बटन रंग"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "मेनू आइटम स्तर 1 एनीमेशन",
         "note": "केवल मार्कर और ब्लिंग ब्लिंग मेनू हाइलाइट शैली के साथ काम करता है"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "लिंक्डइन",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "ट्विटर (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "फेसबुक",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "पिनटेरेस्ट",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "इंस्टाग्राम",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "टिकटोक",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "स्नैपचैट",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "लाइन",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "उत्पाद लेबल और बैज",
-      "info": "उत्पाद लेबल और बैज ओवरले समूह में उत्पाद लेबल और बैज अनुभाग में सेट किए गए हैं। यदि आप उत्पाद मेटाफ़ील्ड को लेबल और बैज के रूप में दिखाना चाहते हैं, तो नीचे दिए गए टेक्स्ट बॉक्स में मेटाफ़ील्ड कुंजी भरें, फिर लेबल के प्रदर्शन को कॉन्फ़िगर करने के लिए अनुभाग पर नेविगेट करें। केवल सिंगल लाइन टेक्स्ट मेटाफ़ील्ड प्रकार स्वीकार किया जाता है। [हमारी उपयोगकर्ता मार्गदर्शिका में और जानें।](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "उत्पाद लेबल और बैज ओवरले समूह में उत्पाद लेबल और बैज अनुभाग में सेट किए गए हैं। यदि आप उत्पाद मेटाफ़ील्ड को लेबल और बैज के रूप में दिखाना चाहते हैं, तो नीचे दिए गए टेक्स्ट बॉक्स में मेटाफ़ील्ड कुंजी भरें, फिर लेबल के प्रदर्शन को कॉन्फ़िगर करने के लिए अनुभाग पर नेविगेट करें। केवल सिंगल लाइन टेक्स्ट मेटाफ़ील्ड प्रकार स्वीकार किया जाता है। [हमारी उपयोगकर्ता मार्गदर्शिका में और जानें।](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "लेबल में उपयोग किए गए मेटाफ़ील्ड",
           "info": "पूर्ण उत्पाद मेटाफ़ील्ड कुंजी भरें (उदा. custom.metafield-1)। प्रति पंक्ति एक मेटाफ़ील्ड कुंजी।"
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "फेविकॉन",
@@ -468,9 +495,9 @@
       "cart_upsell": "कार्ट अपसेल",
       "enable_cart_upsell": "मिनिकार्ट में सक्षम करें",
       "cart_upsell_note": "यदि मिनिकार्ट और कार्ट पेज में सक्षम किया गया है, तो अपसेल अनुशंसाएं इस प्राथमिकता (उच्च से निम्न तक) का पालन करके दिखाई जा सकती हैं:",
-      "cart_upsell_note_1": "(1) कार्ट अपसेल में एक उत्पाद मेटाफ़ील्ड बनाकर और यह फ़ील्ड खाली नहीं है। [अधिक जानकारी के लिए हमारी उपयोगकर्ता मार्गदर्शिका देखें।](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) कार्ट अपसेल में एक उत्पाद मेटाफ़ील्ड बनाकर और यह फ़ील्ड खाली नहीं है। [अधिक जानकारी के लिए हमारी उपयोगकर्ता मार्गदर्शिका देखें।](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) नीचे दी गई सेटिंग्स में मैन्युअल रूप से उत्पादों की सूची का चयन करके",
-      "cart_upsell_note_3": "(3) Shopify उत्पाद अनुशंसाओं के आधार पर गतिशील अनुशंसाओं का उपयोग करके। [और जानें।](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) Shopify उत्पाद अनुशंसाओं के आधार पर गतिशील अनुशंसाओं का उपयोग करके। [और जानें।](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "यदि आप अपसेल उत्पाद जोड़ने के लिए उत्पाद मेटाफ़ील्ड का उपयोग करते हैं, तो इस फ़ील्ड को खाली छोड़ दें।",
       "number_of_product_shown": "दिखाए गए उत्पादों की संख्या",
       "section_label": "अनुभाग लेबल",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "मान्यीकरण रेगेक्स (उन्नत)",
-          "info": "फ़ील्ड मान्यीकरण उद्देश्य के लिए। यदि आप रेगेक्स से परिचित नहीं हैं तो कृपया इसका उपयोग करने से बचें। रेगेक्स के साथ सहायता या उससे उत्पन्न होने वाली समस्याओं को ठीक करने के लिए, कृपया [हमारे समर्थन से संपर्क करें](https:\/\/omnithemes.com\/contact\/)।"
+          "info": "फ़ील्ड मान्यीकरण उद्देश्य के लिए। यदि आप रेगेक्स से परिचित नहीं हैं तो कृपया इसका उपयोग करने से बचें। रेगेक्स के साथ सहायता या उससे उत्पन्न होने वाली समस्याओं को ठीक करने के लिए, कृपया [हमारे समर्थन से संपर्क करें](https://omnithemes.com/contact/)।"
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "डिलीवरी के न्यूनतम दिन",
-          "info": "सभी ऑर्डर शिप करने के लिए आवश्यक न्यूनतम दिनों की संख्या। यदि आवश्यक हो तो शिपिंग बाजारों के बीच अंतर करने के लिए अर्धविराम का उपयोग करें (उदा. US:6;GB:3), या सभी उपलब्ध बाजारों पर लागू होने के लिए एक संख्या भरें। देश कोड [ISO 3166 मानक](https:\/\/www.iban.com\/country-codes) का पालन करना चाहिए।",
-          "note": "प्रत्येक उत्पाद के लिए अनुकूलित करने के लिए, 'custom.delivery_date_min' कुंजी और 'टेक्स्ट' प्रकार के साथ एक मेटाफ़ील्ड बनाएं। [मेटाफ़ील्ड बनाने के बारे में अधिक जानें](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) या [हमारे समर्थन से संपर्क करें](https:\/\/omnithemes.com\/contact\/)।"
+          "info": "सभी ऑर्डर शिप करने के लिए आवश्यक न्यूनतम दिनों की संख्या। यदि आवश्यक हो तो शिपिंग बाजारों के बीच अंतर करने के लिए अर्धविराम का उपयोग करें (उदा. US:6;GB:3), या सभी उपलब्ध बाजारों पर लागू होने के लिए एक संख्या भरें। देश कोड [ISO 3166 मानक](https://www.iban.com/country-codes) का पालन करना चाहिए।",
+          "note": "प्रत्येक उत्पाद के लिए अनुकूलित करने के लिए, 'custom.delivery_date_min' कुंजी और 'टेक्स्ट' प्रकार के साथ एक मेटाफ़ील्ड बनाएं। [मेटाफ़ील्ड बनाने के बारे में अधिक जानें](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) या [हमारे समर्थन से संपर्क करें](https://omnithemes.com/contact/)।"
         },
         "max_days": {
           "label": "डिलीवरी के अधिकतम दिन",
-          "info": "सभी ऑर्डर शिप करने के लिए आवश्यक अधिकतम दिनों की संख्या। यदि आवश्यक हो तो शिपिंग बाजारों के बीच अंतर करने के लिए अर्धविराम का उपयोग करें (उदा. US:6;GB:3), या सभी उपलब्ध बाजारों पर लागू होने के लिए एक संख्या भरें। देश कोड [ISO 3166 मानक](https:\/\/www.iban.com\/country-codes) का पालन करना चाहिए।",
-          "note": "प्रत्येक उत्पाद के लिए अनुकूलित करने के लिए, 'custom.delivery_date_max' कुंजी और 'टेक्स्ट' प्रकार के साथ एक मेटाफ़ील्ड बनाएं। [मेटाफ़ील्ड बनाने के बारे में अधिक जानें](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) या [हमारे समर्थन से संपर्क करें](https:\/\/omnithemes.com\/contact\/)।"
+          "info": "सभी ऑर्डर शिप करने के लिए आवश्यक अधिकतम दिनों की संख्या। यदि आवश्यक हो तो शिपिंग बाजारों के बीच अंतर करने के लिए अर्धविराम का उपयोग करें (उदा. US:6;GB:3), या सभी उपलब्ध बाजारों पर लागू होने के लिए एक संख्या भरें। देश कोड [ISO 3166 मानक](https://www.iban.com/country-codes) का पालन करना चाहिए।",
+          "note": "प्रत्येक उत्पाद के लिए अनुकूलित करने के लिए, 'custom.delivery_date_max' कुंजी और 'टेक्स्ट' प्रकार के साथ एक मेटाफ़ील्ड बनाएं। [मेटाफ़ील्ड बनाने के बारे में अधिक जानें](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) या [हमारे समर्थन से संपर्क करें](https://omnithemes.com/contact/)।"
         },
         "cutoff_time": {
           "content": "कट-ऑफ समय"
@@ -686,7 +713,7 @@
       "note": "कैननिकल टैग के रूप में पेजिनेटेड संग्रह पृष्ठों के लिए मूल URL दिखाएं।",
       "header": {
         "content": "व्यवसाय जानकारी",
-        "info": "साइट के संरचित डेटा और Google के SERP ग्राफ़ कार्ड पर दिखाने के लिए उपयोग किया जाता है। [संगठन स्कीमा](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization) के बारे में और जानें।"
+        "info": "साइट के संरचित डेटा और Google के SERP ग्राफ़ कार्ड पर दिखाने के लिए उपयोग किया जाता है। [संगठन स्कीमा](https://developers.google.com/search/docs/appearance/structured-data/organization) के बारे में और जानें।"
       },
       "enable_organization_schema": {
         "label": "संगठन स्कीमा सक्षम करें"
@@ -727,15 +754,15 @@
       "other": {
         "header": "अन्य स्कीमा",
         "schema_breadcrumbs": "ब्रेडक्रंब में स्कीमा जोड़ें",
-        "info_breadcrumbs": "विवरण के लिए [ब्रेडक्रंबलिस्ट स्कीमा दस्तावेज़](https:\/\/schema.org\/BreadcrumbList) देखें।",
+        "info_breadcrumbs": "विवरण के लिए [ब्रेडक्रंबलिस्ट स्कीमा दस्तावेज़](https://schema.org/BreadcrumbList) देखें।",
         "search": "होम पेज पर SearchAction स्कीमा जोड़ें",
-        "info_search": "विवरण के लिए [SearchAction स्कीमा दस्तावेज़](https:\/\/schema.org\/SearchAction) देखें।"
+        "info_search": "विवरण के लिए [SearchAction स्कीमा दस्तावेज़](https://schema.org/SearchAction) देखें।"
       }
     },
     "combined_listing": {
       "name": "संयुक्त लिस्टिंग (केवल प्लस)",
       "enable_combined": "उत्पाद संयुक्त लिस्टिंग सक्षम करें",
-      "info": "[संयुक्त लिस्टिंग](https:\/\/apps.shopify.com\/combined-listings) ऐप इंस्टॉल करें और इस सुविधा का उपयोग करने के लिए इस सेटिंग को सक्षम करें। केवल प्लस और एंटरप्राइज़ कॉमर्स प्लान पर उपलब्ध है।"
+      "info": "[संयुक्त लिस्टिंग](https://apps.shopify.com/combined-listings) ऐप इंस्टॉल करें और इस सुविधा का उपयोग करने के लिए इस सेटिंग को सक्षम करें। केवल प्लस और एंटरप्राइज़ कॉमर्स प्लान पर उपलब्ध है।"
     },
     "reorder": {
       "name": "पुनः क्रमबद्ध करें",
@@ -746,10 +773,10 @@
       "name": "उन्नत",
       "product_reviews_app": {
         "label": "उत्पाद समीक्षा ऐप",
-        "info": "थीम की मूल उत्पाद रेटिंग के साथ एकीकृत करने के लिए समीक्षा ऐप का चयन करें। 'अन्य' विकल्प में कुछ ऐप थीम के साथ पूरी तरह से संगत नहीं हो सकते हैं, कृपया [सहायता के लिए हमसे संपर्क करें](https:\/\/omnithemes.com\/contact\/)।"
+        "info": "थीम की मूल उत्पाद रेटिंग के साथ एकीकृत करने के लिए समीक्षा ऐप का चयन करें। 'अन्य' विकल्प में कुछ ऐप थीम के साथ पूरी तरह से संगत नहीं हो सकते हैं, कृपया [सहायता के लिए हमसे संपर्क करें](https://omnithemes.com/contact/)।"
       },
       "custom_html": "कस्टम कोड",
-      "custom_info": "कस्टम कोड को संभालने या कस्टम कोड से संबंधित समस्याओं को ठीक करने में सहायता के लिए, कृपया [हमसे संपर्क करें](https:\/\/omnithemes.com\/contact\/)।",
+      "custom_info": "कस्टम कोड को संभालने या कस्टम कोड से संबंधित समस्याओं को ठीक करने में सहायता के लिए, कृपया [हमसे संपर्क करें](https://omnithemes.com/contact/)।",
       "additional_head": {
         "label": "<head> टैग के लिए HTML",
         "info": "किसी भी कस्टम HTML कोड को साइट-व्यापी लागू करने के लिए उपयोग किया जाता है। चेकआउट पेज को छोड़कर, सभी थीम पेजों पर <head> टैग के नीचे रखा गया है।"
@@ -784,7 +811,7 @@
       "sections_spacing": "अनुभागों के बीच की दूरी",
       "lang_direction": {
         "label": "RTL भाषाएँ",
-        "info": "RTL लेआउट में भाषाओं को दिखाने के लिए भाषा कोड इनपुट करें। सभी कोड को [ISO भाषा कोड तालिका](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) का पालन करना चाहिए और अल्पविराम (उदाहरण: ar,fa,ps) का उपयोग करके अलग किया जाना चाहिए।"
+        "info": "RTL लेआउट में भाषाओं को दिखाने के लिए भाषा कोड इनपुट करें। सभी कोड को [ISO भाषा कोड तालिका](https://www.w3schools.com/tags/ref_language_codes.asp) का पालन करना चाहिए और अल्पविराम (उदाहरण: ar,fa,ps) का उपयोग करके अलग किया जाना चाहिए।"
       },
       "page_width": "पृष्ठ की चौड़ाई",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "छवि ज़ूम-इन एनिमेशन का उपयोग इसमें किया गया है: उत्पाद कार्ड छवियां, संग्रह कार्ड छवियां, मीडिया गैलरी, प्रचार ग्रिड, प्रचार पॉपअप, छवि के साथ पाठ कॉलम।",
       "enable_page_transition": "पृष्ठ संक्रमण सक्षम करें"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "क्लासिक",
         "option_2": "आधुनिक"
       }
@@ -832,7 +859,7 @@
       "name": "कुकी बैनर",
       "settings": {
         "paragraph": {
-          "content": "यूरोपीय संघ के ePrivacy Directive और General Data Protection Regulation के अनुसार, कुकीज़ का उपयोग करने और उनके डेटा को संसाधित करने के लिए अपने ग्राहकों से सहमति मांगें। [और जानें](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "यूरोपीय संघ के ePrivacy Directive और General Data Protection Regulation के अनुसार, कुकीज़ का उपयोग करने और उनके डेटा को संसाधित करने के लिए अपने ग्राहकों से सहमति मांगें। [और जानें](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "कुकी सूचना"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) जानें।",
+        "header_general": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) जानें।",
         "mega_menu": {
-          "simple_menu": "इस ब्लॉक को [कैसे सेट करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) जानें।",
-          "tree_menu": "इस ब्लॉक को [कैसे सेट करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) जानें।",
-          "banner_menu": "इस ब्लॉक को [कैसे सेट करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) जानें।",
-          "product_menu": "इस ब्लॉक को [कैसे सेट करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) जानें।",
-          "blog_menu": "इस ब्लॉक को [कैसे सेट करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) जानें।",
-          "tabbed_menu": "इस ब्लॉक को [कैसे सेट करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) जानें।",
-          "contact_menu": "इस ब्लॉक को [कैसे सेट करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) जानें।",
-          "cta_button": "इस ब्लॉक को [कैसे जोड़ें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) जानें।"
+          "simple_menu": "इस ब्लॉक को [कैसे सेट करें](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) जानें।",
+          "tree_menu": "इस ब्लॉक को [कैसे सेट करें](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) जानें।",
+          "banner_menu": "इस ब्लॉक को [कैसे सेट करें](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) जानें।",
+          "product_menu": "इस ब्लॉक को [कैसे सेट करें](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) जानें।",
+          "blog_menu": "इस ब्लॉक को [कैसे सेट करें](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) जानें।",
+          "tabbed_menu": "इस ब्लॉक को [कैसे सेट करें](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) जानें।",
+          "contact_menu": "इस ब्लॉक को [कैसे सेट करें](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) जानें।",
+          "cta_button": "इस ब्लॉक को [कैसे जोड़ें](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) जानें।"
         },
-        "announcement_bar": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) जानें।",
-        "mobile_navigation": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) जानें।"
+        "announcement_bar": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) जानें।",
+        "mobile_navigation": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) जानें।"
       },
       "footer": {
-        "footer": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) जानें।",
-        "quicklinks": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) जानें।"
+        "footer": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/footer/footer) जानें।",
+        "quicklinks": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/footer/quicklinks) जानें।"
       },
       "section_and_blocks": {
-        "blog_post": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) जानें।",
-        "collection_list": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) जानें।",
-        "collage": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) जानें।",
-        "collection_list_banner": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) जानें।",
-        "collection_list_carousel": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) जानें।",
-        "comparison_table": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) जानें।",
-        "contact_form": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) जानें।",
-        "custom_liquid": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) जानें।",
-        "email_signup": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) जानें।",
-        "event_calendar": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) जानें।",
-        "faq": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) जानें।",
-        "featured_category": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) जानें।",
-        "featured_collection": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) जानें।",
-        "featured_product": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) जानें।",
-        "flash_sale": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) जानें।",
-        "flow": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) जानें।",
-        "highlight_text_with_image": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) जानें।",
-        "image_comparison": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) जानें।",
-        "logo_list": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) जानें।",
-        "map": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) जानें।",
-        "media_gallery": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) जानें।",
-        "media_with_text": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) जानें।",
-        "multiple_store": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) जानें।",
-        "page": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) जानें।",
-        "product_attribute_table": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) जानें।",
-        "product_bundle": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) जानें।",
-        "product_comparison_table": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) जानें।",
-        "product_highlight": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) जानें।",
-        "product_grid": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) जानें।",
-        "promo_code_list": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) जानें।",
-        "promotion_banner": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) जानें।",
-        "promotion_grid": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) जानें।",
-        "recently_viewed_products": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) जानें।",
-        "related_blog_posts": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) जानें।",
-        "related_collections": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) जानें।",
-        "rich_text": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) जानें।",
-        "scrolling_promotion": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) जानें।",
-        "shop_the_look": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) जानें।",
-        "slideshow": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) जानें।",
-        "social_feeds": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) जानें।",
-        "tabs": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) जानें।",
-        "testimonial": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) जानें।",
-        "testimonial_with_cards": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) जानें।",
-        "text_columns_with_icons": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) जानें।",
-        "text_columns_with_images": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) जानें।",
-        "timeline": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) जानें।",
-        "vertical_slideshow": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) जानें।",
-        "video": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) जानें।",
-        "video_hero": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) जानें।",
-        "video_looping": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) जानें।",
-        "video_shopping": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) जानें।",
-        "flexible_area": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flexible-area) जानें।"
+        "blog_post": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/blog-post) जानें।",
+        "collection_list": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/collection-list) जानें।",
+        "collage": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/collage) जानें।",
+        "collection_list_banner": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) जानें।",
+        "collection_list_carousel": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) जानें।",
+        "comparison_table": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) जानें।",
+        "contact_form": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/contact-form) जानें।",
+        "custom_liquid": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) जानें।",
+        "email_signup": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) जानें।",
+        "event_calendar": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) जानें।",
+        "faq": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/faqs) जानें।",
+        "featured_category": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) जानें।",
+        "featured_collection": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) जानें।",
+        "featured_product": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/featured-product) जानें।",
+        "flash_sale": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) जानें।",
+        "flow": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/flow) जानें।",
+        "highlight_text_with_image": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) जानें।",
+        "image_comparison": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) जानें।",
+        "logo_list": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/logo-list) जानें।",
+        "map": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/map-1) जानें।",
+        "media_gallery": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) जानें।",
+        "media_with_text": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) जानें।",
+        "multiple_store": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) जानें।",
+        "page": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/page) जानें।",
+        "product_attribute_table": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) जानें।",
+        "product_bundle": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) जानें।",
+        "product_comparison_table": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) जानें।",
+        "product_highlight": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) जानें।",
+        "product_grid": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/product-grid) जानें।",
+        "promo_code_list": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) जानें।",
+        "promotion_banner": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) जानें।",
+        "promotion_grid": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) जानें।",
+        "recently_viewed_products": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) जानें।",
+        "related_blog_posts": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) जानें।",
+        "related_collections": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/related-collections) जानें।",
+        "rich_text": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/rich-text) जानें।",
+        "scrolling_promotion": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) जानें।",
+        "shop_the_look": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) जानें।",
+        "slideshow": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/slideshow) जानें।",
+        "social_feeds": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) जानें।",
+        "tabs": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/tabs) जानें।",
+        "testimonial": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/testimonial) जानें।",
+        "testimonial_with_cards": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) जानें।",
+        "text_columns_with_icons": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) जानें।",
+        "text_columns_with_images": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) जानें।",
+        "timeline": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/timeline) जानें।",
+        "vertical_slideshow": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) जानें।",
+        "video": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/video) जानें।",
+        "video_hero": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/video-hero) जानें।",
+        "video_looping": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/video-looping) जानें।",
+        "video_shopping": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) जानें।",
+        "flexible_area": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) जानें।"
       },
       "product_page": {
-        "product_description": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) जानें।",
+        "product_description": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/product-page/product-description) जानें।",
         "product_information": {
-          "product_information_general": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) जानें।",
-          "buy_buttons": "इस ब्लॉक को [कैसे सेट करें](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) जानें।",
-          "back_in_stock_alert": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) जानें।",
-          "basic_info": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) जानें।",
-          "collapsible_tab": "इस ब्लॉक को [कैसे बनाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) जानें।",
-          "collection_link": "इस ब्लॉक को [कैसे जोड़ें](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) जानें।",
-          "complementary_product": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) जानें।",
-          "customizable_options": "इस ब्लॉक का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) जानें।",
-          "estimate_delivery": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) जानें।",
-          "engraving": "इस ब्लॉक का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) जानें।",
-          "featured_icon": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) जानें।",
-          "frequently_bought_together": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) जानें।",
-          "gift_wrapping": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) जानें।",
-          "horizontal_tab": "इस ब्लॉक को [कैसे जोड़ें](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) जानें।",
-          "inventory_status": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) जानें।",
-          "nutrition_fact_bar": "इस ब्लॉक को [कैसे जोड़ें](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) जानें।",
-          "payment_method": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) जानें।",
-          "product_sibling": "इस ब्लॉक का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) जानें।",
-          "rating": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) जानें।",
-          "size_chart": "इस ब्लॉक को [कैसे जोड़ें](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) जानें।",
-          "social_sharing": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) जानें।",
-          "sticky_add_to_cart": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) जानें।",
-          "table_of_information": "इस ब्लॉक को [कैसे जोड़ें](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) जानें।",
-          "trust_badge": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) जानें।",
-          "volume_pricing": "इस ब्लॉक का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) जानें।",
-          "other_blocks": "इस ब्लॉक को [कैसे दिखाएं](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) जानें।"
+          "product_information_general": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/product-page/product-information) जानें।",
+          "buy_buttons": "इस ब्लॉक को [कैसे सेट करें](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) जानें।",
+          "back_in_stock_alert": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) जानें।",
+          "basic_info": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) जानें।",
+          "collapsible_tab": "इस ब्लॉक को [कैसे बनाएं](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) जानें।",
+          "collection_link": "इस ब्लॉक को [कैसे जोड़ें](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) जानें।",
+          "complementary_product": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) जानें।",
+          "customizable_options": "इस ब्लॉक का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/user-guide/customizable-options) जानें।",
+          "estimate_delivery": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) जानें।",
+          "engraving": "इस ब्लॉक का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/product-page/engraving) जानें।",
+          "featured_icon": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) जानें।",
+          "frequently_bought_together": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) जानें।",
+          "gift_wrapping": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) जानें।",
+          "horizontal_tab": "इस ब्लॉक को [कैसे जोड़ें](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) जानें।",
+          "inventory_status": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) जानें।",
+          "nutrition_fact_bar": "इस ब्लॉक को [कैसे जोड़ें](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) जानें।",
+          "payment_method": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) जानें।",
+          "product_sibling": "इस ब्लॉक का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/user-guide/product-siblings) जानें।",
+          "rating": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) जानें।",
+          "size_chart": "इस ब्लॉक को [कैसे जोड़ें](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) जानें।",
+          "social_sharing": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) जानें।",
+          "sticky_add_to_cart": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) जानें।",
+          "table_of_information": "इस ब्लॉक को [कैसे जोड़ें](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) जानें।",
+          "trust_badge": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) जानें।",
+          "volume_pricing": "इस ब्लॉक का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) जानें।",
+          "other_blocks": "इस ब्लॉक को [कैसे दिखाएं](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) जानें।"
         },
-        "product_specification": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) जानें।",
-        "product_recommendation": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) जानें।",
-        "quick_order_list": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) जानें।"
+        "product_specification": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/product-page/product-specifications) जानें।",
+        "product_recommendation": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/product-page/product-recommendations) जानें।",
+        "quick_order_list": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/product-page/quick-order-list) जानें।"
       },
       "collection_page": {
-        "collection_banner": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) जानें।"
+        "collection_banner": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/collection-page/collection-banner) जानें।"
       },
       "pages_and_templates": {
-        "blog_post_page": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) जानें।",
-        "blog_page": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) जानें।",
-        "cart_page": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) जानें।",
-        "collection_list_page": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) जानें।",
-        "search_page": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) जानें।"
+        "blog_post_page": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) जानें।",
+        "blog_page": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/page-templates/blog-page) जानें।",
+        "cart_page": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/page-templates/cart-page) जानें।",
+        "collection_list_page": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/page-templates/collection-list-page) जानें।",
+        "search_page": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/page-templates/search-page) जानें।"
       },
       "overlay_group": {
-        "cookie_banner": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) जानें।",
-        "popup": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) जानें।",
-        "store_selector": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) जानें।",
-        "quick_view": "इस अनुभाग का [उपयोग कैसे करें](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) जानें।",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) जानें।",
+        "popup": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/overlay-group-1/popup) जानें।",
+        "store_selector": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) जानें।",
+        "quick_view": "इस अनुभाग का [उपयोग कैसे करें](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) जानें।",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "'आइकन के साथ कटा हुआ' एनिमेशन प्रकार पर लागू होता है।",
         "custom_icon": "कस्टम आइकन (SVG कोड)",
-        "custom_icon_info": "कस्टम SVG कोड में सहायता या कस्टम SVG कोड से उत्पन्न होने वाली समस्याओं को ठीक करने के लिए, कृपया [हमारे समर्थन से संपर्क करें](https:\/\/omnithemes.com\/contact\/)।",
+        "custom_icon_info": "कस्टम SVG कोड में सहायता या कस्टम SVG कोड से उत्पन्न होने वाली समस्याओं को ठीक करने के लिए, कृपया [हमारे समर्थन से संपर्क करें](https://omnithemes.com/contact/)।",
         "label": "आइकन",
         "another_icon_label": "दूसरा आइकन इस्तेमाल करें",
         "another_icon_info": "अगर आप ऊपर दिए गए विकल्पों से अलग आइकन इस्तेमाल करना चाहते हैं, तो हमारी [आइकन सूची](https://support.omnithemes.com/blogs/user-guide/theme-icons) से एक आइकन खोजें और आइकन का नाम यहां भरें (उदाहरण: मूल्य टैग)।",
@@ -1175,8 +1202,8 @@
         "heading_image": "शीर्षक छवि",
         "image_height": "छवि की ऊँचाई",
         "image_width": "छवि की चौड़ाई",
-        "note_image_size": "अनुशंसित छवि आकारों के लिए, हमारी [उपयोगकर्ता मार्गदर्शिका](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) देखें",
-        "note_image_size_video_shopping": "अनुशंसित छवि आकारों के लिए, हमारी [उपयोगकर्ता मार्गदर्शिका](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) देखें। बड़े आकार की छवियों को इष्टतम मोबाइल प्रदर्शन के लिए आकार दिया जाएगा। अनुशंसित अनुपात: 1:1, 3:4, 4:3।"
+        "note_image_size": "अनुशंसित छवि आकारों के लिए, हमारी [उपयोगकर्ता मार्गदर्शिका](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) देखें",
+        "note_image_size_video_shopping": "अनुशंसित छवि आकारों के लिए, हमारी [उपयोगकर्ता मार्गदर्शिका](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) देखें। बड़े आकार की छवियों को इष्टतम मोबाइल प्रदर्शन के लिए आकार दिया जाएगा। अनुशंसित अनुपात: 1:1, 3:4, 4:3।"
       },
       "image_ratio": {
         "label": "छवि अनुपात",
@@ -1389,7 +1416,7 @@
               "label": "मेनू आइटम लिंक"
             },
             "menu": {
-              "info": "इस मेनू आइटम के लिए लागू करने के लिए एक मेनू चुनें। 4-स्तरीय मेनू कैसे बनाएं, [यहां](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus) जानें।"
+              "info": "इस मेनू आइटम के लिए लागू करने के लिए एक मेनू चुनें। 4-स्तरीय मेनू कैसे बनाएं, [यहां](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus) जानें।"
             },
             "image_style": {
               "info": "टैब और सबमेनू आइटम पर लागू होता है। बड़े छवि आकार के लिए, गोलाकार विकल्प उपलब्ध नहीं है।"
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "विशेष श्रेणियाँ",
       "category_card": {
         "name": "श्रेणी कार्ड",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "मीडिया",
-          "info": "[मीडिया प्रकारों](https:\/\/help.shopify.com\/manual\/products\/product-media) के बारे में अधिक जानें"
+          "info": "[मीडिया प्रकारों](https://help.shopify.com/manual/products/product-media) के बारे में अधिक जानें"
         },
         "enable_video_loop": {
           "label": "वीडियो लूपिंग सक्षम करें"
@@ -2691,7 +2718,7 @@
           "label": "भुगतान आइकन दिखाएँ"
         },
         "custom_payment": {
-          "info": "अपने भुगतान आइकन को अनुकूलित करें। उदाहरण के लिए, इस फ़ील्ड में अपनी चुनी हुई विधियां भरें: apple_pay, google_pay, tabby, tamara। [अधिक जानें](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "अपने भुगतान आइकन को अनुकूलित करें। उदाहरण के लिए, इस फ़ील्ड में अपनी चुनी हुई विधियां भरें: apple_pay, google_pay, tabby, tamara। [अधिक जानें](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "कस्टम भुगतान आइकन एसवीजी"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "शॉप पर फॉलो करें",
-          "info": "शॉप ऐप पर अपनी स्टोरफ्रंट के लिए फॉलो बटन प्रदर्शित करें। [अधिक जानें](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "शॉप ऐप पर अपनी स्टोरफ्रंट के लिए फॉलो बटन प्रदर्शित करें। [अधिक जानें](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "शॉप पर फॉलो सक्षम करें"
@@ -3425,7 +3452,7 @@
           "info": "नोट: प्रदर्शन अनुकूलन उद्देश्य के लिए प्रति पृष्ठ 20 से अधिक आइटम वाले विकल्प की अनुशंसा नहीं की जाती है।"
         },
         "paragraph": {
-          "content": "अपने ब्लॉग पोस्ट को संपादित करके अंश बदलें। [अधिक जानें](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "अपने ब्लॉग पोस्ट को संपादित करके अंश बदलें। [अधिक जानें](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "पोस्ट मोबाइल पर स्टैक किए जाते हैं।"
@@ -3470,7 +3497,7 @@
           "label": "डेस्कटॉप पर संग्रह शीर्षक को पूरी चौड़ाई का बनाएं"
         },
         "paragraph": {
-          "content": "अपने संग्रह को संपादित करके एक विवरण या छवि जोड़ें। [अधिक जानें](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "अपने संग्रह को संपादित करके एक विवरण या छवि जोड़ें। [अधिक जानें](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "संग्रह शीर्षक दिखाएं"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "संग्रह छवि दिखाएं",
-          "info": "सर्वोत्तम परिणामों के लिए, 16:9 पहलू अनुपात वाली छवि का उपयोग करें। [अधिक जानें](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "सर्वोत्तम परिणामों के लिए, 16:9 पहलू अनुपात वाली छवि का उपयोग करें। [अधिक जानें](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "माइक्रोडाटा स्कीमा सक्षम करें",
-            "info" : "खोज इंजन शायद अभी तक इस जानकारी को अनुक्रमित न करें। विवरण के लिए [CollectionPage स्कीमा दस्तावेज़](https:\/\/schema.org\/CollectionPage) देखें।"
+            "info": "खोज इंजन शायद अभी तक इस जानकारी को अनुक्रमित न करें। विवरण के लिए [CollectionPage स्कीमा दस्तावेज़](https://schema.org/CollectionPage) देखें।"
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "अपने संग्रहों को संपादित करके छवियां जोड़ें। [अधिक जानें](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "अपने संग्रहों को संपादित करके छवियां जोड़ें। [अधिक जानें](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "संग्रह दिखाएँ",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "[मीडिया प्रकारों](https:\/\/help.shopify.com\/manual\/products\/product-media) के बारे में अधिक जानें।"
+          "info": "[मीडिया प्रकारों](https://help.shopify.com/manual/products/product-media) के बारे में अधिक जानें।"
         },
         "enable_sticky_image": {
           "label": "डेस्कटॉप पर चिपचिपी सामग्री सक्षम करें"
@@ -3934,7 +3961,7 @@
           }
         },
         "show_arrow_button": {
-          "label": "डेस्कटॉप पर अगला\/पिछला स्लाइडर सक्षम करें"
+          "label": "डेस्कटॉप पर अगला/पिछला स्लाइडर सक्षम करें"
         },
         "mobile_media_size": {
           "label": "मोबाइल मीडिया आकार",
@@ -4331,11 +4358,11 @@
           "label": "होवर पर रोकें"
         },
         "show_arrow": {
-          "label": "अगले\/पिछले तीर",
+          "label": "अगले/पिछले तीर",
           "info": "नेविगेशन तीर दिखाएँ"
         },
         "show_part_slide": {
-          "label": "अगली\/पिछली स्लाइडें"
+          "label": "अगली/पिछली स्लाइडें"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "कई स्टोर",
       "blocks": {
         "name": "स्टोर का स्थान",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "उत्पाद लेबल और बैज",
       "settings": {
-        "introduce": "अपने उत्पादों और उत्पाद कार्ड में लेबल और बैज जोड़ने के लिए इस अनुभाग का उपयोग करें। [ट्यूटोरियल देखें](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "अपने उत्पादों और उत्पाद कार्ड में लेबल और बैज जोड़ने के लिए इस अनुभाग का उपयोग करें। [ट्यूटोरियल देखें](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "उत्पाद लेबल और बैज सक्षम करें"
         }
@@ -4531,7 +4558,7 @@
           "name": "बिक गया लेबल",
           "introduce": "बिक गया लेबल सभी अनुपलब्ध उत्पादों पर स्वचालित रूप से प्रदर्शित होता है।",
           "content": {
-            "info": "इन्वेंट्री में कुल मात्रा के लिए {quantity}, \"स्टॉक में\/बिक गया\" के लिए {inventory} का उपयोग करें।"
+            "info": "इन्वेंट्री में कुल मात्रा के लिए {quantity}, \"स्टॉक में/बिक गया\" के लिए {inventory} का उपयोग करें।"
           }
         },
         "text-label": {
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "नया उत्पाद लेबल"
         },
-        "day_start":{
+        "day_start": {
           "label": "कितने दिनों से लेबल दिखाएँ",
           "creation_date": "उत्पाद निर्माण की तिथि",
           "activation_date": "उत्पाद सक्रियण की तिथि"
         },
-        "day_end":{
+        "day_end": {
           "label": "दिनों की संख्या"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "उत्पाद पृष्ठ पर दिखाएँ",
-          "info": "त्वरित दृश्य और उत्पाद जानकारी में लेबल और बैज दिखाने के लिए, कृपया उन अनुभागों में 'लेबल और बैज' ब्लॉक जोड़ें, या [यह मार्गदर्शिका देखें।](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
+          "info": "त्वरित दृश्य और उत्पाद जानकारी में लेबल और बैज दिखाने के लिए, कृपया उन अनुभागों में 'लेबल और बैज' ब्लॉक जोड़ें, या [यह मार्गदर्शिका देखें।](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "आइकन लेबल टेक्स्ट के सामने दिखाई देगा।"
@@ -4571,8 +4598,8 @@
           "info__3": "छूट राशि के लिए {sale_amount}।",
           "info__4": "इन्वेंट्री में कुल मात्रा के लिए {qty}।",
           "info__5": "समाप्ति तिथि तक काउंट डाउन टाइमर के लिए {count_down}। (शेड्यूल सक्षम होना चाहिए)",
-          "info__6": "लाइन तोड़ने के लिए <br \/>।",
-          "info__7": "बोल्ड टेक्स्ट के लिए <b>आपकी सामग्री<\/b>।",
+          "info__6": "लाइन तोड़ने के लिए <br />।",
+          "info__7": "बोल्ड टेक्स्ट के लिए <b>आपकी सामग्री</b>।",
           "info__8": "उत्पाद की कीमत के लिए {price}।",
           "info_metafield": "किसी उत्पाद या वेरिएंट मेटाफ़ील्ड के लिए {metafield_key} (केवल एकल पंक्ति पाठ प्रकार का समर्थन करता है)। नोट: मेटाफ़ील्ड कुंजियों को यहां प्रदर्शित करने के लिए पहले थीम सेटिंग्स > उत्पाद लेबल और बैज में कॉन्फ़िगर किया जाना चाहिए।"
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "टिकट पेज लिंक",
-          "info": "उपस्थित लोगों को टिकट बेचने के लिए एक टिकट पेज जोड़ें। इवेंट के बारे में अधिक जानकारी प्रदान करने के लिए एक [डिजिटल उत्पाद](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) बनाएं, और वैकल्पिक रूप से इसे उत्पाद सूचियों से छिपाएं। आंतरिक खोज और उत्पाद अनुशंसाओं से उत्पादों को बाहर करने के लिए मुफ्त सहायता के लिए [हमसे संपर्क करें](https:\/\/omnithemes.com\/contact\/)।"
+          "info": "उपस्थित लोगों को टिकट बेचने के लिए एक टिकट पेज जोड़ें। इवेंट के बारे में अधिक जानकारी प्रदान करने के लिए एक [डिजिटल उत्पाद](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) बनाएं, और वैकल्पिक रूप से इसे उत्पाद सूचियों से छिपाएं। आंतरिक खोज और उत्पाद अनुशंसाओं से उत्पादों को बाहर करने के लिए मुफ्त सहायता के लिए [हमसे संपर्क करें](https://omnithemes.com/contact/)।"
         },
         "ticket_button_label": {
           "label": "टिकट बटन लेबल"
@@ -5286,7 +5313,7 @@
         "note_3": "3. \"product_specs\" कुंजी के साथ एक उत्पाद मेटाफ़ील्ड (मेटाऑब्जेक्ट/मानों की सूची) बनाएं और अभी-अभी बनाए गए मेटाऑब्जेक्ट का चयन करें।",
         "note_4": "4. एडमिन उत्पाद विवरण पृष्ठ में मेटाफ़ील्ड के माध्यम से प्रत्येक उत्पाद के लिए मान असाइन करें।",
         "note_5": "5. इस फ़ील्ड में संबंधित मेटाफ़ील्ड की कुंजी \"product_specs\" भरें।",
-        "note_6": "अधिक जानकारी के लिए, कृपया [मुफ्त सहायता के लिए हमसे संपर्क करें।](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "अधिक जानकारी के लिए, कृपया [मुफ्त सहायता के लिए हमसे संपर्क करें।](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "हाइलाइट (गहरा)"
         },
@@ -5325,7 +5352,7 @@
           "info": "कूपन कोड को कार्ट में स्वचालित रूप से लागू करने के लिए लेबल जोड़ें।"
         },
         "promo_code_note": {
-          "content": "नीचे दी गई प्रारंभ और समाप्ति तिथि Shopify एडमिन > डिस्काउंट में डिस्काउंट नियम की प्रारंभ और समाप्ति तिथि के साथ संरेखित होनी चाहिए। [डिस्काउंट कोड](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes) के बारे में अधिक जानें।"
+          "content": "नीचे दी गई प्रारंभ और समाप्ति तिथि Shopify एडमिन > डिस्काउंट में डिस्काउंट नियम की प्रारंभ और समाप्ति तिथि के साथ संरेखित होनी चाहिए। [डिस्काउंट कोड](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes) के बारे में अधिक जानें।"
         },
         "promo_terms_label": {
           "label": "प्रोमो शर्तें लेबल"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "त्वरित ऑर्डर सूची",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "साइडबार"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "मूल पोस्ट अनुपात"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "सामाजिक पोस्ट छवि"

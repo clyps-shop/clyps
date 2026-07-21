@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Skrifttype",
-          "info": "Valg af en anden skrifttype kan påvirke hastigheden i din butik. [Lær mere om systemskrifttyper.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Valg af en anden skrifttype kan påvirke hastigheden i din butik. [Lær mere om systemskrifttyper.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Overskrifter"
@@ -112,7 +112,7 @@
           "content": "Brødtekst"
         },
         "type_body_font": {
-          "info": "Valg af en anden skrifttype kan påvirke hastigheden i din butik. [Lær mere om systemskrifttyper.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Valg af en anden skrifttype kan påvirke hastigheden i din butik. [Lær mere om systemskrifttyper.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Skriftstørrelsesskala"
@@ -136,7 +136,7 @@
         "info": "Indstillingerne nedenfor tilføjer automatisk farveprøver til filteret på samlings- og søgesiden.",
         "swatches_filter": {
           "header": "Filter",
-          "info": "For at filtrere ved hjælp af yderligere farve- eller billedværdier skal du oprette metaobjekter og metaobjektreferencer og derefter ændre indstillingerne nedenfor i henhold til dine præferencer. [Lær om at vise visuelle filtre ved hjælp af metaobjekter.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "For at filtrere ved hjælp af yderligere farve- eller billedværdier skal du oprette metaobjekter og metaobjektreferencer og derefter ændre indstillingerne nedenfor i henhold til dine præferencer. [Lær om at vise visuelle filtre ved hjælp af metaobjekter.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "Vis tekst ved siden af farveprøver",
           "visual_style": {
             "label": "Visuel værdistil",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Fremhævede funktioner",
-        "paragraph": "Fremvis fremragende produktkvaliteter på kort for at kommunikere værdi med et blik og understøtte hurtigere, mere selvsikre købsbeslutninger. Lær mere i vores [brugervejledning](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
+        "paragraph": "Fremvis fremragende produktkvaliteter på kort for at kommunikere værdi med et blik og understøtte hurtigere, mere selvsikre købsbeslutninger. Lær mere i vores [brugervejledning](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "Øverst på kortet",
           "option__2": "Under produkttitel",
@@ -199,7 +199,7 @@
       "color_option_info": "Udfyld alle navn(e) på den farvemulighed, der bruges i butikken; udtryk på forskellige sprog adskilles med et komma. (f.eks. Color, Colour, Couleur).",
       "color_option_values": "Farveprøveværdier",
       "color_swatches_example": "Én 'farvenavn:værdi' per linje. Op til tre farver kan bruges til at vise lodrette striber. F.eks.: 'Red Blue Stripes:#e22#22e'",
-      "color_swatches_guide": "For at bruge et billede til farveprøven, [upload et PNG-billede](\/admin\/settings\/files) med filnavnet, der matcher farvenavnet, og mellemrum erstattet af bindestreger. F.eks. for 'Hot Pink' upload 'hot-pink.png'.",
+      "color_swatches_guide": "For at bruge et billede til farveprøven, [upload et PNG-billede](/admin/settings/files) med filnavnet, der matcher farvenavnet, og mellemrum erstattet af bindestreger. F.eks. for 'Hot Pink' upload 'hot-pink.png'.",
       "products_color_swatches_enable_on_collection_page": "Aktiver på produktkort",
       "replace_color_with_variant_images": "Erstat farveindstillinger med variantbilleder",
       "products_color_swatches_style": "Farveprøvestil",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Graver dette produkt",
       "highlight_icon": {
         "name": "Fremhævede egenskaber",
-        "info": "Vis ikoner på produktkort, så kunderne hurtigt kan forstå produkternes fremhævede egenskaber (f.eks. ingredienser, allergener). Lær mere i vores [brugervejledning.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)",
+        "info": "Vis ikoner på produktkort, så kunderne hurtigt kan forstå produkternes fremhævede egenskaber (f.eks. ingredienser, allergener). Lær mere i vores [brugervejledning.](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)",
         "icon_1": "Ikon 1",
         "icon_2": "Ikon 2",
         "icon_3": "Ikon 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Brug knapfarve",
       "button_colors": "Knapfarver"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "Menupunkt niveau 1 animation",
         "note": "Fungerer kun med Marker og Bling bling menu highlight stil"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "Produktetiketter og -mærker",
-      "info": "Produktetiketter og -mærker opsættes i afsnittet Produktetiketter og -mærker i Overlay-gruppen. Hvis du vil vise produktmetafelter som etiketter og mærker, skal du udfylde metafeltnøglerne i tekstfeltet nedenfor og derefter navigere til afsnittet for at konfigurere visningen af etiketterne. Kun metafeltstypen Enkeltlinjetekst accepteres. Læs mere i [vores brugervejledning.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "Produktetiketter og -mærker opsættes i afsnittet Produktetiketter og -mærker i Overlay-gruppen. Hvis du vil vise produktmetafelter som etiketter og mærker, skal du udfylde metafeltnøglerne i tekstfeltet nedenfor og derefter navigere til afsnittet for at konfigurere visningen af etiketterne. Kun metafeltstypen Enkeltlinjetekst accepteres. Læs mere i [vores brugervejledning.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Metafelter brugt i etiketter",
           "info": "Udfyld de fulde produktmetafeltnøgler (f.eks. custom.metafield-1). Én metafeltnøgle pr. række."
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "Favicon",
@@ -468,9 +495,9 @@
       "cart_upsell": "Kurv mersalg",
       "enable_cart_upsell": "Aktivér i minikurv",
       "cart_upsell_note": "Hvis aktiveret i minikurv og kurvside, kan mersalgsanbefalinger vises i denne prioritet (fra høj til lav):",
-      "cart_upsell_note_1": "(1) ved at oprette et produktmetafelt i kurv mersalg, og dette felt er ikke tomt. [Se vores brugervejledning for yderligere detaljer.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) ved at oprette et produktmetafelt i kurv mersalg, og dette felt er ikke tomt. [Se vores brugervejledning for yderligere detaljer.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) ved manuelt at vælge en liste over produkter i indstillingerne nedenfor",
-      "cart_upsell_note_3": "(3) ved at bruge dynamiske anbefalinger baseret på Shopify produktanbefalinger. [Lær mere.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) ved at bruge dynamiske anbefalinger baseret på Shopify produktanbefalinger. [Lær mere.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "Hvis du bruger et produktmetafelt til at tilføje mersalgsprodukter, skal du lade dette felt være tomt.",
       "number_of_product_shown": "Antal viste produkter",
       "section_label": "Afsnitslabel",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Validering regex (Avanceret)",
-          "info": "Til valideringsformål for felter. Undgå venligst at bruge det, hvis du ikke er bekendt med Regex. For assistance med Regex eller løsning af problemer, der opstår deraf, bedes du [kontakte vores support](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Til valideringsformål for felter. Undgå venligst at bruge det, hvis du ikke er bekendt med Regex. For assistance med Regex eller løsning af problemer, der opstår deraf, bedes du [kontakte vores support](https://omnithemes.com/contact/)."
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Minimum antal leveringsdage",
-          "info": "Det mindste antal dage, der kræves for at sende alle ordrer. Brug et semikolon til at skelne mellem forsendelsesmarkeder, hvis nødvendigt (f.eks. US:6;GB:3), eller udfyld et enkelt tal for at gælde for alle tilgængelige markeder. Landekoder skal følge [ISO 3166-standarden.](https:\/\/www.iban.com\/country-codes)",
-          "note": "For at tilpasse for hvert produkt skal du oprette et metafelt med nøglen 'custom.delivery_date_min' og typen 'Tekst'. [Lær mere om at oprette metafelter](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) eller [kontakt vores support](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Det mindste antal dage, der kræves for at sende alle ordrer. Brug et semikolon til at skelne mellem forsendelsesmarkeder, hvis nødvendigt (f.eks. US:6;GB:3), eller udfyld et enkelt tal for at gælde for alle tilgængelige markeder. Landekoder skal følge [ISO 3166-standarden.](https://www.iban.com/country-codes)",
+          "note": "For at tilpasse for hvert produkt skal du oprette et metafelt med nøglen 'custom.delivery_date_min' og typen 'Tekst'. [Lær mere om at oprette metafelter](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) eller [kontakt vores support](https://omnithemes.com/contact/)."
         },
         "max_days": {
           "label": "Maksimum antal leveringsdage",
-          "info": "Det maksimale antal dage, der kræves for at sende alle ordrer. Brug et semikolon til at skelne mellem forsendelsesmarkeder, hvis nødvendigt (f.eks. US:6;GB:3), eller udfyld et enkelt tal for at gælde for alle tilgængelige markeder. Landekoder skal følge [ISO 3166-standarden.](https:\/\/www.iban.com\/country-codes)",
-          "note": "For at tilpasse for hvert produkt skal du oprette et metafelt med nøglen 'custom.delivery_date_max' og typen 'Tekst'. [Lær mere om at oprette metafelter](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) eller [kontakt vores support](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Det maksimale antal dage, der kræves for at sende alle ordrer. Brug et semikolon til at skelne mellem forsendelsesmarkeder, hvis nødvendigt (f.eks. US:6;GB:3), eller udfyld et enkelt tal for at gælde for alle tilgængelige markeder. Landekoder skal følge [ISO 3166-standarden.](https://www.iban.com/country-codes)",
+          "note": "For at tilpasse for hvert produkt skal du oprette et metafelt med nøglen 'custom.delivery_date_max' og typen 'Tekst'. [Lær mere om at oprette metafelter](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) eller [kontakt vores support](https://omnithemes.com/contact/)."
         },
         "cutoff_time": {
           "content": "Cut-off tid"
@@ -686,7 +713,7 @@
       "note": "Vis original URL for paginerede kollektionssider som kanoniske tags.",
       "header": {
         "content": "Virksomhedsinformation",
-        "info": "Bruges til at vise i webstedets strukturerede data og på Googles SERP-grafikkort. Lær mere om [organisationsskema](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
+        "info": "Bruges til at vise i webstedets strukturerede data og på Googles SERP-grafikkort. Lær mere om [organisationsskema](https://developers.google.com/search/docs/appearance/structured-data/organization)."
       },
       "enable_organization_schema": {
         "label": "Aktivér organisationsskema"
@@ -727,15 +754,15 @@
       "other": {
         "header": "Andet skema",
         "schema_breadcrumbs": "Føj skema til brødkrummer",
-        "info_breadcrumbs": "Se [dokumentationen for BreadcrumbList-skemaet](https:\/\/schema.org\/BreadcrumbList) for detaljer.",
+        "info_breadcrumbs": "Se [dokumentationen for BreadcrumbList-skemaet](https://schema.org/BreadcrumbList) for detaljer.",
         "search": "Føj SearchAction-skema til hjemmesiden",
-        "info_search": "Se [dokumentationen for SearchAction-skemaet](https:\/\/schema.org\/SearchAction) for detaljer."
+        "info_search": "Se [dokumentationen for SearchAction-skemaet](https://schema.org/SearchAction) for detaljer."
       }
     },
     "combined_listing": {
       "name": "Kombinerede fortegnelser (kun Plus)",
       "enable_combined": "Aktiver kombinerede produktfortegnelser",
-      "info": "Installer appen [Kombinerede fortegnelser](https:\/\/apps.shopify.com\/combined-listings) og aktiver denne indstilling for at bruge denne funktion. Kun tilgængelig på Plus- og enterprise commerce-planer."
+      "info": "Installer appen [Kombinerede fortegnelser](https://apps.shopify.com/combined-listings) og aktiver denne indstilling for at bruge denne funktion. Kun tilgængelig på Plus- og enterprise commerce-planer."
     },
     "reorder": {
       "name": "Genbestil",
@@ -746,10 +773,10 @@
       "name": "Avanceret",
       "product_reviews_app": {
         "label": "App til produktanmeldelser",
-        "info": "Vælg anmeldelsesappen for at integrere med temaets indbyggede produktbedømmelse. Nogle apps under 'Andet' er muligvis ikke fuldt kompatible med temaet, venligst [kontakt os for support](https:\/\/omnithemes.com\/contact\/)."
+        "info": "Vælg anmeldelsesappen for at integrere med temaets indbyggede produktbedømmelse. Nogle apps under 'Andet' er muligvis ikke fuldt kompatible med temaet, venligst [kontakt os for support](https://omnithemes.com/contact/)."
       },
       "custom_html": "Brugerdefineret kode",
-      "custom_info": "For support med håndtering af brugerdefineret kode eller fejlfinding relateret til brugerdefineret kode, bedes du [kontakte os](https:\/\/omnithemes.com\/contact\/).",
+      "custom_info": "For support med håndtering af brugerdefineret kode eller fejlfinding relateret til brugerdefineret kode, bedes du [kontakte os](https://omnithemes.com/contact/).",
       "additional_head": {
         "label": "HTML til <head>-tagget",
         "info": "Bruges til enhver brugerdefineret HTML-kode, der skal anvendes på hele siden. Placeret i bunden af <head>-tagget på alle temasider, undtagen kassesiden."
@@ -784,7 +811,7 @@
       "sections_spacing": "Sektionsafstand",
       "lang_direction": {
         "label": "RTL-sprog",
-        "info": "Indtast sprogkoderne for at vise sprog i RTL-layout. Alle koder skal følge [ISO Language Code Table](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) og adskilles med kommaer (f.eks.: ar,fa,ps)"
+        "info": "Indtast sprogkoderne for at vise sprog i RTL-layout. Alle koder skal følge [ISO Language Code Table](https://www.w3schools.com/tags/ref_language_codes.asp) og adskilles med kommaer (f.eks.: ar,fa,ps)"
       },
       "page_width": "Sidebredde",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "Billedzoom-ind animation brugt i: Produktkortbilleder, Samlingskortbilleder, Mediegalleri, Kampagnegitter, Kampagne-pop op, Tekstkolonner med billede.",
       "enable_page_transition": "Aktiver sideovergang"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "Klassisk",
         "option_2": "Moderne"
       }
@@ -832,7 +859,7 @@
       "name": "Cookie-banner",
       "settings": {
         "paragraph": {
-          "content": "Bed dine kunder om samtykke til at bruge cookies og behandle deres data, som krævet af Den Europæiske Unions ePrivacy-direktiv og GDPR. [Lær mere](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "Bed dine kunder om samtykke til at bruge cookies og behandle deres data, som krævet af Den Europæiske Unions ePrivacy-direktiv og GDPR. [Lær mere](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "Cookie-meddelelse"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) denne sektion.",
+        "header_general": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) denne sektion.",
         "mega_menu": {
-          "simple_menu": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) denne blok.",
-          "tree_menu": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) denne blok.",
-          "banner_menu": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) denne blok.",
-          "product_menu": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) denne blok.",
-          "blog_menu": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) denne blok.",
-          "tabbed_menu": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) denne blok.",
-          "contact_menu": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) denne blok.",
-          "cta_button": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) denne blok."
+          "simple_menu": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) denne blok.",
+          "tree_menu": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) denne blok.",
+          "banner_menu": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) denne blok.",
+          "product_menu": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) denne blok.",
+          "blog_menu": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) denne blok.",
+          "tabbed_menu": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) denne blok.",
+          "contact_menu": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) denne blok.",
+          "cta_button": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) denne blok."
         },
-        "announcement_bar": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) denne sektion.",
-        "mobile_navigation": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) denne sektion."
+        "announcement_bar": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) denne sektion.",
+        "mobile_navigation": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) denne sektion."
       },
       "footer": {
-        "footer": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) denne sektion.",
-        "quicklinks": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) denne sektion."
+        "footer": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/footer/footer) denne sektion.",
+        "quicklinks": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/footer/quicklinks) denne sektion."
       },
       "section_and_blocks": {
-        "blog_post": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) denne sektion.",
-        "collection_list": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) denne sektion.",
-        "collage": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) denne sektion.",
-        "collection_list_banner": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) denne sektion.",
-        "collection_list_carousel": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) denne sektion.",
-        "comparison_table": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) denne sektion.",
-        "contact_form": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) denne sektion.",
-        "custom_liquid": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) denne sektion.",
-        "email_signup": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) denne sektion.",
-        "event_calendar": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) denne sektion.",
-        "faq": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) denne sektion.",
-        "featured_category": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) denne sektion.",
-        "featured_collection": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) denne sektion.",
-        "featured_product": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) denne sektion.",
-        "flash_sale": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) denne sektion.",
-        "flow": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) denne sektion.",
-        "highlight_text_with_image": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) denne sektion.",
-        "image_comparison": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) denne sektion.",
-        "logo_list": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) denne sektion.",
-        "map": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) denne sektion.",
-        "media_gallery": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) denne sektion.",
-        "media_with_text": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) denne sektion.",
-        "multiple_store": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) denne sektion.",
-        "page": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) denne sektion.",
-        "product_attribute_table": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) denne sektion.",
-        "product_bundle": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) denne sektion.",
-        "product_comparison_table": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) denne sektion.",
-        "product_highlight": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) denne sektion.",
-        "product_grid": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) denne sektion.",
-        "promo_code_list": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) denne sektion.",
-        "promotion_banner": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) denne sektion.",
-        "promotion_grid": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) denne sektion.",
-        "recently_viewed_products": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) denne sektion.",
-        "related_blog_posts": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) denne sektion.",
-        "related_collections": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) denne sektion.",
-        "rich_text": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) denne sektion.",
-        "scrolling_promotion": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) denne sektion.",
-        "shop_the_look": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) denne sektion.",
-        "slideshow": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) denne sektion.",
-        "social_feeds": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) denne sektion.",
-        "tabs": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) denne sektion.",
-        "testimonial": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) denne sektion.",
-        "testimonial_with_cards": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) denne sektion.",
-        "text_columns_with_icons": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) denne sektion.",
-        "text_columns_with_images": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) denne sektion.",
-        "timeline": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) denne sektion.",
-        "vertical_slideshow": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) denne sektion.",
-        "video": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) denne sektion.",
-        "video_hero": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) denne sektion.",
-        "video_looping": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) denne sektion.",
-        "video_shopping": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) denne sektion.",
-        "flexible_area": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flexible-area) denne sektion."
+        "blog_post": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/blog-post) denne sektion.",
+        "collection_list": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/collection-list) denne sektion.",
+        "collage": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/collage) denne sektion.",
+        "collection_list_banner": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) denne sektion.",
+        "collection_list_carousel": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) denne sektion.",
+        "comparison_table": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) denne sektion.",
+        "contact_form": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/contact-form) denne sektion.",
+        "custom_liquid": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) denne sektion.",
+        "email_signup": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) denne sektion.",
+        "event_calendar": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) denne sektion.",
+        "faq": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/faqs) denne sektion.",
+        "featured_category": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) denne sektion.",
+        "featured_collection": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) denne sektion.",
+        "featured_product": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/featured-product) denne sektion.",
+        "flash_sale": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) denne sektion.",
+        "flow": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/flow) denne sektion.",
+        "highlight_text_with_image": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) denne sektion.",
+        "image_comparison": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) denne sektion.",
+        "logo_list": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/logo-list) denne sektion.",
+        "map": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/map-1) denne sektion.",
+        "media_gallery": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) denne sektion.",
+        "media_with_text": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) denne sektion.",
+        "multiple_store": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) denne sektion.",
+        "page": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/page) denne sektion.",
+        "product_attribute_table": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) denne sektion.",
+        "product_bundle": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) denne sektion.",
+        "product_comparison_table": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) denne sektion.",
+        "product_highlight": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) denne sektion.",
+        "product_grid": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/product-grid) denne sektion.",
+        "promo_code_list": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) denne sektion.",
+        "promotion_banner": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) denne sektion.",
+        "promotion_grid": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) denne sektion.",
+        "recently_viewed_products": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) denne sektion.",
+        "related_blog_posts": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) denne sektion.",
+        "related_collections": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/related-collections) denne sektion.",
+        "rich_text": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/rich-text) denne sektion.",
+        "scrolling_promotion": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) denne sektion.",
+        "shop_the_look": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) denne sektion.",
+        "slideshow": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/slideshow) denne sektion.",
+        "social_feeds": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) denne sektion.",
+        "tabs": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/tabs) denne sektion.",
+        "testimonial": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/testimonial) denne sektion.",
+        "testimonial_with_cards": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) denne sektion.",
+        "text_columns_with_icons": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) denne sektion.",
+        "text_columns_with_images": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) denne sektion.",
+        "timeline": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/timeline) denne sektion.",
+        "vertical_slideshow": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) denne sektion.",
+        "video": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/video) denne sektion.",
+        "video_hero": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/video-hero) denne sektion.",
+        "video_looping": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/video-looping) denne sektion.",
+        "video_shopping": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) denne sektion.",
+        "flexible_area": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) denne sektion."
       },
       "product_page": {
-        "product_description": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) denne sektion.",
+        "product_description": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/product-description) denne sektion.",
         "product_information": {
-          "product_information_general": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) denne sektion.",
-          "buy_buttons": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) denne blok.",
-          "back_in_stock_alert": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) denne blok.",
-          "basic_info": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) denne blok.",
-          "collapsible_tab": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) denne blok.",
-          "collection_link": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) denne blok.",
-          "complementary_product": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) denne blok.",
-          "customizable_options": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) denne blok.",
-          "estimate_delivery": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) denne blok.",
-          "engraving": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) denne blok.",
-          "featured_icon": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) denne blok.",
-          "frequently_bought_together": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) denne blok.",
-          "gift_wrapping": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) denne blok.",
-          "horizontal_tab": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) denne blok.",
-          "inventory_status": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) denne blok.",
-          "nutrition_fact_bar": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) denne blok.",
-          "payment_method": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) denne blok.",
-          "product_sibling": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) denne blok.",
-          "rating": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) denne blok.",
-          "size_chart": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) denne blok.",
-          "social_sharing": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) denne blok.",
-          "sticky_add_to_cart": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) denne blok.",
-          "table_of_information": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) denne blok.",
-          "trust_badge": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) denne blok.",
-          "volume_pricing": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) denne blok.",
-          "other_blocks": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) denne blok."
+          "product_information_general": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/product-information) denne sektion.",
+          "buy_buttons": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) denne blok.",
+          "back_in_stock_alert": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) denne blok.",
+          "basic_info": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) denne blok.",
+          "collapsible_tab": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) denne blok.",
+          "collection_link": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) denne blok.",
+          "complementary_product": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) denne blok.",
+          "customizable_options": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide/customizable-options) denne blok.",
+          "estimate_delivery": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) denne blok.",
+          "engraving": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/engraving) denne blok.",
+          "featured_icon": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) denne blok.",
+          "frequently_bought_together": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) denne blok.",
+          "gift_wrapping": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) denne blok.",
+          "horizontal_tab": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) denne blok.",
+          "inventory_status": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) denne blok.",
+          "nutrition_fact_bar": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) denne blok.",
+          "payment_method": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) denne blok.",
+          "product_sibling": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/user-guide/product-siblings) denne blok.",
+          "rating": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) denne blok.",
+          "size_chart": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) denne blok.",
+          "social_sharing": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) denne blok.",
+          "sticky_add_to_cart": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) denne blok.",
+          "table_of_information": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) denne blok.",
+          "trust_badge": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) denne blok.",
+          "volume_pricing": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) denne blok.",
+          "other_blocks": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) denne blok."
         },
-        "product_specification": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) denne sektion.",
-        "product_recommendation": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) denne sektion.",
-        "quick_order_list": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) denne sektion."
+        "product_specification": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/product-specifications) denne sektion.",
+        "product_recommendation": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/product-recommendations) denne sektion.",
+        "quick_order_list": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/product-page/quick-order-list) denne sektion."
       },
       "collection_page": {
-        "collection_banner": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) denne sektion."
+        "collection_banner": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/collection-page/collection-banner) denne sektion."
       },
       "pages_and_templates": {
-        "blog_post_page": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) denne sektion.",
-        "blog_page": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) denne sektion.",
-        "cart_page": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) denne sektion.",
-        "collection_list_page": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) denne sektion.",
-        "search_page": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) denne sektion."
+        "blog_post_page": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) denne sektion.",
+        "blog_page": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/page-templates/blog-page) denne sektion.",
+        "cart_page": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/page-templates/cart-page) denne sektion.",
+        "collection_list_page": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/page-templates/collection-list-page) denne sektion.",
+        "search_page": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/page-templates/search-page) denne sektion."
       },
       "overlay_group": {
-        "cookie_banner": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) denne sektion.",
-        "popup": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) denne sektion.",
-        "store_selector": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) denne sektion.",
-        "quick_view": "Lær [hvordan man bruger](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) denne sektion.",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) denne sektion.",
+        "popup": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/overlay-group-1/popup) denne sektion.",
+        "store_selector": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) denne sektion.",
+        "quick_view": "Lær [hvordan man bruger](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) denne sektion.",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Gælder for animationstypen 'Opskåret med ikon'.",
         "custom_icon": "Brugerdefineret ikon (SVG-kode)",
-        "custom_icon_info": "For assistance med brugerdefineret SVG-kode eller løsning af problemer, der opstår fra brugerdefineret SVG-kode, bedes du [kontakte vores support](https:\/\/omnithemes.com\/contact\/).",
+        "custom_icon_info": "For assistance med brugerdefineret SVG-kode eller løsning af problemer, der opstår fra brugerdefineret SVG-kode, bedes du [kontakte vores support](https://omnithemes.com/contact/).",
         "label": "Ikon",
         "another_icon_label": "Brug et andet ikon",
         "another_icon_info": "Hvis du vil bruge andre ikoner end de ovenstående muligheder, skal du finde et ikon fra vores [ikonliste](https://support.omnithemes.com/blogs/user-guide/theme-icons) og udfylde ikonnavnet her (f.eks.: pris-mærke).",
@@ -1175,8 +1202,8 @@
         "heading_image": "Overskriftsbillede",
         "image_height": "Billedhøjde",
         "image_width": "Billedbredde",
-        "note_image_size": "For anbefalede billedstørrelser, tjek vores [brugervejledning](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)",
-        "note_image_size_video_shopping": "For anbefalede billedstørrelser, tjek vores [brugervejledning](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Overdimensionerede billeder vil blive tilpasset for optimal mobilvisning. Anbefalede forhold: 1:1, 3:4, 4:3."
+        "note_image_size": "For anbefalede billedstørrelser, tjek vores [brugervejledning](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)",
+        "note_image_size_video_shopping": "For anbefalede billedstørrelser, tjek vores [brugervejledning](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Overdimensionerede billeder vil blive tilpasset for optimal mobilvisning. Anbefalede forhold: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Billedforhold",
@@ -1389,7 +1416,7 @@
               "label": "Menupunkt link"
             },
             "menu": {
-              "info": "Vælg en menu, der skal anvendes til dette menupunkt. Lær hvordan du opretter en 4-niveau menu [her.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
+              "info": "Vælg en menu, der skal anvendes til dette menupunkt. Lær hvordan du opretter en 4-niveau menu [her.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Gælder for fane og undermenupunkter. For stor billedstørrelse er den afrundede mulighed ikke tilgængelig."
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "Udvalgte kategorier",
       "category_card": {
         "name": "Kategorikort",
@@ -2138,7 +2165,7 @@
           "name": "Leverandørnavn",
           "settings": {
             "paragraph__1": "Vis flere detaljer om produktets leverandør efter denne prioritet (fra høj til lav):",
-            "paragraph__2": "(1) ved at linke leverandørnavnet til samlingen af den tilsvarende leverandør. [Lær mere](https:\/\/shopify.dev\/docs\/api\/liquid\/filters#link_to_vendor)",
+            "paragraph__2": "(1) ved at linke leverandørnavnet til samlingen af den tilsvarende leverandør. [Lær mere](https://shopify.dev/docs/api/liquid/filters#link_to_vendor)",
             "paragraph__3": "(2) ved at vælge en side til at vise sidens indhold i en popup uden at forlade den aktuelle side. Hvis metafield er aktiveret til at vise leverandørkollektion i admin, vil linket automatisk blive anvendt her.",
             "paragraph__4": "(3) ved at indtaste en URL for at dirigere til et eksternt link.",
             "link_vendor": {
@@ -2179,7 +2206,7 @@
             "pickup_availability": {
               "content": "Afhentningstilgængelighed",
               "label": "Aktiver funktionen for afhentningstilgængelighed",
-              "info": "Lær hvordan du opsætter denne funktion [her](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup)"
+              "info": "Lær hvordan du opsætter denne funktion [her](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup)"
             },
             "preorder": {
               "preorder_show": {
@@ -2213,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Giv besked om indgående lager",
-              "info": "Lær mere om [status for indgående lager](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) og hvordan man [opretter lagertransaktioner.](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
+              "info": "Lær mere om [status for indgående lager](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) og hvordan man [opretter lagertransaktioner.](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
             },
             "message_incoming": {
               "label": "Meddelelse om indgående overførsel",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "Medier",
-          "info": "Lær mere om [medietyper](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Lær mere om [medietyper](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_loop": {
           "label": "Aktiver video-looping"
@@ -2691,7 +2718,7 @@
           "label": "Vis betalingsikoner"
         },
         "custom_payment": {
-          "info": "Tilpas dine betalingsikoner. Udfyld f.eks. dette felt med dine valgte metoder: apple_pay, google_pay, tabby, tamara. [Læs mere](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "Tilpas dine betalingsikoner. Udfyld f.eks. dette felt med dine valgte metoder: apple_pay, google_pay, tabby, tamara. [Læs mere](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "Brugerdefinerede betalingsikoner SVG"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Følg på Shop",
-          "info": "Vis følg-knappen for din butiksfacade i Shop-appen. [Lær mere](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "Vis følg-knappen for din butiksfacade i Shop-appen. [Lær mere](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Aktiver Følg på Shop"
@@ -3425,7 +3452,7 @@
           "info": "Bemærk: Valgmuligheder med mere end 20 elementer pr. side anbefales ikke med henblik på ydeevneoptimering."
         },
         "paragraph": {
-          "content": "Rediger uddrag ved at redigere dine blogindlæg. [Læs mere](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Rediger uddrag ved at redigere dine blogindlæg. [Læs mere](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Indlæg stables på mobil."
@@ -3470,7 +3497,7 @@
           "label": "Gør samlingens titel fuld bredde på desktop"
         },
         "paragraph": {
-          "content": "Tilføj en beskrivelse eller et billede ved at redigere din samling. [Lær mere](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "Tilføj en beskrivelse eller et billede ved at redigere din samling. [Lær mere](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "Vis samlingstitel"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Vis samlingsbillede",
-          "info": "For de bedste resultater, brug et billede med et 16:9 billedformat. [Lær mere](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "For de bedste resultater, brug et billede med et 16:9 billedformat. [Lær mere](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Aktiver mikrdata-skema",
-            "info" : "Søgemaskiner indekserer muligvis ikke disse oplysninger endnu. Se [CollectionPage-skemadokumentationen](https:\/\/schema.org\/CollectionPage) for detaljer."
+            "info": "Søgemaskiner indekserer muligvis ikke disse oplysninger endnu. Se [CollectionPage-skemadokumentationen](https://schema.org/CollectionPage) for detaljer."
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Tilføj billeder ved at redigere dine samlinger. [Lær mere](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "Tilføj billeder ved at redigere dine samlinger. [Lær mere](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "Vis samlinger",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Lær mere om [medietyper.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Lær mere om [medietyper.](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_sticky_image": {
           "label": "Aktiver sticky indhold på desktop"
@@ -4331,11 +4358,11 @@
           "label": "Pause ved hover"
         },
         "show_arrow": {
-          "label": "Næste\/Forrige pile",
+          "label": "Næste/Forrige pile",
           "info": "Vis navigationspile"
         },
         "show_part_slide": {
-          "label": "Næste\/Forrige dias"
+          "label": "Næste/Forrige dias"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "Flere butikker",
       "blocks": {
         "name": "Butiksplacering",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Produktetiketter og -mærker",
       "settings": {
-        "introduce": "Brug denne sektion til at tilføje etiketter og badges til dine produkter og produktkort. [Se tutorials](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "Brug denne sektion til at tilføje etiketter og badges til dine produkter og produktkort. [Se tutorials](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "Aktiver produktetiketter og badges"
         }
@@ -4531,7 +4558,7 @@
           "name": "Udsolgt-label",
           "introduce": "Udsolgt-label vises automatisk på alle utilgængelige produkter.",
           "content": {
-            "info": "Brug {inventory} for \"På lager\/Udsolgt\", {quantity} for samlet antal på lager."
+            "info": "Brug {inventory} for \"På lager/Udsolgt\", {quantity} for samlet antal på lager."
           }
         },
         "text-label": {
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "Ny produktetiket"
         },
-        "day_start":{
+        "day_start": {
           "label": "Vis etiket inden for antal dage siden",
           "creation_date": "Oprettelsesdato for produkt",
           "activation_date": "Aktiveringsdato for produkt"
         },
-        "day_end":{
+        "day_end": {
           "label": "Antal dage"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Vis på produktside",
-          "info": "For at vise etiketter og badges i Hurtigvisning og Produktinformation, tilføj venligst 'Etiketter og badges'-blokken i disse sektioner, eller se [denne guide.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
+          "info": "For at vise etiketter og badges i Hurtigvisning og Produktinformation, tilføj venligst 'Etiketter og badges'-blokken i disse sektioner, eller se [denne guide.](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Ikonet vises foran etiketteksten."
@@ -4571,8 +4598,8 @@
           "info__3": "{sale_amount} for rabatbeløb.",
           "info__4": "{qty} for samlet antal på lager.",
           "info__5": "{count_down} for nedtællingstimer til slutdato. (Skal aktivere tidsplan)",
-          "info__6": "<br \/> for at skifte linje.",
-          "info__7": "<b>dit indhold<\/b> for fed tekst.",
+          "info__6": "<br /> for at skifte linje.",
+          "info__7": "<b>dit indhold</b> for fed tekst.",
           "info__8": "{price} for produktpris.",
           "info_metafield": "{metafield_key} for et produkt- eller variantmetafelt (understøtter kun 'Enkelt linje tekst' type). Bemærk: Metafeltnøgler skal først konfigureres i Tema-indstillinger > Produktetiketter og badges for at blive vist her."
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Link til billetside",
-          "info": "Tilføj en billetside for at sælge billetter til deltagere. Opret et [digitalt produkt](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) for at give mere information om arrangementet, og skjul det eventuelt fra produktlister. [Kontakt os](https:\/\/omnithemes.com\/contact\/) for gratis support for at udelukke produkter fra intern søgning og produktanbefalinger."
+          "info": "Tilføj en billetside for at sælge billetter til deltagere. Opret et [digitalt produkt](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) for at give mere information om arrangementet, og skjul det eventuelt fra produktlister. [Kontakt os](https://omnithemes.com/contact/) for gratis support for at udelukke produkter fra intern søgning og produktanbefalinger."
         },
         "ticket_button_label": {
           "label": "Billetknappens etiket"
@@ -5281,12 +5308,12 @@
           "info": "Udfyld alle navnene på den indstilling, der bruges i butikken, sætninger på forskellige sprog adskilles med et komma. (F.eks. Farve, Colour, Couleur). Udfyld navnet på én produktindstilling. Hver værdi af denne indstilling vil være en kolonne i attributtabellen."
         },
         "note": "Metafeltværdier kan også bruges som kriterier.",
-        "note_1": "1. Opret et metaobjekt med nøglen \"product_specs_list\", der indeholder et felt med det præcise navn \"specs\" (Enkelt linje tekst\/én værdi).",
+        "note_1": "1. Opret et metaobjekt med nøglen \"product_specs_list\", der indeholder et felt med det præcise navn \"specs\" (Enkelt linje tekst/én værdi).",
         "note_2": "2. Opret indgange til metaobjektet (f.eks. \"Tør hud\", \"UV-beskyttelse\").",
-        "note_3": "3. Opret et produktmetafelt med nøglen \"product_specs\" (Metaobjekt\/Liste over værdier) og vælg det netop oprettede metaobjekt.",
+        "note_3": "3. Opret et produktmetafelt med nøglen \"product_specs\" (Metaobjekt/Liste over værdier) og vælg det netop oprettede metaobjekt.",
         "note_4": "4. Tildel værdier for hvert produkt via metafelt på admin produkt detaljesiden.",
         "note_5": "5. Udfyld nøglen \"product_specs\" for det respektive metafelt i dette felt.",
-        "note_6": "For flere detaljer, [kontakt os venligst for gratis support.](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "For flere detaljer, [kontakt os venligst for gratis support.](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "Fremhæv (mørk)"
         },
@@ -5325,7 +5352,7 @@
           "info": "Tilføj etiket for automatisk at anvende kuponkoden i kurven."
         },
         "promo_code_note": {
-          "content": "Start- og slutdatoen nedenfor skal stemme overens med start- og slutdatoen for rabatreglen i Shopify admin > Rabatter. Lær mere om [rabatkoder.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
+          "content": "Start- og slutdatoen nedenfor skal stemme overens med start- og slutdatoen for rabatreglen i Shopify admin > Rabatter. Lær mere om [rabatkoder.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Mærkat for kampagnevilkår"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5626,7 +5653,7 @@
         "name": "Butik",
         "settings": {
           "store_name": {
-            "info": "Butiksnavnet skal matche navnet på din butik defineret i dine [lokationsindstillinger.](\/admin\/settings\/locations)",
+            "info": "Butiksnavnet skal matche navnet på din butik defineret i dine [lokationsindstillinger.](/admin/settings/locations)",
             "default": "Min butik"
           },
           "pickup_price": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "Hurtig ordreliste",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "Sidebjælke"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "Originalt indlægsforhold"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "Socialt indlægsbillede"

@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "글꼴",
-          "info": "다른 글꼴을 선택하면 스토어 속도에 영향을 미칠 수 있습니다. [시스템 글꼴에 대해 자세히 알아보세요.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "다른 글꼴을 선택하면 스토어 속도에 영향을 미칠 수 있습니다. [시스템 글꼴에 대해 자세히 알아보세요.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "제목"
@@ -112,7 +112,7 @@
           "content": "본문"
         },
         "type_body_font": {
-          "info": "다른 글꼴을 선택하면 스토어 속도에 영향을 미칠 수 있습니다. [시스템 글꼴에 대해 자세히 알아보세요.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "다른 글꼴을 선택하면 스토어 속도에 영향을 미칠 수 있습니다. [시스템 글꼴에 대해 자세히 알아보세요.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "글꼴 크기 비율"
@@ -136,7 +136,7 @@
         "info": "아래 설정은 컬렉션 및 검색 페이지의 필터에 색상 견본을 자동으로 추가합니다.",
         "swatches_filter": {
           "header": "필터",
-          "info": "추가 색상 또는 이미지 값을 사용하여 필터링하려면 메타객체 및 메타객체 참조를 생성한 다음 선호도에 따라 아래 설정을 변경하세요. [메타객체를 사용하여 시각적 필터 표시 방법에 대해 알아보세요.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "추가 색상 또는 이미지 값을 사용하여 필터링하려면 메타객체 및 메타객체 참조를 생성한 다음 선호도에 따라 아래 설정을 변경하세요. [메타객체를 사용하여 시각적 필터 표시 방법에 대해 알아보세요.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "견본 옆에 텍스트 표시",
           "visual_style": {
             "label": "시각적 값 스타일",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "강조된 기능",
-        "paragraph": "카드에 뛰어난 제품 품질을 선보여 한눈에 가치를 전달하고 빠르고 자신감 있는 구매 결정을 지원합니다. 자세한 내용은 [사용자 가이드](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards)를 참조하십시오.",
+        "paragraph": "카드에 뛰어난 제품 품질을 선보여 한눈에 가치를 전달하고 빠르고 자신감 있는 구매 결정을 지원합니다. 자세한 내용은 [사용자 가이드](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards)를 참조하십시오.",
         "highlighted_features_position": {
           "option__1": "카드 상단",
           "option__2": "제품 제목 아래",
@@ -199,7 +199,7 @@
       "color_option_info": "상점에서 사용되는 모든 색상 옵션 이름을 입력하세요. 다른 언어의 구문은 쉼표로 구분됩니다 (예: Color, Colour, Couleur).",
       "color_option_values": "색상 견본 값",
       "color_swatches_example": "한 줄에 하나의 '색상 이름:값'을 입력하세요. 최대 세 가지 색상을 사용하여 세로 줄무늬를 표시할 수 있습니다. 예: 'Red Blue Stripes:#e22#22e'",
-      "color_swatches_guide": "색상 견본에 이미지를 사용하려면 색상 이름과 일치하고 공백이 하이픈으로 대체된 파일 이름으로 [PNG 이미지를 업로드하세요](\/admin\/settings\/files). 예: 'Hot Pink'의 경우 'hot-pink.png'를 업로드하세요.",
+      "color_swatches_guide": "색상 견본에 이미지를 사용하려면 색상 이름과 일치하고 공백이 하이픈으로 대체된 파일 이름으로 [PNG 이미지를 업로드하세요](/admin/settings/files). 예: 'Hot Pink'의 경우 'hot-pink.png'를 업로드하세요.",
       "products_color_swatches_enable_on_collection_page": "제품 카드에 활성화",
       "replace_color_with_variant_images": "색상 옵션을 변형 이미지로 대체",
       "products_color_swatches_style": "견본 스타일",
@@ -244,7 +244,7 @@
       "default_engraving_label": "이 제품 각인",
       "highlight_icon": {
         "name": "강조된 속성",
-        "info": "고객이 제품 카드에서 아이콘을 통해 제품의 주요 특징(예: 성분, 알레르겐)을 빠르게 이해할 수 있도록 합니다. 자세한 내용은 [사용자 가이드](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)를 참조하십시오.",
+        "info": "고객이 제품 카드에서 아이콘을 통해 제품의 주요 특징(예: 성분, 알레르겐)을 빠르게 이해할 수 있도록 합니다. 자세한 내용은 [사용자 가이드](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)를 참조하십시오.",
         "icon_1": "아이콘 1",
         "icon_2": "아이콘 2",
         "icon_3": "아이콘 3",
@@ -289,7 +289,7 @@
       "use_color_button": "버튼 색상 사용",
       "button_colors": "버튼 색상"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "메뉴 항목 레벨 1 애니메이션",
         "note": "마커 및 블링블링 메뉴 하이라이트 스타일에만 적용됩니다."
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "링크드인",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "트위터 (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "페이스북",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "핀터레스트",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "인스타그램",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "틱톡",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "텀블러",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "스냅챗",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "유튜브",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "비메오",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "라인",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "제품 라벨 및 배지",
-      "info": "제품 라벨 및 배지는 오버레이 그룹의 제품 라벨 및 배지 섹션에서 설정됩니다. 제품 메타필드를 라벨 및 배지로 표시하려면 아래 텍스트 상자에 메타필드 키를 입력한 다음 섹션으로 이동하여 라벨 표시를 구성하십시오. 단일 줄 텍스트 메타필드 유형만 허용됩니다. [사용자 가이드](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)에서 자세히 알아보세요.",
+      "info": "제품 라벨 및 배지는 오버레이 그룹의 제품 라벨 및 배지 섹션에서 설정됩니다. 제품 메타필드를 라벨 및 배지로 표시하려면 아래 텍스트 상자에 메타필드 키를 입력한 다음 섹션으로 이동하여 라벨 표시를 구성하십시오. 단일 줄 텍스트 메타필드 유형만 허용됩니다. [사용자 가이드](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)에서 자세히 알아보세요.",
       "settings": {
         "metafield_label": {
           "label": "라벨에 사용된 메타필드",
           "info": "전체 제품 메타필드 키(예: custom.metafield-1)를 입력하십시오. 각 줄에 하나의 메타필드 키를 입력하십시오."
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "파비콘",
@@ -468,9 +495,9 @@
       "cart_upsell": "장바구니 상향 판매",
       "enable_cart_upsell": "미니 장바구니에서 사용",
       "cart_upsell_note": "미니 장바구니 및 장바구니 페이지에서 활성화된 경우, 상향 판매 추천은 다음 우선 순위(높음에서 낮음)에 따라 표시될 수 있습니다.",
-      "cart_upsell_note_1": "(1) 장바구니 상향 판매에 제품 메타필드를 만들고 이 필드가 비어 있지 않은 경우. [자세한 내용은 사용자 가이드를 참조하십시오.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) 장바구니 상향 판매에 제품 메타필드를 만들고 이 필드가 비어 있지 않은 경우. [자세한 내용은 사용자 가이드를 참조하십시오.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) 아래 설정에서 제품 목록을 수동으로 선택하여",
-      "cart_upsell_note_3": "(3) Shopify 제품 추천을 기반으로 동적 추천을 사용하여 [자세히 알아보세요.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) Shopify 제품 추천을 기반으로 동적 추천을 사용하여 [자세히 알아보세요.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "상향 판매 제품을 추가하기 위해 제품 메타필드를 사용하는 경우 이 필드를 비워 두십시오.",
       "number_of_product_shown": "표시되는 제품 수",
       "section_label": "섹션 레이블",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "유효성 검사 정규식 (고급)",
-          "info": "필드 유효성 검사 목적입니다. 정규식에 익숙하지 않은 경우 사용하지 마십시오. 정규식 지원 또는 발생한 문제 해결을 위해 [당사 지원팀에 문의](https:\/\/omnithemes.com\/contact\/)하십시오."
+          "info": "필드 유효성 검사 목적입니다. 정규식에 익숙하지 않은 경우 사용하지 마십시오. 정규식 지원 또는 발생한 문제 해결을 위해 [당사 지원팀에 문의](https://omnithemes.com/contact/)하십시오."
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "최소 배송일",
-          "info": "모든 주문을 배송하는 데 필요한 최소 일수. 필요한 경우 세미콜론을 사용하여 배송 시장을 구분하거나(예: US:6;GB:3) 하나의 숫자를 입력하여 모든 사용 가능한 시장에 적용합니다. 국가 코드는 [ISO 3166 표준](https:\/\/www.iban.com\/country-codes)을 따라야 합니다.",
-          "note": "각 제품에 맞게 사용자 정의하려면 키 'custom.delivery_date_min'과 '텍스트' 유형의 메타필드를 생성하세요. [메타필드 생성에 대해 자세히 알아보기](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) 또는 [당사 지원팀에 문의](https:\/\/omnithemes.com\/contact\/)하세요."
+          "info": "모든 주문을 배송하는 데 필요한 최소 일수. 필요한 경우 세미콜론을 사용하여 배송 시장을 구분하거나(예: US:6;GB:3) 하나의 숫자를 입력하여 모든 사용 가능한 시장에 적용합니다. 국가 코드는 [ISO 3166 표준](https://www.iban.com/country-codes)을 따라야 합니다.",
+          "note": "각 제품에 맞게 사용자 정의하려면 키 'custom.delivery_date_min'과 '텍스트' 유형의 메타필드를 생성하세요. [메타필드 생성에 대해 자세히 알아보기](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) 또는 [당사 지원팀에 문의](https://omnithemes.com/contact/)하세요."
         },
         "max_days": {
           "label": "최대 배송일",
-          "info": "모든 주문을 배송하는 데 필요한 최대 일수. 필요한 경우 세미콜론을 사용하여 배송 시장을 구분하거나(예: US:6;GB:3) 하나의 숫자를 입력하여 모든 사용 가능한 시장에 적용합니다. 국가 코드는 [ISO 3166 표준](https:\/\/www.iban.com\/country-codes)을 따라야 합니다.",
-          "note": "각 제품에 맞게 사용자 정의하려면 키 'custom.delivery_date_max'와 '텍스트' 유형의 메타필드를 생성하세요. [메타필드 생성에 대해 자세히 알아보기](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) 또는 [당사 지원팀에 문의](https:\/\/omnithemes.com\/contact\/)하세요."
+          "info": "모든 주문을 배송하는 데 필요한 최대 일수. 필요한 경우 세미콜론을 사용하여 배송 시장을 구분하거나(예: US:6;GB:3) 하나의 숫자를 입력하여 모든 사용 가능한 시장에 적용합니다. 국가 코드는 [ISO 3166 표준](https://www.iban.com/country-codes)을 따라야 합니다.",
+          "note": "각 제품에 맞게 사용자 정의하려면 키 'custom.delivery_date_max'와 '텍스트' 유형의 메타필드를 생성하세요. [메타필드 생성에 대해 자세히 알아보기](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) 또는 [당사 지원팀에 문의](https://omnithemes.com/contact/)하세요."
         },
         "cutoff_time": {
           "content": "마감 시간"
@@ -686,7 +713,7 @@
       "note": "페이지가 매겨진 컬렉션 페이지의 원본 URL을 정식 태그로 표시합니다.",
       "header": {
         "content": "사업 정보",
-        "info": "사이트 구조화된 데이터 및 Google SERP 그래프 카드에 표시하는 데 사용됩니다. [조직 스키마](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)에 대해 자세히 알아보십시오."
+        "info": "사이트 구조화된 데이터 및 Google SERP 그래프 카드에 표시하는 데 사용됩니다. [조직 스키마](https://developers.google.com/search/docs/appearance/structured-data/organization)에 대해 자세히 알아보십시오."
       },
       "enable_organization_schema": {
         "label": "조직 스키마 사용"
@@ -727,15 +754,15 @@
       "other": {
         "header": "기타 스키마",
         "schema_breadcrumbs": "경로에 스키마 추가",
-        "info_breadcrumbs": "자세한 내용은 [BreadcrumbList 스키마 문서](https:\/\/schema.org\/BreadcrumbList)를 참조하십시오.",
+        "info_breadcrumbs": "자세한 내용은 [BreadcrumbList 스키마 문서](https://schema.org/BreadcrumbList)를 참조하십시오.",
         "search": "홈 페이지에 SearchAction 스키마 추가",
-        "info_search": "자세한 내용은 [SearchAction 스키마 문서](https:\/\/schema.org\/SearchAction)를 참조하십시오."
+        "info_search": "자세한 내용은 [SearchAction 스키마 문서](https://schema.org/SearchAction)를 참조하십시오."
       }
     },
     "combined_listing": {
       "name": "통합 목록 (플러스 전용)",
       "enable_combined": "제품 통합 목록 사용",
-      "info": "[Combined Listing](https:\/\/apps.shopify.com\/combined-listings) 앱을 설치하고 이 설정을 활성화하여 이 기능을 사용하세요. 플러스 및 엔터프라이즈 커머스 플랜에서만 사용할 수 있습니다."
+      "info": "[Combined Listing](https://apps.shopify.com/combined-listings) 앱을 설치하고 이 설정을 활성화하여 이 기능을 사용하세요. 플러스 및 엔터프라이즈 커머스 플랜에서만 사용할 수 있습니다."
     },
     "reorder": {
       "name": "재주문",
@@ -746,10 +773,10 @@
       "name": "고급",
       "product_reviews_app": {
         "label": "제품 리뷰 앱",
-        "info": "테마의 기본 제품 평가와 통합할 리뷰 앱을 선택하세요. '기타' 옵션의 일부 앱은 테마와 완전히 호환되지 않을 수 있으므로, [지원팀에 문의](https:\/\/omnithemes.com\/contact\/)하시기 바랍니다."
+        "info": "테마의 기본 제품 평가와 통합할 리뷰 앱을 선택하세요. '기타' 옵션의 일부 앱은 테마와 완전히 호환되지 않을 수 있으므로, [지원팀에 문의](https://omnithemes.com/contact/)하시기 바랍니다."
       },
       "custom_html": "사용자 지정 코드",
-      "custom_info": "사용자 지정 코드 처리 또는 사용자 지정 코드 관련 문제 해결에 대한 지원은 [문의](https:\/\/omnithemes.com\/contact\/)하시기 바랍니다.",
+      "custom_info": "사용자 지정 코드 처리 또는 사용자 지정 코드 관련 문제 해결에 대한 지원은 [문의](https://omnithemes.com/contact/)하시기 바랍니다.",
       "additional_head": {
         "label": "<head> 태그용 HTML",
         "info": "사이트 전체에 적용할 사용자 지정 HTML 코드에 사용됩니다. 결제 페이지를 제외한 모든 테마 페이지의 <head> 태그 하단에 배치됩니다."
@@ -784,7 +811,7 @@
       "sections_spacing": "섹션 간격",
       "lang_direction": {
         "label": "RTL 언어",
-        "info": "RTL 레이아웃으로 언어를 표시할 언어 코드를 입력하세요. 모든 코드는 [ISO 언어 코드표](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp)를 따라야 하며 쉼표로 구분해야 합니다 (예: ar,fa,ps)"
+        "info": "RTL 레이아웃으로 언어를 표시할 언어 코드를 입력하세요. 모든 코드는 [ISO 언어 코드표](https://www.w3schools.com/tags/ref_language_codes.asp)를 따라야 하며 쉼표로 구분해야 합니다 (예: ar,fa,ps)"
       },
       "page_width": "페이지 너비",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "이미지 확대 애니메이션 사용 위치: 제품 카드 이미지, 컬렉션 카드 이미지, 미디어 갤러리, 프로모션 그리드, 프로모션 팝업, 이미지와 함께 있는 텍스트 열.",
       "enable_page_transition": "페이지 전환 활성화"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "클래식",
         "option_2": "현대적"
       }
@@ -832,7 +859,7 @@
       "name": "쿠키 배너",
       "settings": {
         "paragraph": {
-          "content": "유럽 연합의 ePrivacy 지침 및 일반 데이터 보호 규정에 따라 쿠키 사용 및 데이터 처리에 대한 고객의 동의를 요청하세요. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "유럽 연합의 ePrivacy 지침 및 일반 데이터 보호 규정에 따라 쿠키 사용 및 데이터 처리에 대한 고객의 동의를 요청하세요. [자세히 알아보기](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "쿠키 알림"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block)을 알아보세요.",
+        "header_general": "이 섹션 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block)을 알아보세요.",
         "mega_menu": {
-          "simple_menu": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style)을 알아보세요.",
-          "tree_menu": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style)을 알아보세요.",
-          "banner_menu": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style)을 알아보세요.",
-          "product_menu": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style)을 알아보세요.",
-          "blog_menu": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style)을 알아보세요.",
-          "tabbed_menu": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style)을 알아보세요.",
-          "contact_menu": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style)을 알아보세요.",
-          "cta_button": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu)을 알아보세요."
+          "simple_menu": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style)을 알아보세요.",
+          "tree_menu": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style)을 알아보세요.",
+          "banner_menu": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style)을 알아보세요.",
+          "product_menu": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style)을 알아보세요.",
+          "blog_menu": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style)을 알아보세요.",
+          "tabbed_menu": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style)을 알아보세요.",
+          "contact_menu": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style)을 알아보세요.",
+          "cta_button": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu)을 알아보세요."
         },
-        "announcement_bar": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar)을 알아보세요.",
-        "mobile_navigation": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation)을 알아보세요."
+        "announcement_bar": "이 섹션 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar)을 알아보세요.",
+        "mobile_navigation": "이 섹션 [사용법](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation)을 알아보세요."
       },
       "footer": {
-        "footer": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/footer\/footer)을 알아보세요.",
-        "quicklinks": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks)을 알아보세요."
+        "footer": "이 섹션 [사용법](https://support.omnithemes.com/blogs/footer/footer)을 알아보세요.",
+        "quicklinks": "이 섹션 [사용법](https://support.omnithemes.com/blogs/footer/quicklinks)을 알아보세요."
       },
       "section_and_blocks": {
-        "blog_post": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post)을 알아보세요.",
-        "collection_list": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list)을 알아보세요.",
-        "collage": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage)을 알아보세요.",
-        "collection_list_banner": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner)을 알아보세요.",
-        "collection_list_carousel": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel)을 알아보세요.",
-        "comparison_table": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table)을 알아보세요.",
-        "contact_form": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form)을 알아보세요.",
-        "custom_liquid": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid)을 알아보세요.",
-        "email_signup": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter)을 알아보세요.",
-        "event_calendar": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar)을 알아보세요.",
-        "faq": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs)을 알아보세요.",
-        "featured_category": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories)을 알아보세요.",
-        "featured_collection": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections)을 알아보세요.",
-        "featured_product": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product)을 알아보세요.",
-        "flash_sale": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale)을 알아보세요.",
-        "flow": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow)을 알아보세요.",
-        "highlight_text_with_image": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image)을 알아보세요.",
-        "image_comparison": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison)을 알아보세요.",
-        "logo_list": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list)을 알아보세요.",
-        "map": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1)을 알아보세요.",
-        "media_gallery": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery)을 알아보세요.",
-        "media_with_text": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text)을 알아보세요.",
-        "multiple_store": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores)을 알아보세요.",
-        "page": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page)을 알아보세요.",
-        "product_attribute_table": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table)을 알아보세요.",
-        "product_bundle": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle)을 알아보세요.",
-        "product_comparison_table": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table)을 알아보세요.",
-        "product_highlight": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight)을 알아보세요.",
-        "product_grid": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid)을 알아보세요.",
-        "promo_code_list": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list)을 알아보세요.",
-        "promotion_banner": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner)을 알아보세요.",
-        "promotion_grid": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid)을 알아보세요.",
-        "recently_viewed_products": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products)을 알아보세요.",
-        "related_blog_posts": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts)을 알아보세요.",
-        "related_collections": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections)을 알아보세요.",
-        "rich_text": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text)을 알아보세요.",
-        "scrolling_promotion": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion)을 알아보세요.",
-        "shop_the_look": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look)을 알아보세요.",
-        "slideshow": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow)을 알아보세요.",
-        "social_feeds": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds)을 알아보세요.",
-        "tabs": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs)을 알아보세요.",
-        "testimonial": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial)을 알아보세요.",
-        "testimonial_with_cards": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards)을 알아보세요.",
-        "text_columns_with_icons": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons)을 알아보세요.",
-        "text_columns_with_images": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images)을 알아보세요.",
-        "timeline": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline)을 알아보세요.",
-        "vertical_slideshow": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow)을 알아보세요.",
-        "video": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video)을 알아보세요.",
-        "video_hero": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero)을 알아보세요.",
-        "video_looping": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping)을 알아보세요.",
-        "video_shopping": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping)을 알아보세요.",
-        "flexible_area": "이 섹션 [사용법](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area)을 알아보세요."
+        "blog_post": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/blog-post)을 알아보세요.",
+        "collection_list": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/collection-list)을 알아보세요.",
+        "collage": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/collage)을 알아보세요.",
+        "collection_list_banner": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner)을 알아보세요.",
+        "collection_list_carousel": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel)을 알아보세요.",
+        "comparison_table": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/comparison-table)을 알아보세요.",
+        "contact_form": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/contact-form)을 알아보세요.",
+        "custom_liquid": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid)을 알아보세요.",
+        "email_signup": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter)을 알아보세요.",
+        "event_calendar": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar)을 알아보세요.",
+        "faq": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/faqs)을 알아보세요.",
+        "featured_category": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/featured-categories)을 알아보세요.",
+        "featured_collection": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/featured-collections)을 알아보세요.",
+        "featured_product": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/featured-product)을 알아보세요.",
+        "flash_sale": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/flash-sale)을 알아보세요.",
+        "flow": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/flow)을 알아보세요.",
+        "highlight_text_with_image": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image)을 알아보세요.",
+        "image_comparison": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/image-comparison)을 알아보세요.",
+        "logo_list": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/logo-list)을 알아보세요.",
+        "map": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/map-1)을 알아보세요.",
+        "media_gallery": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/media-gallery)을 알아보세요.",
+        "media_with_text": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/media-with-text)을 알아보세요.",
+        "multiple_store": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores)을 알아보세요.",
+        "page": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/page)을 알아보세요.",
+        "product_attribute_table": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table)을 알아보세요.",
+        "product_bundle": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/product-bundle)을 알아보세요.",
+        "product_comparison_table": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table)을 알아보세요.",
+        "product_highlight": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/product-highlight)을 알아보세요.",
+        "product_grid": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/product-grid)을 알아보세요.",
+        "promo_code_list": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list)을 알아보세요.",
+        "promotion_banner": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner)을 알아보세요.",
+        "promotion_grid": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid)을 알아보세요.",
+        "recently_viewed_products": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products)을 알아보세요.",
+        "related_blog_posts": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts)을 알아보세요.",
+        "related_collections": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/related-collections)을 알아보세요.",
+        "rich_text": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/rich-text)을 알아보세요.",
+        "scrolling_promotion": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion)을 알아보세요.",
+        "shop_the_look": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look)을 알아보세요.",
+        "slideshow": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/slideshow)을 알아보세요.",
+        "social_feeds": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/social-feeds)을 알아보세요.",
+        "tabs": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/tabs)을 알아보세요.",
+        "testimonial": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/testimonial)을 알아보세요.",
+        "testimonial_with_cards": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards)을 알아보세요.",
+        "text_columns_with_icons": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons)을 알아보세요.",
+        "text_columns_with_images": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images)을 알아보세요.",
+        "timeline": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/timeline)을 알아보세요.",
+        "vertical_slideshow": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow)을 알아보세요.",
+        "video": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/video)을 알아보세요.",
+        "video_hero": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/video-hero)을 알아보세요.",
+        "video_looping": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/video-looping)을 알아보세요.",
+        "video_shopping": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/video-shopping)을 알아보세요.",
+        "flexible_area": "이 섹션 [사용법](https://support.omnithemes.com/blogs/sections-blocks/flexible-area)을 알아보세요."
       },
       "product_page": {
-        "product_description": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description)을 알아보세요.",
+        "product_description": "이 섹션 [사용법](https://support.omnithemes.com/blogs/product-page/product-description)을 알아보세요.",
         "product_information": {
-          "product_information_general": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information)을 알아보세요.",
-          "buy_buttons": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons)을 알아보세요.",
-          "back_in_stock_alert": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert)을 알아보세요.",
-          "basic_info": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc)을 알아보세요.",
-          "collapsible_tab": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs)을 알아보세요.",
-          "collection_link": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link)을 알아보세요.",
-          "complementary_product": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products)을 알아보세요.",
-          "customizable_options": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options)을 알아보세요.",
-          "estimate_delivery": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product)을 알아보세요.",
-          "engraving": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving)을 알아보세요.",
-          "featured_icon": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons)을 알아보세요.",
-          "frequently_bought_together": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products)을 알아보세요.",
-          "gift_wrapping": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option)을 알아보세요.",
-          "horizontal_tab": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs)을 알아보세요.",
-          "inventory_status": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status)을 알아보세요.",
-          "nutrition_fact_bar": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar)을 알아보세요.",
-          "payment_method": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product)을 알아보세요.",
-          "product_sibling": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings)을 알아보세요.",
-          "rating": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings)을 알아보세요.",
-          "size_chart": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart)을 알아보세요.",
-          "social_sharing": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons)을 알아보세요.",
-          "sticky_add_to_cart": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar)을 알아보세요.",
-          "table_of_information": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information)을 알아보세요.",
-          "trust_badge": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges)을 알아보세요.",
-          "volume_pricing": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table)을 알아보세요.",
-          "other_blocks": "이 블록 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks)을 알아보세요."
+          "product_information_general": "이 섹션 [사용법](https://support.omnithemes.com/blogs/product-page/product-information)을 알아보세요.",
+          "buy_buttons": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons)을 알아보세요.",
+          "back_in_stock_alert": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert)을 알아보세요.",
+          "basic_info": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc)을 알아보세요.",
+          "collapsible_tab": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs)을 알아보세요.",
+          "collection_link": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link)을 알아보세요.",
+          "complementary_product": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products)을 알아보세요.",
+          "customizable_options": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide/customizable-options)을 알아보세요.",
+          "estimate_delivery": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product)을 알아보세요.",
+          "engraving": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/engraving)을 알아보세요.",
+          "featured_icon": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons)을 알아보세요.",
+          "frequently_bought_together": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products)을 알아보세요.",
+          "gift_wrapping": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option)을 알아보세요.",
+          "horizontal_tab": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs)을 알아보세요.",
+          "inventory_status": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status)을 알아보세요.",
+          "nutrition_fact_bar": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar)을 알아보세요.",
+          "payment_method": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product)을 알아보세요.",
+          "product_sibling": "이 블록 [사용법](https://support.omnithemes.com/blogs/user-guide/product-siblings)을 알아보세요.",
+          "rating": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings)을 알아보세요.",
+          "size_chart": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart)을 알아보세요.",
+          "social_sharing": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons)을 알아보세요.",
+          "sticky_add_to_cart": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar)을 알아보세요.",
+          "table_of_information": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information)을 알아보세요.",
+          "trust_badge": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges)을 알아보세요.",
+          "volume_pricing": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/volume-pricing-table)을 알아보세요.",
+          "other_blocks": "이 블록 [사용법](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks)을 알아보세요."
         },
-        "product_specification": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications)을 알아보세요.",
-        "product_recommendation": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations)을 알아보세요.",
-        "quick_order_list": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list)을 알아보세요."
+        "product_specification": "이 섹션 [사용법](https://support.omnithemes.com/blogs/product-page/product-specifications)을 알아보세요.",
+        "product_recommendation": "이 섹션 [사용법](https://support.omnithemes.com/blogs/product-page/product-recommendations)을 알아보세요.",
+        "quick_order_list": "이 섹션 [사용법](https://support.omnithemes.com/blogs/product-page/quick-order-list)을 알아보세요."
       },
       "collection_page": {
-        "collection_banner": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner)을 알아보세요."
+        "collection_banner": "이 섹션 [사용법](https://support.omnithemes.com/blogs/collection-page/collection-banner)을 알아보세요."
       },
       "pages_and_templates": {
-        "blog_post_page": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages)을 알아보세요.",
-        "blog_page": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page)을 알아보세요.",
-        "cart_page": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page)을 알아보세요.",
-        "collection_list_page": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page)을 알아보세요.",
-        "search_page": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page)을 알아보세요."
+        "blog_post_page": "이 섹션 [사용법](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages)을 알아보세요.",
+        "blog_page": "이 섹션 [사용법](https://support.omnithemes.com/blogs/page-templates/blog-page)을 알아보세요.",
+        "cart_page": "이 섹션 [사용법](https://support.omnithemes.com/blogs/page-templates/cart-page)을 알아보세요.",
+        "collection_list_page": "이 섹션 [사용법](https://support.omnithemes.com/blogs/page-templates/collection-list-page)을 알아보세요.",
+        "search_page": "이 섹션 [사용법](https://support.omnithemes.com/blogs/page-templates/search-page)을 알아보세요."
       },
       "overlay_group": {
-        "cookie_banner": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner)을 알아보세요.",
-        "popup": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup)을 알아보세요.",
-        "store_selector": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector)을 알아보세요.",
-        "quick_view": "이 섹션 [사용법](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view)을 알아보세요.",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "이 섹션 [사용법](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner)을 알아보세요.",
+        "popup": "이 섹션 [사용법](https://support.omnithemes.com/blogs/overlay-group-1/popup)을 알아보세요.",
+        "store_selector": "이 섹션 [사용법](https://support.omnithemes.com/blogs/overlay-group-1/store-selector)을 알아보세요.",
+        "quick_view": "이 섹션 [사용법](https://support.omnithemes.com/blogs/overlay-group-1/quick-view)을 알아보세요.",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "'아이콘으로 슬라이스' 애니메이션 유형에 적용됩니다.",
         "custom_icon": "사용자 지정 아이콘 (SVG 코드)",
-        "custom_icon_info": "사용자 지정 SVG 코드 또는 사용자 지정 SVG 코드에서 발생하는 문제 해결에 대한 지원은 [지원팀에 문의](https:\/\/omnithemes.com\/contact\/)하시기 바랍니다.",
+        "custom_icon_info": "사용자 지정 SVG 코드 또는 사용자 지정 SVG 코드에서 발생하는 문제 해결에 대한 지원은 [지원팀에 문의](https://omnithemes.com/contact/)하시기 바랍니다.",
         "label": "아이콘",
         "another_icon_label": "다른 아이콘 사용",
         "another_icon_info": "위 옵션과 다른 아이콘을 사용하려면 [아이콘 목록](https://support.omnithemes.com/blogs/user-guide/theme-icons)에서 아이콘을 찾아 아이콘 이름을 여기에 입력하세요 (예: price tag).",
@@ -1175,8 +1202,8 @@
         "heading_image": "제목 이미지",
         "image_height": "이미지 높이",
         "image_width": "이미지 너비",
-        "note_image_size": "권장 이미지 크기는 [사용자 가이드](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)를 참조하세요.",
-        "note_image_size_video_shopping": "권장 이미지 크기는 [사용자 가이드](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)를 참조하세요. 너무 큰 이미지는 최적의 모바일 표시를 위해 크기가 조정됩니다. 권장 비율: 1:1, 3:4, 4:3."
+        "note_image_size": "권장 이미지 크기는 [사용자 가이드](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)를 참조하세요.",
+        "note_image_size_video_shopping": "권장 이미지 크기는 [사용자 가이드](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)를 참조하세요. 너무 큰 이미지는 최적의 모바일 표시를 위해 크기가 조정됩니다. 권장 비율: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "이미지 비율",
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "추천 카테고리",
       "category_card": {
         "name": "카테고리 카드",
@@ -2179,7 +2206,7 @@
             "pickup_availability": {
               "content": "픽업 가능 여부",
               "label": "픽업 가능 여부 기능 활성화",
-              "info": "이 기능을 설정하는 방법은 [여기](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup)에서 확인하세요."
+              "info": "이 기능을 설정하는 방법은 [여기](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup)에서 확인하세요."
             },
             "preorder": {
               "preorder_show": {
@@ -2213,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "입고 알림",
-              "info": "[입고 재고 상태](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) 및 [재고 이동 생성 방법](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)에 대해 자세히 알아보세요."
+              "info": "[입고 재고 상태](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) 및 [재고 이동 생성 방법](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)에 대해 자세히 알아보세요."
             },
             "message_incoming": {
               "label": "입고 알림",
@@ -2254,7 +2281,7 @@
         },
         "estimate_delivery": {
           "name": "예상 배송 시간",
-          "paragraph": "각 제품의 메시지를 사용자 지정하려면 키 'custom.delivery_date_message' 및 유형 '서식 있는 텍스트'로 메타필드를 생성하십시오. [메타필드 생성에 대해 자세히 알아보세요.](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields)",
+          "paragraph": "각 제품의 메시지를 사용자 지정하려면 키 'custom.delivery_date_message' 및 유형 '서식 있는 텍스트'로 메타필드를 생성하십시오. [메타필드 생성에 대해 자세히 알아보세요.](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields)",
           "settings": {
             "message": {
               "info__1": "메시지에서 다음 코드를 사용할 수 있습니다.",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "미디어",
-          "info": "[미디어 유형](https:\/\/help.shopify.com\/manual\/products\/product-media)에 대해 자세히 알아보세요."
+          "info": "[미디어 유형](https://help.shopify.com/manual/products/product-media)에 대해 자세히 알아보세요."
         },
         "enable_video_loop": {
           "label": "비디오 반복 재생 활성화"
@@ -2691,7 +2718,7 @@
           "label": "결제 아이콘 표시"
         },
         "custom_payment": {
-          "info": "결제 아이콘을 사용자 지정하세요. 예를 들어, 이 필드에 선택한 결제 방식(예: apple_pay, google_pay, tabby, tamara)을 입력하세요. [자세히 알아보기](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "결제 아이콘을 사용자 지정하세요. 예를 들어, 이 필드에 선택한 결제 방식(예: apple_pay, google_pay, tabby, tamara)을 입력하세요. [자세히 알아보기](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "사용자 지정 결제 아이콘 SVG"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Shop 앱에서 팔로우",
-          "info": "Shop 앱에서 스토어프론트의 팔로우 버튼을 표시합니다. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "Shop 앱에서 스토어프론트의 팔로우 버튼을 표시합니다. [자세히 알아보기](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Shop 앱 팔로우 활성화"
@@ -3425,7 +3452,7 @@
           "info": "참고: 성능 최적화를 위해 페이지당 20개 이상의 항목 옵션은 권장되지 않습니다."
         },
         "paragraph": {
-          "content": "블로그 게시물을 편집하여 발췌문을 변경하세요. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "블로그 게시물을 편집하여 발췌문을 변경하세요. [자세히 알아보기](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "모바일에서 게시물이 쌓입니다."
@@ -3470,7 +3497,7 @@
           "label": "데스크톱에서 컬렉션 제목을 전체 너비로 만듭니다."
         },
         "paragraph": {
-          "content": "컬렉션을 편집하여 설명 또는 이미지를 추가하세요. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "컬렉션을 편집하여 설명 또는 이미지를 추가하세요. [자세히 알아보기](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "컬렉션 제목 표시"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "컬렉션 이미지 표시",
-          "info": "최상의 결과를 얻으려면 16:9 가로 세로 비율의 이미지를 사용하세요. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "최상의 결과를 얻으려면 16:9 가로 세로 비율의 이미지를 사용하세요. [자세히 알아보기](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "마이크로데이터 스키마 활성화",
-            "info" : "검색 엔진이 아직 이 정보를 색인화하지 못할 수 있습니다. 자세한 내용은 [CollectionPage 스키마 설명서](https:\/\/schema.org\/CollectionPage)를 참조하십시오."
+            "info": "검색 엔진이 아직 이 정보를 색인화하지 못할 수 있습니다. 자세한 내용은 [CollectionPage 스키마 설명서](https://schema.org/CollectionPage)를 참조하십시오."
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "컬렉션을 편집하여 이미지를 추가하세요. [자세히 알아보기](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "컬렉션을 편집하여 이미지를 추가하세요. [자세히 알아보기](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "컬렉션 표시",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "[미디어 유형](https:\/\/help.shopify.com\/manual\/products\/product-media)에 대해 자세히 알아보세요."
+          "info": "[미디어 유형](https://help.shopify.com/manual/products/product-media)에 대해 자세히 알아보세요."
         },
         "enable_sticky_image": {
           "label": "데스크톱에서 스티키 콘텐츠 활성화"
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "여러 매장",
       "blocks": {
         "name": "매장 위치",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "제품 라벨 및 배지",
       "settings": {
-        "introduce": "이 섹션을 사용하여 제품 및 제품 카드에 라벨과 배지를 추가할 수 있습니다. [튜토리얼 보기](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "이 섹션을 사용하여 제품 및 제품 카드에 라벨과 배지를 추가할 수 있습니다. [튜토리얼 보기](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "제품 라벨 및 배지 활성화"
         }
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "신제품 라벨"
         },
-        "day_start":{
+        "day_start": {
           "label": "다음 일수 이내에 라벨 표시",
           "creation_date": "제품 생성 날짜",
           "activation_date": "제품 활성화 날짜"
         },
-        "day_end":{
+        "day_end": {
           "label": "일수"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "제품 페이지에 표시",
-          "info": "빠른 보기 및 제품 정보에 라벨과 배지를 표시하려면 해당 섹션에 '라벨 및 배지' 블록을 추가하거나 [이 가이드](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)를 확인하세요."
+          "info": "빠른 보기 및 제품 정보에 라벨과 배지를 표시하려면 해당 섹션에 '라벨 및 배지' 블록을 추가하거나 [이 가이드](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)를 확인하세요."
         },
         "icon": {
           "info": "아이콘이 라벨 텍스트 앞에 표시됩니다."
@@ -4571,8 +4598,8 @@
           "info__3": "할인 금액은 {sale_amount}.",
           "info__4": "총 재고 수량은 {qty}.",
           "info__5": "종료일까지 카운트다운 타이머는 {count_down}. (일정 활성화 필수)",
-          "info__6": "줄 바꿈은 <br \/>.",
-          "info__7": "굵은 글씨는 <b>귀하의 콘텐츠<\/b>.",
+          "info__6": "줄 바꿈은 <br />.",
+          "info__7": "굵은 글씨는 <b>귀하의 콘텐츠</b>.",
           "info__8": "제품 가격은 {price}.",
           "info_metafield": "제품 또는 변형 메타 필드의 경우 {metafield_key} (단일 라인 텍스트 유형만 지원). 참고: 여기에 표시하려면 먼저 테마 설정 > 제품 라벨 및 배지에서 메타 필드 키를 구성해야 합니다."
         },
@@ -5281,12 +5308,12 @@
           "info": "매장에서 사용된 옵션의 모든 이름을 입력하고, 다른 언어의 구문은 쉼표로 구분합니다. (예: Color, Colour, Couleur). 하나의 제품 옵션 이름을 입력하세요. 이 옵션의 각 값은 속성 표의 열이 됩니다."
         },
         "note": "메타필드 값도 기준으로 사용할 수 있습니다.",
-        "note_1": "1. 정확한 이름 \"specs\" (한 줄 텍스트\/하나의 값)을 가진 필드를 포함하는 키 \"product_specs_list\"로 메타객체를 생성합니다.",
+        "note_1": "1. 정확한 이름 \"specs\" (한 줄 텍스트/하나의 값)을 가진 필드를 포함하는 키 \"product_specs_list\"로 메타객체를 생성합니다.",
         "note_2": "2. 메타객체에 대한 항목을 생성합니다 (예: \"건성 피부\", \"자외선 차단\").",
         "note_3": "3. 키 \"product_specs\" (메타객체/값 목록)로 제품 메타필드를 생성하고 방금 생성한 메타객체를 선택합니다.",
         "note_4": "4. 관리자 제품 상세 페이지에서 메타필드를 통해 각 제품에 대한 값을 할당합니다.",
         "note_5": "5. 이 필드에 해당 메타필드의 키 \"product_specs\"를 입력합니다.",
-        "note_6": "자세한 내용은 [무료 지원을 위해 문의](https:\/\/omnithemes.com\/contact\/)하세요.",
+        "note_6": "자세한 내용은 [무료 지원을 위해 문의](https://omnithemes.com/contact/)하세요.",
         "hightlight_dark": {
           "label": "강조 (어두움)"
         },
@@ -5325,7 +5352,7 @@
           "info": "장바구니에 쿠폰 코드를 자동으로 적용하려면 라벨을 추가하세요."
         },
         "promo_code_note": {
-          "content": "아래의 시작일과 종료일은 Shopify 관리자 > 할인에 있는 할인 규칙의 시작일 및 종료일과 일치해야 합니다. [할인 코드](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)에 대해 자세히 알아보세요."
+          "content": "아래의 시작일과 종료일은 Shopify 관리자 > 할인에 있는 할인 규칙의 시작일 및 종료일과 일치해야 합니다. [할인 코드](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)에 대해 자세히 알아보세요."
         },
         "promo_terms_label": {
           "label": "프로모션 약관 라벨"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5626,7 +5653,7 @@
         "name": "매장",
         "settings": {
           "store_name": {
-            "info": "매장 이름은 [위치 설정](\/admin\/settings\/locations)에 정의된 매장 이름과 일치해야 합니다.",
+            "info": "매장 이름은 [위치 설정](/admin/settings/locations)에 정의된 매장 이름과 일치해야 합니다.",
             "default": "내 매장"
           },
           "pickup_price": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "빠른 주문 목록",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "사이드바"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "원본 게시물 비율"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "소셜 게시물 이미지"

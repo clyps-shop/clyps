@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Betűtípus",
-          "info": "Más betűtípus kiválasztása befolyásolhatja áruházad sebességét. [Tudj meg többet a rendszerbetűtípusokról.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Más betűtípus kiválasztása befolyásolhatja áruházad sebességét. [Tudj meg többet a rendszerbetűtípusokról.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Címsorok"
@@ -112,7 +112,7 @@
           "content": "Szövegtörzs"
         },
         "type_body_font": {
-          "info": "Más betűtípus kiválasztása befolyásolhatja áruházad sebességét. [Tudj meg többet a rendszerbetűtípusokról.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Más betűtípus kiválasztása befolyásolhatja áruházad sebességét. [Tudj meg többet a rendszerbetűtípusokról.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Betűméret skála"
@@ -136,7 +136,7 @@
         "info": "Az alábbi beállítások automatikusan színmintákat adnak a gyűjtemény és keresési oldal szűrőjéhez.",
         "swatches_filter": {
           "header": "Szűrő",
-          "info": "További szín- vagy képadatok szerinti szűréshez hozz létre metaobjektumokat és metaobjektum hivatkozásokat, majd módosítsd az alábbi beállításokat preferenciáid szerint. [Tudj meg többet a vizuális szűrők metaobjektumok használatával történő megjelenítéséről.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "További szín- vagy képadatok szerinti szűréshez hozz létre metaobjektumokat és metaobjektum hivatkozásokat, majd módosítsd az alábbi beállításokat preferenciáid szerint. [Tudj meg többet a vizuális szűrők metaobjektumok használatával történő megjelenítéséről.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "Szöveg megjelenítése a minták mellett",
           "visual_style": {
             "label": "Vizuális érték stílusa",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Kiemelt jellemzők",
-        "paragraph": "Mutasd be a kiemelkedő termékminőségeket a kártyákon, hogy egy pillantással közöld az értéket, és támogasd a gyorsabb, magababiztosabb vásárlási döntéseket. Tudj meg többet a [felhasználói útmutatónkban](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
+        "paragraph": "Mutasd be a kiemelkedő termékminőségeket a kártyákon, hogy egy pillantással közöld az értéket, és támogasd a gyorsabb, magababiztosabb vásárlási döntéseket. Tudj meg többet a [felhasználói útmutatónkban](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "Kártya teteje",
           "option__2": "Termékcím alatt",
@@ -199,7 +199,7 @@
       "color_option_info": "Töltse ki az áruházban használt színopció(k) összes nevét, a különböző nyelvek kifejezéseit vesszővel elválasztva. (Pl. Color, Colour, Couleur).",
       "color_option_values": "Színminta értékek",
       "color_swatches_example": "Egy 'színnév:érték' soronként. Legfeljebb három szín használható függőleges csíkok megjelenítésére. Pl.: 'Piros Kék Csíkok:#e22#22e'",
-      "color_swatches_guide": "Ha képet szeretne használni színmintához, [töltsön fel egy PNG képet](\/admin\/settings\/files), amelynek fájlneve megegyezik a színnévvel, és a szóközök kötőjellel vannak helyettesítve. Pl. a 'Hot Pink' esetén töltse fel a 'hot-pink.png' fájlt.",
+      "color_swatches_guide": "Ha képet szeretne használni színmintához, [töltsön fel egy PNG képet](/admin/settings/files), amelynek fájlneve megegyezik a színnévvel, és a szóközök kötőjellel vannak helyettesítve. Pl. a 'Hot Pink' esetén töltse fel a 'hot-pink.png' fájlt.",
       "products_color_swatches_enable_on_collection_page": "Engedélyezés a termékkártyákon",
       "replace_color_with_variant_images": "Színopciók cseréje variáns képekkel",
       "products_color_swatches_style": "Minta stílusa",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Gravírozza ezt a terméket",
       "highlight_icon": {
         "name": "Kiemelt attribútumok",
-        "info": "Jelenítsen meg ikonokat a termékkártyákon, hogy a vásárlók gyorsan megértsék a termékek kiemelt jellemzőit (pl. összetevők, allergének). Tudjon meg többet a [felhasználói útmutatónkban.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)",
+        "info": "Jelenítsen meg ikonokat a termékkártyákon, hogy a vásárlók gyorsan megértsék a termékek kiemelt jellemzőit (pl. összetevők, allergének). Tudjon meg többet a [felhasználói útmutatónkban.](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)",
         "icon_1": "Ikon 1",
         "icon_2": "Ikon 2",
         "icon_3": "Ikon 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Gomb színének használata",
       "button_colors": "Gomb színei"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "Menüpont 1. szint animáció",
         "note": "Csak Marker és Bling bling menü kiemelési stílusokkal működik"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "Termékcímkék és jelvények",
-      "info": "A termékcímkék és jelvények az „Átfedés” csoport „Termékcímkék és jelvények” szakaszában állíthatók be. Ha termék metafőket szeretne megjeleníteni címkeként és jelvényként, töltse ki az alábbi szövegmezőbe a metafő kulcsokat, majd lépjen a szakaszhoz a címkék megjelenítésének konfigurálásához. Csak az „Egysoros szöveg” metafő típus elfogadott. További információ [felhasználói útmutatónkban.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "A termékcímkék és jelvények az „Átfedés” csoport „Termékcímkék és jelvények” szakaszában állíthatók be. Ha termék metafőket szeretne megjeleníteni címkeként és jelvényként, töltse ki az alábbi szövegmezőbe a metafő kulcsokat, majd lépjen a szakaszhoz a címkék megjelenítésének konfigurálásához. Csak az „Egysoros szöveg” metafő típus elfogadott. További információ [felhasználói útmutatónkban.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Címkékben használt metafővek",
           "info": "Töltse ki a teljes termék metafő kulcsokat (pl. custom.metafield-1). Egy metafő kulcs soronként."
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "Favicon",
@@ -468,9 +495,9 @@
       "cart_upsell": "Kosár upsell",
       "enable_cart_upsell": "Engedélyezés a minikosárban",
       "cart_upsell_note": "Ha engedélyezve van a minikosárban és a kosár oldalon, az upsell ajánlások a következő prioritás szerint jelenhetnek meg (magastól alacsonyig):",
-      "cart_upsell_note_1": "(1) termék metafő létrehozásával a kosár upsell-ben, és ez a mező nem üres. [További részletekért lásd felhasználói útmutatónkat.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) termék metafő létrehozásával a kosár upsell-ben, és ez a mező nem üres. [További részletekért lásd felhasználói útmutatónkat.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) termékek listájának manuális kiválasztásával az alábbi beállításokban",
-      "cart_upsell_note_3": "(3) a Shopify termékajánlásain alapuló dinamikus ajánlások használatával. [További információ.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) a Shopify termékajánlásain alapuló dinamikus ajánlások használatával. [További információ.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "Ha termék metafőket használ az upsell termékek hozzáadásához, hagyja üresen ezt a mezőt.",
       "number_of_product_shown": "Megjelenített termékek száma",
       "section_label": "Szakasz címkéje",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Érvényesítési regex (haladó)",
-          "info": "Mező érvényesítés céljából. Kérjük, ne használja, ha nem ismeri a Regex-et. A Regex-szel kapcsolatos segítségért vagy az ebből eredő problémák megoldásáért kérjük, [lépjen kapcsolatba ügyfélszolgálatunkkal](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Mező érvényesítés céljából. Kérjük, ne használja, ha nem ismeri a Regex-et. A Regex-szel kapcsolatos segítségért vagy az ebből eredő problémák megoldásáért kérjük, [lépjen kapcsolatba ügyfélszolgálatunkkal](https://omnithemes.com/contact/)."
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Minimális szállítási nap(ok)",
-          "info": "Az összes megrendelés szállításához szükséges minimális napok száma. Használjon pontosvesszőt a szállítási piacok megkülönböztetésére, ha szükséges (pl. US:6;GB:3), vagy adjon meg egy számot az összes elérhető piacra vonatkozóan. Az országkódoknak követniük kell az [ISO 3166 szabványt.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Minden termékhez való testreszabáshoz hozzon létre egy 'custom.delivery_date_min' kulcsú és 'Szöveg' típusú metafieldet. [Tudjon meg többet a metafieldek létrehozásáról](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) vagy [vegye fel velünk a kapcsolatot](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Az összes megrendelés szállításához szükséges minimális napok száma. Használjon pontosvesszőt a szállítási piacok megkülönböztetésére, ha szükséges (pl. US:6;GB:3), vagy adjon meg egy számot az összes elérhető piacra vonatkozóan. Az országkódoknak követniük kell az [ISO 3166 szabványt.](https://www.iban.com/country-codes)",
+          "note": "Minden termékhez való testreszabáshoz hozzon létre egy 'custom.delivery_date_min' kulcsú és 'Szöveg' típusú metafieldet. [Tudjon meg többet a metafieldek létrehozásáról](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) vagy [vegye fel velünk a kapcsolatot](https://omnithemes.com/contact/)."
         },
         "max_days": {
           "label": "Maximális szállítási nap(ok)",
-          "info": "Az összes megrendelés szállításához szükséges maximális napok száma. Használjon pontosvesszőt a szállítási piacok megkülönböztetésére, ha szükséges (pl. US:6;GB:3), vagy adjon meg egy számot az összes elérhető piacra vonatkozóan. Az országkódoknak követniük kell az [ISO 3166 szabványt.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Minden termékhez való testreszabáshoz hozzon létre egy 'custom.delivery_date_max' kulcsú és 'Szöveg' típusú metafieldet. [Tudjon meg többet a metafieldek létrehozásáról](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) vagy [vegye fel velünk a kapcsolatot](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Az összes megrendelés szállításához szükséges maximális napok száma. Használjon pontosvesszőt a szállítási piacok megkülönböztetésére, ha szükséges (pl. US:6;GB:3), vagy adjon meg egy számot az összes elérhető piacra vonatkozóan. Az országkódoknak követniük kell az [ISO 3166 szabványt.](https://www.iban.com/country-codes)",
+          "note": "Minden termékhez való testreszabáshoz hozzon létre egy 'custom.delivery_date_max' kulcsú és 'Szöveg' típusú metafieldet. [Tudjon meg többet a metafieldek létrehozásáról](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) vagy [vegye fel velünk a kapcsolatot](https://omnithemes.com/contact/)."
         },
         "cutoff_time": {
           "content": "Határidő"
@@ -686,7 +713,7 @@
       "note": "Eredeti URL megjelenítése lapozott gyűjtemény oldalakhoz kanonikus címkeként.",
       "header": {
         "content": "Céginformációk",
-        "info": "A webhely strukturált adataiban és a Google SERP grafikonkártyáján való megjelenítéshez használatos. További információ az [szervezeti sémáról](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
+        "info": "A webhely strukturált adataiban és a Google SERP grafikonkártyáján való megjelenítéshez használatos. További információ az [szervezeti sémáról](https://developers.google.com/search/docs/appearance/structured-data/organization)."
       },
       "enable_organization_schema": {
         "label": "Szervezeti séma engedélyezése"
@@ -727,15 +754,15 @@
       "other": {
         "header": "Egyéb séma",
         "schema_breadcrumbs": "Séma hozzáadása a \"morzsákhoz\"",
-        "info_breadcrumbs": "Részletekért lásd a [BreadcrumbList séma dokumentációját](https:\/\/schema.org\/BreadcrumbList).",
+        "info_breadcrumbs": "Részletekért lásd a [BreadcrumbList séma dokumentációját](https://schema.org/BreadcrumbList).",
         "search": "SearchAction séma hozzáadása a kezdőlaphoz",
-        "info_search": "Részletekért lásd a [SearchAction séma dokumentációját](https:\/\/schema.org\/SearchAction)."
+        "info_search": "Részletekért lásd a [SearchAction séma dokumentációját](https://schema.org/SearchAction)."
       }
     },
     "combined_listing": {
       "name": "Kombinált listák (csak Plusz)",
       "enable_combined": "Termék kombinált listák engedélyezése",
-      "info": "Telepítse a [Combined Listing](https:\/\/apps.shopify.com\/combined-listings) alkalmazást, és engedélyezze ezt a beállítást a funkció használatához. Csak Plusz és vállalati kereskedelmi tervek esetén érhető el."
+      "info": "Telepítse a [Combined Listing](https://apps.shopify.com/combined-listings) alkalmazást, és engedélyezze ezt a beállítást a funkció használatához. Csak Plusz és vállalati kereskedelmi tervek esetén érhető el."
     },
     "reorder": {
       "name": "Újrarendezés",
@@ -746,10 +773,10 @@
       "name": "Haladó",
       "product_reviews_app": {
         "label": "Termékértékelő alkalmazás",
-        "info": "Válassza ki az értékelő alkalmazást, amelyet integrálni szeretne a téma natív termékértékelésével. Az 'Egyéb' opcióban szereplő egyes alkalmazások nem biztos, hogy teljesen kompatibilisek a témával, kérjük, [lépjen kapcsolatba velünk a támogatásért](https:\/\/omnithemes.com\/contact\/)."
+        "info": "Válassza ki az értékelő alkalmazást, amelyet integrálni szeretne a téma natív termékértékelésével. Az 'Egyéb' opcióban szereplő egyes alkalmazások nem biztos, hogy teljesen kompatibilisek a témával, kérjük, [lépjen kapcsolatba velünk a támogatásért](https://omnithemes.com/contact/)."
       },
       "custom_html": "Egyéni kód",
-      "custom_info": "Az egyéni kód kezelésével vagy az egyéni kódhoz kapcsolódó problémák megoldásával kapcsolatos támogatásért kérjük, [lépjen kapcsolatba velünk](https:\/\/omnithemes.com\/contact\/).",
+      "custom_info": "Az egyéni kód kezelésével vagy az egyéni kódhoz kapcsolódó problémák megoldásával kapcsolatos támogatásért kérjük, [lépjen kapcsolatba velünk](https://omnithemes.com/contact/).",
       "additional_head": {
         "label": "HTML a <head> címkéhez",
         "info": "Bármilyen egyéni HTML kódhoz használható, amely az egész webhelyre érvényes. A <head> címke aljára kerül az összes témaoldalon, kivéve a fizetési oldalt."
@@ -784,7 +811,7 @@
       "sections_spacing": "Szekciók közötti távolság",
       "lang_direction": {
         "label": "RTL nyelvek",
-        "info": "Adja meg a nyelvkódokat az RTL elrendezésű nyelvek megjelenítéséhez. Minden kódnak követnie kell az [ISO nyelvkód táblázatot](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp), és vesszővel kell elválasztani (pl.: ar,fa,ps)"
+        "info": "Adja meg a nyelvkódokat az RTL elrendezésű nyelvek megjelenítéséhez. Minden kódnak követnie kell az [ISO nyelvkód táblázatot](https://www.w3schools.com/tags/ref_language_codes.asp), és vesszővel kell elválasztani (pl.: ar,fa,ps)"
       },
       "page_width": "Oldalszélesség",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "Kép nagyítás animáció használatos: Termékkártya képek, Gyűjtemény kártya képek, Médiagaléria, Promóciós rács, Promóciós felugró ablak, Szövegoszlopok képpel.",
       "enable_page_transition": "Oldalátmenet engedélyezése"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "Klasszikus",
         "option_2": "Modern"
       }
@@ -832,7 +859,7 @@
       "name": "Süti banner",
       "settings": {
         "paragraph": {
-          "content": "Kérje ügyfelei hozzájárulását a sütik használatához és adataik feldolgozásához, az Európai Unió ePrivacy irányelvének és az Általános Adatvédelmi Rendeletnek megfelelően. [Tudjon meg többet](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "Kérje ügyfelei hozzájárulását a sütik használatához és adataik feldolgozásához, az Európai Unió ePrivacy irányelvének és az Általános Adatvédelmi Rendeletnek megfelelően. [Tudjon meg többet](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "Süti értesítés"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) ezt a szekciót.",
+        "header_general": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) ezt a szekciót.",
         "mega_menu": {
-          "simple_menu": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) ezt a blokkot.",
-          "tree_menu": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) ezt a blokkot.",
-          "banner_menu": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) ezt a blokkot.",
-          "product_menu": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) ezt a blokkot.",
-          "blog_menu": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) ezt a blokkot.",
-          "tabbed_menu": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) ezt a blokkot.",
-          "contact_menu": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) ezt a blokkot.",
-          "cta_button": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) ezt a blokkot."
+          "simple_menu": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) ezt a blokkot.",
+          "tree_menu": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) ezt a blokkot.",
+          "banner_menu": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) ezt a blokkot.",
+          "product_menu": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) ezt a blokkot.",
+          "blog_menu": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) ezt a blokkot.",
+          "tabbed_menu": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) ezt a blokkot.",
+          "contact_menu": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) ezt a blokkot.",
+          "cta_button": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) ezt a blokkot."
         },
-        "announcement_bar": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) ezt a szekciót.",
-        "mobile_navigation": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) ezt a szekciót."
+        "announcement_bar": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) ezt a szekciót.",
+        "mobile_navigation": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) ezt a szekciót."
       },
       "footer": {
-        "footer": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) ezt a szekciót.",
-        "quicklinks": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) ezt a szekciót."
+        "footer": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/footer/footer) ezt a szekciót.",
+        "quicklinks": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/footer/quicklinks) ezt a szekciót."
       },
       "section_and_blocks": {
-        "blog_post": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) ezt a szekciót.",
-        "collection_list": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) ezt a szekciót.",
-        "collage": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) ezt a szekciót.",
-        "collection_list_banner": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) ezt a szekciót.",
-        "collection_list_carousel": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) ezt a szekciót.",
-        "comparison_table": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) ezt a szekciót.",
-        "contact_form": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) ezt a szekciót.",
-        "custom_liquid": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) ezt a szekciót.",
-        "email_signup": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) ezt a szekciót.",
-        "event_calendar": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) ezt a szekciót.",
-        "faq": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) ezt a szekciót.",
-        "featured_category": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) ezt a szekciót.",
-        "featured_collection": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) ezt a szekciót.",
-        "featured_product": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) ezt a szekciót.",
-        "flash_sale": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) ezt a szekciót.",
-        "flow": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) ezt a szekciót.",
-        "highlight_text_with_image": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) ezt a szekciót.",
-        "image_comparison": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) ezt a szekciót.",
-        "logo_list": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) ezt a szekciót.",
-        "map": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) ezt a szekciót.",
-        "media_gallery": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) ezt a szekciót.",
-        "media_with_text": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) ezt a szekciót.",
-        "multiple_store": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) ezt a szekciót.",
-        "page": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) ezt a szekciót.",
-        "product_attribute_table": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) ezt a szekciót.",
-        "product_bundle": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) ezt a szekciót.",
-        "product_comparison_table": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) ezt a szekciót.",
-        "product_highlight": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) ezt a szekciót.",
-        "product_grid": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) ezt a szekciót.",
-        "promo_code_list": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) ezt a szekciót.",
-        "promotion_banner": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) ezt a szekciót.",
-        "promotion_grid": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) ezt a szekciót.",
-        "recently_viewed_products": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) ezt a szekciót.",
-        "related_blog_posts": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) ezt a szekciót.",
-        "related_collections": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) ezt a szekciót.",
-        "rich_text": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) ezt a szekciót.",
-        "scrolling_promotion": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) ezt a szekciót.",
-        "shop_the_look": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) ezt a szekciót.",
-        "slideshow": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) ezt a szekciót.",
-        "social_feeds": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) ezt a szekciót.",
-        "tabs": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) ezt a szekciót.",
-        "testimonial": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) ezt a szekciót.",
-        "testimonial_with_cards": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) ezt a szekciót.",
-        "text_columns_with_icons": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) ezt a szekciót.",
-        "text_columns_with_images": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) ezt a szekciót.",
-        "timeline": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) ezt a szekciót.",
-        "vertical_slideshow": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) ezt a szekciót.",
-        "video": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) ezt a szekciót.",
-        "video_hero": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) ezt a szekciót.",
-        "video_looping": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) ezt a szekciót.",
-        "video_shopping": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) ezt a szekciót.",
-        "flexible_area": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) ezt a szekciót."
+        "blog_post": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/blog-post) ezt a szekciót.",
+        "collection_list": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/collection-list) ezt a szekciót.",
+        "collage": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/collage) ezt a szekciót.",
+        "collection_list_banner": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) ezt a szekciót.",
+        "collection_list_carousel": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) ezt a szekciót.",
+        "comparison_table": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) ezt a szekciót.",
+        "contact_form": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/contact-form) ezt a szekciót.",
+        "custom_liquid": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) ezt a szekciót.",
+        "email_signup": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) ezt a szekciót.",
+        "event_calendar": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) ezt a szekciót.",
+        "faq": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/faqs) ezt a szekciót.",
+        "featured_category": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) ezt a szekciót.",
+        "featured_collection": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) ezt a szekciót.",
+        "featured_product": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/featured-product) ezt a szekciót.",
+        "flash_sale": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) ezt a szekciót.",
+        "flow": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/flow) ezt a szekciót.",
+        "highlight_text_with_image": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) ezt a szekciót.",
+        "image_comparison": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) ezt a szekciót.",
+        "logo_list": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/logo-list) ezt a szekciót.",
+        "map": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/map-1) ezt a szekciót.",
+        "media_gallery": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) ezt a szekciót.",
+        "media_with_text": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) ezt a szekciót.",
+        "multiple_store": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) ezt a szekciót.",
+        "page": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/page) ezt a szekciót.",
+        "product_attribute_table": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) ezt a szekciót.",
+        "product_bundle": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) ezt a szekciót.",
+        "product_comparison_table": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) ezt a szekciót.",
+        "product_highlight": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) ezt a szekciót.",
+        "product_grid": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/product-grid) ezt a szekciót.",
+        "promo_code_list": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) ezt a szekciót.",
+        "promotion_banner": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) ezt a szekciót.",
+        "promotion_grid": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) ezt a szekciót.",
+        "recently_viewed_products": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) ezt a szekciót.",
+        "related_blog_posts": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) ezt a szekciót.",
+        "related_collections": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/related-collections) ezt a szekciót.",
+        "rich_text": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/rich-text) ezt a szekciót.",
+        "scrolling_promotion": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) ezt a szekciót.",
+        "shop_the_look": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) ezt a szekciót.",
+        "slideshow": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/slideshow) ezt a szekciót.",
+        "social_feeds": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) ezt a szekciót.",
+        "tabs": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/tabs) ezt a szekciót.",
+        "testimonial": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/testimonial) ezt a szekciót.",
+        "testimonial_with_cards": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) ezt a szekciót.",
+        "text_columns_with_icons": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) ezt a szekciót.",
+        "text_columns_with_images": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) ezt a szekciót.",
+        "timeline": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/timeline) ezt a szekciót.",
+        "vertical_slideshow": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) ezt a szekciót.",
+        "video": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/video) ezt a szekciót.",
+        "video_hero": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/video-hero) ezt a szekciót.",
+        "video_looping": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/video-looping) ezt a szekciót.",
+        "video_shopping": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) ezt a szekciót.",
+        "flexible_area": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) ezt a szekciót."
       },
       "product_page": {
-        "product_description": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) ezt a szekciót.",
+        "product_description": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/product-page/product-description) ezt a szekciót.",
         "product_information": {
-          "product_information_general": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) ezt a szekciót.",
-          "buy_buttons": "Tudja meg, [hogyan kell beállítani a kosárba helyezés és vásárlás gombokat](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) ebben a blokkban.",
-          "back_in_stock_alert": "Tudja meg, [hogyan kell készleten lévő értesítést megjeleníteni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) ebben a blokkban.",
-          "basic_info": "Tudja meg, [hogyan kell megjeleníteni a termék alapvető adatait (cím, ár, leírás stb.)](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) ebben a blokkban.",
-          "collapsible_tab": "Tudja meg, [hogyan kell összecsukható füleket létrehozni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) ebben a blokkban.",
-          "collection_link": "Tudja meg, [hogyan kell gyűjtemény linket hozzáadni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) ebben a blokkban.",
-          "complementary_product": "Tudja meg, [hogyan kell kiegészítő termékeket megjeleníteni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) ebben a blokkban.",
-          "customizable_options": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) ezt a blokkot.",
-          "estimate_delivery": "Tudja meg, [hogyan kell megjeleníteni a termék becsült szállítási dátumát](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) ebben a blokkban.",
-          "engraving": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) ezt a blokkot.",
-          "featured_icon": "Tudja meg, [hogyan kell kiemelt információkat (opcionális ikonok) megjeleníteni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) ebben a blokkban.",
-          "frequently_bought_together": "Tudja meg, [hogyan kell megjeleníteni a gyakran együtt vásárolt termékeket](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) ebben a blokkban.",
-          "gift_wrapping": "Tudja meg, [hogyan kell megjeleníteni az ajándékcsomagolási lehetőséget](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) ebben a blokkban.",
-          "horizontal_tab": "Tudja meg, [hogyan kell vízszintes füleket hozzáadni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) ebben a blokkban.",
-          "inventory_status": "Tudja meg, [hogyan kell megjeleníteni a termék készletállapotát](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) ebben a blokkban.",
-          "nutrition_fact_bar": "Tudja meg, [hogyan kell táplálkozási tény sávot hozzáadni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) ebben a blokkban.",
-          "payment_method": "Tudja meg, [hogyan kell megjeleníteni az egyes termékek fizetési módját](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) ebben a blokkban.",
-          "product_sibling": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) ezt a blokkot.",
-          "rating": "Tudja meg, [hogyan kell értékeléseket megjeleníteni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) ebben a blokkban.",
-          "size_chart": "Tudja meg, [hogyan kell mérettáblázatot hozzáadni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) ebben a blokkban.",
-          "social_sharing": "Tudja meg, [hogyan kell közösségi megosztási ikonokat megjeleníteni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) ebben a blokkban.",
-          "sticky_add_to_cart": "Tudja meg, [hogyan kell rögzített kosárba helyezés sávot megjeleníteni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) ebben a blokkban.",
-          "table_of_information": "Tudja meg, [hogyan kell információs táblázatot hozzáadni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) ebben a blokkban.",
-          "trust_badge": "Tudja meg, [hogyan kell megbízhatósági jelvényeket megjeleníteni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) ebben a blokkban.",
-          "volume_pricing": "Tudja meg, [hogyan kell mennyiségi árképzési táblázatot használni](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) ebben a blokkban.",
-          "other_blocks": "Tudja meg, [hogyan kell más blokkokat megjeleníteni](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) ebben a blokkban."
+          "product_information_general": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/product-page/product-information) ezt a szekciót.",
+          "buy_buttons": "Tudja meg, [hogyan kell beállítani a kosárba helyezés és vásárlás gombokat](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) ebben a blokkban.",
+          "back_in_stock_alert": "Tudja meg, [hogyan kell készleten lévő értesítést megjeleníteni](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) ebben a blokkban.",
+          "basic_info": "Tudja meg, [hogyan kell megjeleníteni a termék alapvető adatait (cím, ár, leírás stb.)](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) ebben a blokkban.",
+          "collapsible_tab": "Tudja meg, [hogyan kell összecsukható füleket létrehozni](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) ebben a blokkban.",
+          "collection_link": "Tudja meg, [hogyan kell gyűjtemény linket hozzáadni](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) ebben a blokkban.",
+          "complementary_product": "Tudja meg, [hogyan kell kiegészítő termékeket megjeleníteni](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) ebben a blokkban.",
+          "customizable_options": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide/customizable-options) ezt a blokkot.",
+          "estimate_delivery": "Tudja meg, [hogyan kell megjeleníteni a termék becsült szállítási dátumát](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) ebben a blokkban.",
+          "engraving": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/product-page/engraving) ezt a blokkot.",
+          "featured_icon": "Tudja meg, [hogyan kell kiemelt információkat (opcionális ikonok) megjeleníteni](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) ebben a blokkban.",
+          "frequently_bought_together": "Tudja meg, [hogyan kell megjeleníteni a gyakran együtt vásárolt termékeket](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) ebben a blokkban.",
+          "gift_wrapping": "Tudja meg, [hogyan kell megjeleníteni az ajándékcsomagolási lehetőséget](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) ebben a blokkban.",
+          "horizontal_tab": "Tudja meg, [hogyan kell vízszintes füleket hozzáadni](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) ebben a blokkban.",
+          "inventory_status": "Tudja meg, [hogyan kell megjeleníteni a termék készletállapotát](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) ebben a blokkban.",
+          "nutrition_fact_bar": "Tudja meg, [hogyan kell táplálkozási tény sávot hozzáadni](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) ebben a blokkban.",
+          "payment_method": "Tudja meg, [hogyan kell megjeleníteni az egyes termékek fizetési módját](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) ebben a blokkban.",
+          "product_sibling": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/user-guide/product-siblings) ezt a blokkot.",
+          "rating": "Tudja meg, [hogyan kell értékeléseket megjeleníteni](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) ebben a blokkban.",
+          "size_chart": "Tudja meg, [hogyan kell mérettáblázatot hozzáadni](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) ebben a blokkban.",
+          "social_sharing": "Tudja meg, [hogyan kell közösségi megosztási ikonokat megjeleníteni](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) ebben a blokkban.",
+          "sticky_add_to_cart": "Tudja meg, [hogyan kell rögzített kosárba helyezés sávot megjeleníteni](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) ebben a blokkban.",
+          "table_of_information": "Tudja meg, [hogyan kell információs táblázatot hozzáadni](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) ebben a blokkban.",
+          "trust_badge": "Tudja meg, [hogyan kell megbízhatósági jelvényeket megjeleníteni](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) ebben a blokkban.",
+          "volume_pricing": "Tudja meg, [hogyan kell mennyiségi árképzési táblázatot használni](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) ebben a blokkban.",
+          "other_blocks": "Tudja meg, [hogyan kell más blokkokat megjeleníteni](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) ebben a blokkban."
         },
-        "product_specification": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) ezt a szekciót.",
-        "product_recommendation": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) ezt a szekciót.",
-        "quick_order_list": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) ezt a szekciót."
+        "product_specification": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/product-page/product-specifications) ezt a szekciót.",
+        "product_recommendation": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/product-page/product-recommendations) ezt a szekciót.",
+        "quick_order_list": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/product-page/quick-order-list) ezt a szekciót."
       },
       "collection_page": {
-        "collection_banner": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) ezt a szekciót."
+        "collection_banner": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/collection-page/collection-banner) ezt a szekciót."
       },
       "pages_and_templates": {
-        "blog_post_page": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) ezt a szekciót.",
-        "blog_page": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) ezt a szekciót.",
-        "cart_page": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) ezt a szekciót.",
-        "collection_list_page": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) ezt a szekciót.",
-        "search_page": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) ezt a szekciót."
+        "blog_post_page": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) ezt a szekciót.",
+        "blog_page": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/page-templates/blog-page) ezt a szekciót.",
+        "cart_page": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/page-templates/cart-page) ezt a szekciót.",
+        "collection_list_page": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/page-templates/collection-list-page) ezt a szekciót.",
+        "search_page": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/page-templates/search-page) ezt a szekciót."
       },
       "overlay_group": {
-        "cookie_banner": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) ezt a szekciót.",
-        "popup": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) ezt a szekciót.",
-        "store_selector": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) ezt a szekciót.",
-        "quick_view": "Tudja meg, [hogyan kell használni](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) ezt a szekciót.",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) ezt a szekciót.",
+        "popup": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/overlay-group-1/popup) ezt a szekciót.",
+        "store_selector": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) ezt a szekciót.",
+        "quick_view": "Tudja meg, [hogyan kell használni](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) ezt a szekciót.",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Érvényes a 'Szeletelt ikonnal' animáció típusra.",
         "custom_icon": "Egyéni ikon (SVG kód)",
-        "custom_icon_info": "Az egyéni SVG kóddal kapcsolatos segítségért vagy az egyéni SVG kódból eredő problémák megoldásáért kérjük, [lépjen kapcsolatba ügyfélszolgálatunkkal](https:\/\/omnithemes.com\/contact\/).",
+        "custom_icon_info": "Az egyéni SVG kóddal kapcsolatos segítségért vagy az egyéni SVG kódból eredő problémák megoldásáért kérjük, [lépjen kapcsolatba ügyfélszolgálatunkkal](https://omnithemes.com/contact/).",
         "label": "Ikon",
         "another_icon_label": "Másik ikon használata",
         "another_icon_info": "Ha a fenti opcióktól eltérő ikonokat szeretnél használni, keress egy ikont az [ikonlistánkból](https://support.omnithemes.com/blogs/user-guide/theme-icons) és írd be az ikon nevét ide (pl. price tag).",
@@ -1175,8 +1202,8 @@
         "heading_image": "Címsor kép",
         "image_height": "Kép magassága",
         "image_width": "Kép szélessége",
-        "note_image_size": "Az ajánlott képméretekért tekintsd meg a [felhasználói útmutatónkat](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section).",
-        "note_image_size_video_shopping": "Az ajánlott képméretekért tekintsd meg a [felhasználói útmutatónkat](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). A túlméretezett képek átméretezésre kerülnek az optimális mobil megjelenítés érdekében. Ajánlott arányok: 1:1, 3:4, 4:3."
+        "note_image_size": "Az ajánlott képméretekért tekintsd meg a [felhasználói útmutatónkat](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section).",
+        "note_image_size_video_shopping": "Az ajánlott képméretekért tekintsd meg a [felhasználói útmutatónkat](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). A túlméretezett képek átméretezésre kerülnek az optimális mobil megjelenítés érdekében. Ajánlott arányok: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Kép arány",
@@ -1389,7 +1416,7 @@
               "label": "Menüpont link"
             },
             "menu": {
-              "info": "Válasszon egy menüt, amelyet ehhez a menüponthoz szeretne alkalmazni. Tanulja meg, hogyan hozhat létre 4 szintű menüt [itt.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
+              "info": "Válasszon egy menüt, amelyet ehhez a menüponthoz szeretne alkalmazni. Tanulja meg, hogyan hozhat létre 4 szintű menüt [itt.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Lap- és almenüpontokra vonatkozik. Nagy képméret esetén a kerekített opció nem elérhető."
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "Kiemelt kategóriák",
       "category_card": {
         "name": "Kategória kártya",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "Média",
-          "info": "Tudjon meg többet a [média típusokról](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Tudjon meg többet a [média típusokról](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_loop": {
           "label": "Videó ismétlés engedélyezése"
@@ -2691,7 +2718,7 @@
           "label": "Fizetési ikonok megjelenítése"
         },
         "custom_payment": {
-          "info": "Testreszabhatja fizetési ikonjait. Például, töltse ki ezt a mezőt a választott módszerekkel: apple_pay, google_pay, tabby, tamara. [További információ](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "Testreszabhatja fizetési ikonjait. Például, töltse ki ezt a mezőt a választott módszerekkel: apple_pay, google_pay, tabby, tamara. [További információ](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "Egyedi fizetési ikonok SVG"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Követés a Shopban",
-          "info": "Követés gomb megjelenítése az áruházhoz a Shop alkalmazásban. [További információ](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "Követés gomb megjelenítése az áruházhoz a Shop alkalmazásban. [További információ](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Követés engedélyezése a Shopban"
@@ -3425,7 +3452,7 @@
           "info": "Megjegyzés: A 20 elemnél nagyobb oldalankénti opciók nem ajánlottak a teljesítmény optimalizálása érdekében."
         },
         "paragraph": {
-          "content": "Módosítsa a kivonatokat a blogbejegyzések szerkesztésével. [Tudjon meg többet](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Módosítsa a kivonatokat a blogbejegyzések szerkesztésével. [Tudjon meg többet](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "A bejegyzések mobilon halmozottak."
@@ -3470,7 +3497,7 @@
           "label": "A kollekció címe teljes szélességű legyen asztali nézetben"
         },
         "paragraph": {
-          "content": "Adjon hozzá leírást vagy képet a kollekció szerkesztésével. [Tudjon meg többet](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "Adjon hozzá leírást vagy képet a kollekció szerkesztésével. [Tudjon meg többet](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "Kollekció címének megjelenítése"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Kollekció képének megjelenítése",
-          "info": "A legjobb eredmény érdekében használjon 16:9 képarányú képet. [Tudjon meg többet](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "A legjobb eredmény érdekében használjon 16:9 képarányú képet. [Tudjon meg többet](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Mikroadat séma engedélyezése",
-            "info" : "A keresőmotorok valószínűleg még nem indexelik ezt az információt. Részletekért lásd a [CollectionPage séma dokumentációját](https:\/\/schema.org\/CollectionPage)."
+            "info": "A keresőmotorok valószínűleg még nem indexelik ezt az információt. Részletekért lásd a [CollectionPage séma dokumentációját](https://schema.org/CollectionPage)."
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Képek hozzáadása a gyűjtemények szerkesztésével. [Tudjon meg többet](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "Képek hozzáadása a gyűjtemények szerkesztésével. [Tudjon meg többet](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "Gyűjtemények megjelenítése",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Tudjon meg többet a [médiatípusokról.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Tudjon meg többet a [médiatípusokról.](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_sticky_image": {
           "label": "Ragasztós tartalom engedélyezése asztali gépen"
@@ -3934,7 +3961,7 @@
           }
         },
         "show_arrow_button": {
-          "label": "Következő\/előző csúszka engedélyezése asztali gépen"
+          "label": "Következő/előző csúszka engedélyezése asztali gépen"
         },
         "mobile_media_size": {
           "label": "Mobil média méret",
@@ -4331,11 +4358,11 @@
           "label": "Szüneteltetés egér fölé vitelkor"
         },
         "show_arrow": {
-          "label": "Következő\/Előző nyilak",
+          "label": "Következő/Előző nyilak",
           "info": "Navigációs nyilak megjelenítése"
         },
         "show_part_slide": {
-          "label": "Következő\/Előző diák"
+          "label": "Következő/Előző diák"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "Több bolt",
       "blocks": {
         "name": "Bolt helye",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Termékcímkék és jelvények",
       "settings": {
-        "introduce": "Ezt a szakaszt használja a címkék és jelvények hozzáadásához a termékekhez és termékkártyákhoz. [Lásd a bemutatókat](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "Ezt a szakaszt használja a címkék és jelvények hozzáadásához a termékekhez és termékkártyákhoz. [Lásd a bemutatókat](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "Termék címkék és jelvények engedélyezése"
         }
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "Új termék címke"
         },
-        "day_start":{
+        "day_start": {
           "label": "Címke megjelenítése a napok számán belül a következő időponttól számítva:",
           "creation_date": "Termék létrehozásának dátuma",
           "activation_date": "Termék aktiválásának dátuma"
         },
-        "day_end":{
+        "day_end": {
           "label": "Napok száma"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Megjelenítés a termékoldalon",
-          "info": "A címkék és jelvények megjelenítéséhez a Gyorsnézetben és a Termékinformációkban, kérjük, adja hozzá a „Címkék és jelvények” blokkot ezekhez a szakaszokhoz, vagy ellenőrizze [ezt az útmutatót.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
+          "info": "A címkék és jelvények megjelenítéséhez a Gyorsnézetben és a Termékinformációkban, kérjük, adja hozzá a „Címkék és jelvények” blokkot ezekhez a szakaszokhoz, vagy ellenőrizze [ezt az útmutatót.](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Az ikon a címkeszöveg előtt fog megjelenni."
@@ -4571,8 +4598,8 @@
           "info__3": "{sale_amount} a kedvezmény összegéhez.",
           "info__4": "{qty} a teljes készletmennyiséghez.",
           "info__5": "{count_down} a visszaszámláló az utolsó dátumig. (Engedélyezni kell az ütemezést)",
-          "info__6": "<br \/> a sortöréshez.",
-          "info__7": "<b>az Ön tartalma<\/b> félkövér szöveghez.",
+          "info__6": "<br /> a sortöréshez.",
+          "info__7": "<b>az Ön tartalma</b> félkövér szöveghez.",
           "info__8": "{price} a termék árához.",
           "info_metafield": "{metafield_key} termék vagy variáns metafieldhez (csak az egysoros szövegtípust támogatja). Megjegyzés: A metafield kulcsokat először a Téma beállítások > Termék címkék és jelvények menüpontban kell konfigurálni, hogy itt megjelenjenek."
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Jegyoldal linkje",
-          "info": "Adjon hozzá egy jegyoldalt, hogy jegyeket adhasson el a résztvevőknek. Hozzon létre egy [digitális terméket](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products), hogy további információkat nyújtson az eseményről, és opcionálisan elrejtse a terméklistákból. [Vegye fel velünk a kapcsolatot](https:\/\/omnithemes.com\/contact\/) ingyenes támogatásért a termékek belső keresésből és termékajánlásokból való kizárásához."
+          "info": "Adjon hozzá egy jegyoldalt, hogy jegyeket adhasson el a résztvevőknek. Hozzon létre egy [digitális terméket](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products), hogy további információkat nyújtson az eseményről, és opcionálisan elrejtse a terméklistákból. [Vegye fel velünk a kapcsolatot](https://omnithemes.com/contact/) ingyenes támogatásért a termékek belső keresésből és termékajánlásokból való kizárásához."
         },
         "ticket_button_label": {
           "label": "Jegy gomb felirat"
@@ -5286,7 +5313,7 @@
         "note_3": "3. Hozzon létre egy termék meta-mezőt „product_specs” kulccsal (Metaobjektum/Értékek listája), és válassza ki az imént létrehozott metaobjektumot.",
         "note_4": "4. Rendeljen értékeket minden termékhez meta-mezőn keresztül az admin termék részletes oldalán.",
         "note_5": "5. Töltse ki a megfelelő meta-mező „product_specs” kulcsát ebben a mezőben.",
-        "note_6": "További részletekért kérjük, [lépjen kapcsolatba velünk ingyenes támogatásért.](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "További részletekért kérjük, [lépjen kapcsolatba velünk ingyenes támogatásért.](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "Kiemelés (sötét)"
         },
@@ -5325,7 +5352,7 @@
           "info": "Adjon hozzá feliratot a kuponkód automatikus alkalmazásához a kosárban."
         },
         "promo_code_note": {
-          "content": "Az alábbi kezdő és befejező dátumoknak meg kell egyezniük a Shopify admin > Kedvezmények menüpontban található Kedvezményezési szabály kezdő és befejező dátumával. Tudjon meg többet a [kedvezménykódról.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
+          "content": "Az alábbi kezdő és befejező dátumoknak meg kell egyezniük a Shopify admin > Kedvezmények menüpontban található Kedvezményezési szabály kezdő és befejező dátumával. Tudjon meg többet a [kedvezménykódról.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Promóciós feltételek felirat"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "Gyors rendeléslista",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "Oldalsáv"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "Eredeti bejegyzés aránya"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "Közösségi bejegyzés képe"

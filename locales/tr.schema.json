@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Yazı tipi",
-          "info": "Farklı bir yazı tipi seçmek mağazanızın hızını etkileyebilir. [Sistem yazı tipleri hakkında daha fazla bilgi edinin.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Farklı bir yazı tipi seçmek mağazanızın hızını etkileyebilir. [Sistem yazı tipleri hakkında daha fazla bilgi edinin.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Başlıklar"
@@ -112,7 +112,7 @@
           "content": "Metin"
         },
         "type_body_font": {
-          "info": "Farklı bir yazı tipi seçmek mağazanızın hızını etkileyebilir. [Sistem yazı tipleri hakkında daha fazla bilgi edinin.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Farklı bir yazı tipi seçmek mağazanızın hızını etkileyebilir. [Sistem yazı tipleri hakkında daha fazla bilgi edinin.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Yazı tipi boyutu ölçeği"
@@ -136,7 +136,7 @@
         "info": "Aşağıdaki ayarlar, koleksiyon ve arama sayfasındaki filtreye otomatik olarak renk örnekleri ekler.",
         "swatches_filter": {
           "header": "Filtre",
-          "info": "Ek renk veya görsel değerleri kullanarak filtrelemek için meta nesneler ve meta nesne referansları oluşturun, ardından tercihlerinize göre aşağıdaki ayarları değiştirin. [Meta nesneler kullanarak görsel filtreleri gösterme hakkında bilgi edinin.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "Ek renk veya görsel değerleri kullanarak filtrelemek için meta nesneler ve meta nesne referansları oluşturun, ardından tercihlerinize göre aşağıdaki ayarları değiştirin. [Meta nesneler kullanarak görsel filtreleri gösterme hakkında bilgi edinin.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "Örneklerin yanında metin göster",
           "visual_style": {
             "label": "Görsel değer stili",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Vurgulanan özellikler",
-        "paragraph": "Ürün kartlarında öne çıkan ürün niteliklerini sergileyerek bir bakışta değer iletişimini sağlayın ve daha hızlı, daha güvenli satın alma kararlarını destekleyin. [Kullanıcı kılavuzumuzda](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards) daha fazla bilgi edinin.",
+        "paragraph": "Ürün kartlarında öne çıkan ürün niteliklerini sergileyerek bir bakışta değer iletişimini sağlayın ve daha hızlı, daha güvenli satın alma kararlarını destekleyin. [Kullanıcı kılavuzumuzda](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards) daha fazla bilgi edinin.",
         "highlighted_features_position": {
           "option__1": "Kartın üstü",
           "option__2": "Ürün başlığının altında",
@@ -199,7 +199,7 @@
       "color_option_info": "Mağazada kullanılan renk seçeneğinin tüm adlarını/adlarını girin, farklı dillerdeki ifadeler virgülle ayrılır. (Örn. Renk, Colour, Couleur).",
       "color_option_values": "Renk örneği değerleri",
       "color_swatches_example": "Her satırda bir 'renk adı:değer'. Dikey çizgileri göstermek için en fazla üç renk kullanılabilir. Örn: 'Kırmızı Mavi Çizgiler:#e22#22e'",
-      "color_swatches_guide": "Renk örneği için bir görsel kullanmak üzere, renk adıyla eşleşen ve boşlukları kısa çizgilerle değiştirilmiş bir dosya adına sahip bir [PNG görseli yükleyin](\/admin\/settings\/files). Örn. 'Sıcak Pembe' için 'hot-pink.png' yükleyin.",
+      "color_swatches_guide": "Renk örneği için bir görsel kullanmak üzere, renk adıyla eşleşen ve boşlukları kısa çizgilerle değiştirilmiş bir dosya adına sahip bir [PNG görseli yükleyin](/admin/settings/files). Örn. 'Sıcak Pembe' için 'hot-pink.png' yükleyin.",
       "products_color_swatches_enable_on_collection_page": "Ürün kartlarında etkinleştir",
       "replace_color_with_variant_images": "Renk seçeneklerini varyant görselleriyle değiştir",
       "products_color_swatches_style": "Örnek stili",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Bu ürüne lazer kazıma yap",
       "highlight_icon": {
         "name": "Vurgulanan nitelikler",
-        "info": "Müşterilerin ürünlerin vurgulanan özelliklerini (örn. içerikler, alerjenler) hızlıca anlaması için ürün kartlarında simgeleri gösterin. Daha fazla bilgi için [kullanıcı kılavuzumuza](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards) bakın.",
+        "info": "Müşterilerin ürünlerin vurgulanan özelliklerini (örn. içerikler, alerjenler) hızlıca anlaması için ürün kartlarında simgeleri gösterin. Daha fazla bilgi için [kullanıcı kılavuzumuza](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards) bakın.",
         "icon_1": "Simge 1",
         "icon_2": "Simge 2",
         "icon_3": "Simge 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Düğme rengini kullan",
       "button_colors": "Düğme renkleri"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "Menü öğesi seviye 1 animasyonu",
         "note": "Sadece İşaretleyici ve Bling bling menü vurgu stiliyle çalışır"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "LinkedIn",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "Ürün etiketleri ve rozetleri",
-      "info": "Ürün etiketleri ve rozetleri, Yer Paylaşımı grubundaki Ürün etiketleri ve rozetleri bölümünde ayarlanır. Ürün meta alanlarını etiket ve rozet olarak göstermek istiyorsanız, aşağıdaki metin kutusuna meta alan anahtarlarını doldurun, ardından etiketlerin görünümünü yapılandırmak için ilgili bölüme gidin. Yalnızca Tek satır metin meta alan türü kabul edilir. Daha fazla bilgi için [kullanım kılavuzumuza bakın.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "Ürün etiketleri ve rozetleri, Yer Paylaşımı grubundaki Ürün etiketleri ve rozetleri bölümünde ayarlanır. Ürün meta alanlarını etiket ve rozet olarak göstermek istiyorsanız, aşağıdaki metin kutusuna meta alan anahtarlarını doldurun, ardından etiketlerin görünümünü yapılandırmak için ilgili bölüme gidin. Yalnızca Tek satır metin meta alan türü kabul edilir. Daha fazla bilgi için [kullanım kılavuzumuza bakın.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Etiketlerde kullanılan meta alanlar",
           "info": "Tam ürün meta alanı anahtarlarını (ör. custom.metafield-1) doldurun. Her satırda bir meta alanı anahtarı."
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "Favicon",
@@ -468,9 +495,9 @@
       "cart_upsell": "Sepet üst satışı",
       "enable_cart_upsell": "Mini sepette etkinleştir",
       "cart_upsell_note": "Mini sepet ve sepet sayfasında etkinleştirilirse, üst satış önerileri şu öncelik sırasına göre (yüksekten düşüğe) gösterilebilir:",
-      "cart_upsell_note_1": "(1) sepet üst satışında bir ürün meta alanı oluşturarak ve bu alan boş değilse.[Daha fazla ayrıntı için kullanım kılavuzumuza bakın.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) sepet üst satışında bir ürün meta alanı oluşturarak ve bu alan boş değilse.[Daha fazla ayrıntı için kullanım kılavuzumuza bakın.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) aşağıdaki ayarlardan manuel olarak bir ürün listesi seçerek",
-      "cart_upsell_note_3": "(3) Shopify ürün önerilerine dayalı dinamik önerileri kullanarak.[Daha fazla bilgi edinin.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) Shopify ürün önerilerine dayalı dinamik önerileri kullanarak.[Daha fazla bilgi edinin.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "Üst satış ürünleri eklemek için bir ürün meta alanı kullanıyorsanız, bu alanı boş bırakın.",
       "number_of_product_shown": "Gösterilen ürün sayısı",
       "section_label": "Bölüm etiketi",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Doğrulama regex'i (Gelişmiş)",
-          "info": "Alan doğrulama amacıyla. Regex'e aşina değilseniz kullanmaktan kaçının. Regex ile ilgili yardım veya bundan kaynaklanan sorunları düzeltmek için lütfen [desteğimizle iletişime geçin](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Alan doğrulama amacıyla. Regex'e aşina değilseniz kullanmaktan kaçının. Regex ile ilgili yardım veya bundan kaynaklanan sorunları düzeltmek için lütfen [desteğimizle iletişime geçin](https://omnithemes.com/contact/)."
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Minimum teslimat günü (günler)",
-          "info": "Tüm siparişleri göndermek için gereken minimum gün sayısı. Gerekirse gönderim pazarları arasında ayrım yapmak için noktalı virgül kullanın (ör. US:6;GB:3) veya tüm mevcut pazarlar için uygulamak üzere bir sayı doldurun. Ülke kodları [ISO 3166 standardına uygun olmalıdır.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Her ürün için özelleştirmek üzere 'custom.delivery_date_min' anahtarlı ve 'Metin' türünde bir meta alan oluşturun. [Meta alan oluşturma hakkında daha fazla bilgi edinin](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) veya [desteğimizle iletişime geçin](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Tüm siparişleri göndermek için gereken minimum gün sayısı. Gerekirse gönderim pazarları arasında ayrım yapmak için noktalı virgül kullanın (ör. US:6;GB:3) veya tüm mevcut pazarlar için uygulamak üzere bir sayı doldurun. Ülke kodları [ISO 3166 standardına uygun olmalıdır.](https://www.iban.com/country-codes)",
+          "note": "Her ürün için özelleştirmek üzere 'custom.delivery_date_min' anahtarlı ve 'Metin' türünde bir meta alan oluşturun. [Meta alan oluşturma hakkında daha fazla bilgi edinin](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) veya [desteğimizle iletişime geçin](https://omnithemes.com/contact/)."
         },
         "max_days": {
           "label": "Maksimum teslimat günü (günler)",
-          "info": "Tüm siparişleri göndermek için gereken maksimum gün sayısı. Gerekirse gönderim pazarları arasında ayrım yapmak için noktalı virgül kullanın (ör. US:6;GB:3) veya tüm mevcut pazarlar için uygulamak üzere bir sayı doldurun. Ülke kodları [ISO 3166 standardına uygun olmalıdır.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Her ürün için özelleştirmek üzere 'custom.delivery_date_max' anahtarlı ve 'Metin' türünde bir meta alan oluşturun. [Meta alan oluşturma hakkında daha fazla bilgi edinin](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) veya [desteğimizle iletişime geçin](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Tüm siparişleri göndermek için gereken maksimum gün sayısı. Gerekirse gönderim pazarları arasında ayrım yapmak için noktalı virgül kullanın (ör. US:6;GB:3) veya tüm mevcut pazarlar için uygulamak üzere bir sayı doldurun. Ülke kodları [ISO 3166 standardına uygun olmalıdır.](https://www.iban.com/country-codes)",
+          "note": "Her ürün için özelleştirmek üzere 'custom.delivery_date_max' anahtarlı ve 'Metin' türünde bir meta alan oluşturun. [Meta alan oluşturma hakkında daha fazla bilgi edinin](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) veya [desteğimizle iletişime geçin](https://omnithemes.com/contact/)."
         },
         "cutoff_time": {
           "content": "Son teslim saati"
@@ -686,7 +713,7 @@
       "note": "Sayfalandırılmış koleksiyon sayfaları için orijinal URL'yi kanonik etiket olarak göster.",
       "header": {
         "content": "İşletme bilgileri",
-        "info": "Sitenin yapılandırılmış verilerinde ve Google'ın SERP grafik kartında göstermek için kullanılır. [Kuruluş şeması](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization) hakkında daha fazla bilgi edinin."
+        "info": "Sitenin yapılandırılmış verilerinde ve Google'ın SERP grafik kartında göstermek için kullanılır. [Kuruluş şeması](https://developers.google.com/search/docs/appearance/structured-data/organization) hakkında daha fazla bilgi edinin."
       },
       "enable_organization_schema": {
         "label": "Kuruluş şemasını etkinleştir"
@@ -727,15 +754,15 @@
       "other": {
         "header": "Diğer şema",
         "schema_breadcrumbs": "Ekmek kırıntılarına şema ekle",
-        "info_breadcrumbs": "Ayrıntılar için [BreadcrumbList şema belgelerine](https:\/\/schema.org\/BreadcrumbList) bakın.",
+        "info_breadcrumbs": "Ayrıntılar için [BreadcrumbList şema belgelerine](https://schema.org/BreadcrumbList) bakın.",
         "search": "Ana sayfaya SearchAction şeması ekle",
-        "info_search": "Ayrıntılar için [SearchAction şema belgelerine](https:\/\/schema.org\/SearchAction) bakın."
+        "info_search": "Ayrıntılar için [SearchAction şema belgelerine](https://schema.org/SearchAction) bakın."
       }
     },
     "combined_listing": {
       "name": "Birleşik Listelemeler (Yalnızca Plus)",
       "enable_combined": "Ürün Birleşik listelemeleri etkinleştir",
-      "info": "[Birleşik Listeleme](https:\/\/apps.shopify.com\/combined-listings) uygulamasını yükleyin ve bu özelliği kullanmak için bu ayarı etkinleştirin. Yalnızca Plus ve kurumsal ticaret planlarında mevcuttur."
+      "info": "[Birleşik Listeleme](https://apps.shopify.com/combined-listings) uygulamasını yükleyin ve bu özelliği kullanmak için bu ayarı etkinleştirin. Yalnızca Plus ve kurumsal ticaret planlarında mevcuttur."
     },
     "reorder": {
       "name": "Yeniden Sırala",
@@ -746,10 +773,10 @@
       "name": "Gelişmiş",
       "product_reviews_app": {
         "label": "Ürün incelemeleri uygulaması",
-        "info": "Temanın yerel ürün derecelendirmesiyle entegre edilecek inceleme uygulamasını seçin. 'Diğer' seçeneğindeki bazı uygulamalar temayla tam olarak uyumlu olmayabilir, lütfen [destek için bizimle iletişime geçin](https:\/\/omnithemes.com\/contact\/)."
+        "info": "Temanın yerel ürün derecelendirmesiyle entegre edilecek inceleme uygulamasını seçin. 'Diğer' seçeneğindeki bazı uygulamalar temayla tam olarak uyumlu olmayabilir, lütfen [destek için bizimle iletişime geçin](https://omnithemes.com/contact/)."
       },
       "custom_html": "Özel kod",
-      "custom_info": "Özel kodun işlenmesi veya özel kodla ilgili sorunların giderilmesi için destek almak üzere lütfen [bizimle iletişime geçin](https:\/\/omnithemes.com\/contact\/).",
+      "custom_info": "Özel kodun işlenmesi veya özel kodla ilgili sorunların giderilmesi için destek almak üzere lütfen [bizimle iletişime geçin](https://omnithemes.com/contact/).",
       "additional_head": {
         "label": "<head> etiketi için HTML",
         "info": "Site genelinde uygulanacak herhangi bir özel HTML kodu için kullanılır. Ödeme sayfası hariç tüm tema sayfalarında <head> etiketinin en altına yerleştirilir."
@@ -784,7 +811,7 @@
       "sections_spacing": "Bölüm aralığı",
       "lang_direction": {
         "label": "RTL dilleri",
-        "info": "Dilleri RTL düzeninde göstermek için dil kodlarını girin. Tüm kodlar [ISO Dil Kodu Tablosu'na](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) uymalı ve virgüllerle ayrılmalıdır (Örn: ar,fa,ps)"
+        "info": "Dilleri RTL düzeninde göstermek için dil kodlarını girin. Tüm kodlar [ISO Dil Kodu Tablosu'na](https://www.w3schools.com/tags/ref_language_codes.asp) uymalı ve virgüllerle ayrılmalıdır (Örn: ar,fa,ps)"
       },
       "page_width": "Sayfa genişliği",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "Görüntü yakınlaştırma animasyonu şunlarda kullanılır: Ürün kartı görüntüleri, Koleksiyon kartı görüntüleri, Medya galerisi, Promosyon ızgarası, Promosyon açılır penceresi, Resimli metin sütunları.",
       "enable_page_transition": "Sayfa geçişini etkinleştir"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "Klasik",
         "option_2": "Modern"
       }
@@ -832,7 +859,7 @@
       "name": "Çerez afişi",
       "settings": {
         "paragraph": {
-          "content": "Avrupa Birliği'nin eGizlilik Direktifi ve Genel Veri Koruma Yönetmeliği'nin gerektirdiği şekilde, müşterilerinizden çerezleri kullanma ve verilerini işleme izni isteyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "Avrupa Birliği'nin eGizlilik Direktifi ve Genel Veri Koruma Yönetmeliği'nin gerektirdiği şekilde, müşterilerinizden çerezleri kullanma ve verilerini işleme izni isteyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "Çerez bildirimi"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) öğrenin.",
+        "header_general": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) öğrenin.",
         "mega_menu": {
-          "simple_menu": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) öğrenin.",
-          "tree_menu": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) öğrenin.",
-          "banner_menu": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) öğrenin.",
-          "product_menu": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) öğrenin.",
-          "blog_menu": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) öğrenin.",
-          "tabbed_menu": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) öğrenin.",
-          "contact_menu": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) öğrenin.",
-          "cta_button": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) öğrenin."
+          "simple_menu": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) öğrenin.",
+          "tree_menu": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) öğrenin.",
+          "banner_menu": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) öğrenin.",
+          "product_menu": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) öğrenin.",
+          "blog_menu": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) öğrenin.",
+          "tabbed_menu": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) öğrenin.",
+          "contact_menu": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) öğrenin.",
+          "cta_button": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) öğrenin."
         },
-        "announcement_bar": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) öğrenin.",
-        "mobile_navigation": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) öğrenin."
+        "announcement_bar": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) öğrenin.",
+        "mobile_navigation": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) öğrenin."
       },
       "footer": {
-        "footer": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) öğrenin.",
-        "quicklinks": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) öğrenin."
+        "footer": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/footer/footer) öğrenin.",
+        "quicklinks": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/footer/quicklinks) öğrenin."
       },
       "section_and_blocks": {
-        "blog_post": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) öğrenin.",
-        "collection_list": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) öğrenin.",
-        "collage": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) öğrenin.",
-        "collection_list_banner": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) öğrenin.",
-        "collection_list_carousel": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) öğrenin.",
-        "comparison_table": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) öğrenin.",
-        "contact_form": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) öğrenin.",
-        "custom_liquid": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) öğrenin.",
-        "email_signup": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) öğrenin.",
-        "event_calendar": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) öğrenin.",
-        "faq": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) öğrenin.",
-        "featured_category": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) öğrenin.",
-        "featured_collection": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) öğrenin.",
-        "featured_product": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) öğrenin.",
-        "flash_sale": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) öğrenin.",
-        "flow": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) öğrenin.",
-        "highlight_text_with_image": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) öğrenin.",
-        "image_comparison": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) öğrenin.",
-        "logo_list": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) öğrenin.",
-        "map": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) öğrenin.",
-        "media_gallery": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) öğrenin.",
-        "media_with_text": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) öğrenin.",
-        "multiple_store": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) öğrenin.",
-        "page": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) öğrenin.",
-        "product_attribute_table": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) öğrenin.",
-        "product_bundle": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) öğrenin.",
-        "product_comparison_table": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) öğrenin.",
-        "product_highlight": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) öğrenin.",
-        "product_grid": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) öğrenin.",
-        "promo_code_list": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) öğrenin.",
-        "promotion_banner": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) öğrenin.",
-        "promotion_grid": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) öğrenin.",
-        "recently_viewed_products": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) öğrenin.",
-        "related_blog_posts": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) öğrenin.",
-        "related_collections": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) öğrenin.",
-        "rich_text": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) öğrenin.",
-        "scrolling_promotion": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) öğrenin.",
-        "shop_the_look": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) öğrenin.",
-        "slideshow": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) öğrenin.",
-        "social_feeds": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) öğrenin.",
-        "tabs": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) öğrenin.",
-        "testimonial": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) öğrenin.",
-        "testimonial_with_cards": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) öğrenin.",
-        "text_columns_with_icons": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) öğrenin.",
-        "text_columns_with_images": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) öğrenin.",
-        "timeline": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) öğrenin.",
-        "vertical_slideshow": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) öğrenin.",
-        "video": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) öğrenin.",
-        "video_hero": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) öğrenin.",
-        "video_looping": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) öğrenin.",
-        "video_shopping": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) öğrenin.",
-        "flexible_area": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) öğrenin."
+        "blog_post": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/blog-post) öğrenin.",
+        "collection_list": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/collection-list) öğrenin.",
+        "collage": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/collage) öğrenin.",
+        "collection_list_banner": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) öğrenin.",
+        "collection_list_carousel": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) öğrenin.",
+        "comparison_table": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) öğrenin.",
+        "contact_form": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/contact-form) öğrenin.",
+        "custom_liquid": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) öğrenin.",
+        "email_signup": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) öğrenin.",
+        "event_calendar": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) öğrenin.",
+        "faq": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/faqs) öğrenin.",
+        "featured_category": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) öğrenin.",
+        "featured_collection": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) öğrenin.",
+        "featured_product": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/featured-product) öğrenin.",
+        "flash_sale": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) öğrenin.",
+        "flow": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/flow) öğrenin.",
+        "highlight_text_with_image": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) öğrenin.",
+        "image_comparison": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) öğrenin.",
+        "logo_list": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/logo-list) öğrenin.",
+        "map": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/map-1) öğrenin.",
+        "media_gallery": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) öğrenin.",
+        "media_with_text": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) öğrenin.",
+        "multiple_store": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) öğrenin.",
+        "page": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/page) öğrenin.",
+        "product_attribute_table": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) öğrenin.",
+        "product_bundle": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) öğrenin.",
+        "product_comparison_table": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) öğrenin.",
+        "product_highlight": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) öğrenin.",
+        "product_grid": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/product-grid) öğrenin.",
+        "promo_code_list": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) öğrenin.",
+        "promotion_banner": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) öğrenin.",
+        "promotion_grid": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) öğrenin.",
+        "recently_viewed_products": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) öğrenin.",
+        "related_blog_posts": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) öğrenin.",
+        "related_collections": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/related-collections) öğrenin.",
+        "rich_text": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/rich-text) öğrenin.",
+        "scrolling_promotion": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) öğrenin.",
+        "shop_the_look": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) öğrenin.",
+        "slideshow": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/slideshow) öğrenin.",
+        "social_feeds": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) öğrenin.",
+        "tabs": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/tabs) öğrenin.",
+        "testimonial": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/testimonial) öğrenin.",
+        "testimonial_with_cards": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) öğrenin.",
+        "text_columns_with_icons": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) öğrenin.",
+        "text_columns_with_images": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) öğrenin.",
+        "timeline": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/timeline) öğrenin.",
+        "vertical_slideshow": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) öğrenin.",
+        "video": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/video) öğrenin.",
+        "video_hero": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/video-hero) öğrenin.",
+        "video_looping": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/video-looping) öğrenin.",
+        "video_shopping": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) öğrenin.",
+        "flexible_area": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) öğrenin."
       },
       "product_page": {
-        "product_description": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) öğrenin.",
+        "product_description": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/product-description) öğrenin.",
         "product_information": {
-          "product_information_general": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) öğrenin.",
-          "buy_buttons": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) öğrenin.",
-          "back_in_stock_alert": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) öğrenin.",
-          "basic_info": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) öğrenin.",
-          "collapsible_tab": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) öğrenin.",
-          "collection_link": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) öğrenin.",
-          "complementary_product": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) öğrenin.",
-          "customizable_options": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) öğrenin.",
-          "estimate_delivery": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) öğrenin.",
-          "engraving": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) öğrenin.",
-          "featured_icon": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) öğrenin.",
-          "frequently_bought_together": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) öğrenin.",
-          "gift_wrapping": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) öğrenin.",
-          "horizontal_tab": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) öğrenin.",
-          "inventory_status": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) öğrenin.",
-          "nutrition_fact_bar": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) öğrenin.",
-          "payment_method": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) öğrenin.",
-          "product_sibling": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) öğrenin.",
-          "rating": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) öğrenin.",
-          "size_chart": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) öğrenin.",
-          "social_sharing": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) öğrenin.",
-          "sticky_add_to_cart": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) öğrenin.",
-          "table_of_information": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) öğrenin.",
-          "trust_badge": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) öğrenin.",
-          "volume_pricing": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) öğrenin.",
-          "other_blocks": "Bu bloğu [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) öğrenin."
+          "product_information_general": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/product-information) öğrenin.",
+          "buy_buttons": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) öğrenin.",
+          "back_in_stock_alert": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) öğrenin.",
+          "basic_info": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) öğrenin.",
+          "collapsible_tab": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) öğrenin.",
+          "collection_link": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) öğrenin.",
+          "complementary_product": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) öğrenin.",
+          "customizable_options": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide/customizable-options) öğrenin.",
+          "estimate_delivery": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) öğrenin.",
+          "engraving": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/engraving) öğrenin.",
+          "featured_icon": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) öğrenin.",
+          "frequently_bought_together": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) öğrenin.",
+          "gift_wrapping": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) öğrenin.",
+          "horizontal_tab": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) öğrenin.",
+          "inventory_status": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) öğrenin.",
+          "nutrition_fact_bar": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) öğrenin.",
+          "payment_method": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) öğrenin.",
+          "product_sibling": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/user-guide/product-siblings) öğrenin.",
+          "rating": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) öğrenin.",
+          "size_chart": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) öğrenin.",
+          "social_sharing": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) öğrenin.",
+          "sticky_add_to_cart": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) öğrenin.",
+          "table_of_information": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) öğrenin.",
+          "trust_badge": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) öğrenin.",
+          "volume_pricing": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) öğrenin.",
+          "other_blocks": "Bu bloğu [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) öğrenin."
         },
-        "product_specification": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) öğrenin.",
-        "product_recommendation": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) öğrenin.",
-        "quick_order_list": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) öğrenin."
+        "product_specification": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/product-specifications) öğrenin.",
+        "product_recommendation": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/product-recommendations) öğrenin.",
+        "quick_order_list": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/product-page/quick-order-list) öğrenin."
       },
       "collection_page": {
-        "collection_banner": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) öğrenin."
+        "collection_banner": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/collection-page/collection-banner) öğrenin."
       },
       "pages_and_templates": {
-        "blog_post_page": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) öğrenin.",
-        "blog_page": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) öğrenin.",
-        "cart_page": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) öğrenin.",
-        "collection_list_page": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) öğrenin.",
-        "search_page": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) öğrenin."
+        "blog_post_page": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) öğrenin.",
+        "blog_page": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/page-templates/blog-page) öğrenin.",
+        "cart_page": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/page-templates/cart-page) öğrenin.",
+        "collection_list_page": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/page-templates/collection-list-page) öğrenin.",
+        "search_page": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/page-templates/search-page) öğrenin."
       },
       "overlay_group": {
-        "cookie_banner": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) öğrenin.",
-        "popup": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) öğrenin.",
-        "store_selector": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) öğrenin.",
-        "quick_view": "Bu bölümü [nasıl kullanacağınızı](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) öğrenin.",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) öğrenin.",
+        "popup": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/overlay-group-1/popup) öğrenin.",
+        "store_selector": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) öğrenin.",
+        "quick_view": "Bu bölümü [nasıl kullanacağınızı](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) öğrenin.",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "'Simgeyle Dilimlenmiş' animasyon türü için geçerlidir.",
         "custom_icon": "Özel simge (SVG kodu)",
-        "custom_icon_info": "Özel SVG koduyla ilgili yardım veya özel SVG kodundan kaynaklanan sorunların giderilmesi için lütfen [destek ekibimizle iletişime geçin](https:\/\/omnithemes.com\/contact\/).",
+        "custom_icon_info": "Özel SVG koduyla ilgili yardım veya özel SVG kodundan kaynaklanan sorunların giderilmesi için lütfen [destek ekibimizle iletişime geçin](https://omnithemes.com/contact/).",
         "label": "Simge",
         "another_icon_label": "Başka bir simge kullan",
         "another_icon_info": "Yukarıdaki seçeneklerden farklı simgeler kullanmak isterseniz, [simge listemizden](https://support.omnithemes.com/blogs/user-guide/theme-icons) bir simge bulun ve simge adını buraya yazın (Örn: fiyat etiketi).",
@@ -1175,8 +1202,8 @@
         "heading_image": "Başlık resmi",
         "image_height": "Resim yüksekliği",
         "image_width": "Resim genişliği",
-        "note_image_size": "Önerilen görsel boyutları için [kullanıcı kılavuzumuzu](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) inceleyin.",
-        "note_image_size_video_shopping": "Önerilen görsel boyutları için [kullanıcı kılavuzumuzu](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) inceleyin. Büyük boyutlu görseller mobil gösterim için yeniden boyutlandırılacaktır. Önerilen oranlar: 1:1, 3:4, 4:3."
+        "note_image_size": "Önerilen görsel boyutları için [kullanıcı kılavuzumuzu](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) inceleyin.",
+        "note_image_size_video_shopping": "Önerilen görsel boyutları için [kullanıcı kılavuzumuzu](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section) inceleyin. Büyük boyutlu görseller mobil gösterim için yeniden boyutlandırılacaktır. Önerilen oranlar: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Resim oranı",
@@ -1389,7 +1416,7 @@
               "label": "Menü öğesi bağlantısı"
             },
             "menu": {
-              "info": "Bu menü öğesine uygulanacak bir menü seçin. 4 seviyeli menü oluşturmayı [buradan] öğrenin. (https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
+              "info": "Bu menü öğesine uygulanacak bir menü seçin. 4 seviyeli menü oluşturmayı [buradan] öğrenin. (https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Sekme ve alt menü öğeleri için geçerlidir. Büyük resim boyutu için yuvarlak seçenek mevcut değildir."
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "Öne çıkan kategoriler",
       "category_card": {
         "name": "Kategori kartı",
@@ -2179,7 +2206,7 @@
             "pickup_availability": {
               "content": "Teslim alma durumu",
               "label": "Teslim alma durumu özelliğini etkinleştir",
-              "info": "Bu özelliği nasıl kuracağınızı [buradan](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup) öğrenin"
+              "info": "Bu özelliği nasıl kuracağınızı [buradan](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup) öğrenin"
             },
             "preorder": {
               "preorder_show": {
@@ -2213,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Gelen stok hakkında bildir",
-              "info": "[Gelen stok durumu](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) ve [stok transferleri nasıl oluşturulur](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer) hakkında daha fazla bilgi edinin."
+              "info": "[Gelen stok durumu](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) ve [stok transferleri nasıl oluşturulur](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer) hakkında daha fazla bilgi edinin."
             },
             "message_incoming": {
               "label": "Gelen transfer bildirimi",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "Medya",
-          "info": "[Medya türleri] hakkında daha fazla bilgi edinin (https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "[Medya türleri] hakkında daha fazla bilgi edinin (https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_loop": {
           "label": "Video döngüsünü etkinleştir"
@@ -2691,7 +2718,7 @@
           "label": "Ödeme simgelerini göster"
         },
         "custom_payment": {
-          "info": "Ödeme simgelerinizi özelleştirin. Örneğin, bu alanı seçtiğiniz yöntemlerle doldurun: apple_pay, google_pay, tabby, tamara. [Daha fazla bilgi edinin](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "Ödeme simgelerinizi özelleştirin. Örneğin, bu alanı seçtiğiniz yöntemlerle doldurun: apple_pay, google_pay, tabby, tamara. [Daha fazla bilgi edinin](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "Özel ödeme simgeleri SVG"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Shop'ta takip et",
-          "info": "Mağaza uygulamasında mağazanız için takip düğmesini görüntüleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "Mağaza uygulamasında mağazanız için takip düğmesini görüntüleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Shop'ta Takibi Etkinleştir"
@@ -3425,7 +3452,7 @@
           "info": "Not: Performans optimizasyonu amacıyla sayfa başına 20'den fazla öğe içeren seçenekler önerilmez."
         },
         "paragraph": {
-          "content": "Blog gönderilerinizi düzenleyerek özetleri değiştirin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Blog gönderilerinizi düzenleyerek özetleri değiştirin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Gönderiler mobilde üst üste yığılır."
@@ -3470,7 +3497,7 @@
           "label": "Koleksiyon başlığını masaüstünde tam genişlik yap"
         },
         "paragraph": {
-          "content": "Koleksiyonunuzu düzenleyerek bir açıklama veya görsel ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "Koleksiyonunuzu düzenleyerek bir açıklama veya görsel ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "Koleksiyon başlığını göster"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Koleksiyon görselini göster",
-          "info": "En iyi sonuçlar için 16:9 en boy oranına sahip bir görsel kullanın. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "En iyi sonuçlar için 16:9 en boy oranına sahip bir görsel kullanın. [Daha fazla bilgi edinin](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Mikroveri şemasını etkinleştir",
-            "info" : "Arama motorları bu bilgiyi henüz dizine eklememiş olabilir. Ayrıntılar için [CollectionPage şeması belgelerine](https:\/\/schema.org\/CollectionPage) bakın."
+            "info": "Arama motorları bu bilgiyi henüz dizine eklememiş olabilir. Ayrıntılar için [CollectionPage şeması belgelerine](https://schema.org/CollectionPage) bakın."
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Koleksiyonlarınızı düzenleyerek görseller ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "Koleksiyonlarınızı düzenleyerek görseller ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "Koleksiyonları göster",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "[Medya türleri](https:\/\/help.shopify.com\/manual\/products\/product-media) hakkında daha fazla bilgi edinin."
+          "info": "[Medya türleri](https://help.shopify.com/manual/products/product-media) hakkında daha fazla bilgi edinin."
         },
         "enable_sticky_image": {
           "label": "Masaüstünde yapışkan içeriği etkinleştir"
@@ -4331,11 +4358,11 @@
           "label": "Üzerine gelince duraklat"
         },
         "show_arrow": {
-          "label": "Sonraki\/Önceki okları",
+          "label": "Sonraki/Önceki okları",
           "info": "Navigasyon oklarını göster"
         },
         "show_part_slide": {
-          "label": "Sonraki\/Önceki slaytlar"
+          "label": "Sonraki/Önceki slaytlar"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "Birden fazla mağaza",
       "blocks": {
         "name": "Mağaza konumu",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Ürün etiketleri ve rozetleri",
       "settings": {
-        "introduce": "Ürünlerinize ve ürün kartlarınıza etiketler ve rozetler eklemek için bu bölümü kullanın. [Eğitimlere bakın](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "Ürünlerinize ve ürün kartlarınıza etiketler ve rozetler eklemek için bu bölümü kullanın. [Eğitimlere bakın](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "Ürün etiketlerini ve rozetlerini etkinleştir"
         }
@@ -4531,7 +4558,7 @@
           "name": "Tükendi etiketi",
           "introduce": "Tükendi etiketi otomatik olarak tüm stokta olmayan ürünlerde gösterilir.",
           "content": {
-            "info": "\"Stokta\/Tükendi\" için {inventory}, toplam stoktaki miktar için {quantity} kullanın."
+            "info": "\"Stokta/Tükendi\" için {inventory}, toplam stoktaki miktar için {quantity} kullanın."
           }
         },
         "text-label": {
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "Yeni ürün etiketi"
         },
-        "day_start":{
+        "day_start": {
           "label": "Etiketi, ... gün içinde göster (tarihinden itibaren)",
           "creation_date": "Ürün oluşturma tarihi",
           "activation_date": "Ürün aktivasyon tarihi"
         },
-        "day_end":{
+        "day_end": {
           "label": "Gün sayısı"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Ürün sayfasında göster",
-          "info": "Hızlı görünüm ve Ürün Bilgisi bölümlerinde etiketleri ve rozetleri göstermek için lütfen bu bölümlere 'Etiketler ve rozetler' bloğunu ekleyin veya [bu kılavuzu](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges) kontrol edin."
+          "info": "Hızlı görünüm ve Ürün Bilgisi bölümlerinde etiketleri ve rozetleri göstermek için lütfen bu bölümlere 'Etiketler ve rozetler' bloğunu ekleyin veya [bu kılavuzu](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges) kontrol edin."
         },
         "icon": {
           "info": "Simge, etiket metninin önünde görünecektir."
@@ -4571,8 +4598,8 @@
           "info__3": "İndirim miktarı için {sale_amount}.",
           "info__4": "Envanterdeki toplam miktar için {qty}.",
           "info__5": "Bitiş tarihine kadar geri sayım sayacı için {count_down}. (Planlamayı etkinleştirmeniz gerekir)",
-          "info__6": "Satır kırmak için <br \/>.",
-          "info__7": "Kalın metin için <b>içeriğiniz<\/b>.",
+          "info__6": "Satır kırmak için <br />.",
+          "info__7": "Kalın metin için <b>içeriğiniz</b>.",
           "info__8": "Ürün fiyatı için {price}.",
           "info_metafield": "Bir ürün veya varyant metafield'ı için {metafield_key} (yalnızca Tek satır metin türünü destekler). Not: Metafield anahtarları burada görüntülenmek üzere önce Tema ayarları > Ürün etiketleri ve rozetleri bölümünde yapılandırılmalıdır."
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Bilet sayfası bağlantısı",
-          "info": "Katılımcılara bilet satmak için bir bilet sayfası ekleyin. Etkinlik hakkında daha fazla bilgi sağlamak için bir [dijital ürün](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) oluşturun ve isteğe bağlı olarak ürün listelerinden gizleyin. Ürünleri dahili aramadan ve ürün önerilerinden hariç tutmak için ücretsiz destek için [bize ulaşın](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Katılımcılara bilet satmak için bir bilet sayfası ekleyin. Etkinlik hakkında daha fazla bilgi sağlamak için bir [dijital ürün](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) oluşturun ve isteğe bağlı olarak ürün listelerinden gizleyin. Ürünleri dahili aramadan ve ürün önerilerinden hariç tutmak için ücretsiz destek için [bize ulaşın](https://omnithemes.com/contact/)."
         },
         "ticket_button_label": {
           "label": "Bilet düğmesi etiketi"
@@ -5281,12 +5308,12 @@
           "info": "Mağazada kullanılan tüm seçenek adlarını doldurun, farklı dillerdeki ifadeler virgülle ayrılır. (Örn. Renk, Renk, Renk). Bir ürün seçeneğinin adını doldurun. Bu seçeneğin her değeri, özellik tablosunda bir sütun olacaktır."
         },
         "note": "Metaalan değerleri de kriter olarak kullanılabilir.",
-        "note_1": "1. Tam olarak \"specs\" (Tek satırlı metin\/Tek değer) adlı bir alan içeren \"product_specs_list\" anahtarına sahip bir meta nesne oluşturun.",
+        "note_1": "1. Tam olarak \"specs\" (Tek satırlı metin/Tek değer) adlı bir alan içeren \"product_specs_list\" anahtarına sahip bir meta nesne oluşturun.",
         "note_2": "2. Meta nesne için girişler oluşturun (örn. \"Kuru Cilt\", \"UV Koruması\").",
-        "note_3": "3. \"product_specs\" anahtarına sahip bir ürün meta alanı (Meta nesne\/Değer listesi) oluşturun ve yeni oluşturulan meta nesneyi seçin.",
+        "note_3": "3. \"product_specs\" anahtarına sahip bir ürün meta alanı (Meta nesne/Değer listesi) oluşturun ve yeni oluşturulan meta nesneyi seçin.",
         "note_4": "4. Yönetici ürün detay sayfasında meta alan aracılığıyla her ürün için değerler atayın.",
         "note_5": "5. Bu alana ilgili meta alanın \"product_specs\" anahtarını girin.",
-        "note_6": "Daha fazla bilgi için, lütfen [ücretsiz destek için bizimle iletişime geçin.](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "Daha fazla bilgi için, lütfen [ücretsiz destek için bizimle iletişime geçin.](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "Vurgu (koyu)"
         },
@@ -5325,7 +5352,7 @@
           "info": "Kupon kodunu sepete otomatik olarak uygulamak için etiket ekleyin."
         },
         "promo_code_note": {
-          "content": "Aşağıdaki başlangıç ve bitiş tarihi, Shopify yönetici > İndirimler bölümündeki İndirim kuralının başlangıç ve bitiş tarihiyle uyumlu olmalıdır. [İndirim kodu](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes) hakkında daha fazla bilgi edinin."
+          "content": "Aşağıdaki başlangıç ve bitiş tarihi, Shopify yönetici > İndirimler bölümündeki İndirim kuralının başlangıç ve bitiş tarihiyle uyumlu olmalıdır. [İndirim kodu](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes) hakkında daha fazla bilgi edinin."
         },
         "promo_terms_label": {
           "label": "Promosyon şartları etiketi"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5626,7 +5653,7 @@
         "name": "Mağaza",
         "settings": {
           "store_name": {
-            "info": "Mağaza adı, [konum ayarlarınızda](\/admin\/settings\/locations) tanımlanan mağaza adınızla eşleşmelidir.",
+            "info": "Mağaza adı, [konum ayarlarınızda](/admin/settings/locations) tanımlanan mağaza adınızla eşleşmelidir.",
             "default": "Mağazam"
           },
           "pickup_price": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "Hızlı sipariş listesi",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "Yan çubuk"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "Orijinal gönderi oranı"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "Sosyal gönderi görseli"

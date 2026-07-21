@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Fontti",
-          "info": "Eri kirjasimen valitseminen voi vaikuttaa kaupan nopeuteen. [Lue lisää järjestelmäkirjasimista.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Eri kirjasimen valitseminen voi vaikuttaa kaupan nopeuteen. [Lue lisää järjestelmäkirjasimista.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Otsikot"
@@ -112,7 +112,7 @@
           "content": "Leipäteksti"
         },
         "type_body_font": {
-          "info": "Eri kirjasimen valitseminen voi vaikuttaa kaupan nopeuteen. [Lue lisää järjestelmäkirjasimista.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Eri kirjasimen valitseminen voi vaikuttaa kaupan nopeuteen. [Lue lisää järjestelmäkirjasimista.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Fonttikoon skaala"
@@ -136,7 +136,7 @@
         "info": "Alla olevat asetukset lisäävät automaattisesti värivaihtoehdot kokoelman ja hakusivun suodattimeen.",
         "swatches_filter": {
           "header": "Suodatin",
-          "info": "Voit suodattaa käyttämällä lisäväri- tai kuvavaihtoehtoja luomalla metaobjekteja ja metaobjektiviittauksia, ja sitten muuttamalla alla olevia asetuksia mieltymystesi mukaan. [Lue visuaalisten suodattimien näyttämisestä metaobjektien avulla.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "Voit suodattaa käyttämällä lisäväri- tai kuvavaihtoehtoja luomalla metaobjekteja ja metaobjektiviittauksia, ja sitten muuttamalla alla olevia asetuksia mieltymystesi mukaan. [Lue visuaalisten suodattimien näyttämisestä metaobjektien avulla.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "Näytä teksti värimallien vieressä",
           "visual_style": {
             "label": "Visuaalisen arvon tyyli",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Korostetut ominaisuudet",
-        "paragraph": "Esittele tuotteiden erottuvia ominaisuuksia korteilla viestiäksesi arvoa yhdellä silmäyksellä ja tukeaksesi nopeampia, varmempia ostopäätöksiä. Lue lisää [käyttöoppaastamme](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
+        "paragraph": "Esittele tuotteiden erottuvia ominaisuuksia korteilla viestiäksesi arvoa yhdellä silmäyksellä ja tukeaksesi nopeampia, varmempia ostopäätöksiä. Lue lisää [käyttöoppaastamme](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "Kortin yläosa",
           "option__2": "Tuotteen nimen alla",
@@ -199,7 +199,7 @@
       "color_option_info": "Täytä kaikki kaupassa käytetyn värivaihtoehdon nimi/nimet, eri kielten ilmaukset erotetaan pilkulla. (Esim. Color, Colour, Couleur).",
       "color_option_values": "Värimallin arvot",
       "color_swatches_example": "Yksi 'värin nimi:arvo' per rivi. Pystysuorien raitojen näyttämiseen voi käyttää jopa kolmea väriä. Esim.: 'Punaiset siniset raidat:#e22#22e'",
-      "color_swatches_guide": "Jos haluat käyttää kuvaa värivaihtoehtona, [lataa PNG-kuva](\/admin\/settings\/files), jonka tiedostonimi vastaa värin nimeä ja välilyönnit on korvattu yhdysmerkeillä. Esim. 'Hot Pink' -värille lataa 'hot-pink.png'.",
+      "color_swatches_guide": "Jos haluat käyttää kuvaa värivaihtoehtona, [lataa PNG-kuva](/admin/settings/files), jonka tiedostonimi vastaa värin nimeä ja välilyönnit on korvattu yhdysmerkeillä. Esim. 'Hot Pink' -värille lataa 'hot-pink.png'.",
       "products_color_swatches_enable_on_collection_page": "Ota käyttöön tuotekorteilla",
       "replace_color_with_variant_images": "Korvaa värivaihtoehdot varianttikuvilla",
       "products_color_swatches_style": "Värimallin tyyli",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Kaiverra tämä tuote",
       "highlight_icon": {
         "name": "Korostetut ominaisuudet",
-        "info": "Näytä ikonit tuotekorteissa, jotta asiakkaat ymmärtävät nopeasti tuotteiden korostetut ominaisuudet (esim. ainesosat, allergeenit). Lue lisää [käyttöoppaastamme.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)",
+        "info": "Näytä ikonit tuotekorteissa, jotta asiakkaat ymmärtävät nopeasti tuotteiden korostetut ominaisuudet (esim. ainesosat, allergeenit). Lue lisää [käyttöoppaastamme.](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)",
         "icon_1": "Kuvake 1",
         "icon_2": "Kuvake 2",
         "icon_3": "Kuvake 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Käytä painikkeen väriä",
       "button_colors": "Painikkeen värit"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "Valikkokohteen tason 1 animaatio",
         "note": "Toimii vain Merkki- ja Bling bling -valikon korostustyylien kanssa"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "LinkedIn",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "Tuotemerkit ja -tunnukset",
-      "info": "Tuotemerkinnät ja -tunnukset asetetaan Tuotemerkinnät ja -tunnukset -osiossa Peittokuva-ryhmässä. Jos haluat näyttää tuotteen metakenttiä merkintöinä ja tunnuksina, täytä metakenttien avaimet alla olevaan tekstikenttään ja siirry sitten osioon määrittämään merkintöjen näyttö. Vain yksirivinen tekstimetakenttätyyppi hyväksytään. Lisätietoja [käyttöoppaassamme.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "Tuotemerkinnät ja -tunnukset asetetaan Tuotemerkinnät ja -tunnukset -osiossa Peittokuva-ryhmässä. Jos haluat näyttää tuotteen metakenttiä merkintöinä ja tunnuksina, täytä metakenttien avaimet alla olevaan tekstikenttään ja siirry sitten osioon määrittämään merkintöjen näyttö. Vain yksirivinen tekstimetakenttätyyppi hyväksytään. Lisätietoja [käyttöoppaassamme.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Merkinnöissä käytetyt metakentät",
           "info": "Täytä koko tuotteen metakentän avaimet (esim. custom.metafield-1). Yksi metakentän avain per rivi."
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "Favicon",
@@ -468,9 +495,9 @@
       "cart_upsell": "Ostoskorin lisämyynti",
       "enable_cart_upsell": "Ota käyttöön minimikorissa",
       "cart_upsell_note": "Jos käytössä minimikorissa ja ostoskorisivulla, lisämyyntisuositukset voidaan näyttää seuraavassa prioriteettijärjestyksessä (korkeimmasta alimpaan):",
-      "cart_upsell_note_1": "(1) luomalla tuotteen metakenttä ostoskorin lisämyyntiin ja tämä kenttä ei ole tyhjä.[Katso käyttöoppaastamme lisätietoja.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) luomalla tuotteen metakenttä ostoskorin lisämyyntiin ja tämä kenttä ei ole tyhjä.[Katso käyttöoppaastamme lisätietoja.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) valitsemalla tuotteita manuaalisesti alla olevista asetuksista",
-      "cart_upsell_note_3": "(3) käyttämällä dynaamisia suosituksia, jotka perustuvat Shopifyn tuotesuosituksiin.[Lue lisää.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) käyttämällä dynaamisia suosituksia, jotka perustuvat Shopifyn tuotesuosituksiin.[Lue lisää.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "Jos käytät tuotteen metakenttää lisämyyntituotteiden lisäämiseen, jätä tämä kenttä tyhjäksi.",
       "number_of_product_shown": "Näytettävien tuotteiden määrä",
       "section_label": "Osion otsikko",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Validointi-regex (edistynyt)",
-          "info": "Kentän validointitarkoituksiin. Vältä sen käyttöä, jos et tunne Regexiä. Jos tarvitset apua Regexin kanssa tai sen aiheuttamien ongelmien korjaamisessa, [ota yhteyttä tukeemme](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Kentän validointitarkoituksiin. Vältä sen käyttöä, jos et tunne Regexiä. Jos tarvitset apua Regexin kanssa tai sen aiheuttamien ongelmien korjaamisessa, [ota yhteyttä tukeemme](https://omnithemes.com/contact/)."
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Toimituksen vähimmäispäivä(t)",
-          "info": "Vähimmäismäärä päiviä, jotka tarvitaan kaikkien tilausten lähettämiseen. Käytä puolipistettä erottamaan toimitusmarkkinat tarvittaessa (esim. US:6;GB:3), tai syötä yksi numero sovellettavaksi kaikkiin saatavilla oleviin markkinoihin. Maakoodien tulee noudattaa [ISO 3166 -standardia.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Jos haluat mukauttaa jokaiselle tuotteelle, luo metakenttä avaimella 'custom.delivery_date_min' ja tyypillä 'Teksti'. [Lue lisää metakenttien luomisesta](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) tai [ota yhteyttä tukeemme](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Vähimmäismäärä päiviä, jotka tarvitaan kaikkien tilausten lähettämiseen. Käytä puolipistettä erottamaan toimitusmarkkinat tarvittaessa (esim. US:6;GB:3), tai syötä yksi numero sovellettavaksi kaikkiin saatavilla oleviin markkinoihin. Maakoodien tulee noudattaa [ISO 3166 -standardia.](https://www.iban.com/country-codes)",
+          "note": "Jos haluat mukauttaa jokaiselle tuotteelle, luo metakenttä avaimella 'custom.delivery_date_min' ja tyypillä 'Teksti'. [Lue lisää metakenttien luomisesta](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) tai [ota yhteyttä tukeemme](https://omnithemes.com/contact/)."
         },
         "max_days": {
           "label": "Toimituksen enimmäispäivä(t)",
-          "info": "Enimmäismäärä päiviä, jotka tarvitaan kaikkien tilausten lähettämiseen. Käytä puolipistettä erottamaan toimitusmarkkinat tarvittaessa (esim. US:6;GB:3), tai syötä yksi numero sovellettavaksi kaikkiin saatavilla oleviin markkinoihin. Maakoodien tulee noudattaa [ISO 3166 -standardia.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Jos haluat mukauttaa jokaiselle tuotteelle, luo metakenttä avaimella 'custom.delivery_date_max' ja tyypillä 'Teksti'. [Lue lisää metakenttien luomisesta](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) tai [ota yhteyttä tukeemme](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Enimmäismäärä päiviä, jotka tarvitaan kaikkien tilausten lähettämiseen. Käytä puolipistettä erottamaan toimitusmarkkinat tarvittaessa (esim. US:6;GB:3), tai syötä yksi numero sovellettavaksi kaikkiin saatavilla oleviin markkinoihin. Maakoodien tulee noudattaa [ISO 3166 -standardia.](https://www.iban.com/country-codes)",
+          "note": "Jos haluat mukauttaa jokaiselle tuotteelle, luo metakenttä avaimella 'custom.delivery_date_max' ja tyypillä 'Teksti'. [Lue lisää metakenttien luomisesta](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) tai [ota yhteyttä tukeemme](https://omnithemes.com/contact/)."
         },
         "cutoff_time": {
           "content": "Katkaisuajankohta"
@@ -686,7 +713,7 @@
       "note": "Näytä alkuperäinen URL-osoite sivutetuille kokoelmasivuille kanonisina tunnisteina.",
       "header": {
         "content": "Yritystiedot",
-        "info": "Käytetään näkymään sivuston jäsennellyissä tiedoissa ja Googlen hakutulosten kaaviokortissa. Lisätietoja [organisaation skeemasta](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
+        "info": "Käytetään näkymään sivuston jäsennellyissä tiedoissa ja Googlen hakutulosten kaaviokortissa. Lisätietoja [organisaation skeemasta](https://developers.google.com/search/docs/appearance/structured-data/organization)."
       },
       "enable_organization_schema": {
         "label": "Ota organisaation skeema käyttöön"
@@ -727,15 +754,15 @@
       "other": {
         "header": "Muu skeema",
         "schema_breadcrumbs": "Lisää skeema navigointipolkuun",
-        "info_breadcrumbs": "Katso lisätietoja [BreadcrumbList-skeeman dokumentaatiosta](https:\/\/schema.org\/BreadcrumbList).",
+        "info_breadcrumbs": "Katso lisätietoja [BreadcrumbList-skeeman dokumentaatiosta](https://schema.org/BreadcrumbList).",
         "search": "Lisää SearchAction-skeema kotisivulle",
-        "info_search": "Katso lisätietoja [SearchAction-skeeman dokumentaatiosta](https:\/\/schema.org\/SearchAction)."
+        "info_search": "Katso lisätietoja [SearchAction-skeeman dokumentaatiosta](https://schema.org/SearchAction)."
       }
     },
     "combined_listing": {
       "name": "Yhdistetyt listaukset (vain Plus)",
       "enable_combined": "Ota tuotteiden yhdistetyt listaukset käyttöön",
-      "info": "Asenna [Combined Listing](https:\/\/apps.shopify.com\/combined-listings) -sovellus ja ota tämä asetus käyttöön, jotta voit käyttää tätä ominaisuutta. Saatavilla vain Plus- ja yritystason verkkokauppasuunnitelmissa."
+      "info": "Asenna [Combined Listing](https://apps.shopify.com/combined-listings) -sovellus ja ota tämä asetus käyttöön, jotta voit käyttää tätä ominaisuutta. Saatavilla vain Plus- ja yritystason verkkokauppasuunnitelmissa."
     },
     "reorder": {
       "name": "Järjestä uudelleen",
@@ -746,10 +773,10 @@
       "name": "Edistynyt",
       "product_reviews_app": {
         "label": "Tuotearvostelusovellus",
-        "info": "Valitse arvostelusovellus integroitavaksi teeman omaan tuotearviointiin. Jotkut 'Muut'-vaihtoehdon sovellukset eivät välttämättä ole täysin yhteensopivia teeman kanssa, ota [yhteyttä meihin tuesta](https:\/\/omnithemes.com\/contact\/)."
+        "info": "Valitse arvostelusovellus integroitavaksi teeman omaan tuotearviointiin. Jotkut 'Muut'-vaihtoehdon sovellukset eivät välttämättä ole täysin yhteensopivia teeman kanssa, ota [yhteyttä meihin tuesta](https://omnithemes.com/contact/)."
       },
       "custom_html": "Mukautettu koodi",
-      "custom_info": "Jos tarvitset tukea mukautetun koodin käsittelyssä tai siihen liittyvien ongelmien korjaamisessa, [ota meihin yhteyttä](https:\/\/omnithemes.com\/contact\/).",
+      "custom_info": "Jos tarvitset tukea mukautetun koodin käsittelyssä tai siihen liittyvien ongelmien korjaamisessa, [ota meihin yhteyttä](https://omnithemes.com/contact/).",
       "additional_head": {
         "label": "HTML <head>-tagiin",
         "info": "Käytetään mihin tahansa mukautettuun HTML-koodiin, joka sovelletaan koko sivustolle. Sijoitetaan <head>-tagin alaosaan kaikilla teemasivuilla, paitsi kassasivulla."
@@ -784,7 +811,7 @@
       "sections_spacing": "Osien välitys",
       "lang_direction": {
         "label": "RTL-kielet",
-        "info": "Syötä kielikoodit näyttääksesi kielet RTL-asettelussa. Kaikkien koodien on noudatettava [ISO-kielikooditaulukkoa](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) ja oltava eroteltu pilkuilla (esim: ar,fa,ps)"
+        "info": "Syötä kielikoodit näyttääksesi kielet RTL-asettelussa. Kaikkien koodien on noudatettava [ISO-kielikooditaulukkoa](https://www.w3schools.com/tags/ref_language_codes.asp) ja oltava eroteltu pilkuilla (esim: ar,fa,ps)"
       },
       "page_width": "Sivun leveys",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "Kuvan lähennysanimaatiota käytetään: Tuotekorttikuvat, Kokoelmakorttikuvat, Mediagalleria, Kampanjaruudukko, Kampanjaponnahdusikkuna, Tekstisarakkeet kuvalla.",
       "enable_page_transition": "Ota sivun siirtymä käyttöön"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "Klassinen",
         "option_2": "Moderni"
       }
@@ -832,7 +859,7 @@
       "name": "Evästebanneri",
       "settings": {
         "paragraph": {
-          "content": "Pyydä asiakkailtasi suostumus evästeiden käyttöön ja heidän tietojensa käsittelyyn, kuten Euroopan unionin ePrivacy-direktiivi ja yleinen tietosuoja-asetus edellyttävät. [Lue lisää](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "Pyydä asiakkailtasi suostumus evästeiden käyttöön ja heidän tietojensa käsittelyyn, kuten Euroopan unionin ePrivacy-direktiivi ja yleinen tietosuoja-asetus edellyttävät. [Lue lisää](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "Evästeilmoitus"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) tähän osioon.",
+        "header_general": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) tähän osioon.",
         "mega_menu": {
-          "simple_menu": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) tähän lohkoon.",
-          "tree_menu": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) tähän lohkoon.",
-          "banner_menu": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) tähän lohkoon.",
-          "product_menu": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) tähän lohkoon.",
-          "blog_menu": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) tähän lohkoon.",
-          "tabbed_menu": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) tähän lohkoon.",
-          "contact_menu": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) tähän lohkoon.",
-          "cta_button": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) tähän lohkoon."
+          "simple_menu": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) tähän lohkoon.",
+          "tree_menu": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) tähän lohkoon.",
+          "banner_menu": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) tähän lohkoon.",
+          "product_menu": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) tähän lohkoon.",
+          "blog_menu": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) tähän lohkoon.",
+          "tabbed_menu": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) tähän lohkoon.",
+          "contact_menu": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) tähän lohkoon.",
+          "cta_button": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) tähän lohkoon."
         },
-        "announcement_bar": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) tähän osioon.",
-        "mobile_navigation": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) tähän osioon."
+        "announcement_bar": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) tähän osioon.",
+        "mobile_navigation": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) tähän osioon."
       },
       "footer": {
-        "footer": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) tähän osioon.",
-        "quicklinks": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) tähän osioon."
+        "footer": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/footer/footer) tähän osioon.",
+        "quicklinks": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/footer/quicklinks) tähän osioon."
       },
       "section_and_blocks": {
-        "blog_post": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) tähän osioon.",
-        "collection_list": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) tähän osioon.",
-        "collage": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) tähän osioon.",
-        "collection_list_banner": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) tähän osioon.",
-        "collection_list_carousel": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) tähän osioon.",
-        "comparison_table": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) tähän osioon.",
-        "contact_form": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) tähän osioon.",
-        "custom_liquid": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) tähän osioon.",
-        "email_signup": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) tähän osioon.",
-        "event_calendar": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) tähän osioon.",
-        "faq": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) tähän osioon.",
-        "featured_category": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) tähän osioon.",
-        "featured_collection": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) tähän osioon.",
-        "featured_product": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) tähän osioon.",
-        "flash_sale": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) tähän osioon.",
-        "flow": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) tähän osioon.",
-        "highlight_text_with_image": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) tähän osioon.",
-        "image_comparison": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) tähän osioon.",
-        "logo_list": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) tähän osioon.",
-        "map": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) tähän osioon.",
-        "media_gallery": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) tähän osioon.",
-        "media_with_text": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) tähän osioon.",
-        "multiple_store": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) tähän osioon.",
-        "page": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) tähän osioon.",
-        "product_attribute_table": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) tähän osioon.",
-        "product_bundle": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) tähän osioon.",
-        "product_comparison_table": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) tähän osioon.",
-        "product_highlight": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) tähän osioon.",
-        "product_grid": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) tähän osioon.",
-        "promo_code_list": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) tähän osioon.",
-        "promotion_banner": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) tähän osioon.",
-        "promotion_grid": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) tähän osioon.",
-        "recently_viewed_products": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) tähän osioon.",
-        "related_blog_posts": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) tähän osioon.",
-        "related_collections": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) tähän osioon.",
-        "rich_text": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) tähän osioon.",
-        "scrolling_promotion": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) tähän osioon.",
-        "shop_the_look": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) tähän osioon.",
-        "slideshow": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) tähän osioon.",
-        "social_feeds": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) tähän osioon.",
-        "tabs": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) tähän osioon.",
-        "testimonial": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) tähän osioon.",
-        "testimonial_with_cards": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) tähän osioon.",
-        "text_columns_with_icons": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) tähän osioon.",
-        "text_columns_with_images": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) tähän osioon.",
-        "timeline": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) tähän osioon.",
-        "vertical_slideshow": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) tähän osioon.",
-        "video": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) tähän osioon.",
-        "video_hero": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) tähän osioon.",
-        "video_looping": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) tähän osioon.",
-        "video_shopping": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) tähän osioon.",
-        "flexible_area": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flexible-area) tähän osioon."
+        "blog_post": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/blog-post) tähän osioon.",
+        "collection_list": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/collection-list) tähän osioon.",
+        "collage": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/collage) tähän osioon.",
+        "collection_list_banner": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) tähän osioon.",
+        "collection_list_carousel": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) tähän osioon.",
+        "comparison_table": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) tähän osioon.",
+        "contact_form": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/contact-form) tähän osioon.",
+        "custom_liquid": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) tähän osioon.",
+        "email_signup": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) tähän osioon.",
+        "event_calendar": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) tähän osioon.",
+        "faq": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/faqs) tähän osioon.",
+        "featured_category": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) tähän osioon.",
+        "featured_collection": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) tähän osioon.",
+        "featured_product": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/featured-product) tähän osioon.",
+        "flash_sale": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) tähän osioon.",
+        "flow": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/flow) tähän osioon.",
+        "highlight_text_with_image": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) tähän osioon.",
+        "image_comparison": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) tähän osioon.",
+        "logo_list": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/logo-list) tähän osioon.",
+        "map": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/map-1) tähän osioon.",
+        "media_gallery": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) tähän osioon.",
+        "media_with_text": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) tähän osioon.",
+        "multiple_store": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) tähän osioon.",
+        "page": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/page) tähän osioon.",
+        "product_attribute_table": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) tähän osioon.",
+        "product_bundle": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) tähän osioon.",
+        "product_comparison_table": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) tähän osioon.",
+        "product_highlight": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) tähän osioon.",
+        "product_grid": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/product-grid) tähän osioon.",
+        "promo_code_list": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) tähän osioon.",
+        "promotion_banner": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) tähän osioon.",
+        "promotion_grid": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) tähän osioon.",
+        "recently_viewed_products": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) tähän osioon.",
+        "related_blog_posts": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) tähän osioon.",
+        "related_collections": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/related-collections) tähän osioon.",
+        "rich_text": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/rich-text) tähän osioon.",
+        "scrolling_promotion": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) tähän osioon.",
+        "shop_the_look": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) tähän osioon.",
+        "slideshow": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/slideshow) tähän osioon.",
+        "social_feeds": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) tähän osioon.",
+        "tabs": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/tabs) tähän osioon.",
+        "testimonial": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/testimonial) tähän osioon.",
+        "testimonial_with_cards": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) tähän osioon.",
+        "text_columns_with_icons": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) tähän osioon.",
+        "text_columns_with_images": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) tähän osioon.",
+        "timeline": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/timeline) tähän osioon.",
+        "vertical_slideshow": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) tähän osioon.",
+        "video": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/video) tähän osioon.",
+        "video_hero": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/video-hero) tähän osioon.",
+        "video_looping": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/video-looping) tähän osioon.",
+        "video_shopping": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) tähän osioon.",
+        "flexible_area": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) tähän osioon."
       },
       "product_page": {
-        "product_description": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) tähän osioon.",
+        "product_description": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/product-description) tähän osioon.",
         "product_information": {
-          "product_information_general": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) tähän osioon.",
-          "buy_buttons": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) tähän lohkoon.",
-          "back_in_stock_alert": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) tähän lohkoon.",
-          "basic_info": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) tähän lohkoon.",
-          "collapsible_tab": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) tähän lohkoon.",
-          "collection_link": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) tähän lohkoon.",
-          "complementary_product": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) tähän lohkoon.",
-          "customizable_options": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) tähän lohkoon.",
-          "estimate_delivery": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) tähän lohkoon.",
-          "engraving": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) tähän lohkoon.",
-          "featured_icon": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) tähän lohkoon.",
-          "frequently_bought_together": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) tähän lohkoon.",
-          "gift_wrapping": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) tähän lohkoon.",
-          "horizontal_tab": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) tähän lohkoon.",
-          "inventory_status": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) tähän lohkoon.",
-          "nutrition_fact_bar": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) tähän lohkoon.",
-          "payment_method": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) tähän lohkoon.",
-          "product_sibling": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) tähän lohkoon.",
-          "rating": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) tähän lohkoon.",
-          "size_chart": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) tähän lohkoon.",
-          "social_sharing": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) tähän lohkoon.",
-          "sticky_add_to_cart": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) tähän lohkoon.",
-          "table_of_information": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) tähän lohkoon.",
-          "trust_badge": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) tähän lohkoon.",
-          "volume_pricing": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) tähän lohkoon.",
-          "other_blocks": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) tähän lohkoon."
+          "product_information_general": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/product-information) tähän osioon.",
+          "buy_buttons": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) tähän lohkoon.",
+          "back_in_stock_alert": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) tähän lohkoon.",
+          "basic_info": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) tähän lohkoon.",
+          "collapsible_tab": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) tähän lohkoon.",
+          "collection_link": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) tähän lohkoon.",
+          "complementary_product": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) tähän lohkoon.",
+          "customizable_options": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide/customizable-options) tähän lohkoon.",
+          "estimate_delivery": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) tähän lohkoon.",
+          "engraving": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/engraving) tähän lohkoon.",
+          "featured_icon": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) tähän lohkoon.",
+          "frequently_bought_together": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) tähän lohkoon.",
+          "gift_wrapping": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) tähän lohkoon.",
+          "horizontal_tab": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) tähän lohkoon.",
+          "inventory_status": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) tähän lohkoon.",
+          "nutrition_fact_bar": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) tähän lohkoon.",
+          "payment_method": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) tähän lohkoon.",
+          "product_sibling": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/user-guide/product-siblings) tähän lohkoon.",
+          "rating": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) tähän lohkoon.",
+          "size_chart": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) tähän lohkoon.",
+          "social_sharing": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) tähän lohkoon.",
+          "sticky_add_to_cart": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) tähän lohkoon.",
+          "table_of_information": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) tähän lohkoon.",
+          "trust_badge": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) tähän lohkoon.",
+          "volume_pricing": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) tähän lohkoon.",
+          "other_blocks": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) tähän lohkoon."
         },
-        "product_specification": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) tähän osioon.",
-        "product_recommendation": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) tähän osioon.",
-        "quick_order_list": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) tähän osioon."
+        "product_specification": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/product-specifications) tähän osioon.",
+        "product_recommendation": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/product-recommendations) tähän osioon.",
+        "quick_order_list": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/product-page/quick-order-list) tähän osioon."
       },
       "collection_page": {
-        "collection_banner": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) tähän osioon."
+        "collection_banner": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/collection-page/collection-banner) tähän osioon."
       },
       "pages_and_templates": {
-        "blog_post_page": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) tähän osioon.",
-        "blog_page": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) tähän osioon.",
-        "cart_page": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) tähän osioon.",
-        "collection_list_page": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) tähän osioon.",
-        "search_page": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) tähän osioon."
+        "blog_post_page": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) tähän osioon.",
+        "blog_page": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/page-templates/blog-page) tähän osioon.",
+        "cart_page": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/page-templates/cart-page) tähän osioon.",
+        "collection_list_page": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/page-templates/collection-list-page) tähän osioon.",
+        "search_page": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/page-templates/search-page) tähän osioon."
       },
       "overlay_group": {
-        "cookie_banner": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) tähän osioon.",
-        "popup": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) tähän osioon.",
-        "store_selector": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) tähän osioon.",
-        "quick_view": "Katso [käyttöohjeet](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) tähän osioon.",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) tähän osioon.",
+        "popup": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/overlay-group-1/popup) tähän osioon.",
+        "store_selector": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) tähän osioon.",
+        "quick_view": "Katso [käyttöohjeet](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) tähän osioon.",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Koskee 'Viipaloitu kuvakkeella' -animaatiotyyppiä.",
         "custom_icon": "Mukautettu kuvake (SVG-koodi)",
-        "custom_icon_info": "Jos tarvitset apua mukautetun SVG-koodin kanssa tai ratkaistaksesi mukautetun SVG-koodin aiheuttamia ongelmia, [ota yhteyttä tukeemme](https:\/\/omnithemes.com\/contact\/).",
+        "custom_icon_info": "Jos tarvitset apua mukautetun SVG-koodin kanssa tai ratkaistaksesi mukautetun SVG-koodin aiheuttamia ongelmia, [ota yhteyttä tukeemme](https://omnithemes.com/contact/).",
         "label": "Kuvake",
         "another_icon_label": "Käytä toista kuvaketta",
         "another_icon_info": "Jos haluat käyttää eri kuvakkeita yllä olevista vaihtoehdoista, etsi kuvake [kuvakevalikostamme](https://support.omnithemes.com/blogs/user-guide/theme-icons) ja kirjoita kuvakkeen nimi tähän (esim. hintalappu).",
@@ -1175,8 +1202,8 @@
         "heading_image": "Otsikkokuva",
         "image_height": "Kuvan korkeus",
         "image_width": "Kuvan leveys",
-        "note_image_size": "Suositellut kuvakoot löytyvät [käyttöoppaastamme](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)",
-        "note_image_size_video_shopping": "Suositellut kuvakoot löytyvät [käyttöoppaastamme](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Ylisuuret kuvat muutetaan automaattisesti mobiilinäytölle sopiviksi. Suositellut suhteet: 1:1, 3:4, 4:3."
+        "note_image_size": "Suositellut kuvakoot löytyvät [käyttöoppaastamme](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section)",
+        "note_image_size_video_shopping": "Suositellut kuvakoot löytyvät [käyttöoppaastamme](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Ylisuuret kuvat muutetaan automaattisesti mobiilinäytölle sopiviksi. Suositellut suhteet: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Kuvasuhde",
@@ -1389,7 +1416,7 @@
               "label": "Valikkokohteen linkki"
             },
             "menu": {
-              "info": "Valitse valikko, jota sovelletaan tähän valikkokohteeseen. Opi luomaan 4-tason valikko [täältä.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
+              "info": "Valitse valikko, jota sovelletaan tähän valikkokohteeseen. Opi luomaan 4-tason valikko [täältä.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Koskee välilehtiä ja alivalikkokohteita. Suurikokoisilla kuvilla pyöreä vaihtoehto ei ole käytettävissä."
@@ -2058,7 +2085,7 @@
             },
             "show_rating": {
               "label": "Näytä tuotearvostelu",
-              "info": "Arvostelun näyttämiseksi, lisää tuotearvostelusovellus. [Lue lisää](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews)"
+              "info": "Arvostelun näyttämiseksi, lisää tuotearvostelusovellus. [Lue lisää](https://help.shopify.com/en/manual/products/product-reviews)"
             },
             "image_ratio": {
               "info": "Ei koske peittotekstityyliä."
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "Esitellyt kategoriat",
       "category_card": {
         "name": "Kategoriakortti",
@@ -2138,7 +2165,7 @@
           "name": "Myyjän nimi",
           "settings": {
             "paragraph__1": "Näytä lisätietoja tuotteen myyjästä seuraavan prioriteetin mukaisesti (korkeimmasta matalimpaan):",
-            "paragraph__2": "(1) linkittämällä myyjän nimi vastaavan myyjän kokoelmaan. [Lue lisää](https:\/\/shopify.dev\/docs\/api\/liquid\/filters#link_to_vendor)",
+            "paragraph__2": "(1) linkittämällä myyjän nimi vastaavan myyjän kokoelmaan. [Lue lisää](https://shopify.dev/docs/api/liquid/filters#link_to_vendor)",
             "paragraph__3": "(2) valitsemalla sivun, jonka sisältö näytetään ponnahdusikkunassa poistumatta nykyiseltä sivustolta. Jos metakenttä otetaan käyttöön myyjän kokoelman näyttämiseksi hallintapaneelissa, linkki lisätään automaattisesti tähän.",
             "paragraph__4": "(3) täyttämällä URL-osoite, joka ohjaa ulkoiseen linkkiin.",
             "link_vendor": {
@@ -2165,7 +2192,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Näytä dynaamiset kassapainikkeet",
-              "info": "Käyttämällä kaupan käytettävissä olevia maksutapoja asiakkaat näkevät haluamansa vaihtoehdon, kuten PayPalin tai Apple Payn. [Lue lisää](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+              "info": "Käyttämällä kaupan käytettävissä olevia maksutapoja asiakkaat näkevät haluamansa vaihtoehdon, kuten PayPalin tai Apple Payn. [Lue lisää](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_add_to_cart": {
               "label": "Näytä lisää ostoskoriin"
@@ -2179,7 +2206,7 @@
             "pickup_availability": {
               "content": "Noutosaatavuus",
               "label": "Ota noutosaatavuusominaisuus käyttöön",
-              "info": "Lue, miten tämä ominaisuus asetetaan [täältä](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup)"
+              "info": "Lue, miten tämä ominaisuus asetetaan [täältä](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup)"
             },
             "preorder": {
               "preorder_show": {
@@ -2213,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Ilmoita saapuvasta varastosta",
-              "info": "Lue lisää [saapuvan varaston tilasta](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) ja kuinka [luoda varastosiirtoja.](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
+              "info": "Lue lisää [saapuvan varaston tilasta](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) ja kuinka [luoda varastosiirtoja.](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
             },
             "message_incoming": {
               "label": "Saapuvan siirron ilmoitus",
@@ -2254,7 +2281,7 @@
         },
         "estimate_delivery": {
           "name": "Arvioitu toimitusaika",
-          "paragraph": "Voit mukauttaa viestiä jokaiselle tuotteelle luomalla metakentän, jonka avain on 'custom.delivery_date_message' ja tyyppi 'Rich text'. [Lue lisää metakenttien luomisesta.](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields)",
+          "paragraph": "Voit mukauttaa viestiä jokaiselle tuotteelle luomalla metakentän, jonka avain on 'custom.delivery_date_message' ja tyyppi 'Rich text'. [Lue lisää metakenttien luomisesta.](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields)",
           "settings": {
             "message": {
               "info__1": "Voit käyttää näitä koodeja viestissä:",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "Media",
-          "info": "Lue lisää [mediatyypeistä](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Lue lisää [mediatyypeistä](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_loop": {
           "label": "Ota videon toisto silmukassa käyttöön"
@@ -2691,7 +2718,7 @@
           "label": "Näytä maksukuvakkeet"
         },
         "custom_payment": {
-          "info": "Mukauta maksukuvakkeet. Täytä tähän kenttään esimerkiksi valitsemasi maksutavat: apple_pay, google_pay, tabby, tamara. [Lue lisää](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "Mukauta maksukuvakkeet. Täytä tähän kenttään esimerkiksi valitsemasi maksutavat: apple_pay, google_pay, tabby, tamara. [Lue lisää](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "Mukautetut maksukuvakkeet SVG"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Seuraa Shopissa",
-          "info": "Näytä seuraa-painike myymälällesi Shop-sovelluksessa. [Lue lisää](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "Näytä seuraa-painike myymälällesi Shop-sovelluksessa. [Lue lisää](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Ota Seuraa Shopissa käyttöön"
@@ -3425,7 +3452,7 @@
           "info": "Huomaa: Yli 20 kohteen vaihtoehtoja sivua kohden ei suositella suorituskyvyn optimoinnin vuoksi."
         },
         "paragraph": {
-          "content": "Muuta otteita muokkaamalla blogijulkaisujasi. [Lue lisää](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Muuta otteita muokkaamalla blogijulkaisujasi. [Lue lisää](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Julkaisut pinotaan mobiililaitteilla."
@@ -3470,7 +3497,7 @@
           "label": "Tee kokoelman otsikosta koko leveys työpöydällä"
         },
         "paragraph": {
-          "content": "Lisää kuvaus tai kuva muokkaamalla kokoelmaasi. [Lue lisää](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "Lisää kuvaus tai kuva muokkaamalla kokoelmaasi. [Lue lisää](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "Näytä kokoelman otsikko"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Näytä kokoelman kuva",
-          "info": "Parhaiden tulosten saavuttamiseksi käytä kuvaa, jonka kuvasuhde on 16:9. [Lue lisää](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "Parhaiden tulosten saavuttamiseksi käytä kuvaa, jonka kuvasuhde on 16:9. [Lue lisää](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Ota mikrotietoskeema käyttöön",
-            "info" : "Hakukoneet eivät välttämättä vielä indeksoi tätä tietoa. Katso lisätietoja [CollectionPage-skeeman dokumentaatiosta](https:\/\/schema.org\/CollectionPage)."
+            "info": "Hakukoneet eivät välttämättä vielä indeksoi tätä tietoa. Katso lisätietoja [CollectionPage-skeeman dokumentaatiosta](https://schema.org/CollectionPage)."
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Lisää kuvia muokkaamalla kokoelmiasi. [Lisätietoja](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "Lisää kuvia muokkaamalla kokoelmiasi. [Lisätietoja](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "Näytä kokoelmat",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Lisätietoja [mediatyypeistä.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Lisätietoja [mediatyypeistä.](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_sticky_image": {
           "label": "Ota kiinnittyvä sisältö käyttöön työpöydällä"
@@ -3934,7 +3961,7 @@
           }
         },
         "show_arrow_button": {
-          "label": "Ota seuraava\/edellinen liukusäädin käyttöön työpöydällä"
+          "label": "Ota seuraava/edellinen liukusäädin käyttöön työpöydällä"
         },
         "mobile_media_size": {
           "label": "Mobiilimedian koko",
@@ -4331,11 +4358,11 @@
           "label": "Keskeytä hiiren vieminen päälle"
         },
         "show_arrow": {
-          "label": "Seuraava\/edellinen nuolet",
+          "label": "Seuraava/edellinen nuolet",
           "info": "Näytä navigointinuolet"
         },
         "show_part_slide": {
-          "label": "Seuraavat\/edelliset diat"
+          "label": "Seuraavat/edelliset diat"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "Useita kauppoja",
       "blocks": {
         "name": "Kaupan sijainti",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Tuotemerkit ja -tunnukset",
       "settings": {
-        "introduce": "Käytä tätä osiota lisätäksesi merkintöjä ja tunnuksia tuotteisiisi ja tuotekortteihin. [Katso opetusohjelmia](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "Käytä tätä osiota lisätäksesi merkintöjä ja tunnuksia tuotteisiisi ja tuotekortteihin. [Katso opetusohjelmia](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "Ota tuotemerkinnät ja -tunnukset käyttöön"
         }
@@ -4531,7 +4558,7 @@
           "name": "Loppuunmyyty-merkintä",
           "introduce": "Loppuunmyyty-merkintä näkyy automaattisesti kaikissa saatavilla olevissa tuotteissa.",
           "content": {
-            "info": "Käytä {inventory} kohteille \"Varastossa\/Loppuunmyyty\", {quantity} kokonaisvarastomäärälle."
+            "info": "Käytä {inventory} kohteille \"Varastossa/Loppuunmyyty\", {quantity} kokonaisvarastomäärälle."
           }
         },
         "text-label": {
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "Uusi tuotemerkintä"
         },
-        "day_start":{
+        "day_start": {
           "label": "Näytä merkintä päivien lukumäärän sisällä siitä, kun",
           "creation_date": "Tuotteen luontipäivämäärä",
           "activation_date": "Tuotteen aktivointipäivämäärä"
         },
-        "day_end":{
+        "day_end": {
           "label": "Päivien lukumäärä"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Näytä tuotesivulla",
-          "info": "Näyttääksesi merkintöjä ja tunnuksia Pikakatselussa ja Tuotetiedoissa, lisää 'Merkinnät ja tunnukset' -lohko näihin osioihin tai tarkista [tämä opas.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
+          "info": "Näyttääksesi merkintöjä ja tunnuksia Pikakatselussa ja Tuotetiedoissa, lisää 'Merkinnät ja tunnukset' -lohko näihin osioihin tai tarkista [tämä opas.](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Kuvake näkyy merkintätekstin edessä."
@@ -4571,8 +4598,8 @@
           "info__3": "{sale_amount} alennussummalle.",
           "info__4": "{qty} kokonaisvarastomäärälle.",
           "info__5": "{count_down} lähtölaskenta-ajastimelle päättymispäivään. (Aikataulu on oltava käytössä)",
-          "info__6": "<br \/> rivinvaihdolle.",
-          "info__7": "<b>tekstisi<\/b> lihavoidulle tekstille.",
+          "info__6": "<br /> rivinvaihdolle.",
+          "info__7": "<b>tekstisi</b> lihavoidulle tekstille.",
           "info__8": "{price} tuotteen hinnan.",
           "info_metafield": "{metafield_key} tuotteen tai variantin metakentälle (tukee vain yhden rivin tekstityyppiä). Huomautus: Metakenttien avaimet on määritettävä ensin Teeman asetukset > Tuotemerkinnät ja tunnukset -kohdassa, jotta ne näkyvät tässä."
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Lippusivun linkki",
-          "info": "Lisää lippusivu myydäksesi lippuja osallistujille. Luo [digitaalinen tuote](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) antaaksesi lisätietoja tapahtumasta ja piilota se valinnaisesti tuoteluetteloista. [Ota meihin yhteyttä](https:\/\/omnithemes.com\/contact\/) saadaksesi ilmaista tukea tuotteiden poissulkemiseen sisäisestä hausta ja tuotesuosituksista."
+          "info": "Lisää lippusivu myydäksesi lippuja osallistujille. Luo [digitaalinen tuote](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) antaaksesi lisätietoja tapahtumasta ja piilota se valinnaisesti tuoteluetteloista. [Ota meihin yhteyttä](https://omnithemes.com/contact/) saadaksesi ilmaista tukea tuotteiden poissulkemiseen sisäisestä hausta ja tuotesuosituksista."
         },
         "ticket_button_label": {
           "label": "Lippupainikkeen otsikko"
@@ -5281,12 +5308,12 @@
           "info": "Täytä kaikki kaupassa käytettyjen vaihtoehtojen nimet, eri kielten ilmaukset erotetaan pilkulla. (Esim. Väri, Colour, Couleur). Täytä yhden tuotevaihtoehdon nimi. Jokainen tämän vaihtoehdon arvo on sarake ominaisuustaulukossa."
         },
         "note": "Metakenttien arvoja voidaan myös käyttää kriteereinä.",
-        "note_1": "1. Luo metaobjekti, jonka avain on \"product_specs_list\", ja joka sisältää yhden kentän tarkalla nimellä \"specs\" (yksirivinen teksti\/yksi arvo).",
+        "note_1": "1. Luo metaobjekti, jonka avain on \"product_specs_list\", ja joka sisältää yhden kentän tarkalla nimellä \"specs\" (yksirivinen teksti/yksi arvo).",
         "note_2": "2. Luo metaobjektiin merkintöjä (esim. \"Kuiva iho\", \"UV-suoja\").",
-        "note_3": "3. Luo tuotteen metakenttä avaimella \"product_specs\" (metaobjekti\/arvoluettelo) ja valitse juuri luotu metaobjekti.",
+        "note_3": "3. Luo tuotteen metakenttä avaimella \"product_specs\" (metaobjekti/arvoluettelo) ja valitse juuri luotu metaobjekti.",
         "note_4": "4. Määritä arvoja jokaiselle tuotteelle metakentän kautta järjestelmänvalvojan tuotetietosivulla.",
         "note_5": "5. Täytä tähän kenttään vastaavan metakentän avain \"product_specs\".",
-        "note_6": "Lisätietoja varten [ota meihin yhteyttä ilmaiseksi tukea varten.](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "Lisätietoja varten [ota meihin yhteyttä ilmaiseksi tukea varten.](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "Korostus (tumma)"
         },
@@ -5325,7 +5352,7 @@
           "info": "Lisää otsikko soveltaaksesi kuponkikoodia automaattisesti ostoskorissa."
         },
         "promo_code_note": {
-          "content": "Alla olevan aloitus- ja päättymispäivän tulisi olla yhdenmukainen alennussäännön aloitus- ja päättymispäivän kanssa Shopify-hallinnassa > Alennukset. Lisätietoja [alennuskoodista.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
+          "content": "Alla olevan aloitus- ja päättymispäivän tulisi olla yhdenmukainen alennussäännön aloitus- ja päättymispäivän kanssa Shopify-hallinnassa > Alennukset. Lisätietoja [alennuskoodista.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Kampanjaehtojen otsikko"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5626,7 +5653,7 @@
         "name": "Kauppa",
         "settings": {
           "store_name": {
-            "info": "Kaupan nimen on vastattava kauppasi nimeä, joka on määritetty [sijaintiasetuksissasi.](\/admin\/settings\/locations)",
+            "info": "Kaupan nimen on vastattava kauppasi nimeä, joka on määritetty [sijaintiasetuksissasi.](/admin/settings/locations)",
             "default": "Oma kauppani"
           },
           "pickup_price": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "Pikatilauslista",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "Sivupalkki"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "Alkuperäinen julkaisusuhde"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "Sosiaalisen median julkaisun kuva"

@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Písmo",
-          "info": "Výběr jiného písma může ovlivnit rychlost vašeho obchodu. [Více informací o systémových písmech.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Výběr jiného písma může ovlivnit rychlost vašeho obchodu. [Více informací o systémových písmech.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Nadpisy"
@@ -112,7 +112,7 @@
           "content": "Text"
         },
         "type_body_font": {
-          "info": "Výběr jiného písma může ovlivnit rychlost vašeho obchodu. [Více informací o systémových písmech.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Výběr jiného písma může ovlivnit rychlost vašeho obchodu. [Více informací o systémových písmech.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Měřítko velikosti písma"
@@ -136,7 +136,7 @@
         "info": "Níže uvedená nastavení automaticky přidávají barevné vzorky do filtru na stránce kolekce a vyhledávání.",
         "swatches_filter": {
           "header": "Filtr",
-          "info": "Pro filtrování pomocí dalších barevných nebo obrazových hodnot vytvořte metaobjekty a reference metaobjektů, poté změňte nastavení níže dle vašich preferencí. [Více o zobrazení vizuálních filtrů pomocí metaobjektů.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "Pro filtrování pomocí dalších barevných nebo obrazových hodnot vytvořte metaobjekty a reference metaobjektů, poté změňte nastavení níže dle vašich preferencí. [Více o zobrazení vizuálních filtrů pomocí metaobjektů.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "Zobrazit text vedle vzorků",
           "visual_style": {
             "label": "Styl vizuální hodnoty",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Zvýrazněné funkce",
-        "paragraph": "Předveďte vynikající vlastnosti produktů na kartách, abyste na první pohled sdělili hodnotu a podpořili rychlejší a jistější nákupní rozhodnutí. Více se dozvíte v našem [uživatelském průvodci](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards).",
+        "paragraph": "Předveďte vynikající vlastnosti produktů na kartách, abyste na první pohled sdělili hodnotu a podpořili rychlejší a jistější nákupní rozhodnutí. Více se dozvíte v našem [uživatelském průvodci](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards).",
         "highlighted_features_position": {
           "option__1": "Horní část karty",
           "option__2": "Pod názvem produktu",
@@ -199,7 +199,7 @@
       "color_option_info": "Vyplňte všechny názvy barevné možnosti použité v obchodě, fráze různých jazyků jsou odděleny čárkou. (např. Barva, Colour, Couleur).",
       "color_option_values": "Hodnoty barevných vzorků",
       "color_swatches_example": "Jedna 'název barvy:hodnota' na řádek. Až tři barvy lze použít pro zobrazení svislých pruhů. Např.: 'Červené Modré Pruhy:#e22#22e'",
-      "color_swatches_guide": "Pro použití obrázku jako barevného vzorku [nahrajte obrázek PNG](\/admin\/settings\/files) s názvem souboru odpovídajícím názvu barvy a mezery nahraďte pomlčkami. Např. pro 'Hot Pink' nahrajte 'hot-pink.png'.",
+      "color_swatches_guide": "Pro použití obrázku jako barevného vzorku [nahrajte obrázek PNG](/admin/settings/files) s názvem souboru odpovídajícím názvu barvy a mezery nahraďte pomlčkami. Např. pro 'Hot Pink' nahrajte 'hot-pink.png'.",
       "products_color_swatches_enable_on_collection_page": "Povolit na kartách produktů",
       "replace_color_with_variant_images": "Nahradit barevné možnosti obrázky variant",
       "products_color_swatches_style": "Styl vzorku",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Gravírovat tento produkt",
       "highlight_icon": {
         "name": "Zvýrazněné atributy",
-        "info": "Zobrazte ikony na kartách produktů, aby zákazníci rychle pochopili zvýrazněné vlastnosti produktů (např. složení, alergeny). Více se dozvíte v našem [uživatelském průvodci.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards)",
+        "info": "Zobrazte ikony na kartách produktů, aby zákazníci rychle pochopili zvýrazněné vlastnosti produktů (např. složení, alergeny). Více se dozvíte v našem [uživatelském průvodci.](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards)",
         "icon_1": "Ikona 1",
         "icon_2": "Ikona 2",
         "icon_3": "Ikona 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Použít barvu tlačítka",
       "button_colors": "Barvy tlačítek"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "Animace položky menu úrovně 1",
         "note": "Funguje pouze se styly zvýraznění menu Marker a Bling bling"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "Štítky a odznaky produktů",
-      "info": "Štítky a odznaky produktů se nastavují v sekci Štítky a odznaky produktů ve skupině Překrytí. Pokud chcete zobrazovat metafieldy produktů jako štítky a odznaky, vyplňte klíče metafieldů do textového pole níže a poté přejděte do sekce pro konfiguraci zobrazení štítků. Přijímán je pouze typ metafieldů 'Jednořádkový text'. Více se dozvíte v [naší uživatelské příručce.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "Štítky a odznaky produktů se nastavují v sekci Štítky a odznaky produktů ve skupině Překrytí. Pokud chcete zobrazovat metafieldy produktů jako štítky a odznaky, vyplňte klíče metafieldů do textového pole níže a poté přejděte do sekce pro konfiguraci zobrazení štítků. Přijímán je pouze typ metafieldů 'Jednořádkový text'. Více se dozvíte v [naší uživatelské příručce.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Metafieldy použité ve štítcích",
           "info": "Vyplňte celé klíče metafieldů produktu (např. custom.metafield-1). Jeden klíč metafieldu na řádek."
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "Favicona",
@@ -468,9 +495,9 @@
       "cart_upsell": "Doprodej v košíku",
       "enable_cart_upsell": "Povolit v minikošíku",
       "cart_upsell_note": "Pokud je povoleno v minikošíku a na stránce košíku, doporučení upsellu se mohou zobrazovat v následujícím pořadí priority (od nejvyšší po nejnižší):",
-      "cart_upsell_note_1": "(1) vytvořením metafieldu produktu v doprodeji košíku a toto pole není prázdné. [Podrobnější informace naleznete v naší uživatelské příručce.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) vytvořením metafieldu produktu v doprodeji košíku a toto pole není prázdné. [Podrobnější informace naleznete v naší uživatelské příručce.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) ručním výběrem seznamu produktů v nastavení níže",
-      "cart_upsell_note_3": "(3) pomocí dynamických doporučení založených na doporučeních produktů Shopify. [Další informace.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) pomocí dynamických doporučení založených na doporučeních produktů Shopify. [Další informace.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "Pokud používáte metafield produktu pro přidání upsell produktů, ponechte toto pole prázdné.",
       "number_of_product_shown": "Počet zobrazených produktů",
       "section_label": "Popisek sekce",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Regex pro validaci (pokročilé)",
-          "info": "Pro účely validace pole. Prosím, nepoužívejte, pokud nejste obeznámeni s Regex. Pro pomoc s Regex nebo řešení problémů, které z něj vyplývají, prosím [kontaktujte naši podporu](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Pro účely validace pole. Prosím, nepoužívejte, pokud nejste obeznámeni s Regex. Pro pomoc s Regex nebo řešení problémů, které z něj vyplývají, prosím [kontaktujte naši podporu](https://omnithemes.com/contact/)."
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Minimální den (dny) doručení",
-          "info": "Minimální počet dní potřebných k odeslání všech objednávek. Použijte středník pro rozlišení mezi trhy doručení, pokud je to nutné (např. US:6;GB:3), nebo vyplňte jedno číslo pro použití na všechny dostupné trhy. Kódy zemí by měly dodržovat [standard ISO 3166.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Pro přizpůsobení pro každý produkt vytvořte metafield s klíčem 'custom.delivery_date_min' a typem 'Text'. [Více informací o vytváření metafieldů](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) nebo [kontaktujte naši podporu](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Minimální počet dní potřebných k odeslání všech objednávek. Použijte středník pro rozlišení mezi trhy doručení, pokud je to nutné (např. US:6;GB:3), nebo vyplňte jedno číslo pro použití na všechny dostupné trhy. Kódy zemí by měly dodržovat [standard ISO 3166.](https://www.iban.com/country-codes)",
+          "note": "Pro přizpůsobení pro každý produkt vytvořte metafield s klíčem 'custom.delivery_date_min' a typem 'Text'. [Více informací o vytváření metafieldů](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) nebo [kontaktujte naši podporu](https://omnithemes.com/contact/)."
         },
         "max_days": {
           "label": "Maximální den (dny) doručení",
-          "info": "Maximální počet dní potřebných k odeslání všech objednávek. Použijte středník pro rozlišení mezi trhy doručení, pokud je to nutné (např. US:6;GB:3), nebo vyplňte jedno číslo pro použití na všechny dostupné trhy. Kódy zemí by měly dodržovat [standard ISO 3166.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Pro přizpůsobení pro každý produkt vytvořte metafield s klíčem 'custom.delivery_date_max' a typem 'Text'. [Více informací o vytváření metafieldů](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) nebo [kontaktujte naši podporu](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Maximální počet dní potřebných k odeslání všech objednávek. Použijte středník pro rozlišení mezi trhy doručení, pokud je to nutné (např. US:6;GB:3), nebo vyplňte jedno číslo pro použití na všechny dostupné trhy. Kódy zemí by měly dodržovat [standard ISO 3166.](https://www.iban.com/country-codes)",
+          "note": "Pro přizpůsobení pro každý produkt vytvořte metafield s klíčem 'custom.delivery_date_max' a typem 'Text'. [Více informací o vytváření metafieldů](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) nebo [kontaktujte naši podporu](https://omnithemes.com/contact/)."
         },
         "cutoff_time": {
           "content": "Čas uzávěrky"
@@ -686,7 +713,7 @@
       "note": "Zobrazit původní URL pro stránkované stránky kolekcí jako kanonické tagy.",
       "header": {
         "content": "Informace o firmě",
-        "info": "Používá se pro zobrazení ve strukturovaných datech webu a na grafické kartě Google SERP. Více informací o [schématu organizace](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
+        "info": "Používá se pro zobrazení ve strukturovaných datech webu a na grafické kartě Google SERP. Více informací o [schématu organizace](https://developers.google.com/search/docs/appearance/structured-data/organization)."
       },
       "enable_organization_schema": {
         "label": "Povolit schéma organizace"
@@ -727,15 +754,15 @@
       "other": {
         "header": "Jiné schéma",
         "schema_breadcrumbs": "Přidat schéma do drobečkové navigace",
-        "info_breadcrumbs": "Podrobnosti naleznete v [dokumentaci schématu BreadcrumbList](https:\/\/schema.org\/BreadcrumbList).",
+        "info_breadcrumbs": "Podrobnosti naleznete v [dokumentaci schématu BreadcrumbList](https://schema.org/BreadcrumbList).",
         "search": "Přidat schéma SearchAction na domovskou stránku",
-        "info_search": "Podrobnosti naleznete v [dokumentaci schématu SearchAction](https:\/\/schema.org\/SearchAction)."
+        "info_search": "Podrobnosti naleznete v [dokumentaci schématu SearchAction](https://schema.org/SearchAction)."
       }
     },
     "combined_listing": {
       "name": "Kombinované výpisy (pouze Plus)",
       "enable_combined": "Povolit kombinované výpisy produktů",
-      "info": "Nainstalujte aplikaci [Combined Listing](https:\/\/apps.shopify.com\/combined-listings) a povolte toto nastavení, abyste mohli tuto funkci používat. K dispozici pouze v plánech Plus a enterprise commerce."
+      "info": "Nainstalujte aplikaci [Combined Listing](https://apps.shopify.com/combined-listings) a povolte toto nastavení, abyste mohli tuto funkci používat. K dispozici pouze v plánech Plus a enterprise commerce."
     },
     "reorder": {
       "name": "Znovu objednat",
@@ -746,10 +773,10 @@
       "name": "Pokročilé",
       "product_reviews_app": {
         "label": "Aplikace pro recenze produktů",
-        "info": "Vyberte aplikaci pro recenze, kterou chcete integrovat s nativním hodnocením produktů v motivu. Některé aplikace v možnosti 'Jiné' nemusí být plně kompatibilní s motivem, prosím [kontaktujte nás pro podporu](https:\/\/omnithemes.com\/contact\/)."
+        "info": "Vyberte aplikaci pro recenze, kterou chcete integrovat s nativním hodnocením produktů v motivu. Některé aplikace v možnosti 'Jiné' nemusí být plně kompatibilní s motivem, prosím [kontaktujte nás pro podporu](https://omnithemes.com/contact/)."
       },
       "custom_html": "Vlastní kód",
-      "custom_info": "Pro podporu s vlastním kódem nebo řešení problémů souvisejících s vlastním kódem nás prosím [kontaktujte](https:\/\/omnithemes.com\/contact\/).",
+      "custom_info": "Pro podporu s vlastním kódem nebo řešení problémů souvisejících s vlastním kódem nás prosím [kontaktujte](https://omnithemes.com/contact/).",
       "additional_head": {
         "label": "HTML pro značku <head>",
         "info": "Používá se pro jakýkoli vlastní HTML kód k celoplošnému použití. Umístěno na konci značky <head> na všech stránkách motivu, kromě stránky pokladny."
@@ -784,7 +811,7 @@
       "sections_spacing": "Rozestupy sekcí",
       "lang_direction": {
         "label": "Jazyky RTL",
-        "info": "Zadejte kódy jazyků pro zobrazení jazyků v rozložení RTL. Všechny kódy musí odpovídat [tabulce ISO kódů jazyků](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) a být odděleny čárkami (např.: ar,fa,ps)"
+        "info": "Zadejte kódy jazyků pro zobrazení jazyků v rozložení RTL. Všechny kódy musí odpovídat [tabulce ISO kódů jazyků](https://www.w3schools.com/tags/ref_language_codes.asp) a být odděleny čárkami (např.: ar,fa,ps)"
       },
       "page_width": "Šířka stránky",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "Animace přiblížení obrázku použitá v: Obrázky produktových karet, Obrázky karet kolekcí, Galerie médií, Propagační mřížka, Propagační vyskakovací okno, Sloupce textu s obrázkem.",
       "enable_page_transition": "Povolit přechody stránek"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "Klasický",
         "option_2": "Moderní"
       }
@@ -832,7 +859,7 @@
       "name": "Banner s cookies",
       "settings": {
         "paragraph": {
-          "content": "Požádejte své zákazníky o souhlas s používáním cookies a zpracováním jejich dat, jak vyžaduje směrnice Evropské unie o e-soukromí a obecné nařízení o ochraně osobních údajů. [Zjistěte více](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "Požádejte své zákazníky o souhlas s používáním cookies a zpracováním jejich dat, jak vyžaduje směrnice Evropské unie o e-soukromí a obecné nařízení o ochraně osobních údajů. [Zjistěte více](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "Upozornění na cookies"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) tuto sekci.",
+        "header_general": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) tuto sekci.",
         "mega_menu": {
-          "simple_menu": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) tento blok.",
-          "tree_menu": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) tento blok.",
-          "banner_menu": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) tento blok.",
-          "product_menu": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) tento blok.",
-          "blog_menu": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) tento blok.",
-          "tabbed_menu": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) tento blok.",
-          "contact_menu": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) tento blok.",
-          "cta_button": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) tento blok."
+          "simple_menu": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) tento blok.",
+          "tree_menu": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) tento blok.",
+          "banner_menu": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) tento blok.",
+          "product_menu": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) tento blok.",
+          "blog_menu": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) tento blok.",
+          "tabbed_menu": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) tento blok.",
+          "contact_menu": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) tento blok.",
+          "cta_button": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) tento blok."
         },
-        "announcement_bar": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) tuto sekci.",
-        "mobile_navigation": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) tuto sekci."
+        "announcement_bar": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) tuto sekci.",
+        "mobile_navigation": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) tuto sekci."
       },
       "footer": {
-        "footer": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) tuto sekci.",
-        "quicklinks": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) tuto sekci."
+        "footer": "Naučte se [jak používat](https://support.omnithemes.com/blogs/footer/footer) tuto sekci.",
+        "quicklinks": "Naučte se [jak používat](https://support.omnithemes.com/blogs/footer/quicklinks) tuto sekci."
       },
       "section_and_blocks": {
-        "blog_post": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) tuto sekci.",
-        "collection_list": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) tuto sekci.",
-        "collage": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) tuto sekci.",
-        "collection_list_banner": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) tuto sekci.",
-        "collection_list_carousel": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) tuto sekci.",
-        "comparison_table": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) tuto sekci.",
-        "contact_form": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) tuto sekci.",
-        "custom_liquid": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) tuto sekci.",
-        "email_signup": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) tuto sekci.",
-        "event_calendar": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) tuto sekci.",
-        "faq": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) tuto sekci.",
-        "featured_category": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) tuto sekci.",
-        "featured_collection": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) tuto sekci.",
-        "featured_product": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) tuto sekci.",
-        "flash_sale": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) tuto sekci.",
-        "flow": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) tuto sekci.",
-        "highlight_text_with_image": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) tuto sekci.",
-        "image_comparison": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) tuto sekci.",
-        "logo_list": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) tuto sekci.",
-        "map": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) tuto sekci.",
-        "media_gallery": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) tuto sekci.",
-        "media_with_text": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) tuto sekci.",
-        "multiple_store": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) tuto sekci.",
-        "page": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) tuto sekci.",
-        "product_attribute_table": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) tuto sekci.",
-        "product_bundle": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) tuto sekci.",
-        "product_comparison_table": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) tuto sekci.",
-        "product_highlight": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) tuto sekci.",
-        "product_grid": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) tuto sekci.",
-        "promo_code_list": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) tuto sekci.",
-        "promotion_banner": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) tuto sekci.",
-        "promotion_grid": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) tuto sekci.",
-        "recently_viewed_products": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) tuto sekci.",
-        "related_blog_posts": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) tuto sekci.",
-        "related_collections": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) tuto sekci.",
-        "rich_text": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) tuto sekci.",
-        "scrolling_promotion": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) tuto sekci.",
-        "shop_the_look": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) tuto sekci.",
-        "slideshow": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) tuto sekci.",
-        "social_feeds": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) tuto sekci.",
-        "tabs": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) tuto sekci.",
-        "testimonial": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) tuto sekci.",
-        "testimonial_with_cards": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) tuto sekci.",
-        "text_columns_with_icons": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) tuto sekci.",
-        "text_columns_with_images": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) tuto sekci.",
-        "timeline": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) tuto sekci.",
-        "vertical_slideshow": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) tuto sekci.",
-        "video": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) tuto sekci.",
-        "video_hero": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) tuto sekci.",
-        "video_looping": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) tuto sekci.",
-        "video_shopping": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) tuto sekci.",
-        "flexible_area": "Naučte se [jak používat](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) tuto sekci."
+        "blog_post": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/blog-post) tuto sekci.",
+        "collection_list": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/collection-list) tuto sekci.",
+        "collage": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/collage) tuto sekci.",
+        "collection_list_banner": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) tuto sekci.",
+        "collection_list_carousel": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) tuto sekci.",
+        "comparison_table": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) tuto sekci.",
+        "contact_form": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/contact-form) tuto sekci.",
+        "custom_liquid": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) tuto sekci.",
+        "email_signup": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) tuto sekci.",
+        "event_calendar": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) tuto sekci.",
+        "faq": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/faqs) tuto sekci.",
+        "featured_category": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) tuto sekci.",
+        "featured_collection": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) tuto sekci.",
+        "featured_product": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/featured-product) tuto sekci.",
+        "flash_sale": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) tuto sekci.",
+        "flow": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/flow) tuto sekci.",
+        "highlight_text_with_image": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) tuto sekci.",
+        "image_comparison": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) tuto sekci.",
+        "logo_list": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/logo-list) tuto sekci.",
+        "map": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/map-1) tuto sekci.",
+        "media_gallery": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) tuto sekci.",
+        "media_with_text": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) tuto sekci.",
+        "multiple_store": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) tuto sekci.",
+        "page": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/page) tuto sekci.",
+        "product_attribute_table": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) tuto sekci.",
+        "product_bundle": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) tuto sekci.",
+        "product_comparison_table": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) tuto sekci.",
+        "product_highlight": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) tuto sekci.",
+        "product_grid": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/product-grid) tuto sekci.",
+        "promo_code_list": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) tuto sekci.",
+        "promotion_banner": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) tuto sekci.",
+        "promotion_grid": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) tuto sekci.",
+        "recently_viewed_products": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) tuto sekci.",
+        "related_blog_posts": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) tuto sekci.",
+        "related_collections": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/related-collections) tuto sekci.",
+        "rich_text": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/rich-text) tuto sekci.",
+        "scrolling_promotion": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) tuto sekci.",
+        "shop_the_look": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) tuto sekci.",
+        "slideshow": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/slideshow) tuto sekci.",
+        "social_feeds": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) tuto sekci.",
+        "tabs": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/tabs) tuto sekci.",
+        "testimonial": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/testimonial) tuto sekci.",
+        "testimonial_with_cards": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) tuto sekci.",
+        "text_columns_with_icons": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) tuto sekci.",
+        "text_columns_with_images": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) tuto sekci.",
+        "timeline": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/timeline) tuto sekci.",
+        "vertical_slideshow": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) tuto sekci.",
+        "video": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/video) tuto sekci.",
+        "video_hero": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/video-hero) tuto sekci.",
+        "video_looping": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/video-looping) tuto sekci.",
+        "video_shopping": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) tuto sekci.",
+        "flexible_area": "Naučte se [jak používat](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) tuto sekci."
       },
       "product_page": {
-        "product_description": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) tuto sekci.",
+        "product_description": "Naučte se [jak používat](https://support.omnithemes.com/blogs/product-page/product-description) tuto sekci.",
         "product_information": {
-          "product_information_general": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) tuto sekci.",
-          "buy_buttons": "Naučte se [jak nastavit tlačítka přidat do košíku a koupit](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) tento blok.",
-          "back_in_stock_alert": "Naučte se [jak zobrazit upozornění na opětovné naskladnění](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) tento blok.",
-          "basic_info": "Naučte se [jak zobrazit základní informace o produktu – název, cena, popis atd.](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) tento blok.",
-          "collapsible_tab": "Naučte se [jak vytvořit sbalitelné záložky](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) tento blok.",
-          "collection_link": "Naučte se [jak přidat odkaz na kolekci](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) tento blok.",
-          "complementary_product": "Naučte se [jak zobrazit doplňkové produkty](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) tento blok.",
-          "customizable_options": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) tento blok.",
-          "estimate_delivery": "Naučte se [jak zobrazit předpokládané datum doručení produktu](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) tento blok.",
-          "engraving": "Naučte se [jak používat rytí](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) tento blok.",
-          "featured_icon": "Naučte se [jak zobrazit zvýrazněné informace (volitelné ikony)](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) tento blok.",
-          "frequently_bought_together": "Naučte se [jak zobrazit často kupované produkty](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) tento blok.",
-          "gift_wrapping": "Naučte se [jak zobrazit možnost dárkového balení](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) tento blok.",
-          "horizontal_tab": "Naučte se [jak přidat vodorovné záložky](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) tento blok.",
-          "inventory_status": "Naučte se [jak zobrazit stav zásob produktu](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) tento blok.",
-          "nutrition_fact_bar": "Naučte se [jak přidat informační lištu o výživových hodnotách](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) tento blok.",
-          "payment_method": "Naučte se [jak zobrazit platební metodu pro každý produkt](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) tento blok.",
-          "product_sibling": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) tento blok.",
-          "rating": "Naučte se [jak zobrazit hodnocení](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) tento blok.",
-          "size_chart": "Naučte se [jak přidat tabulku velikostí](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) tento blok.",
-          "social_sharing": "Naučte se [jak zobrazit ikony sociálního sdílení](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) tento blok.",
-          "sticky_add_to_cart": "Naučte se [jak zobrazit lepící lištu pro přidání do košíku](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) tento blok.",
-          "table_of_information": "Naučte se [jak přidat tabulku informací](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) tento blok.",
-          "trust_badge": "Naučte se [jak zobrazit odznaky důvěry](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) tento blok.",
-          "volume_pricing": "Naučte se [jak používat tabulku cen za objem](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) tento blok.",
-          "other_blocks": "Naučte se [jak zobrazit další bloky](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) tento blok."
+          "product_information_general": "Naučte se [jak používat](https://support.omnithemes.com/blogs/product-page/product-information) tuto sekci.",
+          "buy_buttons": "Naučte se [jak nastavit tlačítka přidat do košíku a koupit](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) tento blok.",
+          "back_in_stock_alert": "Naučte se [jak zobrazit upozornění na opětovné naskladnění](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) tento blok.",
+          "basic_info": "Naučte se [jak zobrazit základní informace o produktu – název, cena, popis atd.](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) tento blok.",
+          "collapsible_tab": "Naučte se [jak vytvořit sbalitelné záložky](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) tento blok.",
+          "collection_link": "Naučte se [jak přidat odkaz na kolekci](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) tento blok.",
+          "complementary_product": "Naučte se [jak zobrazit doplňkové produkty](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) tento blok.",
+          "customizable_options": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide/customizable-options) tento blok.",
+          "estimate_delivery": "Naučte se [jak zobrazit předpokládané datum doručení produktu](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) tento blok.",
+          "engraving": "Naučte se [jak používat rytí](https://support.omnithemes.com/blogs/product-page/engraving) tento blok.",
+          "featured_icon": "Naučte se [jak zobrazit zvýrazněné informace (volitelné ikony)](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) tento blok.",
+          "frequently_bought_together": "Naučte se [jak zobrazit často kupované produkty](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) tento blok.",
+          "gift_wrapping": "Naučte se [jak zobrazit možnost dárkového balení](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) tento blok.",
+          "horizontal_tab": "Naučte se [jak přidat vodorovné záložky](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) tento blok.",
+          "inventory_status": "Naučte se [jak zobrazit stav zásob produktu](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) tento blok.",
+          "nutrition_fact_bar": "Naučte se [jak přidat informační lištu o výživových hodnotách](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) tento blok.",
+          "payment_method": "Naučte se [jak zobrazit platební metodu pro každý produkt](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) tento blok.",
+          "product_sibling": "Naučte se [jak používat](https://support.omnithemes.com/blogs/user-guide/product-siblings) tento blok.",
+          "rating": "Naučte se [jak zobrazit hodnocení](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) tento blok.",
+          "size_chart": "Naučte se [jak přidat tabulku velikostí](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) tento blok.",
+          "social_sharing": "Naučte se [jak zobrazit ikony sociálního sdílení](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) tento blok.",
+          "sticky_add_to_cart": "Naučte se [jak zobrazit lepící lištu pro přidání do košíku](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) tento blok.",
+          "table_of_information": "Naučte se [jak přidat tabulku informací](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) tento blok.",
+          "trust_badge": "Naučte se [jak zobrazit odznaky důvěry](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) tento blok.",
+          "volume_pricing": "Naučte se [jak používat tabulku cen za objem](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) tento blok.",
+          "other_blocks": "Naučte se [jak zobrazit další bloky](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) tento blok."
         },
-        "product_specification": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) tuto sekci.",
-        "product_recommendation": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) tuto sekci.",
-        "quick_order_list": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) tuto sekci."
+        "product_specification": "Naučte se [jak používat](https://support.omnithemes.com/blogs/product-page/product-specifications) tuto sekci.",
+        "product_recommendation": "Naučte se [jak používat](https://support.omnithemes.com/blogs/product-page/product-recommendations) tuto sekci.",
+        "quick_order_list": "Naučte se [jak používat](https://support.omnithemes.com/blogs/product-page/quick-order-list) tuto sekci."
       },
       "collection_page": {
-        "collection_banner": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) tuto sekci."
+        "collection_banner": "Naučte se [jak používat](https://support.omnithemes.com/blogs/collection-page/collection-banner) tuto sekci."
       },
       "pages_and_templates": {
-        "blog_post_page": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) tuto sekci.",
-        "blog_page": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) tuto sekci.",
-        "cart_page": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) tuto sekci.",
-        "collection_list_page": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) tuto sekci.",
-        "search_page": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) tuto sekci."
+        "blog_post_page": "Naučte se [jak používat](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) tuto sekci.",
+        "blog_page": "Naučte se [jak používat](https://support.omnithemes.com/blogs/page-templates/blog-page) tuto sekci.",
+        "cart_page": "Naučte se [jak používat](https://support.omnithemes.com/blogs/page-templates/cart-page) tuto sekci.",
+        "collection_list_page": "Naučte se [jak používat](https://support.omnithemes.com/blogs/page-templates/collection-list-page) tuto sekci.",
+        "search_page": "Naučte se [jak používat](https://support.omnithemes.com/blogs/page-templates/search-page) tuto sekci."
       },
       "overlay_group": {
-        "cookie_banner": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) tuto sekci.",
-        "popup": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) tuto sekci.",
-        "store_selector": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) tuto sekci.",
-        "quick_view": "Naučte se [jak používat](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) tuto sekci.",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "Naučte se [jak používat](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) tuto sekci.",
+        "popup": "Naučte se [jak používat](https://support.omnithemes.com/blogs/overlay-group-1/popup) tuto sekci.",
+        "store_selector": "Naučte se [jak používat](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) tuto sekci.",
+        "quick_view": "Naučte se [jak používat](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) tuto sekci.",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Platí pro typ animace 'Nařezané s ikonou'.",
         "custom_icon": "Vlastní ikona (SVG kód)",
-        "custom_icon_info": "Pro pomoc s vlastním SVG kódem nebo řešením problémů, které z něj vyplývají, prosím [kontaktujte naši podporu](https:\/\/omnithemes.com\/contact\/).",
+        "custom_icon_info": "Pro pomoc s vlastním SVG kódem nebo řešením problémů, které z něj vyplývají, prosím [kontaktujte naši podporu](https://omnithemes.com/contact/).",
         "label": "Ikona",
         "another_icon_label": "Použít jinou ikonu",
         "another_icon_info": "Pokud chcete použít jiné ikony z výše uvedených možností, vyhledejte ikonu z našeho [seznamu ikon](https://support.omnithemes.com/blogs/user-guide/theme-icons) a vyplňte název ikony zde (např.: visačka).",
@@ -1175,8 +1202,8 @@
         "heading_image": "Obrázek nadpisu",
         "image_height": "Výška obrázku",
         "image_width": "Šířka obrázku",
-        "note_image_size": "Doporučené velikosti obrázků naleznete v našem [uživatelském průvodci](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section).",
-        "note_image_size_video_shopping": "Doporučené velikosti obrázků naleznete v našem [uživatelském průvodci](https:\/\/support.omnithemes.com\/blogs\/faqs\/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Příliš velké obrázky budou zmenšeny pro optimální zobrazení na mobilních zařízeních. Doporučené poměry: 1:1, 3:4, 4:3."
+        "note_image_size": "Doporučené velikosti obrázků naleznete v našem [uživatelském průvodci](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section).",
+        "note_image_size_video_shopping": "Doporučené velikosti obrázků naleznete v našem [uživatelském průvodci](https://support.omnithemes.com/blogs/faqs/can-you-recommend-image-sizes-for-the-different-image-layouts-of-different-section). Příliš velké obrázky budou zmenšeny pro optimální zobrazení na mobilních zařízeních. Doporučené poměry: 1:1, 3:4, 4:3."
       },
       "image_ratio": {
         "label": "Poměr stran obrázku",
@@ -1389,7 +1416,7 @@
               "label": "Odkaz položky menu"
             },
             "menu": {
-              "info": "Vyberte menu, které se má použít pro tuto položku menu. Zjistěte, jak vytvořit 4úrovňové menu [zde.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
+              "info": "Vyberte menu, které se má použít pro tuto položku menu. Zjistěte, jak vytvořit 4úrovňové menu [zde.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Platí pro položky karet a podmenu. Pro velkou velikost obrázku není možnost zaoblení k dispozici."
@@ -2058,7 +2085,7 @@
             },
             "show_rating": {
               "label": "Zobrazit hodnocení produktu",
-              "info": "Pro zobrazení hodnocení přidejte aplikaci pro hodnocení produktů. [Více informací](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews)"
+              "info": "Pro zobrazení hodnocení přidejte aplikaci pro hodnocení produktů. [Více informací](https://help.shopify.com/en/manual/products/product-reviews)"
             },
             "image_ratio": {
               "info": "Nepoužívá se pro styl textu překryvu."
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "Doporučené kategorie",
       "category_card": {
         "name": "Karta kategorie",
@@ -2138,7 +2165,7 @@
           "name": "Jméno dodavatele",
           "settings": {
             "paragraph__1": "Zobrazit další podrobnosti o dodavateli produktu s následující prioritou (od nejvyšší k nejnižší):",
-            "paragraph__2": "(1) propojením názvu dodavatele s kolekcí odpovídajícího dodavatele. [Více informací](https:\/\/shopify.dev\/docs\/api\/liquid\/filters#link_to_vendor)",
+            "paragraph__2": "(1) propojením názvu dodavatele s kolekcí odpovídajícího dodavatele. [Více informací](https://shopify.dev/docs/api/liquid/filters#link_to_vendor)",
             "paragraph__3": "(2) výběrem stránky pro zobrazení obsahu stránky ve vyskakovacím okně bez opuštění aktuálního webu. Pokud povolíte metafield pro zobrazení kolekce dodavatele v administraci, odkaz se zde automaticky použije.",
             "paragraph__4": "(3) vyplněním URL pro přesměrování na externí odkaz.",
             "link_vendor": {
@@ -2165,7 +2192,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Zobrazit tlačítka dynamické pokladny",
-              "info": "Pomocí dostupných platebních metod ve vašem obchodě zákazníci uvidí svou preferovanou možnost, jako je PayPal nebo Apple Pay. [Více informací](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+              "info": "Pomocí dostupných platebních metod ve vašem obchodě zákazníci uvidí svou preferovanou možnost, jako je PayPal nebo Apple Pay. [Více informací](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_add_to_cart": {
               "label": "Zobrazit přidat do košíku"
@@ -2179,7 +2206,7 @@
             "pickup_availability": {
               "content": "Dostupnost k vyzvednutí",
               "label": "Povolit funkci dostupnosti k vyzvednutí",
-              "info": "Zjistěte, jak nastavit tuto funkci [zde](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup)"
+              "info": "Zjistěte, jak nastavit tuto funkci [zde](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup)"
             },
             "preorder": {
               "preorder_show": {
@@ -2213,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Upozornit na příchozí zásoby",
-              "info": "Zjistěte více o [stavu příchozích zásob](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) a o tom, jak [vytvářet převody zásob.](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
+              "info": "Zjistěte více o [stavu příchozích zásob](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) a o tom, jak [vytvářet převody zásob.](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
             },
             "message_incoming": {
               "label": "Upozornění na příchozí převod",
@@ -2254,7 +2281,7 @@
         },
         "estimate_delivery": {
           "name": "Odhadovaná doba doručení",
-          "paragraph": "Pro přizpůsobení zprávy pro každý produkt vytvořte metafield s klíčem 'custom.delivery_date_message ' a typem 'Rich text'. [Více o vytváření metafieldů.](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields)",
+          "paragraph": "Pro přizpůsobení zprávy pro každý produkt vytvořte metafield s klíčem 'custom.delivery_date_message ' a typem 'Rich text'. [Více o vytváření metafieldů.](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields)",
           "settings": {
             "message": {
               "info__1": "V zprávě můžete použít tyto kódy:",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "Média",
-          "info": "Další informace o [typech médií](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Další informace o [typech médií](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_loop": {
           "label": "Povolit opakování videa"
@@ -2691,7 +2718,7 @@
           "label": "Zobrazit ikony plateb"
         },
         "custom_payment": {
-          "info": "Přizpůsobte si ikony plateb. Například, vyplňte toto pole svými zvolenými metodami: apple_pay, google_pay, tabby, tamara. [Zjistěte více](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "Přizpůsobte si ikony plateb. Například, vyplňte toto pole svými zvolenými metodami: apple_pay, google_pay, tabby, tamara. [Zjistěte více](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "Vlastní SVG ikony plateb"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Sledujte na Shop",
-          "info": "Zobrazit tlačítko sledování pro váš obchod v aplikaci Shop. [Zjistěte více](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "Zobrazit tlačítko sledování pro váš obchod v aplikaci Shop. [Zjistěte více](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Povolit sledování na Shop"
@@ -3425,7 +3452,7 @@
           "info": "Poznámka: Možnosti s více než 20 položkami na stránku se nedoporučují pro účely optimalizace výkonu."
         },
         "paragraph": {
-          "content": "Změňte úryvky úpravou svých blogových příspěvků. [Zjistěte více](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Změňte úryvky úpravou svých blogových příspěvků. [Zjistěte více](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Příspěvky jsou na mobilu naskládány."
@@ -3470,7 +3497,7 @@
           "label": "Nastavit název kolekce na plnou šířku na desktopu"
         },
         "paragraph": {
-          "content": "Přidejte popis nebo obrázek úpravou vaší kolekce. [Zjistěte více](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "Přidejte popis nebo obrázek úpravou vaší kolekce. [Zjistěte více](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "Zobrazit název kolekce"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Zobrazit obrázek kolekce",
-          "info": "Pro nejlepší výsledky použijte obrázek s poměrem stran 16:9. [Zjistěte více](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "Pro nejlepší výsledky použijte obrázek s poměrem stran 16:9. [Zjistěte více](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Povolit schéma mikrodat",
-            "info" : "Vyhledávače nemusí tyto informace zatím indexovat. Podrobnosti naleznete v [dokumentaci schématu CollectionPage](https:\/\/schema.org\/CollectionPage)."
+            "info": "Vyhledávače nemusí tyto informace zatím indexovat. Podrobnosti naleznete v [dokumentaci schématu CollectionPage](https://schema.org/CollectionPage)."
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Přidejte obrázky úpravou svých kolekcí. [Zjistěte více](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "Přidejte obrázky úpravou svých kolekcí. [Zjistěte více](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "Zobrazit kolekce",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Zjistěte více o [typech médií.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Zjistěte více o [typech médií.](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_sticky_image": {
           "label": "Povolit lepivý obsah na ploše"
@@ -3934,7 +3961,7 @@
           }
         },
         "show_arrow_button": {
-          "label": "Povolit posuvník další\/předchozí na ploše"
+          "label": "Povolit posuvník další/předchozí na ploše"
         },
         "mobile_media_size": {
           "label": "Velikost mobilních médií",
@@ -4331,11 +4358,11 @@
           "label": "Pozastavit při najetí myší"
         },
         "show_arrow": {
-          "label": "Šipky Další\/Předchozí",
+          "label": "Šipky Další/Předchozí",
           "info": "Zobrazit navigační šipky"
         },
         "show_part_slide": {
-          "label": "Další\/Předchozí snímky"
+          "label": "Další/Předchozí snímky"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "Více obchodů",
       "blocks": {
         "name": "Umístění obchodu",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Štítky a odznaky produktů",
       "settings": {
-        "introduce": "Použijte tuto sekci k přidání štítků a odznaků k vašim produktům a produktovým kartám. [Viz tutoriály](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "Použijte tuto sekci k přidání štítků a odznaků k vašim produktům a produktovým kartám. [Viz tutoriály](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "Povolit štítky a odznaky produktů"
         }
@@ -4531,7 +4558,7 @@
           "name": "Štítek vyprodáno",
           "introduce": "Štítek vyprodáno se automaticky zobrazí u všech nedostupných produktů.",
           "content": {
-            "info": "Použijte {inventory} pro „Skladem\/Vyprodáno“, {quantity} pro celkové množství na skladě."
+            "info": "Použijte {inventory} pro „Skladem/Vyprodáno“, {quantity} pro celkové množství na skladě."
           }
         },
         "text-label": {
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "Štítek nového produktu"
         },
-        "day_start":{
+        "day_start": {
           "label": "Zobrazit štítek během počtu dnů od",
           "creation_date": "Datum vytvoření produktu",
           "activation_date": "Datum aktivace produktu"
         },
-        "day_end":{
+        "day_end": {
           "label": "Počet dnů"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Zobrazit na stránce produktu",
-          "info": "Chcete-li zobrazit štítky a odznaky v rychlém náhledu a informacích o produktu, přidejte blok 'Labels and badges' (Štítky a odznaky) do těchto sekcí, nebo si přečtěte [tuto příručku.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
+          "info": "Chcete-li zobrazit štítky a odznaky v rychlém náhledu a informacích o produktu, přidejte blok 'Labels and badges' (Štítky a odznaky) do těchto sekcí, nebo si přečtěte [tuto příručku.](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Ikona se zobrazí před textem štítku."
@@ -4571,8 +4598,8 @@
           "info__3": "{sale_amount} pro částku slevy.",
           "info__4": "{qty} pro celkové množství na skladě.",
           "info__5": "{count_down} pro odpočítávací časovač do koncového data. (Musí být povoleno plánování)",
-          "info__6": "<br \/> pro zalomení řádku.",
-          "info__7": "<b>váš obsah<\/b> pro tučný text.",
+          "info__6": "<br /> pro zalomení řádku.",
+          "info__7": "<b>váš obsah</b> pro tučný text.",
           "info__8": "{price} pro cenu produktu.",
           "info_metafield": "{metafield_key} pro metafield produktu nebo varianty (podporuje pouze typ Jednořádkový text). Poznámka: Klíče metafieldů musí být nejprve nakonfigurovány v Nastavení motivu > Štítky a odznaky produktů, aby se zde zobrazily."
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Odkaz na stránku vstupenek",
-          "info": "Přidejte stránku vstupenek pro prodej vstupenek účastníkům. Vytvořte [digitální produkt](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) pro poskytnutí více informací o události a volitelně jej skryjte ze seznamů produktů. [Kontaktujte nás](https:\/\/omnithemes.com\/contact\/) pro bezplatnou podporu k vyloučení produktů z interního vyhledávání a doporučení produktů."
+          "info": "Přidejte stránku vstupenek pro prodej vstupenek účastníkům. Vytvořte [digitální produkt](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) pro poskytnutí více informací o události a volitelně jej skryjte ze seznamů produktů. [Kontaktujte nás](https://omnithemes.com/contact/) pro bezplatnou podporu k vyloučení produktů z interního vyhledávání a doporučení produktů."
         },
         "ticket_button_label": {
           "label": "Popisek tlačítka vstupenky"
@@ -5281,12 +5308,12 @@
           "info": "Vyplňte všechna jména (názvy) možnosti použité v obchodě, fráze různých jazyků jsou odděleny čárkou. (Např. Barva, Colour, Couleur). Vyplňte název jedné možnosti produktu. Každá hodnota této možnosti bude sloupcem v tabulce atributů."
         },
         "note": "Hodnoty metaúdajů lze také použít jako kritéria.",
-        "note_1": "1. Vytvořte metaobjekt s klíčem \"product_specs_list\", obsahující jedno pole s přesným názvem \"specs\" (Jednořádkový text\/Jedna hodnota).",
+        "note_1": "1. Vytvořte metaobjekt s klíčem \"product_specs_list\", obsahující jedno pole s přesným názvem \"specs\" (Jednořádkový text/Jedna hodnota).",
         "note_2": "2. Vytvořte záznamy pro metaobjekt (např. \"Suchá pleť\", \"UV ochrana\").",
-        "note_3": "3. Vytvořte metaúdaj produktu s klíčem \"product_specs\" (Metaobjekt\/Seznam hodnot) a vyberte právě vytvořený metaobjekt.",
+        "note_3": "3. Vytvořte metaúdaj produktu s klíčem \"product_specs\" (Metaobjekt/Seznam hodnot) a vyberte právě vytvořený metaobjekt.",
         "note_4": "4. Přiřaďte hodnoty pro každý produkt prostřednictvím metaúdajů na stránce detailů produktu v administraci.",
         "note_5": "5. Vyplňte klíč \"product_specs\" příslušného metaúdaje do tohoto pole.",
-        "note_6": "Pro více podrobností nás prosím [kontaktujte pro bezplatnou podporu.](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "Pro více podrobností nás prosím [kontaktujte pro bezplatnou podporu.](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "Zvýraznění (tmavé)"
         },
@@ -5325,7 +5352,7 @@
           "info": "Přidejte štítek pro automatické uplatnění kódu kupónu v košíku."
         },
         "promo_code_note": {
-          "content": "Datum zahájení a ukončení níže by mělo odpovídat datu zahájení a ukončení pravidla slevy v Shopify admin > Slevy. Zjistěte více o [slevovém kódu.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
+          "content": "Datum zahájení a ukončení níže by mělo odpovídat datu zahájení a ukončení pravidla slevy v Shopify admin > Slevy. Zjistěte více o [slevovém kódu.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Popisek podmínek promo akce"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5626,7 +5653,7 @@
         "name": "Obchod",
         "settings": {
           "store_name": {
-            "info": "Název obchodu se musí shodovat s názvem vašeho obchodu definovaným v [nastavení lokality.](\/admin\/settings\/locations)",
+            "info": "Název obchodu se musí shodovat s názvem vašeho obchodu definovaným v [nastavení lokality.](/admin/settings/locations)",
             "default": "Můj obchod"
           },
           "pickup_price": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "Seznam rychlých objednávek",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "Postranní panel"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "Poměr stran původního příspěvku"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "Obrázek sociálního příspěvku"

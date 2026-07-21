@@ -103,7 +103,7 @@
       "settings": {
         "type_header_font": {
           "label": "Γραμματοσειρά",
-          "info": "Η επιλογή διαφορετικής γραμματοσειράς μπορεί να επηρεάσει την ταχύτητα του καταστήματός σας. [Μάθετε περισσότερα για τις γραμματοσειρές συστήματος.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Η επιλογή διαφορετικής γραμματοσειράς μπορεί να επηρεάσει την ταχύτητα του καταστήματός σας. [Μάθετε περισσότερα για τις γραμματοσειρές συστήματος.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "header__1": {
           "content": "Επικεφαλίδες"
@@ -112,7 +112,7 @@
           "content": "Κείμενο"
         },
         "type_body_font": {
-          "info": "Η επιλογή διαφορετικής γραμματοσειράς μπορεί να επηρεάσει την ταχύτητα του καταστήματός σας. [Μάθετε περισσότερα για τις γραμματοσειρές συστήματος.](https:\/\/help.shopify.com\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
+          "info": "Η επιλογή διαφορετικής γραμματοσειράς μπορεί να επηρεάσει την ταχύτητα του καταστήματός σας. [Μάθετε περισσότερα για τις γραμματοσειρές συστήματος.](https://help.shopify.com/manual/online-store/os/store-speed/improving-speed#fonts)"
         },
         "body_scale": {
           "label": "Κλίμακα μεγέθους γραμματοσειράς"
@@ -136,7 +136,7 @@
         "info": "Οι παρακάτω ρυθμίσεις προσθέτουν αυτόματα δείγματα χρωμάτων στο φίλτρο στη σελίδα συλλογής και αναζήτησης.",
         "swatches_filter": {
           "header": "Φίλτρο",
-          "info": "Για να φιλτράρετε χρησιμοποιώντας πρόσθετες τιμές χρώματος ή εικόνας, δημιουργήστε μετααντικείμενα και αναφορές μετααντικειμένων, και στη συνέχεια αλλάξτε τις παρακάτω ρυθμίσεις σύμφωνα με τις προτιμήσεις σας. [Μάθετε πώς να εμφανίζετε οπτικά φίλτρα χρησιμοποιώντας μετααντικείμενα.](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/filters#visual-filters)",
+          "info": "Για να φιλτράρετε χρησιμοποιώντας πρόσθετες τιμές χρώματος ή εικόνας, δημιουργήστε μετααντικείμενα και αναφορές μετααντικειμένων, και στη συνέχεια αλλάξτε τις παρακάτω ρυθμίσεις σύμφωνα με τις προτιμήσεις σας. [Μάθετε πώς να εμφανίζετε οπτικά φίλτρα χρησιμοποιώντας μετααντικείμενα.](https://help.shopify.com/manual/online-store/search-and-discovery/filters#visual-filters)",
           "display_text": "Εμφάνιση κειμένου δίπλα στα δείγματα",
           "visual_style": {
             "label": "Στυλ οπτικής τιμής",
@@ -160,7 +160,7 @@
       },
       "highlighted_features": {
         "header": "Επισημασμένα χαρακτηριστικά",
-        "paragraph": "Προβάλετε εξαιρετικές ποιότητες προϊόντων στις κάρτες για να επικοινωνήσετε την αξία με μια ματιά και να υποστηρίξετε ταχύτερες, πιο σίγουρες αποφάσεις αγοράς. Μάθετε περισσότερα στον [οδηγό χρήσης](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/custom-text-on-product-cards) μας.",
+        "paragraph": "Προβάλετε εξαιρετικές ποιότητες προϊόντων στις κάρτες για να επικοινωνήσετε την αξία με μια ματιά και να υποστηρίξετε ταχύτερες, πιο σίγουρες αποφάσεις αγοράς. Μάθετε περισσότερα στον [οδηγό χρήσης](https://support.omnithemes.com/blogs/theme-settings/custom-text-on-product-cards) μας.",
         "highlighted_features_position": {
           "option__1": "Κορυφή κάρτας",
           "option__2": "Κάτω από τον τίτλο προϊόντος",
@@ -199,7 +199,7 @@
       "color_option_info": "Συμπληρώστε όλα τα ονόματα της επιλογής χρώματος που χρησιμοποιείται στο κατάστημα, οι φράσεις διαφορετικών γλωσσών διαχωρίζονται με κόμμα. (π.χ. Color, Colour, Couleur).",
       "color_option_values": "Τιμές δείγματος χρώματος",
       "color_swatches_example": "Μία 'όνομα χρώματος:τιμή' ανά γραμμή. Έως τρία χρώματα μπορούν να χρησιμοποιηθούν για να εμφανίσουν κάθετες ρίγες. Π.χ.: 'Κόκκινες Μπλε Ρίγες:#e22#22e'",
-      "color_swatches_guide": "Για να χρησιμοποιήσετε μια εικόνα για δείγμα χρώματος, [ανεβάστε μια εικόνα PNG](\/admin\/settings\/files) με το όνομα αρχείου να ταιριάζει με το όνομα του χρώματος και τα κενά να αντικαθίστανται με παύλες. Π.χ. για 'Hot Pink', ανεβάστε 'hot-pink.png'.",
+      "color_swatches_guide": "Για να χρησιμοποιήσετε μια εικόνα για δείγμα χρώματος, [ανεβάστε μια εικόνα PNG](/admin/settings/files) με το όνομα αρχείου να ταιριάζει με το όνομα του χρώματος και τα κενά να αντικαθίστανται με παύλες. Π.χ. για 'Hot Pink', ανεβάστε 'hot-pink.png'.",
       "products_color_swatches_enable_on_collection_page": "Ενεργοποίηση στις κάρτες προϊόντων",
       "replace_color_with_variant_images": "Αντικατάσταση επιλογών χρώματος με εικόνες παραλλαγών",
       "products_color_swatches_style": "Στυλ δείγματος",
@@ -244,7 +244,7 @@
       "default_engraving_label": "Χάραξη αυτού του προϊόντος",
       "highlight_icon": {
         "name": "Επισημασμένα χαρακτηριστικά",
-        "info": "Εμφάνιση εικονιδίων στις κάρτες προϊόντων για να κατανοήσουν οι πελάτες γρήγορα τα επισημασμένα χαρακτηριστικά των προϊόντων (π.χ. συστατικά, αλλεργιογόνα). Μάθετε περισσότερα στον [οδηγό χρήσης](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/highlighted-icons-on-product-cards) μας.",
+        "info": "Εμφάνιση εικονιδίων στις κάρτες προϊόντων για να κατανοήσουν οι πελάτες γρήγορα τα επισημασμένα χαρακτηριστικά των προϊόντων (π.χ. συστατικά, αλλεργιογόνα). Μάθετε περισσότερα στον [οδηγό χρήσης](https://support.omnithemes.com/blogs/theme-settings/highlighted-icons-on-product-cards) μας.",
         "icon_1": "Εικονίδιο 1",
         "icon_2": "Εικονίδιο 2",
         "icon_3": "Εικονίδιο 3",
@@ -289,7 +289,7 @@
       "use_color_button": "Χρήση χρώματος κουμπιού",
       "button_colors": "Χρώματα κουμπιών"
     },
-    "menu":{
+    "menu": {
       "animation": {
         "label": "Κίνηση στοιχείου μενού επιπέδου 1",
         "note": "Λειτουργεί μόνο με τα στυλ επισήμανσης μενού Marker και Bling bling"
@@ -307,47 +307,47 @@
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https:\/\/www.linkedin.com\/shopify"
+          "info": "https://www.linkedin.com/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter (X)",
-          "info": "https:\/\/twitter.com\/shopify"
+          "info": "https://twitter.com/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https:\/\/facebook.com\/shopify"
+          "info": "https://facebook.com/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https:\/\/pinterest.com\/shopify"
+          "info": "https://pinterest.com/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http:\/\/instagram.com\/shopify"
+          "info": "http://instagram.com/shopify"
         },
         "social_tiktok_link": {
           "label": "TikTok",
-          "info": "https:\/\/tiktok.com\/@shopify"
+          "info": "https://tiktok.com/@shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https:\/\/shopify.tumblr.com"
+          "info": "https://shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https:\/\/www.snapchat.com\/add\/shopify"
+          "info": "https://www.snapchat.com/add/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https:\/\/www.youtube.com\/shopify"
+          "info": "https://www.youtube.com/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https:\/\/vimeo.com\/shopify"
+          "info": "https://vimeo.com/shopify"
         },
         "social_line_link": {
           "label": "LINE",
-          "info": "https:\/\/www.line.me\/shopify"
+          "info": "https://www.line.me/shopify"
         }
       }
     },
@@ -440,13 +440,40 @@
     },
     "product_label": {
       "name": "Ετικέτες και σήματα προϊόντων",
-      "info": "Οι ετικέτες και τα σήματα προϊόντων ρυθμίζονται στην ενότητα «Ετικέτες και σήματα προϊόντων» στην ομάδα «Επικάλυψη». Αν θέλετε να εμφανίσετε τα μεταπεδία προϊόντων ως ετικέτες και σήματα, συμπληρώστε τα κλειδιά μεταπεδίων στο παρακάτω πλαίσιο κειμένου και, στη συνέχεια, μεταβείτε στην ενότητα για να διαμορφώσετε την εμφάνιση των ετικετών. Γίνεται δεκτός μόνο ο τύπος μεταπεδίου «Κείμενο μονής γραμμής». Μάθετε περισσότερα στον [οδηγό χρήσης μας.](https:\/\/support.omnithemes.com\/blogs\/theme-settings\/product-labels-badges)",
+      "info": "Οι ετικέτες και τα σήματα προϊόντων ρυθμίζονται στην ενότητα «Ετικέτες και σήματα προϊόντων» στην ομάδα «Επικάλυψη». Αν θέλετε να εμφανίσετε τα μεταπεδία προϊόντων ως ετικέτες και σήματα, συμπληρώστε τα κλειδιά μεταπεδίων στο παρακάτω πλαίσιο κειμένου και, στη συνέχεια, μεταβείτε στην ενότητα για να διαμορφώσετε την εμφάνιση των ετικετών. Γίνεται δεκτός μόνο ο τύπος μεταπεδίου «Κείμενο μονής γραμμής». Μάθετε περισσότερα στον [οδηγό χρήσης μας.](https://support.omnithemes.com/blogs/theme-settings/product-labels-badges)",
       "settings": {
         "metafield_label": {
           "label": "Μεταπεδία που χρησιμοποιούνται σε ετικέτες",
           "info": "Συμπληρώστε τα πλήρη κλειδιά μεταπεδίων προϊόντος (π.χ. custom.metafield-1). Ένα κλειδί μεταπεδίου ανά σειρά."
         }
       }
+    },
+    "badges": {
+      "name": "Badges",
+      "info": "Set up to 10 badges. Each badge appears on products that have the matching tag.",
+      "tag": {
+        "label": "Tag",
+        "info": "The product tag that triggers this badge (e.g. \"New\")."
+      },
+      "text": {
+        "label": "Badge Text"
+      },
+      "background_color": {
+        "label": "Background Color"
+      },
+      "text_color": {
+        "label": "Text Color"
+      },
+      "badge_1": "Badge 1",
+      "badge_2": "Badge 2",
+      "badge_3": "Badge 3",
+      "badge_4": "Badge 4",
+      "badge_5": "Badge 5",
+      "badge_6": "Badge 6",
+      "badge_7": "Badge 7",
+      "badge_8": "Badge 8",
+      "badge_9": "Badge 9",
+      "badge_10": "Badge 10"
     },
     "favicon": {
       "name": "Εικονίδιο αγαπημένων",
@@ -468,9 +495,9 @@
       "cart_upsell": "Αύξηση πωλήσεων καλαθιού",
       "enable_cart_upsell": "Ενεργοποίηση στο μίνι καλάθι",
       "cart_upsell_note": "Εάν ενεργοποιηθεί στο μίνι καλάθι και στη σελίδα καλαθιού, οι προτάσεις αύξησης πωλήσεων μπορούν να εμφανίζονται με αυτή την προτεραιότητα (από υψηλή σε χαμηλή):",
-      "cart_upsell_note_1": "(1) δημιουργώντας ένα μεταπεδίο προϊόντος στην αύξηση πωλήσεων καλαθιού και αυτό το πεδίο δεν είναι κενό. [Δείτε τον οδηγό χρήσης μας για περισσότερες λεπτομέρειες.](https:\/\/support.omnithemes.com\/blogs\/user-guide\/custom-data-metafields#cart-upsell-metafield)",
+      "cart_upsell_note_1": "(1) δημιουργώντας ένα μεταπεδίο προϊόντος στην αύξηση πωλήσεων καλαθιού και αυτό το πεδίο δεν είναι κενό. [Δείτε τον οδηγό χρήσης μας για περισσότερες λεπτομέρειες.](https://support.omnithemes.com/blogs/user-guide/custom-data-metafields#cart-upsell-metafield)",
       "cart_upsell_note_2": "(2) επιλέγοντας μια λίστα προϊόντων χειροκίνητα στις παρακάτω ρυθμίσεις",
-      "cart_upsell_note_3": "(3) χρησιμοποιώντας δυναμικές προτάσεις βάσει των προτάσεων προϊόντων του Shopify. [Μάθετε περισσότερα.](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
+      "cart_upsell_note_3": "(3) χρησιμοποιώντας δυναμικές προτάσεις βάσει των προτάσεων προϊόντων του Shopify. [Μάθετε περισσότερα.](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
       "product_infor": "Εάν χρησιμοποιείτε μεταπεδίο προϊόντος για να προσθέσετε προϊόντα αύξησης πωλήσεων, αφήστε αυτό το πεδίο κενό.",
       "number_of_product_shown": "Αριθμός προϊόντων που εμφανίζονται",
       "section_label": "Ετικέτα ενότητας",
@@ -501,7 +528,7 @@
         },
         "cart_custom_field_pattern": {
           "label": "Regex επικύρωσης (Προχωρημένο)",
-          "info": "Για σκοπούς επικύρωσης πεδίου. Παρακαλούμε αποφύγετε τη χρήση του αν δεν είστε εξοικειωμένοι με το Regex. Για βοήθεια με το Regex ή την επίλυση προβλημάτων που προκύπτουν από αυτό, παρακαλούμε [επικοινωνήστε με την υποστήριξή μας](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Για σκοπούς επικύρωσης πεδίου. Παρακαλούμε αποφύγετε τη χρήση του αν δεν είστε εξοικειωμένοι με το Regex. Για βοήθεια με το Regex ή την επίλυση προβλημάτων που προκύπτουν από αυτό, παρακαλούμε [επικοινωνήστε με την υποστήριξή μας](https://omnithemes.com/contact/)."
         }
       },
       "settings": {
@@ -607,13 +634,13 @@
       "estimate_delivery": {
         "min_days": {
           "label": "Ελάχιστη(ες) ημέρα(ες) παράδοσης",
-          "info": "Ο ελάχιστος αριθμός ημερών που απαιτούνται για την αποστολή όλων των παραγγελιών. Χρησιμοποιήστε ένα ελληνικό ερωτηματικό για να διαφοροποιήσετε τις αγορές αποστολής εάν χρειάζεται (π.χ. US:6;GB:3), ή συμπληρώστε έναν αριθμό για να εφαρμοστεί σε όλες τις διαθέσιμες αγορές. Οι κωδικοί χωρών πρέπει να ακολουθούν το [πρότυπο ISO 3166.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Για να προσαρμόσετε για κάθε προϊόν, δημιουργήστε ένα μεταπεδίο με το κλειδί 'custom.delivery_date_min' και τύπο 'Κείμενο'. [Μάθετε περισσότερα για τη δημιουργία μεταπεδίων](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) ή [επικοινωνήστε με την υποστήριξή μας](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Ο ελάχιστος αριθμός ημερών που απαιτούνται για την αποστολή όλων των παραγγελιών. Χρησιμοποιήστε ένα ελληνικό ερωτηματικό για να διαφοροποιήσετε τις αγορές αποστολής εάν χρειάζεται (π.χ. US:6;GB:3), ή συμπληρώστε έναν αριθμό για να εφαρμοστεί σε όλες τις διαθέσιμες αγορές. Οι κωδικοί χωρών πρέπει να ακολουθούν το [πρότυπο ISO 3166.](https://www.iban.com/country-codes)",
+          "note": "Για να προσαρμόσετε για κάθε προϊόν, δημιουργήστε ένα μεταπεδίο με το κλειδί 'custom.delivery_date_min' και τύπο 'Κείμενο'. [Μάθετε περισσότερα για τη δημιουργία μεταπεδίων](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) ή [επικοινωνήστε με την υποστήριξή μας](https://omnithemes.com/contact/)."
         },
         "max_days": {
           "label": "Μέγιστη(ες) ημέρα(ες) παράδοσης",
-          "info": "Ο μέγιστος αριθμός ημερών που απαιτούνται για την αποστολή όλων των παραγγελιών. Χρησιμοποιήστε ένα ελληνικό ερωτηματικό για να διαφοροποιήσετε τις αγορές αποστολής εάν χρειάζεται (π.χ. US:6;GB:3), ή συμπληρώστε έναν αριθμό για να εφαρμοστεί σε όλες τις διαθέσιμες αγορές. Οι κωδικοί χωρών πρέπει να ακολουθούν το [πρότυπο ISO 3166.](https:\/\/www.iban.com\/country-codes)",
-          "note": "Για να προσαρμόσετε για κάθε προϊόν, δημιουργήστε ένα μεταπεδίο με το κλειδί 'custom.delivery_date_max' και τύπο 'Κείμενο'. [Μάθετε περισσότερα για τη δημιουργία μεταπεδίων](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields) ή [επικοινωνήστε με την υποστήριξή μας](https:\/\/omnithemes.com\/contact\/)."
+          "info": "Ο μέγιστος αριθμός ημερών που απαιτούνται για την αποστολή όλων των παραγγελιών. Χρησιμοποιήστε ένα ελληνικό ερωτηματικό για να διαφοροποιήσετε τις αγορές αποστολής εάν χρειάζεται (π.χ. US:6;GB:3), ή συμπληρώστε έναν αριθμό για να εφαρμοστεί σε όλες τις διαθέσιμες αγορές. Οι κωδικοί χωρών πρέπει να ακολουθούν το [πρότυπο ISO 3166.](https://www.iban.com/country-codes)",
+          "note": "Για να προσαρμόσετε για κάθε προϊόν, δημιουργήστε ένα μεταπεδίο με το κλειδί 'custom.delivery_date_max' και τύπο 'Κείμενο'. [Μάθετε περισσότερα για τη δημιουργία μεταπεδίων](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields) ή [επικοινωνήστε με την υποστήριξή μας](https://omnithemes.com/contact/)."
         },
         "cutoff_time": {
           "content": "Ώρα λήξης"
@@ -686,7 +713,7 @@
       "note": "Εμφάνιση αρχικής διεύθυνσης URL για σελίδες συλλογών με σελιδοποίηση ως canonical ετικέτες.",
       "header": {
         "content": "Επιχειρηματικές πληροφορίες",
-        "info": "Χρησιμοποιείται για εμφάνιση σε δομημένα δεδομένα ιστότοπου και στην κάρτα γραφήματος SERP της Google. Μάθετε περισσότερα για το [σχήμα οργάνωσης](https:\/\/developers.google.com\/search\/docs\/appearance\/structured-data\/organization)."
+        "info": "Χρησιμοποιείται για εμφάνιση σε δομημένα δεδομένα ιστότοπου και στην κάρτα γραφήματος SERP της Google. Μάθετε περισσότερα για το [σχήμα οργάνωσης](https://developers.google.com/search/docs/appearance/structured-data/organization)."
       },
       "enable_organization_schema": {
         "label": "Ενεργοποίηση σχήματος οργάνωσης"
@@ -727,15 +754,15 @@
       "other": {
         "header": "Άλλο σχήμα",
         "schema_breadcrumbs": "Προσθέστε σχήμα στα ψίχουλα",
-        "info_breadcrumbs": "Ανατρέξτε στην [τεκμηρίωση σχήματος BreadcrumbList](https:\/\/schema.org\/BreadcrumbList) για λεπτομέρειες.",
+        "info_breadcrumbs": "Ανατρέξτε στην [τεκμηρίωση σχήματος BreadcrumbList](https://schema.org/BreadcrumbList) για λεπτομέρειες.",
         "search": "Προσθέστε το σχήμα SearchAction στην αρχική σελίδα",
-        "info_search": "Ανατρέξτε στην [τεκμηρίωση σχήματος SearchAction](https:\/\/schema.org\/SearchAction) για λεπτομέρειες."
+        "info_search": "Ανατρέξτε στην [τεκμηρίωση σχήματος SearchAction](https://schema.org/SearchAction) για λεπτομέρειες."
       }
     },
     "combined_listing": {
       "name": "Συνδυασμένες καταχωρίσεις (Μόνο Plus)",
       "enable_combined": "Ενεργοποίηση συνδυασμένων καταχωρίσεων προϊόντων",
-      "info": "Εγκαταστήστε την εφαρμογή [Συνδυασμένη Καταχώριση](https:\/\/apps.shopify.com\/combined-listings) και ενεργοποιήστε αυτήν τη ρύθμιση για να χρησιμοποιήσετε αυτήν τη λειτουργία. Διαθέσιμο μόνο σε προγράμματα Plus και εταιρικού εμπορίου."
+      "info": "Εγκαταστήστε την εφαρμογή [Συνδυασμένη Καταχώριση](https://apps.shopify.com/combined-listings) και ενεργοποιήστε αυτήν τη ρύθμιση για να χρησιμοποιήσετε αυτήν τη λειτουργία. Διαθέσιμο μόνο σε προγράμματα Plus και εταιρικού εμπορίου."
     },
     "reorder": {
       "name": "Αναδιάταξη",
@@ -746,10 +773,10 @@
       "name": "Για προχωρημένους",
       "product_reviews_app": {
         "label": "Εφαρμογή αξιολογήσεων προϊόντων",
-        "info": "Επιλέξτε την εφαρμογή αξιολόγησης για ενσωμάτωση με την εγγενή αξιολόγηση προϊόντων του θέματος. Ορισμένες εφαρμογές στην επιλογή 'Άλλο' ενδέχεται να μην είναι πλήρως συμβατές με το θέμα, παρακαλούμε [επικοινωνήστε μαζί μας για υποστήριξη](https:\/\/omnithemes.com\/contact\/)."
+        "info": "Επιλέξτε την εφαρμογή αξιολόγησης για ενσωμάτωση με την εγγενή αξιολόγηση προϊόντων του θέματος. Ορισμένες εφαρμογές στην επιλογή 'Άλλο' ενδέχεται να μην είναι πλήρως συμβατές με το θέμα, παρακαλούμε [επικοινωνήστε μαζί μας για υποστήριξη](https://omnithemes.com/contact/)."
       },
       "custom_html": "Προσαρμοσμένος κώδικας",
-      "custom_info": "Για υποστήριξη σχετικά με τον χειρισμό προσαρμοσμένου κώδικα ή την επίλυση προβλημάτων που σχετίζονται με προσαρμοσμένο κώδικα, παρακαλούμε [επικοινωνήστε μαζί μας](https:\/\/omnithemes.com\/contact\/).",
+      "custom_info": "Για υποστήριξη σχετικά με τον χειρισμό προσαρμοσμένου κώδικα ή την επίλυση προβλημάτων που σχετίζονται με προσαρμοσμένο κώδικα, παρακαλούμε [επικοινωνήστε μαζί μας](https://omnithemes.com/contact/).",
       "additional_head": {
         "label": "HTML για την ετικέτα <head>",
         "info": "Χρησιμοποιείται για οποιονδήποτε προσαρμοσμένο κώδικα HTML για εφαρμογή σε όλο τον ιστότοπο. Τοποθετείται στο κάτω μέρος της ετικέτας <head> σε όλες τις σελίδες του θέματος, εκτός από τη σελίδα πληρωμής."
@@ -784,7 +811,7 @@
       "sections_spacing": "Διάστημα ενοτήτων",
       "lang_direction": {
         "label": "Γλώσσες RTL",
-        "info": "Εισαγάγετε τους κωδικούς γλώσσας για να εμφανίσετε τις γλώσσες σε διάταξη RTL. Όλοι οι κωδικοί πρέπει να ακολουθούν τον [Πίνακα Κωδικών Γλώσσας ISO](https:\/\/www.w3schools.com\/tags\/ref_language_codes.asp) και να διαχωρίζονται με κόμματα (Π.χ.: ar,fa,ps)"
+        "info": "Εισαγάγετε τους κωδικούς γλώσσας για να εμφανίσετε τις γλώσσες σε διάταξη RTL. Όλοι οι κωδικοί πρέπει να ακολουθούν τον [Πίνακα Κωδικών Γλώσσας ISO](https://www.w3schools.com/tags/ref_language_codes.asp) και να διαχωρίζονται με κόμματα (Π.χ.: ar,fa,ps)"
       },
       "page_width": "Πλάτος σελίδας",
       "enable_rounded_corners": {
@@ -822,8 +849,8 @@
       "disable_zoom_info": "Κινούμενα σχέδια μεγέθυνσης εικόνας που χρησιμοποιούνται σε: Εικόνες κάρτας προϊόντος, Εικόνες κάρτας συλλογής, Συλλογή μέσων, Πλέγμα προώθησης, Αναδυόμενο παράθυρο προώθησης, Στήλες κειμένου με εικόνα.",
       "enable_page_transition": "Ενεργοποίηση μετάβασης σελίδας"
     },
-    "icon":{
-      "icon_options":{
+    "icon": {
+      "icon_options": {
         "option_1": "Κλασικό",
         "option_2": "Μοντέρνο"
       }
@@ -832,7 +859,7 @@
       "name": "Μπάρα cookie",
       "settings": {
         "paragraph": {
-          "content": "Ζητήστε τη συγκατάθεση των πελατών σας για τη χρήση cookies και την επεξεργασία των δεδομένων τους, όπως απαιτείται από την Οδηγία για την ηλεκτρονική ιδιωτικότητα της Ευρωπαϊκής Ένωσης και τον Γενικό Κανονισμό Προστασίας Δεδομένων. [Μάθετε περισσότερα](https:\/\/help.shopify.com\/manual\/your-account\/privacy\/GDPR)"
+          "content": "Ζητήστε τη συγκατάθεση των πελατών σας για τη χρήση cookies και την επεξεργασία των δεδομένων τους, όπως απαιτείται από την Οδηγία για την ηλεκτρονική ιδιωτικότητα της Ευρωπαϊκής Ένωσης και τον Γενικό Κανονισμό Προστασίας Δεδομένων. [Μάθετε περισσότερα](https://help.shopify.com/manual/your-account/privacy/GDPR)"
         },
         "notice": {
           "label": "Ειδοποίηση cookie"
@@ -880,128 +907,128 @@
     },
     "user_guide_link": {
       "header": {
-        "header_general": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-header-section-header-block) αυτή την ενότητα.",
+        "header_general": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-header-section-header-block) αυτή την ενότητα.",
         "mega_menu": {
-          "simple_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-simple-menu-style) αυτό το μπλοκ.",
-          "tree_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tree-menu-style) αυτό το μπλοκ.",
-          "banner_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-banner-menu-style) αυτό το μπλοκ.",
-          "product_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-product-menu-style) αυτό το μπλοκ.",
-          "blog_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-blog-menu-style) αυτό το μπλοκ.",
-          "tabbed_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-tabbed-menu-style) αυτό το μπλοκ.",
-          "contact_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-set-up-the-contact-menu-style) αυτό το μπλοκ.",
-          "cta_button": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-add-a-cta-button-on-the-menu) αυτό το μπλοκ."
+          "simple_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-simple-menu-style) αυτό το μπλοκ.",
+          "tree_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tree-menu-style) αυτό το μπλοκ.",
+          "banner_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-banner-menu-style) αυτό το μπλοκ.",
+          "product_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-product-menu-style) αυτό το μπλοκ.",
+          "blog_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-blog-menu-style) αυτό το μπλοκ.",
+          "tabbed_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-tabbed-menu-style) αυτό το μπλοκ.",
+          "contact_menu": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-set-up-the-contact-menu-style) αυτό το μπλοκ.",
+          "cta_button": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-add-a-cta-button-on-the-menu) αυτό το μπλοκ."
         },
-        "announcement_bar": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/user-guide-group-section-header-section-announcement-bar) αυτή την ενότητα.",
-        "mobile_navigation": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/mobile-navigation) αυτή την ενότητα."
+        "announcement_bar": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/user-guide-group-section-header-section-announcement-bar) αυτή την ενότητα.",
+        "mobile_navigation": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide-header-1/mobile-navigation) αυτή την ενότητα."
       },
       "footer": {
-        "footer": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/footer\/footer) αυτή την ενότητα.",
-        "quicklinks": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/footer\/quicklinks) αυτή την ενότητα."
+        "footer": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/footer/footer) αυτή την ενότητα.",
+        "quicklinks": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/footer/quicklinks) αυτή την ενότητα."
       },
       "section_and_blocks": {
-        "blog_post": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/blog-post) αυτή την ενότητα.",
-        "collection_list": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list) αυτή την ενότητα.",
-        "collage": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collage) αυτή την ενότητα.",
-        "collection_list_banner": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-banner) αυτή την ενότητα.",
-        "collection_list_carousel": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/collection-list-carousel) αυτή την ενότητα.",
-        "comparison_table": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/comparison-table) αυτή την ενότητα.",
-        "contact_form": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/contact-form) αυτή την ενότητα.",
-        "custom_liquid": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/custom-liquid) αυτή την ενότητα.",
-        "email_signup": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/email-signup-newsletter) αυτή την ενότητα.",
-        "event_calendar": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/user-guide-event-calendar) αυτή την ενότητα.",
-        "faq": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/faqs) αυτή την ενότητα.",
-        "featured_category": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-categories) αυτή την ενότητα.",
-        "featured_collection": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-collections) αυτή την ενότητα.",
-        "featured_product": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/featured-product) αυτή την ενότητα.",
-        "flash_sale": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flash-sale) αυτή την ενότητα.",
-        "flow": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/flow) αυτή την ενότητα.",
-        "highlight_text_with_image": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/highlight-text-with-image) αυτή την ενότητα.",
-        "image_comparison": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/image-comparison) αυτή την ενότητα.",
-        "logo_list": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/logo-list) αυτή την ενότητα.",
-        "map": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/map-1) αυτή την ενότητα.",
-        "media_gallery": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-gallery) αυτή την ενότητα.",
-        "media_with_text": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/media-with-text) αυτή την ενότητα.",
-        "multiple_store": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/multiple-stores) αυτή την ενότητα.",
-        "page": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/page) αυτή την ενότητα.",
-        "product_attribute_table": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-attribute-table) αυτή την ενότητα.",
-        "product_bundle": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-bundle) αυτή την ενότητα.",
-        "product_comparison_table": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-comparison-table) αυτή την ενότητα.",
-        "product_highlight": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-highlight) αυτή την ενότητα.",
-        "product_grid": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/product-grid) αυτή την ενότητα.",
-        "promo_code_list": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promo-code-list) αυτή την ενότητα.",
-        "promotion_banner": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-banner) αυτή την ενότητα.",
-        "promotion_grid": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/promotion-grid) αυτή την ενότητα.",
-        "recently_viewed_products": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/recently-viewed-products) αυτή την ενότητα.",
-        "related_blog_posts": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-blog-posts) αυτή την ενότητα.",
-        "related_collections": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/related-collections) αυτή την ενότητα.",
-        "rich_text": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/rich-text) αυτή την ενότητα.",
-        "scrolling_promotion": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/scrolling-promotion) αυτή την ενότητα.",
-        "shop_the_look": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/shop-the-look) αυτή την ενότητα.",
-        "slideshow": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/slideshow) αυτή την ενότητα.",
-        "social_feeds": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/social-feeds) αυτή την ενότητα.",
-        "tabs": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/tabs) αυτή την ενότητα.",
-        "testimonial": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial) αυτή την ενότητα.",
-        "testimonial_with_cards": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/testimonial-with-cards) αυτή την ενότητα.",
-        "text_columns_with_icons": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-icons) αυτή την ενότητα.",
-        "text_columns_with_images": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/text-columns-with-images) αυτή την ενότητα.",
-        "timeline": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/timeline) αυτή την ενότητα.",
-        "vertical_slideshow": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/vertical-slideshow) αυτή την ενότητα.",
-        "video": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video) αυτή την ενότητα.",
-        "video_hero": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-hero) αυτή την ενότητα.",
-        "video_looping": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-looping) αυτή την ενότητα.",
-        "video_shopping": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/sections-blocks\/video-shopping) αυτή την ενότητα.",
-        "flexible_area": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com/blogs\/sections-blocks\/flexible-area) αυτή την ενότητα."
+        "blog_post": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/blog-post) αυτή την ενότητα.",
+        "collection_list": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/collection-list) αυτή την ενότητα.",
+        "collage": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/collage) αυτή την ενότητα.",
+        "collection_list_banner": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/collection-list-banner) αυτή την ενότητα.",
+        "collection_list_carousel": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/collection-list-carousel) αυτή την ενότητα.",
+        "comparison_table": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/comparison-table) αυτή την ενότητα.",
+        "contact_form": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/contact-form) αυτή την ενότητα.",
+        "custom_liquid": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/custom-liquid) αυτή την ενότητα.",
+        "email_signup": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/email-signup-newsletter) αυτή την ενότητα.",
+        "event_calendar": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/user-guide-event-calendar) αυτή την ενότητα.",
+        "faq": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/faqs) αυτή την ενότητα.",
+        "featured_category": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/featured-categories) αυτή την ενότητα.",
+        "featured_collection": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/featured-collections) αυτή την ενότητα.",
+        "featured_product": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/featured-product) αυτή την ενότητα.",
+        "flash_sale": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/flash-sale) αυτή την ενότητα.",
+        "flow": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/flow) αυτή την ενότητα.",
+        "highlight_text_with_image": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/highlight-text-with-image) αυτή την ενότητα.",
+        "image_comparison": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/image-comparison) αυτή την ενότητα.",
+        "logo_list": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/logo-list) αυτή την ενότητα.",
+        "map": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/map-1) αυτή την ενότητα.",
+        "media_gallery": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/media-gallery) αυτή την ενότητα.",
+        "media_with_text": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/media-with-text) αυτή την ενότητα.",
+        "multiple_store": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/multiple-stores) αυτή την ενότητα.",
+        "page": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/page) αυτή την ενότητα.",
+        "product_attribute_table": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/product-attribute-table) αυτή την ενότητα.",
+        "product_bundle": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/product-bundle) αυτή την ενότητα.",
+        "product_comparison_table": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/product-comparison-table) αυτή την ενότητα.",
+        "product_highlight": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/product-highlight) αυτή την ενότητα.",
+        "product_grid": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/product-grid) αυτή την ενότητα.",
+        "promo_code_list": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/promo-code-list) αυτή την ενότητα.",
+        "promotion_banner": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/promotion-banner) αυτή την ενότητα.",
+        "promotion_grid": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/promotion-grid) αυτή την ενότητα.",
+        "recently_viewed_products": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/recently-viewed-products) αυτή την ενότητα.",
+        "related_blog_posts": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/related-blog-posts) αυτή την ενότητα.",
+        "related_collections": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/related-collections) αυτή την ενότητα.",
+        "rich_text": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/rich-text) αυτή την ενότητα.",
+        "scrolling_promotion": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/scrolling-promotion) αυτή την ενότητα.",
+        "shop_the_look": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/shop-the-look) αυτή την ενότητα.",
+        "slideshow": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/slideshow) αυτή την ενότητα.",
+        "social_feeds": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/social-feeds) αυτή την ενότητα.",
+        "tabs": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/tabs) αυτή την ενότητα.",
+        "testimonial": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/testimonial) αυτή την ενότητα.",
+        "testimonial_with_cards": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/testimonial-with-cards) αυτή την ενότητα.",
+        "text_columns_with_icons": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-icons) αυτή την ενότητα.",
+        "text_columns_with_images": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/text-columns-with-images) αυτή την ενότητα.",
+        "timeline": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/timeline) αυτή την ενότητα.",
+        "vertical_slideshow": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/vertical-slideshow) αυτή την ενότητα.",
+        "video": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/video) αυτή την ενότητα.",
+        "video_hero": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/video-hero) αυτή την ενότητα.",
+        "video_looping": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/video-looping) αυτή την ενότητα.",
+        "video_shopping": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/video-shopping) αυτή την ενότητα.",
+        "flexible_area": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/sections-blocks/flexible-area) αυτή την ενότητα."
       },
       "product_page": {
-        "product_description": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-description) αυτή την ενότητα.",
+        "product_description": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/product-description) αυτή την ενότητα.",
         "product_information": {
-          "product_information_general": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-information) αυτή την ενότητα.",
-          "buy_buttons": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-set-up-add-to-cart-and-buy-buttons) αυτό το μπλοκ.",
-          "back_in_stock_alert": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-back-in-stock-alert) αυτό το μπλοκ.",
-          "basic_info": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-basic-information-title-price-description-etc) αυτό το μπλοκ.",
-          "collapsible_tab": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-create-collapsible-tabs) αυτό το μπλοκ.",
-          "collection_link": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-collection-link) αυτό το μπλοκ.",
-          "complementary_product": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-complementary-products) αυτό το μπλοκ.",
-          "customizable_options": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide\/customizable-options) αυτό το μπλοκ.",
-          "estimate_delivery": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-estimated-shipping-date-of-the-product) αυτό το μπλοκ.",
-          "engraving": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/engraving) αυτό το μπλοκ.",
-          "featured_icon": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-highlighted-information-optional-icons) αυτό το μπλοκ.",
-          "frequently_bought_together": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-frequently-bought-together-products) αυτό το μπλοκ.",
-          "gift_wrapping": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-gift-wrapping-option) αυτό το μπλοκ.",
-          "horizontal_tab": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-the-horizontal-tabs) αυτό το μπλοκ.",
-          "inventory_status": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) αυτό το μπλοκ.",
-          "nutrition_fact_bar": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-nutrition-fact-bar) αυτό το μπλοκ.",
-          "payment_method": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-the-payment-method-for-each-product) αυτό το μπλοκ.",
-          "product_sibling": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/user-guide\/product-siblings) αυτό το μπλοκ.",
-          "rating": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-ratings) αυτό το μπλοκ.",
-          "size_chart": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-size-chart) αυτό το μπλοκ.",
-          "social_sharing": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-social-sharing-icons) αυτό το μπλοκ.",
-          "sticky_add_to_cart": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-a-sticky-add-to-cart-bar) αυτό το μπλοκ.",
-          "table_of_information": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-add-a-table-of-information) αυτό το μπλοκ.",
-          "trust_badge": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-trust-badges) αυτό το μπλοκ.",
-          "volume_pricing": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/volume-pricing-table) αυτό το μπλοκ.",
-          "other_blocks": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-other-blocks) αυτό το μπλοκ."
+          "product_information_general": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/product-information) αυτή την ενότητα.",
+          "buy_buttons": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-set-up-add-to-cart-and-buy-buttons) αυτό το μπλοκ.",
+          "back_in_stock_alert": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-a-back-in-stock-alert) αυτό το μπλοκ.",
+          "basic_info": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-product-basic-information-title-price-description-etc) αυτό το μπλοκ.",
+          "collapsible_tab": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-create-collapsible-tabs) αυτό το μπλοκ.",
+          "collection_link": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-add-a-collection-link) αυτό το μπλοκ.",
+          "complementary_product": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-complementary-products) αυτό το μπλοκ.",
+          "customizable_options": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide/customizable-options) αυτό το μπλοκ.",
+          "estimate_delivery": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-estimated-shipping-date-of-the-product) αυτό το μπλοκ.",
+          "engraving": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/engraving) αυτό το μπλοκ.",
+          "featured_icon": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-highlighted-information-optional-icons) αυτό το μπλοκ.",
+          "frequently_bought_together": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-frequently-bought-together-products) αυτό το μπλοκ.",
+          "gift_wrapping": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-the-gift-wrapping-option) αυτό το μπλοκ.",
+          "horizontal_tab": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-add-the-horizontal-tabs) αυτό το μπλοκ.",
+          "inventory_status": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) αυτό το μπλοκ.",
+          "nutrition_fact_bar": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-add-a-nutrition-fact-bar) αυτό το μπλοκ.",
+          "payment_method": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-the-payment-method-for-each-product) αυτό το μπλοκ.",
+          "product_sibling": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/user-guide/product-siblings) αυτό το μπλοκ.",
+          "rating": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-ratings) αυτό το μπλοκ.",
+          "size_chart": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-add-size-chart) αυτό το μπλοκ.",
+          "social_sharing": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-social-sharing-icons) αυτό το μπλοκ.",
+          "sticky_add_to_cart": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-a-sticky-add-to-cart-bar) αυτό το μπλοκ.",
+          "table_of_information": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-add-a-table-of-information) αυτό το μπλοκ.",
+          "trust_badge": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-trust-badges) αυτό το μπλοκ.",
+          "volume_pricing": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/volume-pricing-table) αυτό το μπλοκ.",
+          "other_blocks": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/how-to-show-other-blocks) αυτό το μπλοκ."
         },
-        "product_specification": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-specifications) αυτή την ενότητα.",
-        "product_recommendation": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/product-recommendations) αυτή την ενότητα.",
-        "quick_order_list": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/product-page\/quick-order-list) αυτή την ενότητα."
+        "product_specification": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/product-specifications) αυτή την ενότητα.",
+        "product_recommendation": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/product-recommendations) αυτή την ενότητα.",
+        "quick_order_list": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/product-page/quick-order-list) αυτή την ενότητα."
       },
       "collection_page": {
-        "collection_banner": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/collection-page\/collection-banner) αυτή την ενότητα."
+        "collection_banner": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/collection-page/collection-banner) αυτή την ενότητα."
       },
       "pages_and_templates": {
-        "blog_post_page": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-blog-detail-pages) αυτή την ενότητα.",
-        "blog_page": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/page-templates\/blog-page) αυτή την ενότητα.",
-        "cart_page": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/page-templates\/cart-page) αυτή την ενότητα.",
-        "collection_list_page": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/page-templates\/collection-list-page) αυτή την ενότητα.",
-        "search_page": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/page-templates\/search-page) αυτή την ενότητα."
+        "blog_post_page": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/page-templates/blog-blog-detail-pages) αυτή την ενότητα.",
+        "blog_page": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/page-templates/blog-page) αυτή την ενότητα.",
+        "cart_page": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/page-templates/cart-page) αυτή την ενότητα.",
+        "collection_list_page": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/page-templates/collection-list-page) αυτή την ενότητα.",
+        "search_page": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/page-templates/search-page) αυτή την ενότητα."
       },
       "overlay_group": {
-        "cookie_banner": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/cookie-banner) αυτή την ενότητα.",
-        "popup": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/popup) αυτή την ενότητα.",
-        "store_selector": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/store-selector) αυτή την ενότητα.",
-        "quick_view": "Μάθετε [πώς να χρησιμοποιήσετε](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/quick-view) αυτή την ενότητα.",
-        "mobile_dock": "Learn [how to use](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/mobile-dock) this section."
+        "cookie_banner": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/overlay-group-1/cookie-banner) αυτή την ενότητα.",
+        "popup": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/overlay-group-1/popup) αυτή την ενότητα.",
+        "store_selector": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/overlay-group-1/store-selector) αυτή την ενότητα.",
+        "quick_view": "Μάθετε [πώς να χρησιμοποιήσετε](https://support.omnithemes.com/blogs/overlay-group-1/quick-view) αυτή την ενότητα.",
+        "mobile_dock": "Learn [how to use](https://support.omnithemes.com/blogs/overlay-group-1/mobile-dock) this section."
       }
     },
     "all": {
@@ -1024,7 +1051,7 @@
       "icon": {
         "info_button_icon": "Ισχύει για τον τύπο κινούμενης εικόνας 'Κομμένο με εικονίδιο'.",
         "custom_icon": "Προσαρμοσμένο εικονίδιο (κώδικας SVG)",
-        "custom_icon_info": "Για βοήθεια με προσαρμοσμένο κώδικα SVG ή επίλυση προβλημάτων που προκύπτουν από προσαρμοσμένο κώδικα SVG, παρακαλούμε [επικοινωνήστε με την υποστήριξή μας](https:\/\/omnithemes.com\/contact\/).",
+        "custom_icon_info": "Για βοήθεια με προσαρμοσμένο κώδικα SVG ή επίλυση προβλημάτων που προκύπτουν από προσαρμοσμένο κώδικα SVG, παρακαλούμε [επικοινωνήστε με την υποστήριξή μας](https://omnithemes.com/contact/).",
         "label": "Εικονίδιο",
         "another_icon_label": "Χρησιμοποιήστε άλλο εικονίδιο",
         "another_icon_info": "Εάν θέλετε να χρησιμοποιήσετε διαφορετικά εικονίδια από τις παραπάνω επιλογές, αναζητήστε ένα εικονίδιο από τη [λίστα εικονιδίων](https://support.omnithemes.com/blogs/user-guide/theme-icons) και συμπληρώστε το όνομα του εικονιδίου εδώ (Π.χ.: price tag).",
@@ -1389,7 +1416,7 @@
               "label": "Σύνδεσμος στοιχείου μενού"
             },
             "menu": {
-              "info": "Επιλέξτε ένα μενού για να εφαρμόσετε σε αυτό το στοιχείο μενού. Μάθετε πώς να δημιουργήσετε ένα μενού 4 επιπέδων [εδώ.](https:\/\/support.omnithemes.com\/blogs\/user-guide-header-1\/how-to-create-mega-menus)"
+              "info": "Επιλέξτε ένα μενού για να εφαρμόσετε σε αυτό το στοιχείο μενού. Μάθετε πώς να δημιουργήσετε ένα μενού 4 επιπέδων [εδώ.](https://support.omnithemes.com/blogs/user-guide-header-1/how-to-create-mega-menus)"
             },
             "image_style": {
               "info": "Ισχύει για στοιχεία καρτελών και υπομενού. Για μεγάλο μέγεθος εικόνας, η στρογγυλή επιλογή δεν είναι διαθέσιμη."
@@ -2058,7 +2085,7 @@
             },
             "show_rating": {
               "label": "Εμφάνιση βαθμολογίας προϊόντος",
-              "info": "Για να εμφανίσετε μια βαθμολογία, προσθέστε μια εφαρμογή βαθμολογίας προϊόντος. [Μάθετε περισσότερα](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews)"
+              "info": "Για να εμφανίσετε μια βαθμολογία, προσθέστε μια εφαρμογή βαθμολογίας προϊόντος. [Μάθετε περισσότερα](https://help.shopify.com/en/manual/products/product-reviews)"
             },
             "image_ratio": {
               "info": "Μην εφαρμόζετε σε στυλ κειμένου επικάλυψης."
@@ -2087,7 +2114,7 @@
         }
       }
     },
-    "featured-category":{
+    "featured-category": {
       "name": "Επιλεγμένες κατηγορίες",
       "category_card": {
         "name": "Κάρτα κατηγορίας",
@@ -2138,7 +2165,7 @@
           "name": "Όνομα προμηθευτή",
           "settings": {
             "paragraph__1": "Εμφάνιση περισσότερων λεπτομερειών για τον προμηθευτή του προϊόντος ακολουθώντας αυτή την προτεραιότητα (από υψηλή σε χαμηλή):",
-            "paragraph__2": "(1) συνδέοντας το όνομα του προμηθευτή με τη συλλογή του αντίστοιχου προμηθευτή. [Μάθετε περισσότερα](https:\/\/shopify.dev\/docs\/api\/liquid\/filters#link_to_vendor)",
+            "paragraph__2": "(1) συνδέοντας το όνομα του προμηθευτή με τη συλλογή του αντίστοιχου προμηθευτή. [Μάθετε περισσότερα](https://shopify.dev/docs/api/liquid/filters#link_to_vendor)",
             "paragraph__3": "(2) επιλέγοντας μια σελίδα για να εμφανίσετε το περιεχόμενο της σελίδας σε ένα αναδυόμενο παράθυρο χωρίς να φύγετε από τον τρέχοντα ιστότοπο. Αν ενεργοποιήσετε το μεταπεδίο για να εμφανίσετε τη συλλογή προμηθευτών στο διαχειριστικό, ο σύνδεσμος θα εφαρμοστεί αυτόματα εδώ.",
             "paragraph__4": "(3) συμπληρώνοντας μια διεύθυνση URL για να οδηγήσει σε έναν εξωτερικό σύνδεσμο.",
             "link_vendor": {
@@ -2165,7 +2192,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Εμφάνιση δυναμικών κουμπιών πληρωμής",
-              "info": "Χρησιμοποιώντας τους τρόπους πληρωμής που είναι διαθέσιμοι στο κατάστημά σας, οι πελάτες βλέπουν την προτιμώμενη επιλογή τους, όπως το PayPal ή το Apple Pay. [Μάθετε περισσότερα](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+              "info": "Χρησιμοποιώντας τους τρόπους πληρωμής που είναι διαθέσιμοι στο κατάστημά σας, οι πελάτες βλέπουν την προτιμώμενη επιλογή τους, όπως το PayPal ή το Apple Pay. [Μάθετε περισσότερα](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_add_to_cart": {
               "label": "Εμφάνιση «Προσθήκη στο καλάθι»"
@@ -2179,7 +2206,7 @@
             "pickup_availability": {
               "content": "Διαθεσιμότητα παραλαβής",
               "label": "Ενεργοποίηση δυνατότητας διαθεσιμότητας παραλαβής",
-              "info": "Μάθετε πώς να ρυθμίσετε αυτή τη λειτουργία [εδώ](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/local-methods\/local-pickup)"
+              "info": "Μάθετε πώς να ρυθμίσετε αυτή τη λειτουργία [εδώ](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup)"
             },
             "preorder": {
               "preorder_show": {
@@ -2213,7 +2240,7 @@
           "settings": {
             "incoming": {
               "label": "Ειδοποίηση για επερχόμενο απόθεμα",
-              "info": "Μάθετε περισσότερα για την [κατάσταση εισερχόμενου αποθέματος](https:\/\/support.omnithemes.com\/blogs\/product-page\/how-to-show-product-inventory-status) και πώς να [δημιουργήσετε μεταφορές αποθέματος.](https:\/\/help.shopify.com\/en\/manual\/products\/inventory\/transfers\/create-transfer)"
+              "info": "Μάθετε περισσότερα για την [κατάσταση εισερχόμενου αποθέματος](https://support.omnithemes.com/blogs/product-page/how-to-show-product-inventory-status) και πώς να [δημιουργήσετε μεταφορές αποθέματος.](https://help.shopify.com/en/manual/products/inventory/transfers/create-transfer)"
             },
             "message_incoming": {
               "label": "Ειδοποίηση εισερχόμενης μεταφοράς",
@@ -2254,7 +2281,7 @@
         },
         "estimate_delivery": {
           "name": "Εκτιμώμενος χρόνος παράδοσης",
-          "paragraph": "Για να προσαρμόσετε το μήνυμα για κάθε προϊόν, δημιουργήστε ένα metafield με το κλειδί 'custom.delivery_date_message' και τον τύπο 'Rich text'. [Μάθετε περισσότερα σχετικά με τη δημιουργία metafields.](https:\/\/help.shopify.com\/en\/manual\/custom-data\/metafields\/using-metafields)",
+          "paragraph": "Για να προσαρμόσετε το μήνυμα για κάθε προϊόν, δημιουργήστε ένα metafield με το κλειδί 'custom.delivery_date_message' και τον τύπο 'Rich text'. [Μάθετε περισσότερα σχετικά με τη δημιουργία metafields.](https://help.shopify.com/en/manual/custom-data/metafields/using-metafields)",
           "settings": {
             "message": {
               "info__1": "Μπορείτε να χρησιμοποιήσετε αυτούς τους κωδικούς στο μήνυμα:",
@@ -2645,7 +2672,7 @@
         },
         "header": {
           "content": "Μέσα",
-          "info": "Μάθετε περισσότερα σχετικά με τους [τύπους μέσων](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Μάθετε περισσότερα σχετικά με τους [τύπους μέσων](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_loop": {
           "label": "Ενεργοποίηση επανάληψης βίντεο"
@@ -2691,7 +2718,7 @@
           "label": "Εμφάνιση εικονιδίων πληρωμής"
         },
         "custom_payment": {
-          "info": "Προσαρμόστε τα εικονίδια πληρωμής σας. Για παράδειγμα, συμπληρώστε σε αυτό το πεδίο τις επιλεγμένες μεθόδους σας: apple_pay, google_pay, tabby, tamara. [Μάθετε περισσότερα](https:\/\/shopify.dev\/docs\/api\/checkout-ui-extensions\/2024-10\/components\/media\/paymenticon#paymentmethod)",
+          "info": "Προσαρμόστε τα εικονίδια πληρωμής σας. Για παράδειγμα, συμπληρώστε σε αυτό το πεδίο τις επιλεγμένες μεθόδους σας: apple_pay, google_pay, tabby, tamara. [Μάθετε περισσότερα](https://shopify.dev/docs/api/checkout-ui-extensions/2024-10/components/media/paymenticon#paymentmethod)",
           "label": "Προσαρμοσμένα εικονίδια πληρωμής SVG"
         },
         "header_add_info": {
@@ -2721,7 +2748,7 @@
         },
         "header_follow_on_shop": {
           "content": "Ακολουθήστε στο Shop",
-          "info": "Εμφάνιση κουμπιού παρακολούθησης για το κατάστημά σας στην εφαρμογή Shop. [Μάθετε περισσότερα](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "Εμφάνιση κουμπιού παρακολούθησης για το κατάστημά σας στην εφαρμογή Shop. [Μάθετε περισσότερα](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Ενεργοποίηση Ακολουθήστε στο Shop"
@@ -3425,7 +3452,7 @@
           "info": "Σημείωση: Επιλογές μεγαλύτερες από 20 στοιχεία ανά σελίδα δεν συνιστώνται για σκοπούς βελτιστοποίησης απόδοσης."
         },
         "paragraph": {
-          "content": "Αλλάξτε τα αποσπάσματα επεξεργάζοντας τις αναρτήσεις του ιστολογίου σας. [Μάθετε περισσότερα](https:\/\/help.shopify.com\/manual\/online-store\/blogs\/writing-blogs#display-an-excerpt-from-a-blog-post)"
+          "content": "Αλλάξτε τα αποσπάσματα επεξεργάζοντας τις αναρτήσεις του ιστολογίου σας. [Μάθετε περισσότερα](https://help.shopify.com/manual/online-store/blogs/writing-blogs#display-an-excerpt-from-a-blog-post)"
         },
         "layout": {
           "info": "Οι αναρτήσεις είναι στοιβαγμένες σε κινητά."
@@ -3470,7 +3497,7 @@
           "label": "Κάντε τον τίτλο συλλογής πλήρους πλάτους σε επιτραπέζιο υπολογιστή"
         },
         "paragraph": {
-          "content": "Προσθέστε μια περιγραφή ή εικόνα επεξεργάζοντας τη συλλογή σας. [Μάθετε περισσότερα](https:\/\/help.shopify.com\/manual\/products\/collections\/collection-layout)"
+          "content": "Προσθέστε μια περιγραφή ή εικόνα επεξεργάζοντας τη συλλογή σας. [Μάθετε περισσότερα](https://help.shopify.com/manual/products/collections/collection-layout)"
         },
         "show_collection_name": {
           "label": "Εμφάνιση τίτλου συλλογής"
@@ -3480,7 +3507,7 @@
         },
         "show_collection_image": {
           "label": "Εμφάνιση εικόνας συλλογής",
-          "info": "Για καλύτερα αποτελέσματα, χρησιμοποιήστε μια εικόνα με αναλογία διαστάσεων 16:9. [Μάθετε περισσότερα](https:\/\/help.shopify.com\/manual\/shopify-admin\/productivity-tools\/image-editor#understanding-image-aspect-ratio)"
+          "info": "Για καλύτερα αποτελέσματα, χρησιμοποιήστε μια εικόνα με αναλογία διαστάσεων 16:9. [Μάθετε περισσότερα](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
         "desktop_height": {
           "options__5": {
@@ -3608,7 +3635,7 @@
         "seo": {
           "enable_micro_schema": {
             "label": "Ενεργοποίηση σχήματος μικροδεδομένων",
-            "info" : "Οι μηχανές αναζήτησης ενδέχεται να μην έχουν ακόμη ευρετηριάσει αυτές τις πληροφορίες. Ανατρέξτε στην [τεκμηρίωση σχήματος CollectionPage](https:\/\/schema.org\/CollectionPage) για λεπτομέρειες."
+            "info": "Οι μηχανές αναζήτησης ενδέχεται να μην έχουν ακόμη ευρετηριάσει αυτές τις πληροφορίες. Ανατρέξτε στην [τεκμηρίωση σχήματος CollectionPage](https://schema.org/CollectionPage) για λεπτομέρειες."
           }
         }
       }
@@ -3639,7 +3666,7 @@
           }
         },
         "image_ratio": {
-          "info": "Προσθέστε εικόνες επεξεργαζόμενοι τις συλλογές σας. [Μάθετε περισσότερα](https:\/\/help.shopify.com\/manual\/products\/collections)"
+          "info": "Προσθέστε εικόνες επεξεργαζόμενοι τις συλλογές σας. [Μάθετε περισσότερα](https://help.shopify.com/manual/products/collections)"
         },
         "show_collection": {
           "label": "Εμφάνιση συλλογών",
@@ -3917,7 +3944,7 @@
       },
       "settings": {
         "header": {
-          "info": "Μάθετε περισσότερα για τους [τύπους μέσων.](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Μάθετε περισσότερα για τους [τύπους μέσων.](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_sticky_image": {
           "label": "Ενεργοποίηση σταθερού περιεχομένου σε υπολογιστή"
@@ -4331,11 +4358,11 @@
           "label": "Παύση κατά την τοποθέτηση του δείκτη"
         },
         "show_arrow": {
-          "label": "Επόμενα\/Προηγούμενα βέλη",
+          "label": "Επόμενα/Προηγούμενα βέλη",
           "info": "Εμφάνιση βελών πλοήγησης"
         },
         "show_part_slide": {
-          "label": "Επόμενες\/Προηγούμενες διαφάνειες"
+          "label": "Επόμενες/Προηγούμενες διαφάνειες"
         },
         "slider_visual": {
           "options__2": {
@@ -4441,7 +4468,7 @@
         }
       }
     },
-    "multiple_stores":{
+    "multiple_stores": {
       "name": "Πολλαπλά καταστήματα",
       "blocks": {
         "name": "Τοποθεσία καταστήματος",
@@ -4511,7 +4538,7 @@
     "product-labels-and-badges": {
       "name": "Ετικέτες και σήματα προϊόντων",
       "settings": {
-        "introduce": "Χρησιμοποιήστε αυτήν την ενότητα για να προσθέσετε ετικέτες και σήματα στα προϊόντα και τις κάρτες προϊόντων σας. [Δείτε εκπαιδευτικά βίντεο](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)",
+        "introduce": "Χρησιμοποιήστε αυτήν την ενότητα για να προσθέσετε ετικέτες και σήματα στα προϊόντα και τις κάρτες προϊόντων σας. [Δείτε εκπαιδευτικά βίντεο](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)",
         "enable": {
           "label": "Ενεργοποίηση ετικετών και σημάτων προϊόντων"
         }
@@ -4531,7 +4558,7 @@
           "name": "Ετικέτα εξαντλήθηκε",
           "introduce": "Η ετικέτα εξαντλήθηκε εμφανίζεται αυτόματα σε όλα τα μη διαθέσιμα προϊόντα.",
           "content": {
-            "info": "Χρησιμοποιήστε {inventory} για \"Διαθέσιμο\/Εξαντλήθηκε\", {quantity} για τη συνολική ποσότητα στο απόθεμα."
+            "info": "Χρησιμοποιήστε {inventory} για \"Διαθέσιμο/Εξαντλήθηκε\", {quantity} για τη συνολική ποσότητα στο απόθεμα."
           }
         },
         "text-label": {
@@ -4547,12 +4574,12 @@
         "new-label": {
           "name": "Ετικέτα νέου προϊόντος"
         },
-        "day_start":{
+        "day_start": {
           "label": "Εμφάνιση ετικέτας εντός του αριθμού ημερών από",
           "creation_date": "Ημερομηνία δημιουργίας προϊόντος",
           "activation_date": "Ημερομηνία ενεργοποίησης προϊόντος"
         },
-        "day_end":{
+        "day_end": {
           "label": "Αριθμός ημερών"
         },
         "show_on_product_card": {
@@ -4560,7 +4587,7 @@
         },
         "show_on_product_page": {
           "label": "Εμφάνιση στη σελίδα προϊόντος",
-          "info": "Για να εμφανίσετε ετικέτες και σήματα στην Γρήγορη προβολή και στις Πληροφορίες προϊόντος, προσθέστε το μπλοκ 'Ετικέτες και σήματα' σε αυτές τις ενότητες ή ελέγξτε [αυτόν τον οδηγό.](https:\/\/support.omnithemes.com\/blogs\/overlay-group-1\/user-guide-product-labels-badges)"
+          "info": "Για να εμφανίσετε ετικέτες και σήματα στην Γρήγορη προβολή και στις Πληροφορίες προϊόντος, προσθέστε το μπλοκ 'Ετικέτες και σήματα' σε αυτές τις ενότητες ή ελέγξτε [αυτόν τον οδηγό.](https://support.omnithemes.com/blogs/overlay-group-1/user-guide-product-labels-badges)"
         },
         "icon": {
           "info": "Το εικονίδιο θα εμφανίζεται μπροστά από το κείμενο της ετικέτας."
@@ -4571,8 +4598,8 @@
           "info__3": "{sale_amount} για ποσό έκπτωσης.",
           "info__4": "{qty} για τη συνολική ποσότητα στο απόθεμα.",
           "info__5": "{count_down} για χρονοδιακόπτη αντίστροφης μέτρησης μέχρι την ημερομηνία λήξης. (Πρέπει να ενεργοποιηθεί ο προγραμματισμός)",
-          "info__6": "<br \/> για αλλαγή γραμμής.",
-          "info__7": "<b>το περιεχόμενό σας<\/b> για έντονο κείμενο.",
+          "info__6": "<br /> για αλλαγή γραμμής.",
+          "info__7": "<b>το περιεχόμενό σας</b> για έντονο κείμενο.",
           "info__8": "{price} για την τιμή του προϊόντος.",
           "info_metafield": "{metafield_key} για ένα μεταπεδίο προϊόντος ή παραλλαγής (υποστηρίζει μόνο τύπο κειμένου μονής γραμμής). Σημείωση: Τα κλειδιά μεταπεδίων πρέπει να ρυθμιστούν πρώτα στις ρυθμίσεις Θέματος > Ετικέτες και σήματα προϊόντων για να εμφανίζονται εδώ."
         },
@@ -5026,7 +5053,7 @@
         },
         "ticket_link": {
           "label": "Σύνδεσμος σελίδας εισιτηρίων",
-          "info": "Προσθέστε μια σελίδα εισιτηρίων για να πουλάτε εισιτήρια στους παρευρισκόμενους. Δημιουργήστε ένα [ψηφιακό προϊόν](https:\/\/help.shopify.com\/en\/manual\/products\/digital-service-product\/selling-services-or-digital-products) για να παρέχετε περισσότερες πληροφορίες σχετικά με την εκδήλωση και προαιρετικά κρύψτε το από τις λίστες προϊόντων. [Επικοινωνήστε μαζί μας](https:\/\/omnithemes.com\/contact\/) για δωρεάν υποστήριξη για να εξαιρέσετε προϊόντα από την εσωτερική αναζήτηση και τις προτάσεις προϊόντων."
+          "info": "Προσθέστε μια σελίδα εισιτηρίων για να πουλάτε εισιτήρια στους παρευρισκόμενους. Δημιουργήστε ένα [ψηφιακό προϊόν](https://help.shopify.com/en/manual/products/digital-service-product/selling-services-or-digital-products) για να παρέχετε περισσότερες πληροφορίες σχετικά με την εκδήλωση και προαιρετικά κρύψτε το από τις λίστες προϊόντων. [Επικοινωνήστε μαζί μας](https://omnithemes.com/contact/) για δωρεάν υποστήριξη για να εξαιρέσετε προϊόντα από την εσωτερική αναζήτηση και τις προτάσεις προϊόντων."
         },
         "ticket_button_label": {
           "label": "Ετικέτα κουμπιού εισιτηρίου"
@@ -5281,12 +5308,12 @@
           "info": "Συμπληρώστε όλα τα ονόματα της επιλογής που χρησιμοποιείται στο κατάστημα, οι φράσεις διαφορετικών γλωσσών διαχωρίζονται με κόμμα. (π.χ. Color, Colour, Couleur). Συμπληρώστε το όνομα μιας επιλογής προϊόντος. Κάθε τιμή αυτής της επιλογής θα είναι μια στήλη στον πίνακα χαρακτηριστικών."
         },
         "note": "Οι τιμές μεταπεδίου μπορούν επίσης να χρησιμοποιηθούν ως κριτήρια.",
-        "note_1": "1. Δημιουργήστε ένα μετααντικείμενο με το κλειδί \"product_specs_list\", που να περιέχει ένα πεδίο με το ακριβές όνομα \"specs\" (Κείμενο μίας γραμμής\/Μία τιμή).",
+        "note_1": "1. Δημιουργήστε ένα μετααντικείμενο με το κλειδί \"product_specs_list\", που να περιέχει ένα πεδίο με το ακριβές όνομα \"specs\" (Κείμενο μίας γραμμής/Μία τιμή).",
         "note_2": "2. Δημιουργήστε καταχωρήσεις για το μετααντικείμενο (π.χ. \"Ξηρό Δέρμα\", \"Προστασία UV\").",
-        "note_3": "3. Δημιουργήστε ένα μεταπεδίο προϊόντος με το κλειδί \"product_specs\" (Μετααντικείμενο\/Λίστα τιμών) και επιλέξτε το μόλις δημιουργηθέν μετααντικείμενο.",
+        "note_3": "3. Δημιουργήστε ένα μεταπεδίο προϊόντος με το κλειδί \"product_specs\" (Μετααντικείμενο/Λίστα τιμών) και επιλέξτε το μόλις δημιουργηθέν μετααντικείμενο.",
         "note_4": "4. Εκχωρήστε τιμές για κάθε προϊόν μέσω μεταπεδίου στη σελίδα λεπτομερειών προϊόντος διαχειριστή.",
         "note_5": "5. Συμπληρώστε το κλειδί \"product_specs\" του αντίστοιχου μεταπεδίου σε αυτό το πεδίο.",
-        "note_6": "Για περισσότερες λεπτομέρειες, παρακαλούμε [επικοινωνήστε μαζί μας για δωρεάν υποστήριξη.](https:\/\/omnithemes.com\/contact\/)",
+        "note_6": "Για περισσότερες λεπτομέρειες, παρακαλούμε [επικοινωνήστε μαζί μας για δωρεάν υποστήριξη.](https://omnithemes.com/contact/)",
         "hightlight_dark": {
           "label": "Επισήμανση (σκούρο)"
         },
@@ -5325,7 +5352,7 @@
           "info": "Προσθέστε ετικέτα για να εφαρμόσετε τον κωδικό κουπονιού αυτόματα στο καλάθι."
         },
         "promo_code_note": {
-          "content": "Η ημερομηνία έναρξης και λήξης παρακάτω πρέπει να ευθυγραμμίζεται με την ημερομηνία έναρξης και λήξης του κανόνα έκπτωσης στο Shopify admin > Εκπτώσεις. Μάθετε περισσότερα για τον [κωδικό έκπτωσης.](https:\/\/help.shopify.com\/en\/manual\/discounts\/discount-types#discount-codes)"
+          "content": "Η ημερομηνία έναρξης και λήξης παρακάτω πρέπει να ευθυγραμμίζεται με την ημερομηνία έναρξης και λήξης του κανόνα έκπτωσης στο Shopify admin > Εκπτώσεις. Μάθετε περισσότερα για τον [κωδικό έκπτωσης.](https://help.shopify.com/en/manual/discounts/discount-types#discount-codes)"
         },
         "promo_terms_label": {
           "label": "Ετικέτα όρων προσφοράς"
@@ -5611,7 +5638,7 @@
               }
             }
           }
-        }    
+        }
       }
     },
     "store-selector": {
@@ -5626,7 +5653,7 @@
         "name": "Κατάστημα",
         "settings": {
           "store_name": {
-            "info": "Το όνομα του καταστήματος πρέπει να ταιριάζει με το όνομα του καταστήματός σας όπως ορίζεται στις [ρυθμίσεις τοποθεσίας σας.](\/admin\/settings\/locations)",
+            "info": "Το όνομα του καταστήματος πρέπει να ταιριάζει με το όνομα του καταστήματός σας όπως ορίζεται στις [ρυθμίσεις τοποθεσίας σας.](/admin/settings/locations)",
             "default": "Το κατάστημά μου"
           },
           "pickup_price": {
@@ -5653,7 +5680,7 @@
     "quick-order-list": {
       "name": "Λίστα γρήγορης παραγγελίας",
       "settings": {
-        "desktop_layout":{
+        "desktop_layout": {
           "sidebar": "Πλαϊνή μπάρα"
         },
         "show_images": {
@@ -5720,7 +5747,7 @@
           "original": "Αρχική αναλογία ανάρτησης"
         }
       },
-      "blocks":{
+      "blocks": {
         "social_post": {
           "social_post_image": {
             "name": "Εικόνα ανάρτησης κοινωνικής δικτύωσης"

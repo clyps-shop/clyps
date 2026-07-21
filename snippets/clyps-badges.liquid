@@ -20,7 +20,7 @@
   assign clyps_position = position | default: 'top-left'
 -%}
 {%- if clyps_mode == 'pills' -%}
-  <div class="{{ clyps_position }}-container label-container clyps-badges flex absolute gap-1 space-y-1{% if clyps_position contains 'top' %} top-3 flex-col{% else %} bottom-3 flex-col{% endif %}{% if clyps_position contains 'left' %} items-start left-3{% else %} items-end right-3{% endif %} pointer-events-none empty:hidden{% if class %} {{ class }}{% endif %}">
+  <div class="{{ clyps_position }}-container label-container clyps-badges flex absolute z-20 gap-1 space-y-1{% if clyps_position contains 'top' %} top-3 flex-col{% else %} bottom-3 flex-col{% endif %}{% if clyps_position contains 'left' %} items-start left-3{% else %} items-end right-3{% endif %} pointer-events-none empty:hidden{% if class %} {{ class }}{% endif %}">
     {%- for i in (1..10) -%}
       {%- liquid
         assign clyps_badge_tag_key = 'badge_' | append: i | append: '_tag'

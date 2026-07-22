@@ -45,6 +45,37 @@
             "end_minute": "45"
           }
         },
+        "announcement_B6G6LU": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "NEU: Jetzt auch Ohrclips für Kinder   🧸",
+            "text_size": 100,
+            "link": "shopify://collections/kids",
+            "open_new_window": false,
+            "button_label_or_code": "Jetzt CLYPS Kids entdecken",
+            "button_link": "shopify://collections/clyps-kids",
+            "open_new_window_button": true,
+            "button_style": "primary",
+            "textlink_color_light": "rgba(0,0,0,0)",
+            "button_color": "rgba(0,0,0,0)",
+            "button_text_color": "rgba(0,0,0,0)",
+            "textlink_color_dark": "rgba(0,0,0,0)",
+            "button_color_dark": "rgba(0,0,0,0)",
+            "button_text_color_dark": "rgba(0,0,0,0)",
+            "countdown_type": "standard",
+            "countdown_interval": 7,
+            "interval_unit": "day",
+            "timezone": "1",
+            "end_year": 2026,
+            "end_month": "4",
+            "end_day": "7",
+            "end_hour": "0",
+            "end_minute": "0"
+          }
+        },
         "announcement_RPDT6q": {
           "type": "announcement",
           "settings": {
@@ -76,18 +107,18 @@
             "end_minute": "0"
           }
         },
-        "announcement_B6G6LU": {
+        "announcement_LKNJ3A": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "text": "NEU: Jetzt auch Ohrclips für Kinder   🧸",
+            "text": "NEU: Ergänze deinen Look mit stylischen Ear Cuffs 😍",
             "text_size": 100,
-            "link": "shopify://collections/kids",
+            "link": "shopify://collections/ear-cuffs",
             "open_new_window": false,
-            "button_label_or_code": "Jetzt CLYPS Kids entdecken",
-            "button_link": "shopify://collections/clyps-kids",
+            "button_label_or_code": "Jetzt Ear Cuffs entdecken",
+            "button_link": "shopify://collections/ear-cuffs",
             "open_new_window_button": true,
             "button_style": "primary",
             "textlink_color_light": "rgba(0,0,0,0)",
@@ -173,8 +204,9 @@
       },
       "block_order": [
         "announcement_pHcEef",
-        "announcement_RPDT6q",
         "announcement_B6G6LU",
+        "announcement_RPDT6q",
+        "announcement_LKNJ3A",
         "announcement_eG77Ar",
         "announcement_6XMrBD"
       ],

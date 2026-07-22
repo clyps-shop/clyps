@@ -204,6 +204,26 @@
             "see_less_label": "See less"
           }
         },
+        "complementary_t4FBU8": {
+          "type": "complementary",
+          "settings": {
+            "heading": "Passt gut dazu:",
+            "show_tab": true,
+            "show_background": false,
+            "show_border": true,
+            "max_product_show": 3,
+            "enable_carousel_desktop": false,
+            "enable_swiper_mobile": true,
+            "number_product_per_page": 3,
+            "image_ratio": "square",
+            "show_vendor": false,
+            "show_product_rating": false,
+            "show_highlighted_features": false,
+            "add_as_bundle": false,
+            "border_color_light": "rgba(0,0,0,0)",
+            "border_color_dark": "rgba(0,0,0,0)"
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -280,6 +300,7 @@
         "payment_methods_HYMPjK",
         "html_wNkUtB",
         "description",
+        "complementary_t4FBU8",
         "collapsible-row-0",
         "collapsible_tab_gUPiNz",
         "collapsible-row-1",

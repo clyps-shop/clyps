@@ -138,6 +138,7 @@
       "blocks": {
         "a59e424d-3ee8-4334-9173-d22fbfeb78ac": {
           "type": "promotion_block",
+          "disabled": true,
           "settings": {
             "subheading": "Erstes Mal CLYPS?",
             "heading": "Starter-Set",
@@ -216,7 +217,7 @@
         "full_width": true,
         "spacing_col": 30,
         "spacing_row": 60,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 0,
         "spacing_col_mobile": 16,
         "spacing_row_mobile": 32,

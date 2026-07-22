@@ -22,8 +22,11 @@
 
   assign kids_logo_object = shop.metaobjects.logo['clyps-kids-logo']
   assign show_kids_logo = false
-  if template.name == 'collection' and collection.handle == 'clyps-kids' and kids_logo_object
-    assign show_kids_logo = true
+  if template.name == 'collection' and kids_logo_object
+    case collection.handle
+      when 'clyps-kids', 'kids'
+        assign show_kids_logo = true
+    endcase
   endif
 -%}
 <div class="flex{% if logo_above %} lg:py-2 items-center{% endif %}{% if show_border %}{% if settings.lang_direction contains request.locale.iso_code %} lg:ml-3 {% unless enable_hamburger %}lg:pl-5 lg:border-l {% else %}lg:pl-110{% endunless %}{% else %} lg:mr-3 {% unless enable_hamburger %}lg:pr-5 lg:border-r{% else %}lg:pr-11{% endunless %}{% endif %}{% endif %}">

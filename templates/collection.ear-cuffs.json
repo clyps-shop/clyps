@@ -206,7 +206,7 @@
             "title_size": 32,
             "title_color": "#4e3919",
             "background_color": "#fcfbfa",
-            "section_padding": 50,
+            "section_padding": 0,
             "image_width": 300,
             "image_gap": 15,
             "image_border_radius": 12,

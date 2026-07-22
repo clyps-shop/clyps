@@ -100,7 +100,7 @@
             "list_products": [],
             "show_rating": false,
             "open_new_window_product": false,
-            "content_background_color": "rgba(0,0,0,0)",
+            "content_background_color": "#FFFFFF",
             "color_text": "rgba(0,0,0,0)",
             "color_text_mobile": "rgba(0,0,0,0)",
             "color_button": "#e0d9d0",
@@ -111,8 +111,8 @@
             "secondary_button_text": "rgba(0,0,0,0)",
             "colors_text_link": "rgba(0,0,0,0)",
             "color_heading_highlight_light": "#e0d9d0",
-            "color_product_card_background": "rgba(0,0,0,0)",
-            "color_product_card_text": "rgba(0,0,0,0)"
+            "color_product_card_background": "#FFFFFF",
+            "color_product_card_text": "#FFFFFF"
           }
         }
       },

@@ -221,7 +221,7 @@
         "padding_bottom": 0,
         "spacing_col_mobile": 16,
         "spacing_row_mobile": 32,
-        "padding_top_mobile": 0,
+        "padding_top_mobile": 24,
         "padding_bottom_mobile": 0
       }
     },

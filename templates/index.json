@@ -505,7 +505,7 @@
             "show_vendor": false,
             "show_rating": false,
             "show_highlighted_features": false,
-            "show_highlighted_attributes": true,
+            "show_highlighted_attributes": false,
             "show_quickview": true,
             "show_promotion": false,
             "promotion_position": "left",

@@ -498,7 +498,7 @@
           "settings": {
             "collection": "ear-cuffs",
             "show_description": true,
-            "description": "<p>EAR CUFFS</p>",
+            "description": "",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",

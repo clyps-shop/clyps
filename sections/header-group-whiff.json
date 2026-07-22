@@ -20,7 +20,7 @@
             "icon": "hot-sale",
             "another_icon": "",
             "custom_icon": "",
-            "text": "Spare 20% beim Kauf von 2 Artikeln",
+            "text": "Spare 20% beim Kauf von 2 Artikeln {count_down}",
             "text_size": 100,
             "link": "",
             "open_new_window": false,

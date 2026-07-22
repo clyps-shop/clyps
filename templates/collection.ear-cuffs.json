@@ -194,11 +194,80 @@
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
       }
+    },
+    "blocks_8wFpCG": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_b08b034_PNDgiE": {
+          "type": "ai_gen_block_b08b034",
+          "settings": {
+            "title": "Mix. Match. Stack.",
+            "title_alignment": "center",
+            "title_size": 32,
+            "title_color": "#4e3919",
+            "background_color": "#fcfbfa",
+            "section_padding": 50,
+            "image_width": 300,
+            "image_gap": 15,
+            "image_border_radius": 12,
+            "active_border_color": "#b6a587",
+            "nav_button_color": "#ffffff",
+            "nav_button_icon_color": "#4e3919",
+            "image_1": "shopify://shop_images/claire-ohrclips-gold-tragebild.webp",
+            "image_1_product_1": "cleo-hoops-ohrclips",
+            "image_1_product_2": "julia-hoops-ohrclips",
+            "image_1_product_3": "",
+            "image_1_product_4": "",
+            "image_1_product_5": "",
+            "image_2": "shopify://shop_images/juliette-ear-cuff-silber-tragebild.webp",
+            "image_2_product_1": "diana-ohrclips",
+            "image_2_product_2": "claire-ohrclips",
+            "image_2_product_3": "celine-ear-cuff",
+            "image_2_product_4": "",
+            "image_2_product_5": "",
+            "image_3": "shopify://shop_images/juliette-ear-cuff-gold-tragebild-2.webp",
+            "image_3_product_1": "ava-ohrclips",
+            "image_3_product_2": "stella-ohrclips",
+            "image_3_product_3": "schlicht-ear-cuff",
+            "image_3_product_4": "juliette-earcuff",
+            "image_3_product_5": "",
+            "image_4": "shopify://shop_images/ines-ohrclips-silber-tragebild-1.jpg",
+            "image_4_product_1": "ines-ohrclips",
+            "image_4_product_2": "doppel-ear-cuff",
+            "image_4_product_3": "",
+            "image_4_product_4": "",
+            "image_4_product_5": "",
+            "image_5": "shopify://shop_images/IMG_2580.jpg",
+            "image_5_product_1": "ava-ohrclips",
+            "image_5_product_2": "wave-ear-cuff",
+            "image_5_product_3": "",
+            "image_5_product_4": "",
+            "image_5_product_5": "",
+            "product_image_size": 60,
+            "product_image_border_radius": 6,
+            "product_border_radius": 8,
+            "product_background_color": "#ede9e3",
+            "product_title_size": 12,
+            "product_title_color": "#4e3919",
+            "product_price_size": 11,
+            "product_price_color": "#b6a587",
+            "add_button_border_radius": 6,
+            "add_button_color": "#b6a587",
+            "add_button_icon_color": "#ffffff"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_b08b034_PNDgiE"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "rich_text_phdHyj",
     "product-grid",
-    "rich_text_6GQBHr"
+    "rich_text_6GQBHr",
+    "blocks_8wFpCG"
   ]
 }

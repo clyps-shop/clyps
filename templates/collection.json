@@ -15,7 +15,7 @@
         "heading_FrVYUk": {
           "type": "heading",
           "settings": {
-            "heading": "Alle Ear Cuffs",
+            "heading": "Alle Ohrringe",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -173,7 +173,6 @@
         "text_GPU8Pg",
         "caption_aGgTkc"
       ],
-      "disabled": true,
       "name": "t:sections.rich-text.name",
       "settings": {
         "heading_light": "#4e3919",

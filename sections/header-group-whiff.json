@@ -17,6 +17,37 @@
         "announcement_pHcEef": {
           "type": "announcement",
           "settings": {
+            "icon": "hot-sale",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "Spare 20% beim Kauf von 2 Artikeln",
+            "text_size": 100,
+            "link": "",
+            "open_new_window": false,
+            "button_label_or_code": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "button_style": "primary",
+            "textlink_color_light": "rgba(0,0,0,0)",
+            "button_color": "rgba(0,0,0,0)",
+            "button_text_color": "rgba(0,0,0,0)",
+            "textlink_color_dark": "rgba(0,0,0,0)",
+            "button_color_dark": "rgba(0,0,0,0)",
+            "button_text_color_dark": "rgba(0,0,0,0)",
+            "countdown_type": "standard",
+            "countdown_interval": 7,
+            "interval_unit": "day",
+            "timezone": "1",
+            "end_year": 2026,
+            "end_month": "7",
+            "end_day": "27",
+            "end_hour": "23",
+            "end_minute": "45"
+          }
+        },
+        "announcement_RPDT6q": {
+          "type": "announcement",
+          "settings": {
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
@@ -142,6 +173,7 @@
       },
       "block_order": [
         "announcement_pHcEef",
+        "announcement_RPDT6q",
         "announcement_B6G6LU",
         "announcement_eG77Ar",
         "announcement_6XMrBD"

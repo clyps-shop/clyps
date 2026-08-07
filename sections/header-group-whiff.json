@@ -47,6 +47,7 @@
         },
         "announcement_pHcEef": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "hot-sale",
             "another_icon": "",
@@ -78,7 +79,6 @@
         },
         "announcement_RPDT6q": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "another_icon": "",

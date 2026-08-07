@@ -240,11 +240,6 @@
           "custom_liquid": ""
         }
       },
-      "18323989210020231973": {
-        "type": "shopify://apps/helpy-store-protection/blocks/app-embed/89bd17bc-2181-4ab4-b9c4-cb0d9ec73eee",
-        "disabled": true,
-        "settings": {}
-      },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
@@ -261,6 +256,11 @@
       },
       "2102808784413787648": {
         "type": "shopify://apps/kbite-back-in-stock-notify-me/blocks/main-app-embed/147a6f7f-6771-4f9b-8dc6-c14e6b24f32c",
+        "disabled": false,
+        "settings": {}
+      },
+      "18323989210020231973": {
+        "type": "shopify://apps/helpy-store-protection/blocks/app-embed/89bd17bc-2181-4ab4-b9c4-cb0d9ec73eee",
         "disabled": false,
         "settings": {}
       }

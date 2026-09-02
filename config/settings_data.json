@@ -246,8 +246,6 @@
         "settings": {
           "greeting_message": "Hey, wie können wir dir helfen?",
           "button_color": "#4e3919",
-          "secondary_color": "#fcfbfa",
-          "ternary_color": "#b6a587",
           "button_icon": "chat_bubble",
           "button_text": "no_text",
           "button_horizontal_position": "bottom_right",

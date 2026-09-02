@@ -1,1 +1,895 @@
-{"sections":{"video_with_text_4zdVBh":{"type":"video-with-text","name":"t:sections.video_hero.name","settings":{"sub_heading_video":"","heading":"","highlight_type":"underline","heading_size_video":100,"heading_tag":"h2","text":"","text_size":100,"overlay_opacity":0,"button_label":"","show_button_style":"primary","button_link":"","open_new_window":false,"content_position":"center","content_horizontal":50,"content_vertical":50,"content_alignment":"center","video":"shopify:\/\/files\/videos\/copy_00FAABCF-08C4-4DF9-AE47-54DED7133126 (1).webm","show_sound_control":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_alt_text":"","mobile_video_url":"","color_button":"rgba(0,0,0,0)","color_text_button":"rgba(0,0,0,0)","color_button_hover":"rgba(0,0,0,0)","color_text_button_hover":"rgba(0,0,0,0)","color_button_secondary":"rgba(0,0,0,0)","secondary_button_text":"rgba(0,0,0,0)","colors_text_link":"rgba(0,0,0,0)","full_width":true,"adapt_corners_desktop":true,"rounded_corners":false,"video_desktop_height":"natural","top_padding":0,"bottom_padding":0,"full_width_mobile":true,"adapt_corners_mobile":true,"rounded_corners_mobile":false,"video_mobile_height":"natural","top_padding_mobile":0,"bottom_padding_mobile":0}},"slideshow_RqnzVH":{"type":"slideshow","blocks":{"slide_m7CNCL":{"type":"slide","settings":{"image_link":"","open_new_window_image":false,"overlay_opacity":0,"video_url":"","video_alt_text":"","show_sound_control":false,"enable_video_autoplay":false,"mobile_video_url":"","enable_bakground":false,"subheading":"","subheading_size":100,"heading":"Slide title","highlight_type":"underline","heading_size":170,"heading_tag":"h2","text":"<p>Tell your brand's story through images<\/p>","button_label_1":"Button label","button_link_1":"","open_new_window_button":false,"show_button_style_1":"primary","button_label_2":"Button label","button_link_2":"","open_new_window_button_2":false,"show_button_style_2":"primary","content_alignment":"middle-center","custom_horizontal":50,"custom_vertical":50,"alignment":"center","text_product":"Check out our products:","list_products":[],"show_rating":false,"open_new_window_product":false,"content_background_color":"rgba(0,0,0,0)","color_text":"rgba(0,0,0,0)","color_text_mobile":"rgba(0,0,0,0)","color_button":"rgba(0,0,0,0)","color_text_button":"rgba(0,0,0,0)","color_button_hover":"rgba(0,0,0,0)","color_text_button_hover":"rgba(0,0,0,0)","color_button_secondary":"rgba(0,0,0,0)","secondary_button_text":"rgba(0,0,0,0)","colors_text_link":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","color_product_card_background":"rgba(0,0,0,0)","color_product_card_text":"rgba(0,0,0,0)"}}},"block_order":["slide_m7CNCL"],"disabled":true,"name":"t:sections.slideshow.name","settings":{"show_hero":true,"auto_play":true,"change_slides_speed":5,"pause_hover":true,"slider_visual":"bars","show_arrow":true,"image_pagination_background":"rgba(0,0,0,0)","image_pagination_text":"rgba(0,0,0,0)","transition_style":"fade","full_width":true,"padding_full_width":false,"adapt_corners_desktop":true,"rounded_corner_image":false,"desktop_height":"750","padding_top":0,"padding_bottom":28,"full_width_mobile":true,"adapt_corners_mobile":true,"rounded_corner_image_mobile":false,"show_content_below_image":false,"mobile_height":"500","padding_top_mobile":0,"padding_bottom_mobile":20}},"main":{"type":"main-page","disabled":true,"settings":{"show_heading":true,"heading_size":170,"heading_tag":"h1","show_breadcrumbs":true,"show_breadcrumbs_border":false,"full_width_breadcrumb":true,"desktop_content_alignment":"text-left","mobile_content_alignment":"text-left","background_color_light":"#f2f2f2","text_color_light":"rgba(0,0,0,0)","textlink_color_light":"rgba(0,0,0,0)","background_color_dark":"#313131","text_color_dark":"rgba(0,0,0,0)","textlink_color_dark":"rgba(0,0,0,0)","max_container_page_width":100,"padding_top":28,"padding_bottom":28,"padding_top_mobile":20,"padding_bottom_mobile":20}},"rich_text_pJ4XU4":{"type":"rich-text","blocks":{"heading_UnBYpy":{"type":"heading","settings":{"heading":"","highlight_type":"font_highlight","heading_size":200,"heading_tag":"h2"}},"text_4CnABa":{"type":"text","settings":{"text":"<h2>Für alle die Ohrringe lieben, aber Schmerzen nicht.<\/h2>","number_of_lines_shown":"none","read_more_label":"Read more","see_less_label":"See less"}},"text_KAcppF":{"type":"text","settings":{"text":"<p>Genau deshalb haben wir CLYPS entwickelt: Ohrclips, die aussehen wie klassische Ohrringe. Kein Ohrloch nötig.<\/p>","number_of_lines_shown":"none","read_more_label":"Read more","see_less_label":"See less"}},"caption_hbWTtz":{"type":"caption","settings":{"caption":"Bequem. Stilvoll. Für jedes Ohr gemacht.","text_style":"uppercase","text_size":100}},"heading_NJX9Pz":{"type":"heading","disabled":true,"settings":{"heading":"[CLYPS wurde geschaffen, um das zu ändern.]","highlight_type":"font_highlight","heading_size":80,"heading_tag":"h2"}}},"block_order":["heading_UnBYpy","text_4CnABa","text_KAcppF","caption_hbWTtz","heading_NJX9Pz"],"name":"t:sections.rich-text.name","settings":{"heading_light":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","text_light":"rgba(0,0,0,0)","background_color_light":"rgba(0,0,0,0)","heading_dark":"rgba(0,0,0,0)","color_heading_highlight_dark":"rgba(0,0,0,0)","text_dark":"rgba(0,0,0,0)","background_color_dark":"rgba(0,0,0,0)","content_alignment":"center","show_section_divider":false,"make_full_page_width":true,"padding_top":0,"padding_bottom":0,"content_alignment_mobile":"center","show_section_divider_mobile":false,"padding_top_mobile":0,"padding_bottom_mobile":12}},"multicolumn_RAfpTn":{"type":"multicolumn","blocks":{"column_giiA9H":{"type":"column","settings":{"icon":"check-mark","another_icon":"","custom_icon":"","title":"","highlight_type":"underline","title_link":"","open_new_window":false,"heading_size":100,"text":"<p>Zugewachsene Ohrlöcher<\/p>"}},"column_rJkVke":{"type":"column","settings":{"icon":"check-mark","another_icon":"","custom_icon":"","title":"","highlight_type":"underline","title_link":"","open_new_window":false,"heading_size":100,"text":"<p>Narben am Ohr<\/p>"}},"column_tQTbj8":{"type":"column","settings":{"icon":"check-mark","another_icon":"","custom_icon":"","title":"","highlight_type":"underline","title_link":"","open_new_window":false,"heading_size":100,"text":"<p>(Haut-)empfindliche Ohren<\/p>"}},"column_iGxEyX":{"type":"column","settings":{"icon":"check-mark","another_icon":"","custom_icon":"","title":"","highlight_type":"underline","title_link":"","open_new_window":false,"heading_size":100,"text":"<p>Angst vor Nadeln<\/p>"}},"column_BHc4hM":{"type":"column","disabled":true,"settings":{"icon":"check-mark","another_icon":"","custom_icon":"","title":"","highlight_type":"underline","title_link":"","open_new_window":false,"heading_size":100,"text":"<p>sofort Ohrringe tragen<\/p>"}}},"block_order":["column_giiA9H","column_rJkVke","column_tQTbj8","column_iGxEyX","column_BHc4hM"],"name":"t:sections.multicolumn.name","settings":{"title":"[Findest du dich wieder?]","highlight_type":"font_highlight","heading_size":100,"heading_tag":"h2","secondary_background":"none","border_column":"line_vertical","column_content_alignment":"center","icon_position":"above","icon_size":20,"enable_desktop_slider":true,"swiper_on_mobile":true,"enable_arrow_mobile":false,"auto_play":true,"change_bar_every":5,"background_color_light":"rgba(0,0,0,0)","heading_light":"rgba(0,0,0,0)","text_light":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","line_border_light":"rgba(0,0,0,0)","color_icon_light":"rgba(0,0,0,0)","background_color_dark":"rgba(0,0,0,0)","heading_dark":"rgba(0,0,0,0)","text_dark":"rgba(0,0,0,0)","color_heading_highlight_dark":"rgba(0,0,0,0)","line_border_dark":"rgba(0,0,0,0)","color_icon_dark":"rgba(0,0,0,0)","column_layout_desktop":"lg:w-1\/4","section_height_desktop":"md:py-7","spacing_desktop":28,"full_width":false,"padding_full_width":false,"show_section_divider":false,"padding_top":28,"padding_bottom":28,"column_layout_mobile":"w-1\/2","section_height_mobile":"py-5","spacing_mobile":16,"full_width_mobile":false,"show_section_divider_mobile":false,"padding_top_mobile":20,"padding_bottom_mobile":20}},"rich_text_9he6Q4":{"type":"rich-text","blocks":{"text_zeJVCt":{"type":"text","settings":{"text":"<p>Was auch immer dein Grund ist, du musst dich nicht mehr entscheiden.<\/p>","number_of_lines_shown":"none","read_more_label":"Read more","see_less_label":"See less"}}},"block_order":["text_zeJVCt"],"name":"t:sections.rich-text.name","settings":{"heading_light":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","text_light":"rgba(0,0,0,0)","background_color_light":"rgba(0,0,0,0)","heading_dark":"rgba(0,0,0,0)","color_heading_highlight_dark":"rgba(0,0,0,0)","text_dark":"rgba(0,0,0,0)","background_color_dark":"rgba(0,0,0,0)","content_alignment":"center","show_section_divider":false,"make_full_page_width":true,"padding_top":0,"padding_bottom":32,"content_alignment_mobile":"center","show_section_divider_mobile":false,"padding_top_mobile":0,"padding_bottom_mobile":12}},"rich_text_WFTqRL":{"type":"rich-text","blocks":{"text_xRjqe7":{"type":"text","settings":{"text":"<p>Die eigentliche Frage ist nicht:<br\/><em>\"Warum keine Piercings?\"<\/em><\/p><p><em>Die Frage lautet:<\/em><\/p>","number_of_lines_shown":"none","read_more_label":"Read more","see_less_label":"See less"}},"heading_76G6nR":{"type":"heading","settings":{"heading":"WHY SHOULD BEAUTY HURT?","highlight_type":"font_highlight","heading_size":200,"heading_tag":"h2"}},"heading_HHTmzx":{"type":"heading","settings":{"heading":"WHY NOT CLYPS? [Exaclty.]","highlight_type":"font_highlight","heading_size":200,"heading_tag":"h2"}}},"block_order":["text_xRjqe7","heading_76G6nR","heading_HHTmzx"],"disabled":true,"name":"t:sections.rich-text.name","settings":{"heading_light":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","text_light":"rgba(0,0,0,0)","background_color_light":"rgba(0,0,0,0)","heading_dark":"rgba(0,0,0,0)","color_heading_highlight_dark":"rgba(0,0,0,0)","text_dark":"rgba(0,0,0,0)","background_color_dark":"rgba(0,0,0,0)","content_alignment":"left","show_section_divider":false,"make_full_page_width":false,"padding_top":28,"padding_bottom":28,"content_alignment_mobile":"center","show_section_divider_mobile":false,"padding_top_mobile":28,"padding_bottom_mobile":28}},"rich_text_3XeLwN":{"type":"rich-text","blocks":{"heading_JezJjc":{"type":"heading","settings":{"heading":"Nicht die Ohrclips, die du kennst","highlight_type":"underline","heading_size":100,"heading_tag":"h2"}},"text_Pt6gh4":{"type":"text","settings":{"text":"<p>Viele haben bei Ohrclips das Bild von klobigen, altmodischen Designs im Kopf. Abgeklemmte Ohrläppchen, Druck und Schmerz durch harte, zuschnappende Verschlüsse.<\/p>","number_of_lines_shown":"none","read_more_label":"Read more","see_less_label":"See less"}},"caption_PJhAqK":{"type":"caption","settings":{"caption":"Wir kennen das. Und genau deshalb gibt es CLYPS.","text_style":"uppercase","text_size":100}}},"block_order":["heading_JezJjc","text_Pt6gh4","caption_PJhAqK"],"name":"t:sections.rich-text.name","settings":{"heading_light":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","text_light":"rgba(0,0,0,0)","background_color_light":"#f2efeb","heading_dark":"rgba(0,0,0,0)","color_heading_highlight_dark":"rgba(0,0,0,0)","text_dark":"rgba(0,0,0,0)","background_color_dark":"rgba(0,0,0,0)","content_alignment":"center","show_section_divider":false,"make_full_page_width":true,"padding_top":28,"padding_bottom":28,"content_alignment_mobile":"center","show_section_divider_mobile":false,"padding_top_mobile":28,"padding_bottom_mobile":28}},"multicolumn_wXG3YY":{"type":"multicolumn","blocks":{"column_ayB4Dc":{"type":"column","settings":{"icon":"truck","another_icon":"","custom_image":"shopify:\/\/shop_images\/Clip.svg","custom_icon":"","title":"Innovative, unsichtbare Clipverschlüsse","highlight_type":"underline","title_link":"shopify:\/\/pages\/how-to-clyps","open_new_window":false,"heading_size":100,"text":"<p>Unsere Clipverschlüsse sind so entwickelt, dass sie bequem sitzen und sicheren Halt geben. CLYPS passen sich an deine Bedürfnisse an und sind für jedes Ohr gemacht. <\/p><p>Die Verschlüsse sind transparent und damit so unauffällig, dass kein Unterschied zu klassischen Ohrringen sichtbar ist. <\/p>"}},"column_fyP7iw":{"type":"column","settings":{"icon":"truck","another_icon":"","custom_image":"shopify:\/\/shop_images\/Langlebig.svg","custom_icon":"","title":"Premium-Materialien als Begleiter für deinen Alltag","highlight_type":"underline","title_link":"shopify:\/\/pages\/material-pflege","open_new_window":false,"heading_size":100,"text":"<p>Wir setzen auf hautverträgliche Premium-Materialien und eine langlebige, farbechte PVD-Beschichtung.<\/p><p>So sind deine CLYPS wasserfest und besonders pflegeleicht.<\/p>"}},"column_WyRFYt":{"type":"column","settings":{"icon":"truck","another_icon":"","custom_image":"shopify:\/\/shop_images\/Hautfreundlich.svg","custom_icon":"","title":"Modernes, zeitloses Design","highlight_type":"underline","title_link":"shopify:\/\/collections\/all","open_new_window":false,"heading_size":100,"text":"<p>CLYPS sind nicht \"Ohrclips für Menschen ohne Piercing\". Sie sind einfach Ohrschmuck. Punkt.<\/p><p>Modern. Stilvoll. Elegant.<\/p>"}}},"block_order":["column_ayB4Dc","column_fyP7iw","column_WyRFYt"],"name":"t:sections.multicolumn.name","settings":{"title":"Was CLYPS anders macht","highlight_type":"underline","heading_size":100,"heading_tag":"h2","secondary_background":"column","border_column":"full_border","column_content_alignment":"start","icon_position":"above","icon_size":45,"enable_desktop_slider":true,"swiper_on_mobile":false,"enable_arrow_mobile":false,"auto_play":true,"change_bar_every":5,"background_color_light":"#f2efeb","heading_light":"rgba(0,0,0,0)","text_light":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","line_border_light":"rgba(0,0,0,0)","color_icon_light":"rgba(0,0,0,0)","background_color_dark":"rgba(0,0,0,0)","heading_dark":"rgba(0,0,0,0)","text_dark":"rgba(0,0,0,0)","color_heading_highlight_dark":"rgba(0,0,0,0)","line_border_dark":"rgba(0,0,0,0)","color_icon_dark":"rgba(0,0,0,0)","column_layout_desktop":"lg:w-1\/3","section_height_desktop":"md:py-7","spacing_desktop":28,"full_width":false,"padding_full_width":false,"show_section_divider":false,"padding_top":60,"padding_bottom":28,"column_layout_mobile":"w-full","section_height_mobile":"py-5","spacing_mobile":16,"full_width_mobile":false,"show_section_divider_mobile":false,"padding_top_mobile":20,"padding_bottom_mobile":20}},"rich_text_4bFiYr":{"type":"rich-text","blocks":{"heading_wcPe4F":{"type":"heading","settings":{"heading":"30 Tage Komfort-Garantie","highlight_type":"underline","heading_size":100,"heading_tag":"h2"}},"text_mp8JgM":{"type":"text","settings":{"text":"<p>Teste CLYPS risikofrei. Wenn es drückt – Geld zurück.<\/p>","number_of_lines_shown":"none","read_more_label":"Read more","see_less_label":"See less"}},"caption_AwPNr6":{"type":"caption","settings":{"caption":"✓ 30 Tage testen  ✓ Kostenloser Rückversand ✓ Geld-zurück-Garantie","text_style":"uppercase","text_size":100}}},"block_order":["heading_wcPe4F","text_mp8JgM","caption_AwPNr6"],"name":"t:sections.rich-text.name","settings":{"heading_light":"#4e3919","color_heading_highlight_light":"rgba(0,0,0,0)","text_light":"#aca49b","background_color_light":"#f2efeb","heading_dark":"rgba(0,0,0,0)","color_heading_highlight_dark":"rgba(0,0,0,0)","text_dark":"rgba(0,0,0,0)","background_color_dark":"rgba(0,0,0,0)","content_alignment":"center","show_section_divider":false,"make_full_page_width":true,"padding_top":36,"padding_bottom":36,"content_alignment_mobile":"center","show_section_divider_mobile":false,"padding_top_mobile":28,"padding_bottom_mobile":28}},"image_with_text_6BYEXn":{"type":"image-with-text","blocks":{"heading_6riPzb":{"type":"heading","settings":{"subheading":"","heading":"Sophias [Warum]","highlight_type":"font_highlight","heading_base_size":100,"heading_tag":"h2","text":"<p>Sophia wollte schon als Kind Ohrringe tragen. Viele Anläufe später war klar: Der Preis dafür ist zu hoch.<\/p><p>Ohrclips waren die Hoffnung, doch sie sind unbequem, drücken und halten nicht. Und genau deshalb gibt es CLYPS.<\/p><p>Weil wir Ohrringe lieben, aber Schmerzen nicht.<\/p>","number_of_lines_shown":"none","read_more_label":"Read more","see_less_label":"See less","heading_light":"rgba(0,0,0,0)","text_light":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","heading_dark":"rgba(0,0,0,0)","text_dark":"rgba(0,0,0,0)","color_heading_highlight_dark":"rgba(0,0,0,0)"}},"button_JJ7VVU":{"type":"button","settings":{"button_label":"Mehr über Sophias Reise lesen","button_link":"shopify:\/\/pages\/uber-uns","open_new_window":false,"show_button_style":"primary","button_light":"rgba(0,0,0,0)","button_text_light":"rgba(0,0,0,0)","button_hover_light":"rgba(0,0,0,0)","button_text_hover_light":"rgba(0,0,0,0)","secondary_button_light":"rgba(0,0,0,0)","secondary_button_text_light":"rgba(0,0,0,0)","colors_text_link":"rgba(0,0,0,0)","button_dark":"rgba(0,0,0,0)","button_text_dark":"rgba(0,0,0,0)","button_hover_dark":"rgba(0,0,0,0)","button_text_hover_dark":"rgba(0,0,0,0)","secondary_button_dark":"rgba(0,0,0,0)","secondary_button_text_dark":"rgba(0,0,0,0)","colors_text_link_dark":"rgba(0,0,0,0)"}}},"block_order":["heading_6riPzb","button_JJ7VVU"],"name":"t:sections.image-with-text.name","settings":{"show_hero":false,"image":"shopify:\/\/shop_images\/clyps3-2_7bca6ed8-438b-48c1-af36-db64f9b9be2f.png","desktop_height":"natural","mobile_height":"400px","desktop_image_width":"medium","image_layout":"normal","adapt_radius":true,"image_corner_radius":0,"show_sound_control":false,"video_url":"","video_alt_text":"","enable_video_autoplay":false,"content_layout":"overlap","spacing_image":false,"text_position":"center","text_alignment":"start","background_color_light":"#f2efeb","background_color_dark":"rgba(0,0,0,0)","line_border":"none","icon_position":"col","icon_size":45,"alignment":"center","columns_desktop":4,"columns_mobile":"2","heading_color_light":"rgba(0,0,0,0)","text_color_light":"rgba(0,0,0,0)","line_border_light":"rgba(0,0,0,0)","icon_color_light":"rgba(0,0,0,0)","heading_color_dark":"rgba(0,0,0,0)","text_color_dark":"rgba(0,0,0,0)","line_border_dark":"rgba(0,0,0,0)","icon_color_dark":"rgba(0,0,0,0)","image_alignment":"left","full_width":false,"padding_full_width":false,"top_padding":52,"bottom_padding":0,"image_alignment_mobile":"left","full_width_mobile":false,"top_padding_mobile":24,"bottom_padding_mobile":24}},"featured_collection_6DAHXc":{"type":"featured-collection","blocks":{"collection_ij8PUM":{"type":"collection","settings":{"collection":"einsteiger","show_description":true,"description":"","number_of_lines_shown":"none","read_more_label":"Read more","see_less_label":"See less","show_vendor":false,"show_rating":false,"show_highlighted_features":true,"show_highlighted_attributes":true,"show_quickview":true,"show_promotion":false,"promotion_position":"left","card_link":"","open_new_window":false,"heading":"Featured collection","highlight_type":"underline","heading_size":70,"content":"<p>10% OFF<\/p>","text_size":100,"content_alignment":"center","content_position":"bottom","button_label":"See more","button_link":"","open_new_window_button":false,"show_button_style":"primary","enable_text_overlay":false,"overlay_opacity":0,"image_ratio":"100","background_color":"rgba(0,0,0,0)","color_text":"rgba(0,0,0,0)","color_heading_highlight_light":"rgba(0,0,0,0)","color_button":"rgba(0,0,0,0)","color_text_button":"rgba(0,0,0,0)","color_button_hover":"rgba(0,0,0,0)","color_text_button_hover":"rgba(0,0,0,0)","color_button_secondary":"rgba(0,0,0,0)","secondary_button_text":"rgba(0,0,0,0)","colors_text_link":"rgba(0,0,0,0)","show_sound_control":false,"video_url":"","enable_video_autoplay":false,"video_alt_text":"","product_card":""}}},"block_order":["collection_ij8PUM"],"name":"t:sections.featured-collection.name","settings":{"title":"Unsere Empfehlungen für den Einstieg","highlight_type":"underline","heading_size":100,"heading_tag":"h2","heading_alignment":"center","subheading":"","text":"","show_view_all":false,"view_all_position":"top","view_all_button_style":"text-link","title_size":120,"title_style":"none","title_position":"under","tab_button_style":"label","color_background":"rgba(0,0,0,0)","color_text":"rgba(0,0,0,0)","color_background_secondary":"rgba(0,0,0,0)","color_text_secondary":"rgba(0,0,0,0)","color_background_hover":"rgba(0,0,0,0)","color_text_hover":"rgba(0,0,0,0)","color_background_dark":"rgba(0,0,0,0)","color_text_dark":"rgba(0,0,0,0)","color_background_secondary_dark":"rgba(0,0,0,0)","color_text_secondary_dark":"rgba(0,0,0,0)","color_background_hover_dark":"rgba(0,0,0,0)","color_text_hover_dark":"rgba(0,0,0,0)","enable_desktop_slider":true,"slider_style":"horizontal","swiper_on_mobile":true,"enable_arrow_mobile":false,"auto_play":true,"change_slides_speed":5,"columns_desktop":4,"rows_desktop":1,"spacing":28,"full_width":false,"show_section_divider":false,"padding_top":28,"padding_bottom":28,"columns_mobile":"2","spacing_mobile":16,"full_width_mobile":false,"show_section_divider_mobile":false,"padding_top_mobile":28,"padding_bottom_mobile":28}}},"order":["video_with_text_4zdVBh","slideshow_RqnzVH","main","rich_text_pJ4XU4","multicolumn_RAfpTn","rich_text_9he6Q4","rich_text_WFTqRL","rich_text_3XeLwN","multicolumn_wXG3YY","rich_text_4bFiYr","image_with_text_6BYEXn","featured_collection_6DAHXc"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "video_with_text_4zdVBh": {
+      "type": "video-with-text",
+      "name": "t:sections.video_hero.name",
+      "settings": {
+        "sub_heading_video": "",
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size_video": 100,
+        "heading_tag": "h2",
+        "text": "",
+        "text_size": 100,
+        "overlay_opacity": 0,
+        "button_label": "",
+        "show_button_style": "primary",
+        "button_link": "",
+        "open_new_window": false,
+        "content_position": "center",
+        "content_horizontal": 50,
+        "content_vertical": 50,
+        "content_alignment": "center",
+        "video": "shopify://files/videos/copy_00FAABCF-08C4-4DF9-AE47-54DED7133126 (1).webm",
+        "show_sound_control": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_alt_text": "",
+        "mobile_video_url": "",
+        "color_button": "rgba(0,0,0,0)",
+        "color_text_button": "rgba(0,0,0,0)",
+        "color_button_hover": "rgba(0,0,0,0)",
+        "color_text_button_hover": "rgba(0,0,0,0)",
+        "color_button_secondary": "rgba(0,0,0,0)",
+        "secondary_button_text": "rgba(0,0,0,0)",
+        "colors_text_link": "rgba(0,0,0,0)",
+        "full_width": true,
+        "adapt_corners_desktop": true,
+        "rounded_corners": false,
+        "video_desktop_height": "natural",
+        "top_padding": 0,
+        "bottom_padding": 0,
+        "full_width_mobile": true,
+        "adapt_corners_mobile": true,
+        "rounded_corners_mobile": false,
+        "video_mobile_height": "natural",
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
+      }
+    },
+    "slideshow_RqnzVH": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_m7CNCL": {
+          "type": "slide",
+          "settings": {
+            "image_link": "",
+            "open_new_window_image": false,
+            "overlay_opacity": 0,
+            "video_url": "",
+            "video_alt_text": "",
+            "show_sound_control": false,
+            "enable_video_autoplay": false,
+            "mobile_video_url": "",
+            "enable_bakground": false,
+            "subheading": "",
+            "subheading_size": 100,
+            "heading": "Slide title",
+            "highlight_type": "underline",
+            "heading_size": 170,
+            "heading_tag": "h2",
+            "text": "<p>Tell your brand's story through images</p>",
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "open_new_window_button": false,
+            "show_button_style_1": "primary",
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "open_new_window_button_2": false,
+            "show_button_style_2": "primary",
+            "content_alignment": "middle-center",
+            "custom_horizontal": 50,
+            "custom_vertical": 50,
+            "alignment": "center",
+            "text_product": "Check out our products:",
+            "list_products": [],
+            "show_rating": false,
+            "open_new_window_product": false,
+            "content_background_color": "rgba(0,0,0,0)",
+            "color_text": "rgba(0,0,0,0)",
+            "color_text_mobile": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_product_card_background": "rgba(0,0,0,0)",
+            "color_product_card_text": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "slide_m7CNCL"
+      ],
+      "disabled": true,
+      "name": "t:sections.slideshow.name",
+      "settings": {
+        "show_hero": true,
+        "auto_play": true,
+        "change_slides_speed": 5,
+        "pause_hover": true,
+        "slider_visual": "bars",
+        "show_arrow": true,
+        "image_pagination_background": "rgba(0,0,0,0)",
+        "image_pagination_text": "rgba(0,0,0,0)",
+        "transition_style": "fade",
+        "full_width": true,
+        "padding_full_width": false,
+        "adapt_corners_desktop": true,
+        "rounded_corner_image": false,
+        "desktop_height": "750",
+        "padding_top": 0,
+        "padding_bottom": 28,
+        "full_width_mobile": true,
+        "adapt_corners_mobile": true,
+        "rounded_corner_image_mobile": false,
+        "show_content_below_image": false,
+        "mobile_height": "500",
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_size": 170,
+        "heading_tag": "h1",
+        "show_breadcrumbs": true,
+        "show_breadcrumbs_border": false,
+        "full_width_breadcrumb": true,
+        "desktop_content_alignment": "text-left",
+        "mobile_content_alignment": "text-left",
+        "background_color_light": "#f2f2f2",
+        "text_color_light": "rgba(0,0,0,0)",
+        "textlink_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "#313131",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "textlink_color_dark": "rgba(0,0,0,0)",
+        "max_container_page_width": 100,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "rich_text_pJ4XU4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UnBYpy": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "highlight_type": "font_highlight",
+            "heading_size": 200,
+            "heading_tag": "h2"
+          }
+        },
+        "text_4CnABa": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Für alle die Ohrringe lieben, aber Schmerzen nicht.</h2>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "text_KAcppF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Genau deshalb wurde CLYPS entwickelt: Ohrclips, die aussehen wie klassische Ohrringe. Kein Ohrloch nötig.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "caption_hbWTtz": {
+          "type": "caption",
+          "settings": {
+            "caption": "Bequem. Stilvoll. Für jedes Ohr gemacht.",
+            "text_style": "uppercase",
+            "text_size": 100
+          }
+        },
+        "heading_NJX9Pz": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "[CLYPS wurde geschaffen, um das zu ändern.]",
+            "highlight_type": "font_highlight",
+            "heading_size": 80,
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UnBYpy",
+        "text_4CnABa",
+        "text_KAcppF",
+        "caption_hbWTtz",
+        "heading_NJX9Pz"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 12
+      }
+    },
+    "multicolumn_RAfpTn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_giiA9H": {
+          "type": "column",
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Zugewachsene Ohrlöcher</p>"
+          }
+        },
+        "column_rJkVke": {
+          "type": "column",
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Narben am Ohr</p>"
+          }
+        },
+        "column_tQTbj8": {
+          "type": "column",
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>(Haut-)empfindliche Ohren</p>"
+          }
+        },
+        "column_iGxEyX": {
+          "type": "column",
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Angst vor Nadeln</p>"
+          }
+        },
+        "column_BHc4hM": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>sofort Ohrringe tragen</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_giiA9H",
+        "column_rJkVke",
+        "column_tQTbj8",
+        "column_iGxEyX",
+        "column_BHc4hM"
+      ],
+      "name": "t:sections.multicolumn.name",
+      "settings": {
+        "title": "[Findest du dich wieder?]",
+        "highlight_type": "font_highlight",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "none",
+        "border_column": "line_vertical",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 20,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "auto_play": true,
+        "change_bar_every": 5,
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/4",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 28,
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "column_layout_mobile": "w-1/2",
+        "section_height_mobile": "py-5",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "rich_text_9he6Q4": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zeJVCt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Was auch immer dein Grund ist, du musst dich nicht mehr entscheiden.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "text_zeJVCt"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 0,
+        "padding_bottom": 32,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 12
+      }
+    },
+    "rich_text_WFTqRL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_xRjqe7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die eigentliche Frage ist nicht:<br/><em>\"Warum keine Piercings?\"</em></p><p><em>Die Frage lautet:</em></p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "heading_76G6nR": {
+          "type": "heading",
+          "settings": {
+            "heading": "WHY SHOULD BEAUTY HURT?",
+            "highlight_type": "font_highlight",
+            "heading_size": 200,
+            "heading_tag": "h2"
+          }
+        },
+        "heading_HHTmzx": {
+          "type": "heading",
+          "settings": {
+            "heading": "WHY NOT CLYPS? [Exaclty.]",
+            "highlight_type": "font_highlight",
+            "heading_size": 200,
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "text_xRjqe7",
+        "heading_76G6nR",
+        "heading_HHTmzx"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "left",
+        "show_section_divider": false,
+        "make_full_page_width": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "rich_text_3XeLwN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JezJjc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nicht die Ohrclips, die du kennst",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "heading_tag": "h2"
+          }
+        },
+        "text_Pt6gh4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Viele haben bei Ohrclips das Bild von klobigen, altmodischen Designs im Kopf. Abgeklemmte Ohrläppchen, Druck und Schmerz durch harte, zuschnappende Verschlüsse.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "caption_PJhAqK": {
+          "type": "caption",
+          "settings": {
+            "caption": "Wir kennen das. Und genau deshalb gibt es CLYPS.",
+            "text_style": "uppercase",
+            "text_size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_JezJjc",
+        "text_Pt6gh4",
+        "caption_PJhAqK"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "background_color_light": "#f2efeb",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "multicolumn_wXG3YY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ayB4Dc": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/Clip.svg",
+            "custom_icon": "",
+            "title": "Innovative, unsichtbare Clipverschlüsse",
+            "highlight_type": "underline",
+            "title_link": "shopify://pages/how-to-clyps",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Unsere Clipverschlüsse sind so entwickelt, dass sie bequem sitzen und sicheren Halt geben. CLYPS passen sich an deine Bedürfnisse an und sind für jedes Ohr gemacht. </p><p>Die Verschlüsse sind transparent und damit so unauffällig, dass kein Unterschied zu klassischen Ohrringen sichtbar ist. </p>"
+          }
+        },
+        "column_fyP7iw": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/Langlebig.svg",
+            "custom_icon": "",
+            "title": "Premium-Materialien als Begleiter für deinen Alltag",
+            "highlight_type": "underline",
+            "title_link": "shopify://pages/material-pflege",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>Wir setzen auf hautverträgliche Premium-Materialien und eine langlebige, farbechte PVD-Beschichtung.</p><p>So sind deine CLYPS wasserfest und besonders pflegeleicht.</p>"
+          }
+        },
+        "column_WyRFYt": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_image": "shopify://shop_images/Hautfreundlich.svg",
+            "custom_icon": "",
+            "title": "Modernes, zeitloses Design",
+            "highlight_type": "underline",
+            "title_link": "shopify://collections/all",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>CLYPS sind nicht \"Ohrclips für Menschen ohne Piercing\". Sie sind einfach Ohrschmuck. Punkt.</p><p>Modern. Stilvoll. Elegant.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_ayB4Dc",
+        "column_fyP7iw",
+        "column_WyRFYt"
+      ],
+      "name": "t:sections.multicolumn.name",
+      "settings": {
+        "title": "Was CLYPS anders macht",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "column",
+        "border_column": "full_border",
+        "column_content_alignment": "start",
+        "icon_position": "above",
+        "icon_size": 45,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": false,
+        "enable_arrow_mobile": false,
+        "auto_play": true,
+        "change_bar_every": 5,
+        "background_color_light": "#f2efeb",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/3",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 28,
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "padding_top": 60,
+        "padding_bottom": 28,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-5",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "rich_text_4bFiYr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wcPe4F": {
+          "type": "heading",
+          "settings": {
+            "heading": "30 Tage Komfort-Garantie",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "heading_tag": "h2"
+          }
+        },
+        "text_mp8JgM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Teste CLYPS risikofrei. Wenn es drückt – Geld zurück.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "caption_AwPNr6": {
+          "type": "caption",
+          "settings": {
+            "caption": "✓ 30 Tage testen  ✓ Kostenloser Rückversand ✓ Geld-zurück-Garantie",
+            "text_style": "uppercase",
+            "text_size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_wcPe4F",
+        "text_mp8JgM",
+        "caption_AwPNr6"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "heading_light": "#4e3919",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "#aca49b",
+        "background_color_light": "#f2efeb",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "image_with_text_6BYEXn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6riPzb": {
+          "type": "heading",
+          "settings": {
+            "subheading": "",
+            "heading": "Sophias [Warum]",
+            "highlight_type": "font_highlight",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>Sophia wollte schon als Kind Ohrringe tragen. Viele Anläufe später war klar: Der Preis dafür ist zu hoch.</p><p>Ohrclips waren die Hoffnung, doch sie sind unbequem, drücken und halten nicht. Und genau deshalb gibt es CLYPS.</p><p>Weil wir Ohrringe lieben, aber Schmerzen nicht.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "button_JJ7VVU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mehr über Sophias Reise lesen",
+            "button_link": "shopify://pages/uber-uns",
+            "open_new_window": false,
+            "show_button_style": "primary",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)",
+            "colors_text_link_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6riPzb",
+        "button_JJ7VVU"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "show_hero": false,
+        "image": "shopify://shop_images/clyps3-2_7bca6ed8-438b-48c1-af36-db64f9b9be2f.png",
+        "desktop_height": "natural",
+        "mobile_height": "400px",
+        "desktop_image_width": "medium",
+        "image_layout": "normal",
+        "adapt_radius": true,
+        "image_corner_radius": 0,
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "#f2efeb",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "line_border": "none",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "icon_color_light": "rgba(0,0,0,0)",
+        "heading_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "icon_color_dark": "rgba(0,0,0,0)",
+        "image_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 52,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 24,
+        "bottom_padding_mobile": 24
+      }
+    },
+    "featured_collection_6DAHXc": {
+      "type": "featured-collection",
+      "blocks": {
+        "collection_ij8PUM": {
+          "type": "collection",
+          "settings": {
+            "collection": "einsteiger",
+            "show_description": true,
+            "description": "",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "show_vendor": false,
+            "show_rating": false,
+            "show_highlighted_features": true,
+            "show_highlighted_attributes": true,
+            "show_quickview": true,
+            "show_promotion": false,
+            "promotion_position": "left",
+            "card_link": "",
+            "open_new_window": false,
+            "heading": "Featured collection",
+            "highlight_type": "underline",
+            "heading_size": 70,
+            "content": "<p>10% OFF</p>",
+            "text_size": 100,
+            "content_alignment": "center",
+            "content_position": "bottom",
+            "button_label": "See more",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary",
+            "enable_text_overlay": false,
+            "overlay_opacity": 0,
+            "image_ratio": "100",
+            "background_color": "rgba(0,0,0,0)",
+            "color_text": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "show_sound_control": false,
+            "video_url": "",
+            "enable_video_autoplay": false,
+            "video_alt_text": "",
+            "product_card": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_ij8PUM"
+      ],
+      "name": "t:sections.featured-collection.name",
+      "settings": {
+        "title": "Unsere Empfehlungen für den Einstieg",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "subheading": "",
+        "text": "",
+        "show_view_all": false,
+        "view_all_position": "top",
+        "view_all_button_style": "text-link",
+        "title_size": 120,
+        "title_style": "none",
+        "title_position": "under",
+        "tab_button_style": "label",
+        "color_background": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "color_background_secondary": "rgba(0,0,0,0)",
+        "color_text_secondary": "rgba(0,0,0,0)",
+        "color_background_hover": "rgba(0,0,0,0)",
+        "color_text_hover": "rgba(0,0,0,0)",
+        "color_background_dark": "rgba(0,0,0,0)",
+        "color_text_dark": "rgba(0,0,0,0)",
+        "color_background_secondary_dark": "rgba(0,0,0,0)",
+        "color_text_secondary_dark": "rgba(0,0,0,0)",
+        "color_background_hover_dark": "rgba(0,0,0,0)",
+        "color_text_hover_dark": "rgba(0,0,0,0)",
+        "enable_desktop_slider": true,
+        "slider_style": "horizontal",
+        "swiper_on_mobile": true,
+        "enable_arrow_mobile": false,
+        "auto_play": true,
+        "change_slides_speed": 5,
+        "columns_desktop": 4,
+        "rows_desktop": 1,
+        "spacing": 28,
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "columns_mobile": "2",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    }
+  },
+  "order": [
+    "video_with_text_4zdVBh",
+    "slideshow_RqnzVH",
+    "main",
+    "rich_text_pJ4XU4",
+    "multicolumn_RAfpTn",
+    "rich_text_9he6Q4",
+    "rich_text_WFTqRL",
+    "rich_text_3XeLwN",
+    "multicolumn_wXG3YY",
+    "rich_text_4bFiYr",
+    "image_with_text_6BYEXn",
+    "featured_collection_6DAHXc"
+  ]
+}

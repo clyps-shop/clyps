@@ -529,35 +529,7 @@
                   %}
                   {% unless link_product_unavailable %}
                     <div class="x-block-custom-options mb-4 md:mb-6 {{ block.settings.width_block }}{% if show_content_center %} text-center{% endif %}" {{ block.shopify_attributes }}>
-                      {% render 'customize-picker',
-                        block_id: block.id,
-                        linked_product: block.settings.linked_product,
-                        select_linked_products: block.settings.select_linked_products,
-                        select_linked_collections: block.settings.select_linked_collections,
-                        swatch_linked_products: block.settings.swatch_linked_products,
-                        swatch_linked_collections: block.settings.swatch_linked_collections,
-                        option_name: block.settings.option_name,
-                        placeholder: block.settings.placeholder,
-                        option_style: block.settings.option_style,
-                        required: block.settings.required,
-                        picker_type: block.settings.picker_type,
-                        option_label: block.settings.option_name,
-                        product_form_id: product_form_id,
-                        product_form_id_sticky: product_form_id_sticky,
-                        option_list: block.settings.option_list,
-                        max_text_length: block.settings.max_text_length | plus: 0,
-                        option_text_note: block.settings.option_text_note,
-                        option_select_note: block.settings.option_select_note,
-                        minimum_select_value: block.settings.minimum_select_value,
-                        maximum_select_value: block.settings.maximum_select_value,
-                        option_file_note: block.settings.option_file_note,
-                        swatch_value: block.settings.swatch_value,
-                        swatch_style: block.settings.swatch_style,
-                        min_date: block.settings.min_date,
-                        max_date: block.settings.max_date,
-                        hide_when_empty: block.settings.hide_when_empty,
-                        show_content_center: show_content_center
-                      %}
+                      {% render 'customize-picker', block_id: block.id, linked_product: block.settings.linked_product, select_linked_products: block.settings.select_linked_products, select_linked_collections: block.settings.select_linked_collections, swatch_linked_products: block.settings.swatch_linked_products, swatch_linked_collections: block.settings.swatch_linked_collections, option_name: block.settings.option_name, placeholder: block.settings.placeholder, option_style: block.settings.option_style, required: block.settings.required, picker_type: block.settings.picker_type, option_label: block.settings.option_name, product_form_id: product_form_id, product_form_id_sticky: product_form_id_sticky, option_list: block.settings.option_list, max_text_length: block.settings.max_text_length, plus: 0, option_text_note: block.settings.option_text_note, option_select_note: block.settings.option_select_note, minimum_select_value: block.settings.minimum_select_value, maximum_select_value: block.settings.maximum_select_value, option_file_note: block.settings.option_file_note, swatch_value: block.settings.swatch_value, swatch_style: block.settings.swatch_style, min_date: block.settings.min_date, max_date: block.settings.max_date, hide_when_empty: block.settings.hide_when_empty, show_content_center: show_content_center %}
                     </div>
                   {% endunless %}
                 {%- when 'engraving' -%}
@@ -567,14 +539,7 @@
                       {% if block.settings.engraving_option_label != blank %}
                         {% assign engraving_option = block.settings.engraving_option_label %}
                       {% endif %}
-                      {% render 'engraving',
-                        block_id: block.id,
-                        engraving_option_label: engraving_option,
-                        required: block.settings.engraving_required,
-                        product_form_id: product_form_id,
-                        max_text_length: block.settings.max_text_length | plus: 0,
-                        engrave_option_note: block.settings.engrave_option_note,
-                      %}
+                      {% render 'engraving', block_id: block.id, engraving_option_label: engraving_option, required: block.settings.engraving_required, product_form_id: product_form_id, max_text_length: block.settings.max_text_length, plus: 0, engrave_option_note: block.settings.engrave_option_note %}
                     </div>
                   {%- endif -%}
                 {%- when 'product_name' -%}
@@ -3171,4 +3136,69 @@
     {{ product | structured_data }}
   </script>
   {% # theme-check-enable %}
-{%- endif -%}
+{%- endif -%}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: |-
+    {% render 'customize-picker',
+                            block_id: block.id,
+                            linked_product: block.settings.linked_product,
+                            select_linked_products: block.settings.select_linked_products,
+                            select_linked_collections: block.settings.select_linked_collections,
+                            swatch_linked_products: block.settings.swatch_linked_products,
+                            swatch_linked_collections: block.settings.swatch_linked_collections,
+                            option_name: block.settings.option_name,
+                            placeholder: block.settings.placeholder,
+                            option_style: block.settings.option_style,
+                            required: block.settings.required,
+                            picker_type: block.settings.picker_type,
+                            option_label: block.settings.option_name,
+                            product_form_id: product_form_id,
+                            product_form_id_sticky: product_form_id_sticky,
+                            option_list: block.settings.option_list,
+                            max_text_length: block.settings.max_text_length | plus: 0,
+                            option_text_note: block.settings.option_text_note,
+                            option_select_note: block.settings.option_select_note,
+                            minimum_select_value: block.settings.minimum_select_value,
+                            maximum_select_value: block.settings.maximum_select_value,
+                            option_file_note: block.settings.option_file_note,
+                            swatch_value: block.settings.swatch_value,
+                            swatch_style: block.settings.swatch_style,
+                            min_date: block.settings.min_date,
+                            max_date: block.settings.max_date,
+                            hide_when_empty: block.settings.hide_when_empty,
+                            show_content_center: show_content_center
+                          %}
+  to: "{% render 'customize-picker', block_id: block.id, linked_product: block.settings.linked_product,
+    select_linked_products: block.settings.select_linked_products, select_linked_collections:
+    block.settings.select_linked_collections, swatch_linked_products: block.settings.swatch_linked_products,
+    swatch_linked_collections: block.settings.swatch_linked_collections, option_name:
+    block.settings.option_name, placeholder: block.settings.placeholder, option_style:
+    block.settings.option_style, required: block.settings.required, picker_type: block.settings.picker_type,
+    option_label: block.settings.option_name, product_form_id: product_form_id, product_form_id_sticky:
+    product_form_id_sticky, option_list: block.settings.option_list, max_text_length:
+    block.settings.max_text_length, plus: 0, option_text_note: block.settings.option_text_note,
+    option_select_note: block.settings.option_select_note, minimum_select_value: block.settings.minimum_select_value,
+    maximum_select_value: block.settings.maximum_select_value, option_file_note: block.settings.option_file_note,
+    swatch_value: block.settings.swatch_value, swatch_style: block.settings.swatch_style,
+    min_date: block.settings.min_date, max_date: block.settings.max_date, hide_when_empty:
+    block.settings.hide_when_empty, show_content_center: show_content_center %}"
+  position: 34046..35354
+- from: |-
+    {% render 'engraving',
+                            block_id: block.id,
+                            engraving_option_label: engraving_option,
+                            required: block.settings.engraving_required,
+                            product_form_id: product_form_id,
+                            max_text_length: block.settings.max_text_length | plus: 0,
+                            engrave_option_note: block.settings.engrave_option_note,
+                          %}
+  to: "{% render 'engraving', block_id: block.id, engraving_option_label: engraving_option,
+    required: block.settings.engraving_required, product_form_id: product_form_id,
+    max_text_length: block.settings.max_text_length, plus: 0, engrave_option_note:
+    block.settings.engrave_option_note %}"
+  position: 35975..36255
+{%- endcomment -%}

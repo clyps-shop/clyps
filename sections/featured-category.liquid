@@ -104,21 +104,7 @@
           @mouseleave="defaultHover = true"
           class="group"
         >
-          {% render 'card-category',
-            card_collection: block.settings.category,
-            image_ratio: section.settings.image_ratio,
-            image_style: section.settings.image_style,
-            image_width: section.settings.image_width,
-            image_width_mobile: section.settings.image_width_mobile,
-            ratio: ratio,
-            block: block,
-            image: block.settings.image,
-            content_alignment: section.settings.content_alignment,
-            content_position: section.settings.content_position,
-            show_item_count: section.settings.show_item_count.
-            card_index: forloop.index,
-            show_line_border: section.settings.show_line_border
-          %}
+          {% render 'card-category', card_collection: block.settings.category, image_ratio: section.settings.image_ratio, image_style: section.settings.image_style, image_width: section.settings.image_width, image_width_mobile: section.settings.image_width_mobile, ratio: ratio, block: block, image: block.settings.image, content_alignment: section.settings.content_alignment, content_position: section.settings.content_position, show_item_count: section.settings.show_item_count, card_index: forloop.index, show_line_border: section.settings.show_line_border %}
         </div>
       {% endfor %}
     </div>
@@ -516,4 +502,34 @@
     }
   ]
 }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: |-
+    {% render 'card-category',
+                card_collection: block.settings.category,
+                image_ratio: section.settings.image_ratio,
+                image_style: section.settings.image_style,
+                image_width: section.settings.image_width,
+                image_width_mobile: section.settings.image_width_mobile,
+                ratio: ratio,
+                block: block,
+                image: block.settings.image,
+                content_alignment: section.settings.content_alignment,
+                content_position: section.settings.content_position,
+                show_item_count: section.settings.show_item_count.
+                card_index: forloop.index,
+                show_line_border: section.settings.show_line_border
+              %}
+  to: "{% render 'card-category', card_collection: block.settings.category, image_ratio:
+    section.settings.image_ratio, image_style: section.settings.image_style, image_width:
+    section.settings.image_width, image_width_mobile: section.settings.image_width_mobile,
+    ratio: ratio, block: block, image: block.settings.image, content_alignment: section.settings.content_alignment,
+    content_position: section.settings.content_position, show_item_count: section.settings.show_item_count,
+    card_index: forloop.index, show_line_border: section.settings.show_line_border
+    %}"
+  position: 5410..5962
+{%- endcomment -%}

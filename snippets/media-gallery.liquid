@@ -163,7 +163,7 @@
                   {%- if media.media_type == 'video' or media.media_type == 'external_video' -%}
                     <div class="absolute top-1/2 -translate-x-1/2 left-1/2 -translate-y-1/2 w-6 h-6">
                       <span class="w-6 h-6 inline-block p-1 bg-[rgba(var(--background-color),1)] rounded-full border">
-                        {%- render 'icon-media', icon: 'icon-play' | class: 'w-full h-full' -%}
+                        {%- render 'icon-media', icon: 'icon-play', class: 'w-full h-full' -%}
                       </span>
                     </div>
                   {%- endif -%}
@@ -226,7 +226,7 @@
                   {%- if media.media_type == 'video' or media.media_type == 'external_video' -%}
                     <div class="absolute top-1/2 -translate-x-1/2 left-1/2 -translate-y-1/2 w-6 h-6">
                       <span class="w-6 h-6 inline-block p-1 bg-[rgba(var(--background-color),1)] rounded-full border">
-                        {%- render 'icon-media', icon: 'icon-play' | class: 'w-full h-full' -%}
+                        {%- render 'icon-media', icon: 'icon-play', class: 'w-full h-full' -%}
                       </span>
                     </div>
                   {%- endif -%}
@@ -244,7 +244,7 @@
         {% else %}
           <div class="x-thumbnail media-thumbnail relative opacity-30{% if section.settings.thumbnail_position == "horizontal" %} min-w-[50px] md:min-w-[65px] lg:min-w-[85px]{% endif %}">
             <div class="relative pb-[100%]">
-              {% render 'icon-placeholder', icon: 'icon-product' | class: 'bg-[#c9c9c9] w-full h-full absolute' %}
+              {% render 'icon-placeholder', icon: 'icon-product', class: 'bg-[#c9c9c9] w-full h-full absolute' %}
             </div>
           </div>
         {% endif %}
@@ -1393,7 +1393,7 @@
                                     {%- if media.media_type == 'video' or media.media_type == 'external_video' -%}
                                       <div class="absolute top-1/2 -translate-x-1/2 left-1/2 -translate-y-1/2 w-6 h-6">
                                         <span class="w-6 h-6 inline-block p-1 bg-[rgba(var(--background-color),1)] rounded-full border">
-                                          {%- render 'icon-media', icon: 'icon-play' | class: 'w-full h-full' -%}
+                                          {%- render 'icon-media', icon: 'icon-play', class: 'w-full h-full' -%}
                                         </span>
                                       </div>
                                     {%- endif -%}
@@ -1455,7 +1455,7 @@
                                     {%- if media.media_type == 'video' or media.media_type == 'external_video' -%}
                                       <div class="absolute top-1/2 -translate-x-1/2 left-1/2 -translate-y-1/2 w-6 h-6">
                                         <span class="w-6 h-6 inline-block p-1 bg-[rgba(var(--background-color),1)] rounded-full border">
-                                          {%- render 'icon-media', icon: 'icon-play' | class: 'w-full h-full' -%}
+                                          {%- render 'icon-media', icon: 'icon-play', class: 'w-full h-full' -%}
                                         </span>
                                       </div>
                                     {%- endif -%}
@@ -1473,7 +1473,7 @@
                           {% else %}
                             <div class="x-thumbnail media-thumbnail relative opacity-30 w-full aspect-square">
                               <div class="relative pb-[100%]">
-                                {% render 'icon-placeholder', icon: 'icon-product' | class: 'bg-[#c9c9c9] w-full h-full absolute' %}
+                                {% render 'icon-placeholder', icon: 'icon-product', class: 'bg-[#c9c9c9] w-full h-full absolute' %}
                               </div>
                             </div>
                           {% endif %}
@@ -1490,4 +1490,32 @@
     {% endif %}
   </div>
 </div>
-<script src="{{ 'product-media.js' | asset_url }}" defer></script>
+<script src="{{ 'product-media.js' | asset_url }}" defer></script>{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- render 'icon-media', icon: 'icon-play' | class: 'w-full h-full' -%}"
+  to: "{%- render 'icon-media', icon: 'icon-play', class: 'w-full h-full' -%}"
+  position: 9124..9194
+- from: "{%- render 'icon-media', icon: 'icon-play' | class: 'w-full h-full' -%}"
+  to: "{%- render 'icon-media', icon: 'icon-play', class: 'w-full h-full' -%}"
+  position: 13369..13439
+- from: "{% render 'icon-placeholder', icon: 'icon-product' | class: 'bg-[#c9c9c9]
+    w-full h-full absolute' %}"
+  to: "{% render 'icon-placeholder', icon: 'icon-product', class: 'bg-[#c9c9c9] w-full
+    h-full absolute' %}"
+  position: 14331..14430
+- from: "{%- render 'icon-media', icon: 'icon-play' | class: 'w-full h-full' -%}"
+  to: "{%- render 'icon-media', icon: 'icon-play', class: 'w-full h-full' -%}"
+  position: 97407..97477
+- from: "{%- render 'icon-media', icon: 'icon-play' | class: 'w-full h-full' -%}"
+  to: "{%- render 'icon-media', icon: 'icon-play', class: 'w-full h-full' -%}"
+  position: 102540..102610
+- from: "{% render 'icon-placeholder', icon: 'icon-product' | class: 'bg-[#c9c9c9]
+    w-full h-full absolute' %}"
+  to: "{% render 'icon-placeholder', icon: 'icon-product', class: 'bg-[#c9c9c9] w-full
+    h-full absolute' %}"
+  position: 103731..103830
+{%- endcomment -%}

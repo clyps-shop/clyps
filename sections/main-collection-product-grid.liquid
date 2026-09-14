@@ -261,29 +261,7 @@
                       assign product_card_id = paginate.current_page | append: forloop.index | plus: 0
                     %}
                     <div class="grid-item">
-                      {% render 'card-product',
-                        index_param: index_param,
-                        card_product: product,
-                        media_aspect_ratio: section.settings.image_ratio,
-                        show_highlighted_features: section.settings.show_highlighted_features,
-                        show_highlighted_attributes: section.settings.show_highlighted_attributes,
-                        show_vendor: section.settings.show_vendor,
-                        show_rating: section.settings.show_rating,
-                        loading: loading,
-                        show_quick_add: section.settings.enable_quick_add,
-                        section_id: section.id,
-                        block_id: product_card_id,
-                        collection: collection,
-                        columns_desktop: section.settings.products_per_row_on_desktop,
-                        column_mobile: section.settings.products_per_row_on_mobile | plus: 0,
-                        disable_quickview: disable_quickview,
-                        collection_page: true,
-                        show_description: section.settings.show_description,
-                        list_layout: true,
-                        product_card_id: product_card_id,
-                        animation_loading: true,
-                        show_price_range: true
-                      %}
+                      {% render 'card-product', index_param: index_param, card_product: product, media_aspect_ratio: section.settings.image_ratio, show_highlighted_features: section.settings.show_highlighted_features, show_highlighted_attributes: section.settings.show_highlighted_attributes, show_vendor: section.settings.show_vendor, show_rating: section.settings.show_rating, loading: loading, show_quick_add: section.settings.enable_quick_add, section_id: section.id, block_id: product_card_id, collection: collection, columns_desktop: section.settings.products_per_row_on_desktop, column_mobile: section.settings.products_per_row_on_mobile, plus: 0, disable_quickview: disable_quickview, collection_page: true, show_description: section.settings.show_description, list_layout: true, product_card_id: product_card_id, animation_loading: true, show_price_range: true %}
                     </div>
                     {% for block in section.blocks %}
                       {% if block.settings.position > index and index == collection.products_count and collection.products_count == collection.all_products_count %}
@@ -302,45 +280,7 @@
                           assign columns_desktop = section.settings.products_per_row_on_desktop | divided_by: col_span
                           assign columns_mobile = section.settings.products_per_row_on_mobile | divided_by: col_span_mobile
                         %}
-                        {% render 'promotion-block',
-                          blockID: block.id,
-                          image_ratio: 'last-promo',
-                          ratio: block.settings.image.aspect_ratio | times: 100,
-                          columns_desktop: columns_desktop,
-                          columns_mobile: columns_mobile,
-                          block: block,
-                          enable_desktop_slider: false,
-                          image: block.settings.image,
-                          button_label: block.settings.button_label,
-                          button_link: block.settings.button_link,
-                          open_new_window: block.settings.open_new_window,
-                          content_position: block.settings.content_position,
-                          alignment: block.settings.alignment,
-                          heading: block.settings.heading,
-                          content: block.settings.content,
-                          image_overlay_opacity: block.settings.image_overlay_opacity,
-                          title_size: block.settings.title_size,
-                          text_size: block.settings.text_size,
-                          list_layout: true,
-                          show_button_style: block.settings.show_button_style,
-                          color_button: block.settings.color_button,
-                          color_text_button: block.settings.color_text_button,
-                          color_button_hover: block.settings.color_button_hover,
-                          color_text_button_hover: block.settings.color_text_button_hover,
-                          color_button_secondary: block.settings.color_button_secondary,
-                          secondary_button_text: block.settings.secondary_button_text,
-                          colors_text_link: block.settings.colors_text_link,
-                          class_tall_mobile: class_tall_mobile,
-                          class_tall_desktop: class_tall_desktop,
-                          collection_page: true,
-                          loading: loading,
-                          icon: 'none',
-                          subheading: block.settings.subheading,
-                          heading_highlight: true,
-                          color_heading_highlight_dark: block.settings.color_heading_highlight_dark,
-                          color_heading_highlight_light: block.settings.color_heading_highlight_light,
-                          highlight_type: block.settings.highlight_type
-                        %}
+                        {% render 'promotion-block', blockID: block.id, image_ratio: 'last-promo', ratio: block.settings.image.aspect_ratio, times: 100, columns_desktop: columns_desktop, columns_mobile: columns_mobile, block: block, enable_desktop_slider: false, image: block.settings.image, button_label: block.settings.button_label, button_link: block.settings.button_link, open_new_window: block.settings.open_new_window, content_position: block.settings.content_position, alignment: block.settings.alignment, heading: block.settings.heading, content: block.settings.content, image_overlay_opacity: block.settings.image_overlay_opacity, title_size: block.settings.title_size, text_size: block.settings.text_size, list_layout: true, show_button_style: block.settings.show_button_style, color_button: block.settings.color_button, color_text_button: block.settings.color_text_button, color_button_hover: block.settings.color_button_hover, color_text_button_hover: block.settings.color_text_button_hover, color_button_secondary: block.settings.color_button_secondary, secondary_button_text: block.settings.secondary_button_text, colors_text_link: block.settings.colors_text_link, class_tall_mobile: class_tall_mobile, class_tall_desktop: class_tall_desktop, collection_page: true, loading: loading, icon: 'none', subheading: block.settings.subheading, heading_highlight: true, color_heading_highlight_dark: block.settings.color_heading_highlight_dark, color_heading_highlight_light: block.settings.color_heading_highlight_light, highlight_type: block.settings.highlight_type %}
                       {% endif %}
                     {% endfor %}
                   {%- endfor -%}
@@ -1179,4 +1119,104 @@
     }
   ]
 }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: |-
+    {% render 'card-product',
+                            index_param: index_param,
+                            card_product: product,
+                            media_aspect_ratio: section.settings.image_ratio,
+                            show_highlighted_features: section.settings.show_highlighted_features,
+                            show_highlighted_attributes: section.settings.show_highlighted_attributes,
+                            show_vendor: section.settings.show_vendor,
+                            show_rating: section.settings.show_rating,
+                            loading: loading,
+                            show_quick_add: section.settings.enable_quick_add,
+                            section_id: section.id,
+                            block_id: product_card_id,
+                            collection: collection,
+                            columns_desktop: section.settings.products_per_row_on_desktop,
+                            column_mobile: section.settings.products_per_row_on_mobile | plus: 0,
+                            disable_quickview: disable_quickview,
+                            collection_page: true,
+                            show_description: section.settings.show_description,
+                            list_layout: true,
+                            product_card_id: product_card_id,
+                            animation_loading: true,
+                            show_price_range: true
+                          %}
+  to: "{% render 'card-product', index_param: index_param, card_product: product,
+    media_aspect_ratio: section.settings.image_ratio, show_highlighted_features: section.settings.show_highlighted_features,
+    show_highlighted_attributes: section.settings.show_highlighted_attributes, show_vendor:
+    section.settings.show_vendor, show_rating: section.settings.show_rating, loading:
+    loading, show_quick_add: section.settings.enable_quick_add, section_id: section.id,
+    block_id: product_card_id, collection: collection, columns_desktop: section.settings.products_per_row_on_desktop,
+    column_mobile: section.settings.products_per_row_on_mobile, plus: 0, disable_quickview:
+    disable_quickview, collection_page: true, show_description: section.settings.show_description,
+    list_layout: true, product_card_id: product_card_id, animation_loading: true,
+    show_price_range: true %}"
+  position: 15737..16587
+- from: |-
+    {% render 'promotion-block',
+                              blockID: block.id,
+                              image_ratio: 'last-promo',
+                              ratio: block.settings.image.aspect_ratio | times: 100,
+                              columns_desktop: columns_desktop,
+                              columns_mobile: columns_mobile,
+                              block: block,
+                              enable_desktop_slider: false,
+                              image: block.settings.image,
+                              button_label: block.settings.button_label,
+                              button_link: block.settings.button_link,
+                              open_new_window: block.settings.open_new_window,
+                              content_position: block.settings.content_position,
+                              alignment: block.settings.alignment,
+                              heading: block.settings.heading,
+                              content: block.settings.content,
+                              image_overlay_opacity: block.settings.image_overlay_opacity,
+                              title_size: block.settings.title_size,
+                              text_size: block.settings.text_size,
+                              list_layout: true,
+                              show_button_style: block.settings.show_button_style,
+                              color_button: block.settings.color_button,
+                              color_text_button: block.settings.color_text_button,
+                              color_button_hover: block.settings.color_button_hover,
+                              color_text_button_hover: block.settings.color_text_button_hover,
+                              color_button_secondary: block.settings.color_button_secondary,
+                              secondary_button_text: block.settings.secondary_button_text,
+                              colors_text_link: block.settings.colors_text_link,
+                              class_tall_mobile: class_tall_mobile,
+                              class_tall_desktop: class_tall_desktop,
+                              collection_page: true,
+                              loading: loading,
+                              icon: 'none',
+                              subheading: block.settings.subheading,
+                              heading_highlight: true,
+                              color_heading_highlight_dark: block.settings.color_heading_highlight_dark,
+                              color_heading_highlight_light: block.settings.color_heading_highlight_light,
+                              highlight_type: block.settings.highlight_type
+                            %}
+  to: "{% render 'promotion-block', blockID: block.id, image_ratio: 'last-promo',
+    ratio: block.settings.image.aspect_ratio, times: 100, columns_desktop: columns_desktop,
+    columns_mobile: columns_mobile, block: block, enable_desktop_slider: false, image:
+    block.settings.image, button_label: block.settings.button_label, button_link:
+    block.settings.button_link, open_new_window: block.settings.open_new_window, content_position:
+    block.settings.content_position, alignment: block.settings.alignment, heading:
+    block.settings.heading, content: block.settings.content, image_overlay_opacity:
+    block.settings.image_overlay_opacity, title_size: block.settings.title_size, text_size:
+    block.settings.text_size, list_layout: true, show_button_style: block.settings.show_button_style,
+    color_button: block.settings.color_button, color_text_button: block.settings.color_text_button,
+    color_button_hover: block.settings.color_button_hover, color_text_button_hover:
+    block.settings.color_text_button_hover, color_button_secondary: block.settings.color_button_secondary,
+    secondary_button_text: block.settings.secondary_button_text, colors_text_link:
+    block.settings.colors_text_link, class_tall_mobile: class_tall_mobile, class_tall_desktop:
+    class_tall_desktop, collection_page: true, loading: loading, icon: 'none', subheading:
+    block.settings.subheading, heading_highlight: true, color_heading_highlight_dark:
+    block.settings.color_heading_highlight_dark, color_heading_highlight_light: block.settings.color_heading_highlight_light,
+    highlight_type: block.settings.highlight_type %}"
+  position: 18137..19689
+{%- endcomment -%}

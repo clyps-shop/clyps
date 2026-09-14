@@ -356,7 +356,7 @@
                     >
                     {% # theme-check-enable ImgLazyLoading %}
                   {%- else -%}
-                    {% render 'icon-placeholder', icon: 'icon-product' | class: 'bg-[#c9c9c9] w-full h-full' %}
+                    {% render 'icon-placeholder', icon: 'icon-product', class: 'bg-[#c9c9c9] w-full h-full' %}
                   {%- endif -%}
                 </div>
               {% when 'collection' %}
@@ -1350,4 +1350,15 @@
     }
   ]
 }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'icon-placeholder', icon: 'icon-product' | class: 'bg-[#c9c9c9]
+    w-full h-full' %}"
+  to: "{% render 'icon-placeholder', icon: 'icon-product', class: 'bg-[#c9c9c9] w-full
+    h-full' %}"
+  position: 20402..20492
+{%- endcomment -%}

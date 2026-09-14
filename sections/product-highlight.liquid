@@ -364,7 +364,7 @@
           {% else %}
             <div class="flex flex-col h-full">
               <div class="h-0 grow{% if settings.edges_type == 'rounded_corners' %} overflow-hidden md:rounded-[10px]{% unless section.settings.full_width_mobile %} rounded-[10px]{% endunless %}{% endif %}"> 
-                {% render 'icon-placeholder', icon: 'icon-product' | class: 'bg-[#c9c9c9] w-full h-full' %}
+                {% render 'icon-placeholder', icon: 'icon-product', class: 'bg-[#c9c9c9] w-full h-full' %}
               </div>
               <div class="pt-4 pb-4 text-{{ settings.info_alignment_card_product }} rtl:text-{% if settings.info_alignment_card_product == 'center' %}center{% elsif settings.info_alignment_card_product == 'left' %}right{% else %}left{% endif %}{% if section.settings.full_width_mobile %} pl-5 pr-5 md:pl-0 md:pr-0{% endif %}">
                 <p class="leading-tight text-[rgba(var(--colors-heading))] x-card-title h5">
@@ -1468,4 +1468,15 @@
     }
   ]
 }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'icon-placeholder', icon: 'icon-product' | class: 'bg-[#c9c9c9]
+    w-full h-full' %}"
+  to: "{% render 'icon-placeholder', icon: 'icon-product', class: 'bg-[#c9c9c9] w-full
+    h-full' %}"
+  position: 21826..21916
+{%- endcomment -%}

@@ -161,7 +161,7 @@
         >
           <button :disabled="view_all_link === ''" :class="view_all_link === '' ? 'cursor-not-allowed' : 'cursor-pointer'" class="button p-break-words button--{{ section.id }}{% if section.settings.view_all_button_style == 'secondary' %} button-outline{% else %} button-solid{% endif %} empty:hidden leading-normal text-center lg:mt-0 lg:mb-0 lg:ml-0 lg:mr-0 h-full pl-7 pr-7 lg:pl-9 lg:pr-9 pt-2.5 pb-2.5 md:pt-3 md:pb-3">
             <span class="flex justify-center">
-              {% render 'button-label', button_label: button_label | t, show_button_style: section.settings.view_all_button_style %}
+              {% render 'button-label', button_label: button_label, show_button_style: section.settings.view_all_button_style %}
             </span>
           </button>
         </a>
@@ -1131,3 +1131,15 @@
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'button-label', button_label: button_label | t, show_button_style:
+    section.settings.view_all_button_style %}"
+  to: "{% render 'button-label', button_label: button_label, show_button_style: section.settings.view_all_button_style
+    %}"
+  position: 7831..7945
+{% endcomment %}

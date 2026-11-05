@@ -20,7 +20,7 @@
             "icon": "hot-sale",
             "another_icon": "",
             "custom_icon": "",
-            "text": "Spare 20% beim Kauf von 2 Artikeln. Rabatt wird automatisch abgezogen.",
+            "text": "Spare 20% beim Kauf von 2 Ohrclips. Rabatt wird automatisch abgezogen.",
             "text_size": 100,
             "link": "",
             "open_new_window": false,
@@ -47,6 +47,7 @@
         },
         "announcement_B6G6LU": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "another_icon": "",
@@ -111,10 +112,10 @@
         "announcement_LKNJ3A": {
           "type": "announcement",
           "settings": {
-            "icon": "none",
+            "icon": "percent",
             "another_icon": "",
             "custom_icon": "",
-            "text": "NEU: Ergänze deinen Look mit stylischen Ear Cuffs 😍",
+            "text": "BLACK FRIDAY SALE: Spare bis zu 40% auf stylischen Ear Cuffs 😍",
             "text_size": 100,
             "link": "shopify://collections/ear-cuffs",
             "open_new_window": false,

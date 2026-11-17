@@ -31,7 +31,7 @@
             "heading": "Schmerzfreie [Ohrclips]",
             "highlight_type": "font_highlight",
             "heading_size": 170,
-            "heading_tag": "h2",
+            "heading_tag": "h1",
             "text": "",
             "button_label_1": "ALLE OHRRINGE ENTDECKEN",
             "button_link_1": "shopify://collections/ear-cuffs",
@@ -1480,7 +1480,7 @@
             "heading": "Jetzt Newsletter abonnieren und 10% auf deine erste Bestellung sparen.",
             "highlight_type": "underline",
             "heading_size": 100,
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text": "",
             "text_size": 100
           }

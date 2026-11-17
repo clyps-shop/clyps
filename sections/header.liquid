@@ -730,17 +730,24 @@
     {% if section.settings.logo %}
       "logo": {{ section.settings.logo | image_url: width: section.settings.logo.width | prepend: "https:" | json }},
     {% endif %}
+    {%- comment -%} clyps: only list social profiles that are actually set (empty strings are invalid sameAs values). {%- endcomment -%}
+    {%- liquid
+      assign social_links = settings.social_twitter_link | append: '|' | append: settings.social_facebook_link | append: '|' | append: settings.social_pinterest_link | append: '|' | append: settings.social_instagram_link | append: '|' | append: settings.social_tiktok_link | append: '|' | append: settings.social_tumblr_link | append: '|' | append: settings.social_snapchat_link | append: '|' | append: settings.social_youtube_link | append: '|' | append: settings.social_vimeo_link | split: '|'
+    -%}
     "sameAs": [
-      {{ settings.social_twitter_link | json }},
-      {{ settings.social_facebook_link | json }},
-      {{ settings.social_pinterest_link | json }},
-      {{ settings.social_instagram_link | json }},
-      {{ settings.social_tiktok_link | json }},
-      {{ settings.social_tumblr_link | json }},
-      {{ settings.social_snapchat_link | json }},
-      {{ settings.social_youtube_link | json }},
-      {{ settings.social_vimeo_link | json }}
+      {%- assign same_as_count = 0 -%}
+      {%- for link in social_links -%}
+        {%- assign link_clean = link | strip -%}
+        {%- if link_clean != blank -%}
+          {%- if same_as_count > 0 -%},{%- endif -%}
+          {%- assign same_as_count = same_as_count | plus: 1 -%}
+          {{ link_clean | json }}
+        {%- endif -%}
+      {%- endfor -%}
     ],
+    {%- if shop.description != blank %}
+    "description": {{ shop.description | json }},
+    {%- endif %}
     "url": {{ request.origin | append: page.url | json }}
   }
 </script>

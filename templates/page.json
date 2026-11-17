@@ -61,6 +61,7 @@
       "block_order": [
         "eu_widerruf_button_form_inline_fFGbYt"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }

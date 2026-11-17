@@ -155,7 +155,7 @@
     "collection_title": "Název vaší kolekce"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Název možnosti",
       "description_default": "Tato oblast slouží k popisu detailů vašeho produktu. Řekněte zákazníkům o vzhledu, pocitu a stylu vašeho produktu. Přidejte podrobnosti o barvě, použitých materiálech, velikosti a místě výroby.",
       "name_vendor": "Jméno prodejce",

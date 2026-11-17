@@ -155,7 +155,7 @@
     "collection_title": "Numele colecției tale"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Nume opțiune",
       "description_default": "Această zonă este folosită pentru a descrie detaliile produsului tău. Spune clienților despre aspectul, senzația și stilul produsului tău. Adaugă detalii despre culoare, materiale folosite, mărime și locul unde a fost fabricat.",
       "name_vendor": "Nume furnizor",

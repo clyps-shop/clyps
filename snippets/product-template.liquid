@@ -419,6 +419,12 @@
                       show_content_center: show_content_center
                     %}
                   </div>
+                {%- when 'clyps_product_siblings' -%}
+                  {% render 'clyps-product-siblings',
+                    product: product,
+                    block: block,
+                    show_content_center: show_content_center
+                  %}
                 {%- when 'product_sibling' -%}
                   {% render 'product-sibling',
                     product: product,

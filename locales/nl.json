@@ -300,7 +300,7 @@
         "collection_title": "De naam van uw verzameling"
     },
     "products": {
-        "product": {
+        "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
             "option_name": "Optiesnaam",
             "description_default": "Dit gebied wordt gebruikt om de details van uw product te beschrijven. Vertel klanten over het uiterlijk, het gevoel en de stijl van uw product. Voeg details toe over de kleur, de gebruikte materialen, de maatvoering en waar het is gemaakt.",
             "name_vendor": "Naam van de leverancier",

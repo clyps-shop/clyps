@@ -408,8 +408,11 @@
       "@context": "https://schema.org",
       "@type": "FAQPage",
       "mainEntity": [
+        {%- assign faq_schema_count = 0 -%}
         {%- for block in section.blocks -%}
-          {%- if block.settings.heading and block.settings.row_content -%}
+          {%- if block.settings.heading != blank and block.settings.row_content != blank -%}
+            {%- if faq_schema_count > 0 -%},{%- endif -%}
+            {%- assign faq_schema_count = faq_schema_count | plus: 1 -%}
             {
               "@type": "Question",
               "name": {{ block.settings.heading | json }},
@@ -417,7 +420,7 @@
                 "@type": "Answer",
                 "text": {{ block.settings.row_content | strip_html | json }}
               }
-            }{%- unless forloop.last -%},{%- endunless -%}
+            }
           {%- endif -%}
         {%- endfor -%}
       ]

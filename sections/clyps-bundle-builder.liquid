@@ -108,6 +108,7 @@
   .cbb-option__img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px; display: block; height: auto; }
   .cbb-option__title { font-weight: 600; line-height: 1.25; }
   .cbb-option__price { opacity: .8; }
+  .cbb-option__compare { opacity: .7; margin-right: .25rem; }
   .cbb-option__input:checked + .cbb-option__label { border-color: rgb(var(--colors-text)); box-shadow: 0 0 0 1px rgb(var(--colors-text)); }
   .cbb-option__input:focus-visible + .cbb-option__label { outline: 2px solid rgb(var(--colors-text)); outline-offset: 2px; }
   .cbb-option__input:disabled + .cbb-option__label { opacity: .45; cursor: not-allowed; }
@@ -125,7 +126,6 @@
   data-section-id="{{ section.id }}"
   data-min-clips="{{ min_clips }}"
   data-clip-discount="{{ clip_discount }}"
-  data-cuff-discount="{{ cuff_discount }}"
   data-money-format="{{ money_format | escape }}"
   data-cart-url="{{ routes.cart_url }}"
   data-cart-add-url="{{ routes.cart_add_url }}"
@@ -400,7 +400,8 @@
       "step": 5,
       "unit": "%",
       "default": 70,
-      "label": "t:sections.clyps_bundle_builder.settings.cuff_discount.label"
+      "label": "t:sections.clyps_bundle_builder.settings.cuff_discount.label",
+      "info": "t:sections.clyps_bundle_builder.settings.cuff_discount.info"
     },
     {
       "type": "header",

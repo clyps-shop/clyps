@@ -334,7 +334,7 @@
     }
   },
   "sections": {
-    "clyps_bundle_builder": {
+    "clyps_bundle_builder": {"sale_price":"Angebotspreis",
       "heading_default": "Stell dein Set zusammen",
       "discount_clips": "{{ discount }} % Rabatt ab {{ min }} Ohrclips",
       "discount_cuffs": "{{ discount }} % auf Ear Cuffs",

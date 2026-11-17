@@ -31,6 +31,7 @@
 
       this.addEventListener('change', this.onChange.bind(this));
       this.addEventListener('click', this.onClick.bind(this));
+      this.addEventListener('keydown', this.onKeydown.bind(this));
 
       this.querySelectorAll('[data-cbb-bundle]').forEach((bundle) => this.update(bundle));
       this.initDots();
@@ -76,13 +77,8 @@
     }
 
     onChange(event) {
-      const target = event.target;
-      const bundle = target.closest('[data-cbb-bundle]');
+      const bundle = event.target.closest('[data-cbb-bundle]');
       if (!bundle) return;
-
-      if (target.matches('.cbb-option__input')) {
-        this.fillSlotVariants(target.closest('[data-cbb-slot]'), target.value);
-      }
       this.setMessage(bundle, '');
       this.update(bundle);
     }
@@ -93,10 +89,36 @@
         this.togglePanel(toggle);
         return;
       }
+      const pick = event.target.closest('[data-cbb-pick]');
+      if (pick) {
+        this.pickProduct(pick);
+        return;
+      }
+      const slotBtn = event.target.closest('[data-cbb-slot-btn]');
+      if (slotBtn) {
+        this.onSlotClick(slotBtn.closest('[data-cbb-slot]'));
+        return;
+      }
+      const tab = event.target.closest('[data-cbb-tab]');
+      if (tab) {
+        this.selectTab(tab.dataset.cbbTab);
+        return;
+      }
       const add = event.target.closest('[data-cbb-add]');
       if (add) {
         this.addToCart(add.closest('[data-cbb-bundle]'), add);
       }
+    }
+
+    onKeydown(event) {
+      const tab = event.target.closest('[data-cbb-tab]');
+      if (!tab || (event.key !== 'ArrowRight' && event.key !== 'ArrowLeft')) return;
+      const tabs = Array.from(this.querySelectorAll('[data-cbb-tab]'));
+      const dir = event.key === 'ArrowRight' ? 1 : -1;
+      const next = tabs[(tabs.indexOf(tab) + dir + tabs.length) % tabs.length];
+      event.preventDefault();
+      this.selectTab(next.dataset.cbbTab);
+      next.focus();
     }
 
     togglePanel(toggle) {
@@ -112,19 +134,117 @@
       }
     }
 
-    fillSlotVariants(slot, productId) {
+    selectTab(name) {
+      this.querySelectorAll('[data-cbb-tab]').forEach((tab) => {
+        const active = tab.dataset.cbbTab === name;
+        tab.setAttribute('aria-selected', String(active));
+        tab.tabIndex = active ? 0 : -1;
+      });
+      this.querySelectorAll('[data-cbb-tabpanel]').forEach((panel) => {
+        panel.hidden = panel.dataset.cbbTabpanel !== name;
+      });
+    }
+
+    // Tapping a product tile fills the next free slot of its role (ear clip or ear cuff).
+    pickProduct(tile) {
+      const bundle = tile.closest('[data-cbb-bundle]');
+      if (!bundle || tile.disabled) return;
+      const role = tile.dataset.role;
+      const slots = Array.from(bundle.querySelectorAll(`[data-cbb-slot][data-role="${role}"]`));
+      let slot = slots.find((s) => !s.dataset.productId);
+
+      if (!slot) {
+        if (role === 'cuff' && slots.length) {
+          slot = slots[0]; // only one ear cuff: replace it
+        } else {
+          this.setMessage(bundle, this.dataset.textSlotsFull, true);
+          return;
+        }
+      }
+
+      this.setSlot(bundle, slot, tile.dataset.productId);
+      this.setMessage(bundle, '');
+
+      if (role === 'clip' && slots.every((s) => s.dataset.productId)) {
+        const cuffSlot = bundle.querySelector('[data-cbb-slot][data-role="cuff"]');
+        if (cuffSlot && !cuffSlot.dataset.productId) this.selectTab('cuff');
+      }
+      this.update(bundle);
+    }
+
+    onSlotClick(slot) {
       if (!slot) return;
+      const bundle = slot.closest('[data-cbb-bundle]');
+      if (slot.dataset.productId) {
+        this.setSlot(bundle, slot, null);
+        this.setMessage(bundle, '');
+        this.update(bundle);
+        return;
+      }
+      this.selectTab(slot.dataset.role);
+      const panel = this.querySelector(`[data-cbb-tabpanel="${slot.dataset.role}"]`);
+      const firstTile = panel && panel.querySelector('[data-cbb-pick]:not(:disabled)');
+      if (firstTile) firstTile.focus();
+    }
+
+    setSlot(bundle, slot, productId) {
+      const product = productId ? this.products[productId] : null;
+      const label = slot.dataset.label || '';
+      slot.dataset.productId = product ? String(productId) : '';
+      slot.classList.toggle('is-filled', Boolean(product));
+
+      const media = slot.querySelector('[data-cbb-slot-media]');
+      if (media) {
+        media.textContent = '';
+        if (product && product.image) {
+          const img = document.createElement('img');
+          img.src = product.image;
+          img.alt = '';
+          img.width = 120;
+          img.height = 120;
+          img.loading = 'lazy';
+          media.appendChild(img);
+        } else {
+          const plus = document.createElement('span');
+          plus.className = 'cbb-slot__plus';
+          plus.textContent = '+';
+          media.appendChild(plus);
+        }
+      }
+
+      const name = slot.querySelector('[data-cbb-slot-name]');
+      if (name) name.textContent = product ? product.title : label;
+      const hint = slot.querySelector('[data-cbb-slot-hint]');
+      if (hint) {
+        hint.textContent = product
+          ? this.dataset.textRemove || ''
+          : slot.dataset.role === 'cuff'
+            ? this.dataset.textOptional || ''
+            : this.dataset.textChoose || '';
+      }
+      const btn = slot.querySelector('[data-cbb-slot-btn]');
+      if (btn) {
+        btn.setAttribute(
+          'aria-label',
+          product
+            ? (this.dataset.textAriaFilled || '').replace('[slot]', label).replace('[product]', product.title)
+            : (this.dataset.textAriaEmpty || '').replace('[slot]', label)
+        );
+      }
+
+      this.fillSlotVariants(slot, product);
+      this.updateCounts(bundle);
+    }
+
+    fillSlotVariants(slot, product) {
       const wrapper = slot.querySelector('[data-cbb-slot-variant]');
       const select = slot.querySelector('[data-cbb-variant]');
       if (!select) return;
-      select.innerHTML = '';
-
-      const product = productId ? this.products[productId] : null;
+      select.textContent = '';
       if (!product) {
         if (wrapper) wrapper.hidden = true;
         return;
       }
-
       let selected = false;
       product.variants.forEach((v) => {
         const option = document.createElement('option');
@@ -138,6 +258,24 @@
         select.appendChild(option);
       });
       if (wrapper) wrapper.hidden = product.variants.length < 2;
+    }
+
+    // Show how often each product is in the set (e.g. the same ear clip twice).
+    updateCounts(bundle) {
+      const counts = {};
+      bundle.querySelectorAll('[data-cbb-slot]').forEach((slot) => {
+        const id = slot.dataset.productId;
+        if (id) counts[id] = (counts[id] || 0) + 1;
+      });
+      bundle.querySelectorAll('[data-cbb-pick]').forEach((tile) => {
+        const count = counts[tile.dataset.productId] || 0;
+        tile.setAttribute('aria-pressed', String(count > 0));
+        const badge = tile.querySelector('[data-cbb-count]');
+        if (badge) {
+          badge.textContent = count > 1 ? `${count}×` : count === 1 ? '✓' : '';
+          badge.hidden = count === 0;
+        }
+      });
     }
 
     getItems(bundle) {
@@ -194,6 +332,11 @@
     }
 
     renderSummary(bundle, items) {
+      const progress = bundle.querySelector('[data-cbb-progress]');
+      if (progress) {
+        const chosen = Math.min(items.filter((i) => i.role === 'clip').length, this.minClips);
+        progress.textContent = (this.dataset.textProgress || '').replace('[chosen]', String(chosen));
+      }
       const list = bundle.querySelector('[data-cbb-summary]');
       if (!list) return;
       list.innerHTML = '';

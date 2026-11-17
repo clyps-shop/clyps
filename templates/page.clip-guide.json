@@ -474,7 +474,7 @@
               "settings": {
                 "desktop_width": "100",
                 "mobile_width": "100",
-                "text": "<p><strong>Unsere Empfehlung:</strong> Starte mit dem <strong>Eyeryday Clip</strong>. </p><p>Der Verschluss ist biegsam und lässt sich an dein Ohr anpassen. Deshalb ist es ideal bei einer niedrigen Schmertoleranz oder hohen Empfindlichkeit der Ohrläppchen.</p><p>Der Everyday Clip ist perfekt für den Alltag, weil du ihn von morgens bis abends tragen kannst. So bequem, dass du vergisst, dass du sie trägst.</p><p>Damit bietet er die beste Balance aus Komfort und Halt und ist durch das Kunstharz besonders hautverträglich.</p>",
+                "text": "<p><strong>Unsere Empfehlung:</strong> Starte mit dem <strong>Eyeryday Clip</strong>.&nbsp;</p><p>Der Verschluss ist biegsam und lässt sich an dein Ohr anpassen. Deshalb ist es ideal bei einer niedrigen Schmertoleranz oder hohen Empfindlichkeit der Ohrläppchen.</p><p>Der Everyday Clip ist perfekt für den Alltag, weil du ihn von morgens bis abends tragen kannst. So bequem, dass du vergisst, dass du sie trägst.</p><p>Damit bietet er die beste Balance aus Komfort und Halt und ist durch das Kunstharz besonders hautverträglich.</p>",
                 "text_size": 100,
                 "content_alignment": "adapt",
                 "mobile_content_alignment": "adapt",
@@ -565,8 +565,8 @@
               "settings": {
                 "desktop_width": "100",
                 "mobile_width": "100",
-                "button_label": "Mit dem Starter-Set beginnen",
-                "button_link": "shopify://products/clyps-starter-set",
+                "button_label": "Einsteiger Ohrringe entdecken",
+                "button_link": "shopify://collections/einsteiger",
                 "open_new_window": false,
                 "show_button_style": "primary",
                 "content_alignment": "adapt",

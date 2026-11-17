@@ -155,7 +155,7 @@
     "collection_title": "您的系列名稱"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "選項名稱",
       "description_default": "此區域用於描述您的產品詳細資訊。告訴客戶您的產品的外觀、感覺和風格。添加有關顏色、使用的材料、尺寸以及製造地點的詳細資訊。",
       "name_vendor": "供應商名稱",

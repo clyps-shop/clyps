@@ -155,7 +155,7 @@
     "collection_title": "Le nom de votre collection"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Nom de l'option",
       "description_default": "Cette zone est utilisée pour décrire les détails de votre produit. Expliquez aux clients l'aspect, le toucher et le style de votre produit. Ajoutez des détails sur la couleur, les matériaux utilisés, la taille et le lieu de fabrication.",
       "name_vendor": "Nom du vendeur",

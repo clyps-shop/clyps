@@ -155,7 +155,7 @@
     "collection_title": "שם האוסף שלך"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "שם אפשרות",
       "description_default": "אזור זה משמש לתיאור פרטי המוצר שלך. ספר ללקוחות על המראה, התחושה והסגנון של המוצר שלך. הוסף פרטים על צבע, חומרים בשימוש, מידות ומקום הייצור.",
       "name_vendor": "שם ספק",

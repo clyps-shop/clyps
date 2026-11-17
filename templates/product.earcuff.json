@@ -264,6 +264,14 @@
             "heading": "Produktsicherheit",
             "tab_content": "<p><strong>Hersteller / Importeur:<br/></strong>CLYPS<br/>Julia Artanlar<br/>Wesuweer Straße 48<br/>49733 Haren (Ems)<br/>Deutschland<br/><br/><strong>Kontakt: </strong>info@clyps.shop</p>"
           }
+        },
+        "clyps_product_siblings": {
+          "type": "clyps_product_siblings",
+          "settings": {
+            "heading": "",
+            "siblings_metafield": "custom.clyps_siblings",
+            "label_metafield": "custom.clyps_sibling_label"
+          }
         }
       },
       "block_order": [
@@ -276,6 +284,7 @@
         "estimate_delivery_qTbQQ9",
         "price",
         "badges_H88bPq",
+        "clyps_product_siblings",
         "variant_picker",
         "buy_buttons",
         "payment_methods_HYMPjK",

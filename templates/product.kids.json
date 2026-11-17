@@ -263,6 +263,14 @@
             "heading": "Produktsicherheit",
             "tab_content": "<p><strong>Hersteller / Importeur:<br/></strong>CLYPS<br/>Julia Artanlar<br/>Wesuweer Straße 48<br/>49733 Haren (Ems)<br/>Deutschland<br/><br/><strong>Kontakt: </strong>hey@clyps.shop<br/><br/><strong>Wir empfehlen CLYPS Kids ab etwa 6 Jahren.</strong> In diesem Alter können viele Kinder bereits gut verstehen, wie sie mit ihrem Ohrschmuck umgehen sollten. So sitzen die Clips sicher und die Wahrscheinlichkeit, dass sie beim Spielen oder durch häufiges Anfassen verloren gehen, ist geringer. Ob dein Kind dafür bereit ist, könnt ihr als Eltern am besten selbst einschätzen.</p><p><br/></p><p>⚠️ <strong>Sicherheitshinweis:</strong> Nicht geeignet für Kinder unter 3 Jahren. Ohrclips sind kleine Accessoires, die abgenommen und verschluckt werden können – es besteht Erstickungsgefahr. Bitte nur unter Aufsicht von Erwachsenen anlegen und tragen lassen und außerhalb der Reichweite von Kleinkindern aufbewahren.</p>"
           }
+        },
+        "clyps_product_siblings": {
+          "type": "clyps_product_siblings",
+          "settings": {
+            "heading": "",
+            "siblings_metafield": "custom.clyps_siblings",
+            "label_metafield": "custom.clyps_sibling_label"
+          }
         }
       },
       "block_order": [
@@ -275,6 +283,7 @@
         "estimate_delivery_qTbQQ9",
         "price",
         "badges_H88bPq",
+        "clyps_product_siblings",
         "variant_picker",
         "buy_buttons",
         "payment_methods_HYMPjK",

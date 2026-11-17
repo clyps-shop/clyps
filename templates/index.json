@@ -16,7 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/clyps1-2.jpg",
-            "image_mobile": "shopify://shop_images/clyps1-2_45cb47ca-64ce-4520-98af-5d57df8dd6ec.jpg",
+            "image_mobile": "shopify://shop_images/clyps1-2_45cb47ca-64ce-4520-98af-5d57df8dd6ec.png",
             "image_link": "",
             "open_new_window_image": false,
             "overlay_opacity": 0,
@@ -1375,6 +1375,9 @@
             "show_sample_reviews": false,
             "reviews_selection": "all",
             "products": [],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "show_review_media": true,
             "display_order": "media_first",

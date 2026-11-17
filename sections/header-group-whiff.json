@@ -14,8 +14,40 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_pHcEef": {
+          "type": "announcement",
+          "settings": {
+            "icon": "hot-sale",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "Spare 20% beim Kauf von 2 Ohrclips. Rabatt wird automatisch abgezogen.",
+            "text_size": 100,
+            "link": "",
+            "open_new_window": false,
+            "button_label_or_code": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "button_style": "primary",
+            "textlink_color_light": "rgba(0,0,0,0)",
+            "button_color": "rgba(0,0,0,0)",
+            "button_text_color": "rgba(0,0,0,0)",
+            "textlink_color_dark": "rgba(0,0,0,0)",
+            "button_color_dark": "rgba(0,0,0,0)",
+            "button_text_color_dark": "rgba(0,0,0,0)",
+            "countdown_type": "standard",
+            "countdown_interval": 7,
+            "interval_unit": "day",
+            "timezone": "1",
+            "end_year": 2026,
+            "end_month": "7",
+            "end_day": "27",
+            "end_hour": "23",
+            "end_minute": "45"
+          }
+        },
         "announcement_B6G6LU": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "another_icon": "",
@@ -45,40 +77,9 @@
             "end_minute": "0"
           }
         },
-        "announcement_pHcEef": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "icon": "hot-sale",
-            "another_icon": "",
-            "custom_icon": "",
-            "text": "Spare 20% beim Kauf von 2 Artikeln. Rabatt wird automatisch abgezogen.{count_down}",
-            "text_size": 100,
-            "link": "",
-            "open_new_window": false,
-            "button_label_or_code": "",
-            "button_link": "",
-            "open_new_window_button": false,
-            "button_style": "primary",
-            "textlink_color_light": "rgba(0,0,0,0)",
-            "button_color": "rgba(0,0,0,0)",
-            "button_text_color": "rgba(0,0,0,0)",
-            "textlink_color_dark": "rgba(0,0,0,0)",
-            "button_color_dark": "rgba(0,0,0,0)",
-            "button_text_color_dark": "rgba(0,0,0,0)",
-            "countdown_type": "standard",
-            "countdown_interval": 7,
-            "interval_unit": "day",
-            "timezone": "1",
-            "end_year": 2026,
-            "end_month": "7",
-            "end_day": "27",
-            "end_hour": "23",
-            "end_minute": "45"
-          }
-        },
         "announcement_RPDT6q": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "another_icon": "",
@@ -111,10 +112,10 @@
         "announcement_LKNJ3A": {
           "type": "announcement",
           "settings": {
-            "icon": "none",
+            "icon": "percent",
             "another_icon": "",
             "custom_icon": "",
-            "text": "NEU: Ergänze deinen Look mit stylischen Ear Cuffs 😍",
+            "text": "BLACK FRIDAY SALE: Spare bis zu 40% auf stylischen Ear Cuffs 😍",
             "text_size": 100,
             "link": "shopify://collections/ear-cuffs",
             "open_new_window": false,
@@ -204,8 +205,8 @@
         }
       },
       "block_order": [
-        "announcement_B6G6LU",
         "announcement_pHcEef",
+        "announcement_B6G6LU",
         "announcement_RPDT6q",
         "announcement_LKNJ3A",
         "announcement_eG77Ar",
@@ -275,10 +276,10 @@
         "highlight_style": "bling_bling",
         "highlight_color_light": "rgba(0,0,0,0)",
         "highlight_color_dark": "rgba(0,0,0,0)",
-        "applied_menus": "",
-        "label": "",
-        "label_position": "above",
-        "label_color": "#b1a390",
+        "applied_menus": "EAR CUFFS",
+        "label": "Sale",
+        "label_position": "aside",
+        "label_color": "#932B41",
         "label_text_color_light": "#ffffff",
         "label_color_dark": "#4e3919",
         "label_text_color_dark": "#ffffff",

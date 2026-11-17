@@ -338,7 +338,7 @@
       "heading_default": "Stell dein Set zusammen",
       "discount_clips": "{{ discount }} % Rabatt ab {{ min }} Ohrclips",
       "discount_cuffs": "bis zu {{ discount }} % auf Ear Cuffs",
-      "discount_info": "Die Rabatte werden automatisch im Warenkorb abgezogen. Die angezeigten Preise sind eine Vorschau.",
+      "discount_info": "Die Rabatte werden automatisch im Warenkorb abgezogen.",
       "set_default_title": "Set {{ number }}",
       "add_set": "Set in den Warenkorb",
       "add_custom": "Mein Set in den Warenkorb",

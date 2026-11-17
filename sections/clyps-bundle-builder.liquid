@@ -1,0 +1,582 @@
+{%- comment -%}
+  clyps Bundle Builder
+  Curated sets (blocks) plus a "build your own" panel: choose N ear clips and an optional ear cuff.
+  All products are added to the cart as separate line items, so the shop's automatic discounts
+  (e.g. "20 % from 2 ear clips", "70 % on ear cuffs") apply as usual. The discount settings here
+  only drive the price preview and must match the automatic discounts in the Shopify admin.
+{%- endcomment -%}
+{%- liquid
+  assign clip_collection = section.settings.clip_collection
+  if clip_collection == blank
+    assign clip_collection = collections['ohrclips']
+  endif
+  assign cuff_collection = section.settings.cuff_collection
+  if cuff_collection == blank
+    assign cuff_collection = collections['ear-cuffs']
+  endif
+
+  assign min_clips = section.settings.min_clips
+  assign clip_discount = section.settings.clip_discount
+  assign cuff_discount = section.settings.cuff_discount
+  assign max_products = section.settings.max_products
+
+  assign heading = section.settings.heading
+  if heading == blank
+    assign heading = 'sections.clyps_bundle_builder.heading_default' | t
+  endif
+
+  assign money_format = shop.money_format
+  if settings.currency_code_enable
+    assign money_format = shop.money_with_currency_format
+  endif
+
+  assign set_count = 0
+  for block in section.blocks
+    if block.type == 'set'
+      if block.settings.clip_1 != blank or block.settings.clip_2 != blank or block.settings.ear_cuff != blank
+        assign set_count = set_count | plus: 1
+      endif
+    endif
+  endfor
+  assign show_builder = section.settings.show_builder
+  if clip_collection == blank or clip_collection.products_count == 0
+    assign show_builder = false
+  endif
+-%}
+
+{%- style -%}
+  #shopify-section-{{ section.id }} .cbb {
+    padding-top: {{ section.settings.padding_top_mobile }}px;
+    padding-bottom: {{ section.settings.padding_bottom_mobile }}px;
+  }
+  @media (min-width: 768px) {
+    #shopify-section-{{ section.id }} .cbb {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+<style>
+  .cbb { color: rgb(var(--colors-text)); }
+  .cbb__header { text-align: center; max-width: 42rem; margin: 0 auto 1.5rem; }
+  .cbb__heading { color: rgb(var(--colors-heading)); margin: 0 0 .5rem; }
+  .cbb__note { margin: .5rem 0 0; font-weight: 600; }
+  .cbb__info { margin: .25rem 0 0; font-size: .875em; opacity: .8; }
+  /* Mobile: swipeable row of set cards with the next card peeking in. */
+  .cbb__grid { display: flex; gap: .75rem; list-style: none; margin: 0; padding: .25rem .125rem .75rem; overflow-x: auto; scroll-snap-type: x mandatory; overscroll-behavior-x: contain; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+  .cbb__grid::-webkit-scrollbar { display: none; }
+  .cbb__grid > li { flex: 0 0 82%; max-width: 22rem; scroll-snap-align: start; }
+  .cbb__dots { display: flex; justify-content: center; gap: .375rem; margin-top: .25rem; }
+  .cbb__dot { width: 6px; height: 6px; border-radius: 999px; background: rgba(var(--colors-text), .25); transition: width .2s, background-color .2s; }
+  .cbb__dot.is-active { width: 18px; background: rgb(var(--colors-text)); }
+  @media (min-width: 768px) {
+    .cbb__grid { display: grid; gap: 1rem; grid-template-columns: repeat(2, minmax(0, 1fr)); padding: 0; overflow: visible; }
+    .cbb__grid > li { max-width: none; }
+    .cbb__dots { display: none; }
+  }
+  @media (min-width: 990px) { .cbb__grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); } .cbb__grid--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  .cbb-card { position: relative; display: flex; flex-direction: column; gap: .75rem; padding: 1rem; border: 1px solid rgba(var(--colors-text), .15); border-radius: 12px; background: rgba(var(--background-color), 1); height: 100%; }
+  .cbb-card--custom { justify-content: center; text-align: center; border-style: dashed; border-color: rgba(var(--colors-text), .4); }
+  .cbb-card__badge { align-self: flex-start; padding: .125rem .625rem; border-radius: 999px; font-size: .75rem; font-weight: 600; background: rgb(var(--colors-text)); color: rgb(var(--background-color)); }
+  .cbb-card__title { margin: 0; font-size: 1.125rem; color: rgb(var(--colors-heading)); }
+  .cbb-card__text { margin: 0; }
+  .cbb-items { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .625rem; }
+  .cbb-item { display: flex; gap: .75rem; align-items: center; }
+  .cbb-item__media { flex: 0 0 64px; width: 64px; height: 64px; border-radius: 8px; overflow: hidden; background: rgba(var(--colors-text), .05); }
+  @media (min-width: 990px) { .cbb-item__media { flex-basis: 80px; width: 80px; height: 80px; } }
+  .cbb-item__img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .cbb-item__body { display: flex; flex-direction: column; gap: .25rem; min-width: 0; flex: 1; }
+  .cbb-item__title { color: inherit; text-decoration: none; font-weight: 600; }
+  .cbb-item__title:hover { text-decoration: underline; }
+  .cbb-item__tag { font-size: .75rem; opacity: .75; }
+  .cbb-select { width: 100%; min-height: 44px; padding: .5rem 2rem .5rem .75rem; border: 1px solid rgba(var(--colors-text), .3); border-radius: 8px; background-color: rgba(var(--background-color), 1); color: inherit; font: inherit; }
+  .cbb-price { margin: auto 0 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: .25rem .5rem; }
+  .cbb-price__compare { opacity: .6; }
+  .cbb-price__total { font-size: 1.25rem; font-weight: 700; }
+  .cbb-price__saving { width: 100%; font-size: .875rem; font-weight: 600; }
+  .cbb-btn { display: inline-flex; align-items: center; justify-content: center; gap: .5rem; width: 100%; min-height: 48px; padding: .75rem 1.25rem; border: 1px solid rgb(var(--colors-text)); border-radius: 999px; background: rgb(var(--colors-text)); color: rgb(var(--background-color)); font: inherit; font-weight: 600; cursor: pointer; transition: opacity .15s; }
+  .cbb-btn--outline { background: transparent; color: rgb(var(--colors-text)); }
+  .cbb-btn[disabled], .cbb-btn[aria-disabled='true'] { opacity: .5; cursor: not-allowed; }
+  .cbb-btn[aria-busy='true'] { opacity: .7; cursor: progress; }
+  .cbb-btn:focus-visible, .cbb-select:focus-visible, .cbb-item__title:focus-visible { outline: 2px solid rgb(var(--colors-text)); outline-offset: 2px; }
+  .cbb-msg { margin: 0; font-size: .875rem; min-height: 1.25em; }
+  .cbb-msg--error { color: #b3261e; }
+  .dark .cbb-msg--error { color: #ffb4ab; }
+  .cbb-panel { margin-top: 1.5rem; padding: 1rem; border: 1px solid rgba(var(--colors-text), .15); border-radius: 12px; background: rgba(var(--background-color), 1); }
+  @media (min-width: 768px) { .cbb-panel { padding: 1.5rem; } }
+  .cbb-panel[hidden] { display: none; }
+  .cbb-panel__layout { display: grid; gap: 1.5rem; }
+  @media (min-width: 990px) { .cbb-panel__layout { grid-template-columns: minmax(0, 1fr) 18rem; align-items: start; } .cbb-summary { position: sticky; top: 1rem; } }
+  .cbb-builder { min-width: 0; }
+  .cbb-builder__label { margin: 0 0 .5rem; font-weight: 600; }
+  .cbb-slots { list-style: none; margin: 0 0 1rem; padding: 0; display: grid; gap: .5rem; grid-template-columns: repeat(var(--cbb-slots, 3), minmax(0, 1fr)); }
+  @media (min-width: 768px) { .cbb-slots { grid-template-columns: repeat(var(--cbb-slots, 3), minmax(0, 9rem)); gap: .75rem; } }
+  .cbb-slot { min-width: 0; display: flex; flex-direction: column; gap: .375rem; }
+  .cbb-slot__btn { display: flex; flex-direction: column; align-items: center; gap: .25rem; width: 100%; padding: .375rem; border: 1.5px dashed rgba(var(--colors-text), .35); border-radius: 10px; background: transparent; color: inherit; font: inherit; text-align: center; cursor: pointer; }
+  .cbb-slot--optional .cbb-slot__btn { border-color: rgba(var(--colors-text), .2); }
+  .cbb-slot.is-filled .cbb-slot__btn { border-style: solid; border-color: rgb(var(--colors-text)); }
+  .cbb-slot__media { display: flex; align-items: center; justify-content: center; width: 100%; aspect-ratio: 1 / 1; border-radius: 6px; overflow: hidden; background: rgba(var(--colors-text), .05); }
+  .cbb-slot__media img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .cbb-slot__plus { font-size: 1.25rem; line-height: 1; opacity: .5; }
+  .cbb-slot__name { font-size: .75rem; font-weight: 600; line-height: 1.2; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .cbb-slot__hint { font-size: .6875rem; opacity: .7; line-height: 1.2; }
+  .cbb-slot__variant[hidden] { display: none; }
+  .cbb-select--sm { min-height: 40px; padding: .375rem 1.5rem .375rem .5rem; font-size: .8125rem; }
+  .cbb-tabs { display: flex; gap: .5rem; margin: 0 0 .75rem; overflow-x: auto; scrollbar-width: none; }
+  .cbb-tabs::-webkit-scrollbar { display: none; }
+  .cbb-tab { flex: 0 0 auto; display: inline-flex; align-items: center; gap: .375rem; min-height: 40px; padding: .375rem 1rem; border: 1px solid rgba(var(--colors-text), .3); border-radius: 999px; background: transparent; color: inherit; font: inherit; font-size: .875rem; cursor: pointer; }
+  .cbb-tab[aria-selected='true'] { background: rgb(var(--colors-text)); border-color: rgb(var(--colors-text)); color: rgb(var(--background-color)); }
+  .cbb-tab__badge { font-size: .75rem; font-weight: 600; }
+  .cbb-tabpanel[hidden] { display: none; }
+  .cbb-tiles { list-style: none; margin: 0; padding: 0; display: grid; gap: .625rem; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  @media (min-width: 768px) { .cbb-tiles { grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: .875rem; } }
+  .cbb-tile { position: relative; display: flex; flex-direction: column; gap: .25rem; width: 100%; height: 100%; padding: 0; border: 0; background: transparent; color: inherit; font: inherit; text-align: left; cursor: pointer; }
+  .cbb-tile__media { position: relative; display: block; border-radius: 8px; overflow: hidden; border: 2px solid transparent; background: rgba(var(--colors-text), .05); }
+  .cbb-tile[aria-pressed='true'] .cbb-tile__media { border-color: rgb(var(--colors-text)); }
+  .cbb-tile__img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; height: auto; }
+  .cbb-tile__count { position: absolute; top: .25rem; right: .25rem; min-width: 1.375rem; height: 1.375rem; padding: 0 .25rem; border-radius: 999px; display: flex; align-items: center; justify-content: center; font-size: .75rem; font-weight: 700; background: rgb(var(--colors-text)); color: rgb(var(--background-color)); }
+  .cbb-tile__count[hidden] { display: none; }
+  .cbb-tile__title { font-size: .8125rem; font-weight: 600; line-height: 1.25; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .cbb-tile__price { font-size: .75rem; opacity: .8; }
+  .cbb-tile__compare { opacity: .7; margin-right: .25rem; }
+  .cbb-tile:disabled { cursor: not-allowed; }
+  .cbb-tile:disabled .cbb-tile__media { opacity: .45; }
+  .cbb-tile:focus-visible, .cbb-slot__btn:focus-visible, .cbb-tab:focus-visible { outline: 2px solid rgb(var(--colors-text)); outline-offset: 2px; }
+  .cbb-summary__progress { margin: 0; font-size: .875rem; font-weight: 600; }
+  .cbb-summary { display: flex; flex-direction: column; gap: .75rem; padding: 1rem; border-radius: 10px; background: rgba(var(--colors-text), .04); }
+  /* Mobile/tablet: keep price and add button docked at the bottom while choosing. */
+  @media (max-width: 989px) {
+    .cbb-summary { position: sticky; bottom: 0; z-index: 2; margin: 0 -1rem -1rem; padding: .75rem 1rem calc(.75rem + env(safe-area-inset-bottom, 0px)); gap: .5rem; border-radius: 12px 12px 0 0; background: rgba(var(--background-color), 1); box-shadow: 0 -6px 16px rgba(0, 0, 0, .08); }
+    .cbb-summary__title, .cbb-summary__list { display: none; }
+    .cbb-summary .cbb-price__total { font-size: 1.125rem; }
+  }
+  @media (max-width: 989px) and (min-width: 768px) { .cbb-summary { margin: 0 -1.5rem -1.5rem; padding-left: 1.5rem; padding-right: 1.5rem; } }
+  .cbb-summary__title { margin: 0; font-size: 1rem; color: rgb(var(--colors-heading)); }
+  .cbb-summary__list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .25rem; font-size: .875rem; }
+  .cbb-sr { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+  @media (prefers-reduced-motion: reduce) { .cbb-btn, .cbb__dot { transition: none; } .cbb__grid, .cbb-tabs { scroll-behavior: auto; } }
+</style>
+
+<clyps-bundle-builder
+  class="cbb page-width x-pgw mx-auto block"
+  data-section-id="{{ section.id }}"
+  data-min-clips="{{ min_clips }}"
+  data-clip-discount="{{ clip_discount }}"
+  data-money-format="{{ money_format | escape }}"
+  data-cart-url="{{ routes.cart_url }}"
+  data-cart-add-url="{{ routes.cart_add_url }}"
+  data-text-save="{{ 'sections.clyps_bundle_builder.you_save' | t: amount: '[amount]' | escape }}"
+  data-text-select-clips="{{ 'sections.clyps_bundle_builder.select_clips' | t: min: min_clips | escape }}"
+  data-text-added="{{ 'sections.clyps_bundle_builder.added' | t | escape }}"
+  data-text-error="{{ 'sections.clyps_bundle_builder.error' | t | escape }}"
+  data-text-no-cuff="{{ 'sections.clyps_bundle_builder.no_cuff' | t | escape }}"
+  data-text-sold-out="{{ 'sections.clyps_bundle_builder.sold_out' | t | escape }}"
+  data-text-choose="{{ 'sections.clyps_bundle_builder.slot_choose' | t | escape }}"
+  data-text-optional="{{ 'sections.clyps_bundle_builder.slot_optional' | t | escape }}"
+  data-text-remove="{{ 'sections.clyps_bundle_builder.slot_remove' | t | escape }}"
+  data-text-progress="{{ 'sections.clyps_bundle_builder.progress' | t: chosen: '[chosen]', total: min_clips | escape }}"
+  data-text-slots-full="{{ 'sections.clyps_bundle_builder.slots_full' | t | escape }}"
+  data-text-aria-empty="{{ 'sections.clyps_bundle_builder.aria_slot_empty' | t | escape }}"
+  data-text-aria-filled="{{ 'sections.clyps_bundle_builder.aria_slot_filled' | t | escape }}"
+>
+  <div class="cbb__header">
+    <h2 class="cbb__heading h2">{{ heading | escape }}</h2>
+    {%- if section.settings.subheading != blank -%}
+      <div class="cbb__sub rte">{{ section.settings.subheading }}</div>
+    {%- endif -%}
+    {%- if clip_discount > 0 or cuff_discount > 0 -%}
+      <p class="cbb__note">
+        {%- if clip_discount > 0 -%}
+          {{- 'sections.clyps_bundle_builder.discount_clips' | t: discount: clip_discount, min: min_clips -}}
+        {%- endif -%}
+        {%- if clip_discount > 0 and cuff_discount > 0 %} · {% endif -%}
+        {%- if cuff_discount > 0 -%}
+          {{- 'sections.clyps_bundle_builder.discount_cuffs' | t: discount: cuff_discount -}}
+        {%- endif -%}
+      </p>
+      <p class="cbb__info">{{ 'sections.clyps_bundle_builder.discount_info' | t }}</p>
+    {%- endif -%}
+  </div>
+
+  {%- liquid
+    assign card_count = set_count
+    if show_builder
+      assign card_count = card_count | plus: 1
+    endif
+    if card_count >= 4
+      assign grid_class = 'cbb__grid--4'
+    elsif card_count == 3
+      assign grid_class = 'cbb__grid--3'
+    else
+      assign grid_class = ''
+    endif
+  -%}
+  <ul class="cbb__grid {{ grid_class }}" role="list">
+    {%- for block in section.blocks -%}
+      {%- if block.type != 'set' -%}{%- continue -%}{%- endif -%}
+      {%- liquid
+        assign clip_1 = block.settings.clip_1
+        assign clip_2 = block.settings.clip_2
+        assign ear_cuff = block.settings.ear_cuff
+        assign has_products = false
+        if clip_1 != blank or clip_2 != blank or ear_cuff != blank
+          assign has_products = true
+        endif
+        assign set_title = block.settings.title
+        if set_title == blank
+          assign set_title = 'sections.clyps_bundle_builder.set_default_title' | t: number: forloop.index
+        endif
+      -%}
+      {%- if has_products -%}
+        <li {{ block.shopify_attributes }}>
+          <div class="cbb-card" data-cbb-bundle>
+            {%- if block.settings.badge != blank -%}
+              <span class="cbb-card__badge">{{ block.settings.badge | escape }}</span>
+            {%- endif -%}
+            <h3 class="cbb-card__title" id="cbb-title-{{ block.id }}">{{ set_title | escape }}</h3>
+            <ul class="cbb-items" role="list">
+              {%- assign uid_base = 'cbb-' | append: block.id -%}
+              {%- assign uid_1 = uid_base | append: '-1' -%}
+              {%- assign uid_2 = uid_base | append: '-2' -%}
+              {%- assign uid_3 = uid_base | append: '-3' -%}
+              {%- render 'clyps-bundle-item', product: clip_1, role: 'clip', uid: uid_1 -%}
+              {%- render 'clyps-bundle-item', product: clip_2, role: 'clip', uid: uid_2 -%}
+              {%- render 'clyps-bundle-item', product: ear_cuff, role: 'cuff', uid: uid_3 -%}
+            </ul>
+            {%- render 'clyps-bundle-product-data', product: clip_1 -%}
+            {%- render 'clyps-bundle-product-data', product: clip_2 -%}
+            {%- render 'clyps-bundle-product-data', product: ear_cuff -%}
+            <p class="cbb-price" data-cbb-price>
+              <span class="cbb-sr">{{ 'sections.clyps_bundle_builder.regular_price' | t }}</span>
+              <s class="cbb-price__compare" data-cbb-compare></s>
+              <span class="cbb-sr">{{ 'sections.clyps_bundle_builder.set_price' | t }}</span>
+              <span class="cbb-price__total" data-cbb-total></span>
+              <span class="cbb-price__saving" data-cbb-saving></span>
+            </p>
+            <button type="button" class="cbb-btn" data-cbb-add aria-describedby="cbb-title-{{ block.id }}">
+              {{- 'sections.clyps_bundle_builder.add_set' | t -}}
+            </button>
+            <p class="cbb-msg" data-cbb-msg role="status" aria-live="polite"></p>
+          </div>
+        </li>
+      {%- elsif request.design_mode -%}
+        <li {{ block.shopify_attributes }}>
+          <div class="cbb-card"><p class="cbb-card__text">{{ 'sections.clyps_bundle_builder.empty_set' | t }}</p></div>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- if show_builder -%}
+      <li>
+        <div class="cbb-card cbb-card--custom">
+          <h3 class="cbb-card__title">{{ 'sections.clyps_bundle_builder.custom_title' | t }}</h3>
+          <p class="cbb-card__text">{{ 'sections.clyps_bundle_builder.custom_text' | t: min: min_clips }}</p>
+          <button
+            type="button"
+            class="cbb-btn cbb-btn--outline"
+            data-cbb-toggle
+            aria-expanded="false"
+            aria-controls="cbb-panel-{{ section.id }}"
+          >
+            {{- 'sections.clyps_bundle_builder.custom_open' | t -}}
+          </button>
+        </div>
+      </li>
+    {%- endif -%}
+  </ul>
+  <div class="cbb__dots" data-cbb-dots aria-hidden="true"></div>
+
+  {%- if show_builder -%}
+    <div class="cbb-panel" id="cbb-panel-{{ section.id }}" data-cbb-panel hidden tabindex="-1" role="region" aria-labelledby="cbb-panel-title-{{ section.id }}">
+      <h3 class="cbb-card__title cbb-sr" id="cbb-panel-title-{{ section.id }}">{{ 'sections.clyps_bundle_builder.custom_title' | t }}</h3>
+      {%- liquid
+        assign has_cuffs = false
+        if cuff_collection != blank and cuff_collection.products_count > 0
+          assign has_cuffs = true
+        endif
+        assign slot_count = min_clips
+        if has_cuffs
+          assign slot_count = slot_count | plus: 1
+        endif
+        assign tab_base = 'cbb-' | append: section.id
+      -%}
+      <div class="cbb-panel__layout" data-cbb-bundle data-cbb-custom>
+        <div class="cbb-builder">
+          <p class="cbb-builder__label" id="{{ tab_base }}-slots-label">{{ 'sections.clyps_bundle_builder.your_set' | t }}</p>
+          <ol class="cbb-slots" role="list" aria-labelledby="{{ tab_base }}-slots-label" style="--cbb-slots: {{ slot_count }};">
+            {%- for i in (1..min_clips) -%}
+              {%- assign slot_label = 'sections.clyps_bundle_builder.slot_clip' | t: number: i -%}
+              <li class="cbb-slot" data-cbb-item data-cbb-slot data-role="clip" data-label="{{ slot_label | escape }}">
+                <button type="button" class="cbb-slot__btn" data-cbb-slot-btn aria-label="{{ slot_label | escape }}">
+                  <span class="cbb-slot__media" data-cbb-slot-media aria-hidden="true"><span class="cbb-slot__plus">+</span></span>
+                  <span class="cbb-slot__name" data-cbb-slot-name>{{ slot_label | escape }}</span>
+                  <span class="cbb-slot__hint" data-cbb-slot-hint>{{ 'sections.clyps_bundle_builder.slot_choose' | t }}</span>
+                </button>
+                <div class="cbb-slot__variant" data-cbb-slot-variant hidden>
+                  <label class="cbb-sr" for="{{ tab_base }}-slot-{{ i }}-variant">{{ slot_label | escape }} – {{ 'sections.clyps_bundle_builder.variant_label' | t }}</label>
+                  <select id="{{ tab_base }}-slot-{{ i }}-variant" class="cbb-select cbb-select--sm" data-cbb-variant></select>
+                </div>
+              </li>
+            {%- endfor -%}
+            {%- if has_cuffs -%}
+              {%- assign slot_label = 'sections.clyps_bundle_builder.cuff_tag' | t -%}
+              <li class="cbb-slot cbb-slot--optional" data-cbb-item data-cbb-slot data-role="cuff" data-label="{{ slot_label | escape }}">
+                <button type="button" class="cbb-slot__btn" data-cbb-slot-btn aria-label="{{ slot_label | escape }}">
+                  <span class="cbb-slot__media" data-cbb-slot-media aria-hidden="true"><span class="cbb-slot__plus">+</span></span>
+                  <span class="cbb-slot__name" data-cbb-slot-name>{{ slot_label | escape }}</span>
+                  <span class="cbb-slot__hint" data-cbb-slot-hint>{{ 'sections.clyps_bundle_builder.slot_optional' | t }}</span>
+                </button>
+                <div class="cbb-slot__variant" data-cbb-slot-variant hidden>
+                  <label class="cbb-sr" for="{{ tab_base }}-slot-cuff-variant">{{ slot_label | escape }} – {{ 'sections.clyps_bundle_builder.variant_label' | t }}</label>
+                  <select id="{{ tab_base }}-slot-cuff-variant" class="cbb-select cbb-select--sm" data-cbb-variant></select>
+                </div>
+              </li>
+            {%- endif -%}
+          </ol>
+
+          {%- if has_cuffs -%}
+            <div class="cbb-tabs" role="tablist" aria-label="{{ 'sections.clyps_bundle_builder.custom_title' | t | escape }}">
+              <button type="button" class="cbb-tab" role="tab" id="{{ tab_base }}-tab-clip" aria-controls="{{ tab_base }}-panel-clip" aria-selected="true" data-cbb-tab="clip">
+                {{- 'sections.clyps_bundle_builder.tab_clips' | t -}}
+              </button>
+              <button type="button" class="cbb-tab" role="tab" id="{{ tab_base }}-tab-cuff" aria-controls="{{ tab_base }}-panel-cuff" aria-selected="false" tabindex="-1" data-cbb-tab="cuff">
+                {{- 'sections.clyps_bundle_builder.tab_cuffs' | t -}}
+                {%- if cuff_discount > 0 %} <span class="cbb-tab__badge">{{ 'sections.clyps_bundle_builder.tab_cuffs_discount' | t: discount: cuff_discount }}</span>{% endif -%}
+              </button>
+            </div>
+          {%- endif -%}
+
+          <div class="cbb-tabpanel" id="{{ tab_base }}-panel-clip" data-cbb-tabpanel="clip"{% if has_cuffs %} role="tabpanel" aria-labelledby="{{ tab_base }}-tab-clip"{% endif %}>
+            <ul class="cbb-tiles" role="list">
+              {%- for product in clip_collection.products limit: max_products -%}
+                {%- render 'clyps-bundle-option', product: product, role: 'clip' -%}
+              {%- endfor -%}
+            </ul>
+          </div>
+          {%- if has_cuffs -%}
+            <div class="cbb-tabpanel" id="{{ tab_base }}-panel-cuff" data-cbb-tabpanel="cuff" role="tabpanel" aria-labelledby="{{ tab_base }}-tab-cuff" hidden>
+              <ul class="cbb-tiles" role="list">
+                {%- for product in cuff_collection.products limit: max_products -%}
+                  {%- render 'clyps-bundle-option', product: product, role: 'cuff' -%}
+                {%- endfor -%}
+              </ul>
+            </div>
+          {%- endif -%}
+
+          {%- for product in clip_collection.products limit: max_products -%}
+            {%- render 'clyps-bundle-product-data', product: product -%}
+          {%- endfor -%}
+          {%- if has_cuffs -%}
+            {%- for product in cuff_collection.products limit: max_products -%}
+              {%- render 'clyps-bundle-product-data', product: product -%}
+            {%- endfor -%}
+          {%- endif -%}
+        </div>
+
+        <div class="cbb-summary">
+          <h4 class="cbb-summary__title">{{ 'sections.clyps_bundle_builder.summary_title' | t }}</h4>
+          <ul class="cbb-summary__list" data-cbb-summary role="list"></ul>
+          <p class="cbb-summary__progress" data-cbb-progress aria-live="polite"></p>
+          <p class="cbb-price" data-cbb-price>
+            <span class="cbb-sr">{{ 'sections.clyps_bundle_builder.regular_price' | t }}</span>
+            <s class="cbb-price__compare" data-cbb-compare></s>
+            <span class="cbb-sr">{{ 'sections.clyps_bundle_builder.set_price' | t }}</span>
+            <span class="cbb-price__total" data-cbb-total></span>
+            <span class="cbb-price__saving" data-cbb-saving></span>
+          </p>
+          <button type="button" class="cbb-btn" data-cbb-add aria-disabled="true">
+            {{- 'sections.clyps_bundle_builder.add_custom' | t -}}
+          </button>
+          <p class="cbb-msg" data-cbb-msg role="status" aria-live="polite"></p>
+        </div>
+      </div>
+    </div>
+  {%- endif -%}
+</clyps-bundle-builder>
+
+<script src="{{ 'clyps-bundle-builder.js' | asset_url }}" defer></script>
+
+{% schema %}
+{
+  "name": "t:sections.clyps_bundle_builder.name",
+  "tag": "section",
+  "class": "section-clyps-bundle-builder",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "t:sections.clyps_bundle_builder.settings.heading.label",
+      "info": "t:sections.clyps_bundle_builder.settings.heading.info"
+    },
+    {
+      "type": "richtext",
+      "id": "subheading",
+      "label": "t:sections.clyps_bundle_builder.settings.subheading.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.clyps_bundle_builder.settings.header_products.content"
+    },
+    {
+      "type": "collection",
+      "id": "clip_collection",
+      "label": "t:sections.clyps_bundle_builder.settings.clip_collection.label",
+      "info": "t:sections.clyps_bundle_builder.settings.clip_collection.info"
+    },
+    {
+      "type": "collection",
+      "id": "cuff_collection",
+      "label": "t:sections.clyps_bundle_builder.settings.cuff_collection.label",
+      "info": "t:sections.clyps_bundle_builder.settings.cuff_collection.info"
+    },
+    {
+      "type": "range",
+      "id": "max_products",
+      "min": 4,
+      "max": 24,
+      "step": 1,
+      "default": 12,
+      "label": "t:sections.clyps_bundle_builder.settings.max_products.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_builder",
+      "default": true,
+      "label": "t:sections.clyps_bundle_builder.settings.show_builder.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.clyps_bundle_builder.settings.header_discounts.content"
+    },
+    {
+      "type": "paragraph",
+      "content": "t:sections.clyps_bundle_builder.settings.discounts_info.content"
+    },
+    {
+      "type": "range",
+      "id": "min_clips",
+      "min": 1,
+      "max": 4,
+      "step": 1,
+      "default": 2,
+      "label": "t:sections.clyps_bundle_builder.settings.min_clips.label"
+    },
+    {
+      "type": "range",
+      "id": "clip_discount",
+      "min": 0,
+      "max": 90,
+      "step": 5,
+      "unit": "%",
+      "default": 20,
+      "label": "t:sections.clyps_bundle_builder.settings.clip_discount.label"
+    },
+    {
+      "type": "range",
+      "id": "cuff_discount",
+      "min": 0,
+      "max": 90,
+      "step": 5,
+      "unit": "%",
+      "default": 70,
+      "label": "t:sections.clyps_bundle_builder.settings.cuff_discount.label",
+      "info": "t:sections.clyps_bundle_builder.settings.cuff_discount.info"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.clyps_bundle_builder.settings.header_layout.content"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 120,
+      "step": 4,
+      "unit": "px",
+      "default": 48,
+      "label": "t:sections.clyps_bundle_builder.settings.padding_top.label"
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 120,
+      "step": 4,
+      "unit": "px",
+      "default": 48,
+      "label": "t:sections.clyps_bundle_builder.settings.padding_bottom.label"
+    },
+    {
+      "type": "range",
+      "id": "padding_top_mobile",
+      "min": 0,
+      "max": 120,
+      "step": 4,
+      "unit": "px",
+      "default": 32,
+      "label": "t:sections.clyps_bundle_builder.settings.padding_top_mobile.label"
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom_mobile",
+      "min": 0,
+      "max": 120,
+      "step": 4,
+      "unit": "px",
+      "default": 32,
+      "label": "t:sections.clyps_bundle_builder.settings.padding_bottom_mobile.label"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "set",
+      "name": "t:sections.clyps_bundle_builder.blocks.set.name",
+      "limit": 3,
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "t:sections.clyps_bundle_builder.blocks.set.settings.title.label"
+        },
+        {
+          "type": "text",
+          "id": "badge",
+          "label": "t:sections.clyps_bundle_builder.blocks.set.settings.badge.label",
+          "info": "t:sections.clyps_bundle_builder.blocks.set.settings.badge.info"
+        },
+        {
+          "type": "product",
+          "id": "clip_1",
+          "label": "t:sections.clyps_bundle_builder.blocks.set.settings.clip_1.label"
+        },
+        {
+          "type": "product",
+          "id": "clip_2",
+          "label": "t:sections.clyps_bundle_builder.blocks.set.settings.clip_2.label"
+        },
+        {
+          "type": "product",
+          "id": "ear_cuff",
+          "label": "t:sections.clyps_bundle_builder.blocks.set.settings.ear_cuff.label",
+          "info": "t:sections.clyps_bundle_builder.blocks.set.settings.ear_cuff.info"
+        }
+      ]
+    }
+  ],
+  "max_blocks": 3,
+  "presets": [
+    {
+      "name": "t:sections.clyps_bundle_builder.name",
+      "category": "t:categories.promotions",
+      "blocks": [
+        { "type": "set" },
+        { "type": "set" },
+        { "type": "set" }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": ["header", "footer", "aside"]
+  }
+}
+{% endschema %}

@@ -1,0 +1,52 @@
+{%- comment -%}
+  clyps Bundle Builder: tappable product tile in the "build your own" grid.
+  Tapping it fills the next free slot of the given role.
+  Accepts:
+  - product: {Object}
+  - role: {String} 'clip' or 'cuff'
+{%- endcomment -%}
+{%- if product != blank -%}
+  <li>
+    <button
+      type="button"
+      class="cbb-tile"
+      data-cbb-pick
+      data-role="{{ role }}"
+      data-product-id="{{ product.id }}"
+      aria-pressed="false"
+      {% unless product.available %}disabled{% endunless %}
+    >
+      <span class="cbb-tile__media">
+        {%- if product.featured_image != blank -%}
+          {{
+            product.featured_image
+            | image_url: width: 360
+            | image_tag:
+              widths: '120, 180, 240, 360',
+              sizes: '(min-width: 768px) 160px, 30vw',
+              loading: 'lazy',
+              alt: '',
+              class: 'cbb-tile__img'
+          }}
+        {%- else -%}
+          {{ 'product-1' | placeholder_svg_tag: 'cbb-tile__img' }}
+        {%- endif -%}
+        <span class="cbb-tile__count" data-cbb-count hidden></span>
+      </span>
+      <span class="cbb-tile__title">{{ product.title | escape }}</span>
+      <span class="cbb-tile__price">
+        {%- if product.price_varies -%}
+          {{ 'sections.clyps_bundle_builder.price_from' | t: price: product.price_min | money }}
+        {%- else -%}
+          {%- if product.compare_at_price > product.price -%}
+            <span class="cbb-sr">{{ 'sections.clyps_bundle_builder.regular_price' | t }}</span>
+            <s class="cbb-tile__compare">{{ product.compare_at_price | money }}</s>
+            <span class="cbb-sr">{{ 'sections.clyps_bundle_builder.sale_price' | t }}</span>
+          {%- endif -%}
+          {{ product.price | money }}
+        {%- endif -%}
+        {%- unless product.available %} · {{ 'sections.clyps_bundle_builder.sold_out' | t }}{% endunless -%}
+      </span>
+    </button>
+  </li>
+{%- endif -%}

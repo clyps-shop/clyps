@@ -1,0 +1,53 @@
+{%- comment -%}
+  clyps Bundle Builder: one product inside a curated set.
+  Accepts:
+  - product: {Object}
+  - role: {String} 'clip' or 'cuff'
+  - uid: {String} unique id prefix for form controls
+{%- endcomment -%}
+{%- if product != blank -%}
+  {%- assign selected_variant = product.selected_or_first_available_variant -%}
+  <li class="cbb-item" data-cbb-item data-role="{{ role }}" data-product-id="{{ product.id }}">
+    <a class="cbb-item__media" href="{{ product.url }}" tabindex="-1" aria-hidden="true">
+      {%- if product.featured_image != blank -%}
+        {{
+          product.featured_image
+          | image_url: width: 240
+          | image_tag:
+            widths: '120, 180, 240',
+            sizes: '(min-width: 990px) 80px, 64px',
+            loading: 'lazy',
+            alt: '',
+            class: 'cbb-item__img'
+        }}
+      {%- else -%}
+        {{ 'product-1' | placeholder_svg_tag: 'cbb-item__img' }}
+      {%- endif -%}
+    </a>
+    <div class="cbb-item__body">
+      <a class="cbb-item__title" href="{{ product.url }}">{{ product.title | escape }}</a>
+      {%- if role == 'cuff' -%}
+        <span class="cbb-item__tag">{{ 'sections.clyps_bundle_builder.cuff_tag' | t }}</span>
+      {%- endif -%}
+      {%- if product.has_only_default_variant -%}
+        <input type="hidden" data-cbb-variant value="{{ selected_variant.id }}">
+      {%- else -%}
+        <label class="cbb-sr" for="{{ uid }}-variant">
+          {{- 'sections.clyps_bundle_builder.variant_label' | t }}: {{ product.title | escape -}}
+        </label>
+        <select id="{{ uid }}-variant" class="cbb-select" data-cbb-variant>
+          {%- for variant in product.variants -%}
+            <option
+              value="{{ variant.id }}"
+              {% if variant.id == selected_variant.id %}selected{% endif %}
+              {% unless variant.available %}disabled{% endunless %}
+            >
+              {{- variant.title | escape -}}
+              {%- unless variant.available %} – {{ 'sections.clyps_bundle_builder.sold_out' | t }}{% endunless -%}
+            </option>
+          {%- endfor -%}
+        </select>
+      {%- endif -%}
+    </div>
+  </li>
+{%- endif -%}

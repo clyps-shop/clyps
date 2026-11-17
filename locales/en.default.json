@@ -155,7 +155,7 @@
     "collection_title": "Your collection's name"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Option name",
       "description_default": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
       "name_vendor": "Vendor name",

@@ -155,7 +155,7 @@
     "collection_title": "Jūsu kolekcijas nosaukums"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Opcijas nosaukums",
       "description_default": "Šī zona tiek izmantota, lai aprakstītu jūsu produkta detaļas. Pastāstiet klientiem par produkta izskatu, sajūtu un stilu. Pievienojiet informāciju par krāsu, izmantotajiem materiāliem, izmēriem un ražošanas vietu.",
       "name_vendor": "Pārdevēja nosaukums",

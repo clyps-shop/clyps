@@ -155,7 +155,7 @@
     "collection_title": "Naziv vaše kolekcije"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Naziv opcije",
       "description_default": "Ovaj prostor se koristi za opis detalja vašeg proizvoda. Recite kupcima o izgledu, osećaju i stilu vašeg proizvoda. Dodajte detalje o boji, materijalima, veličini i mestu proizvodnje.",
       "name_vendor": "Naziv dobavljača",

@@ -1,0 +1,106 @@
+{%- comment -%}
+  clyps Product Siblings
+  Renders size/model pills that link to separate sibling products (e.g. Lola, Romy, Cleo Ohrclips).
+  Every sibling stays its own product in the shop; the pills only navigate between them.
+
+  Data (product metafields, keys configurable in the block settings):
+  - Siblings metafield (default: custom.clyps_siblings), type "list.product_reference":
+    the products of the sibling group. The current product is added automatically if missing.
+  - Label metafield (default: custom.clyps_sibling_label), type "single_line_text_field":
+    the pill text of each product (e.g. "Lola"). Falls back to the product title.
+
+  Accepts:
+  - product: {Object} the current product
+  - block: {Object} the clyps_product_siblings block
+  - show_content_center: {Boolean}
+{%- endcomment -%}
+{%- liquid
+  assign siblings_key = block.settings.siblings_metafield | default: 'custom.clyps_siblings' | strip | split: '.'
+  assign label_key = block.settings.label_metafield | default: 'custom.clyps_sibling_label' | strip | split: '.'
+  assign siblings_ns = siblings_key.first
+  assign siblings_name = siblings_key.last
+  assign label_ns = label_key.first
+  assign label_name = label_key.last
+
+  assign siblings = product.metafields[siblings_ns][siblings_name].value
+
+  assign includes_current = false
+  for sibling in siblings
+    if sibling.id == product.id
+      assign includes_current = true
+      break
+    endif
+  endfor
+
+  assign heading = block.settings.heading | default: ''
+  if heading == blank
+    assign heading = 'products.product.clyps_siblings.label' | t
+  endif
+
+  assign current_label = product.metafields[label_ns][label_name].value | default: product.title
+
+  assign rounded = ''
+  if settings.edges_type == 'rounded_corners'
+    assign rounded = ' rounded-md'
+  endif
+-%}
+
+{%- if siblings != blank and siblings.size > 0 -%}
+  {%- style -%}
+    .clyps-siblings__pill { min-height: 44px; text-decoration: none; background-color: rgba(var(--background-color), 1); transition: background-color 100ms, color 100ms; }
+    .clyps-siblings__pill:hover { border-color: rgb(var(--colors-text)); }
+    .clyps-siblings__pill[aria-current='page'] { border-color: rgb(var(--colors-text)); background-color: rgb(var(--colors-text)); color: rgb(var(--background-color)); }
+    .clyps-siblings__pill--unavailable { text-decoration: line-through; color: rgba(var(--colors-text), 0.6); }
+    .clyps-siblings__pill--unavailable[aria-current='page'] { color: rgba(var(--background-color), 0.75); }
+    .clyps-siblings__pill:focus-visible { outline: 2px solid rgb(var(--colors-text)); outline-offset: 2px; }
+    .clyps-siblings__sr { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+    @media (prefers-reduced-motion: reduce) { .clyps-siblings__pill { transition: none; } }
+  {%- endstyle -%}
+  <nav
+    class="x-block-clyps-siblings clyps-siblings mb-4 md:mb-6 w-full{% if show_content_center %} text-center{% endif %}"
+    aria-labelledby="ClypsSiblings-{{ block.id }}"
+    {{ block.shopify_attributes }}
+  >
+    <p id="ClypsSiblings-{{ block.id }}" class="font-medium">
+      {{ heading | escape }}: <span>{{ current_label | escape }}</span>
+    </p>
+    <ul class="flex flex-wrap gap-x-2.5 list-none p-0 m-0{% if show_content_center %} justify-center{% endif %}" role="list">
+      {%- unless includes_current -%}
+        <li>
+          <a
+            href="{{ product.url }}"
+            class="clyps-siblings__pill relative flex items-center mt-2.5 pl-5 pr-5 pt-2 pb-2 border{% unless product.available %} clyps-siblings__pill--unavailable{% endunless %}{{ rounded }}"
+            aria-current="page"
+          >
+            {{- current_label | escape -}}
+            {%- unless product.available -%}
+              <span class="clyps-siblings__sr"> – {{ 'products.product.clyps_siblings.sold_out' | t }}</span>
+            {%- endunless -%}
+          </a>
+        </li>
+      {%- endunless -%}
+      {%- for sibling in siblings -%}
+        {%- if sibling == blank or sibling.url == blank -%}{%- continue -%}{%- endif -%}
+        {%- liquid
+          assign sibling_label = sibling.metafields[label_ns][label_name].value | default: sibling.title
+          assign is_current = false
+          if sibling.id == product.id
+            assign is_current = true
+          endif
+        -%}
+        <li>
+          <a
+            href="{{ sibling.url }}"
+            class="clyps-siblings__pill relative flex items-center mt-2.5 pl-5 pr-5 pt-2 pb-2 border{% unless sibling.available %} clyps-siblings__pill--unavailable{% endunless %}{{ rounded }}"
+            {% if is_current %}aria-current="page"{% endif %}
+          >
+            {{- sibling_label | escape -}}
+            {%- unless sibling.available -%}
+              <span class="clyps-siblings__sr"> – {{ 'products.product.clyps_siblings.sold_out' | t }}</span>
+            {%- endunless -%}
+          </a>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+{%- endif -%}

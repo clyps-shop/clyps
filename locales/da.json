@@ -155,7 +155,7 @@
     "collection_title": "Din samlings navn"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Valgmulighedsnavn",
       "description_default": "Dette område bruges til at beskrive produktets detaljer. Fortæl kunderne om produktets udseende, fornemmelse og stil. Tilføj detaljer om farve, anvendte materialer, størrelse og hvor det blev fremstillet.",
       "name_vendor": "Leverandørnavn",

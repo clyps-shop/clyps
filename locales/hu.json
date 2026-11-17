@@ -155,7 +155,7 @@
     "collection_title": "Gyűjteményének neve"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Opció neve",
       "description_default": "Ez a terület a termék részleteinek leírására szolgál. Mondja el az ügyfeleknek a termék megjelenését, tapintását és stílusát. Adja meg a színre, a felhasznált anyagokra, a méretezésre és a gyártási helyre vonatkozó részleteket.",
       "name_vendor": "Gyártó neve",

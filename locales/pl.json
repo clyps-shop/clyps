@@ -155,7 +155,7 @@
     "collection_title": "Nazwa Twojej kolekcji"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Nazwa opcji",
       "description_default": "Ten obszar służy do opisu szczegółów produktu. Opowiedz klientom o wyglądzie, odczuciach i stylu produktu. Dodaj szczegóły dotyczące koloru, użytych materiałów, rozmiarów i miejsca produkcji.",
       "name_vendor": "Nazwa sprzedawcy",

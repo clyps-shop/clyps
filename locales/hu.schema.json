@@ -3719,7 +3719,7 @@
     },
     "main-product": {
       "name": "Termékinformációk",
-      "blocks": {
+      "blocks": {"clyps_product_siblings":{"name":"clyps Product Siblings","info":"Shows pills that link to separate sibling products (e.g. Lola, Romy, Cleo). Each product stays visible in the shop on its own. Fill in the siblings metafield on every product of the group.","settings":{"heading":{"label":"Heading","info":"Leave empty to use the translated default (\"Size\")."},"siblings_metafield":{"label":"Siblings metafield","info":"Namespace and key of a product metafield of type \"Product (list)\" containing all products of the group in the desired order (e.g. custom.clyps_siblings)."},"label_metafield":{"label":"Pill label metafield","info":"Namespace and key of a single-line text product metafield used as pill text (e.g. custom.clyps_sibling_label). Falls back to the product title."}}},
         "discount_progress_bar": {
           "label": "Kedvezmény-előrehaladási sáv",
           "discount_type": {

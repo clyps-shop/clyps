@@ -155,7 +155,7 @@
     "collection_title": "Koleksiyonunuzun adı"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Seçenek adı",
       "description_default": "Bu alan, ürününüzün ayrıntılarını açıklamak için kullanılır. Müşterilere ürününüzün görünümü, hissi ve stili hakkında bilgi verin. Renk, kullanılan malzemeler, boyutlandırma ve nerede üretildiği hakkında ayrıntılar ekleyin.",
       "name_vendor": "Satıcı adı",

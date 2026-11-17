@@ -155,7 +155,7 @@
     "collection_title": "컬렉션 이름"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "옵션명",
       "description_default": "이 영역은 제품의 세부 정보를 설명하는 데 사용됩니다. 제품의 외관, 느낌, 스타일에 대해 고객에게 알려주십시오. 색상, 사용된 재료, 크기 및 제조 장소에 대한 세부 정보를 추가하십시오.",
       "name_vendor": "판매자 이름",

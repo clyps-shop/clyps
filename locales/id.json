@@ -155,7 +155,7 @@
     "collection_title": "Nama koleksi Anda"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "Nama opsi",
       "description_default": "Area ini digunakan untuk menjelaskan detail produk Anda. Beri tahu pelanggan tentang tampilan, nuansa, dan gaya produk Anda. Tambahkan detail tentang warna, bahan yang digunakan, ukuran, dan di mana produk itu dibuat.",
       "name_vendor": "Nama penjual",

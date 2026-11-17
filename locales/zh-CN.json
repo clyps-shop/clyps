@@ -155,7 +155,7 @@
     "collection_title": "你合集的名称"
   },
   "products": {
-    "product": {
+    "product": {"clyps_siblings":{"label":"Size","sold_out":"sold out"},
       "option_name": "选择名称",
       "description_default": "此区域由于描述产品信息。请告诉客户我们产品的外观、感觉和风格。详细说明产品的颜色、所用材料、尺寸和产地信息",
       "name_vendor": "厂商名称",

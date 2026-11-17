@@ -55,6 +55,8 @@
     }
   }
 {% endstyle %}
+{%- comment -%} clyps: render nothing when the collection has no description (avoids an empty block with only a heading). {%- endcomment -%}
+{%- if collection.description != blank -%}
 {% render 'section-divider' %}
 
 <div class="collection-description bg--{{ section.id }} mx-auto pt-[{{ section.settings.padding_top_mobile }}px] md:pt-[{{ section.settings.padding_top }}px] pb-[{{ section.settings.padding_bottom_mobile }}px] md:pb-[{{ section.settings.padding_bottom }}px]">
@@ -92,6 +94,7 @@
     </div>
   </div>
 </div>
+{%- endif -%}
 {% schema %}
 {
   "name": "t:sections.collection-description.name",

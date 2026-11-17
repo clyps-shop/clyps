@@ -13,7 +13,6 @@
 
       this.minClips = parseInt(this.dataset.minClips, 10) || 1;
       this.clipDiscount = parseFloat(this.dataset.clipDiscount) || 0;
-      this.cuffDiscount = parseFloat(this.dataset.cuffDiscount) || 0;
       this.moneyFormat = this.dataset.moneyFormat || '{{amount}}';
 
       this.products = {};
@@ -120,10 +119,11 @@
       let total = 0;
       items.forEach((item) => {
         const price = item.variant.price;
-        let pct = 0;
-        if (item.role === 'clip' && clipDiscountActive) pct = this.clipDiscount;
-        if (item.role === 'cuff') pct = this.cuffDiscount;
-        compare += price;
+        // Compare-at prices (e.g. ear cuffs on sale) count as the regular price in the preview.
+        const compareAt = Math.max(item.variant.compare_at_price || 0, price);
+        // The automatic ear clip discount is applied on top of the current price in the cart.
+        const pct = item.role === 'clip' && clipDiscountActive ? this.clipDiscount : 0;
+        compare += compareAt;
         total += Math.round(price * (1 - pct / 100));
       });
       return { compare, total, saving: compare - total, clipCount: clips.length };

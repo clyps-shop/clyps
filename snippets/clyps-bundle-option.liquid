@@ -35,6 +35,10 @@
         {%- if product.price_varies -%}
           {{ 'sections.clyps_bundle_builder.price_from' | t: price: product.price_min | money }}
         {%- else -%}
+          {%- if product.compare_at_price > product.price -%}
+            <s class="cbb-option__compare">{{ product.compare_at_price | money }}</s>
+            <span class="cbb-sr">{{ 'sections.clyps_bundle_builder.sale_price' | t }}</span>
+          {%- endif -%}
           {{ product.price | money }}
         {%- endif -%}
         {%- unless product.available %} · {{ 'sections.clyps_bundle_builder.sold_out' | t }}{% endunless -%}

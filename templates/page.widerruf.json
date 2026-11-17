@@ -9,12 +9,42 @@
  */
 {
   "sections": {
+    "1794907555a71bf1b1": {
+      "type": "apps",
+      "blocks": {
+        "eu_widerruf_button_form_inline_fFGbYt": {
+          "type": "shopify://apps/eu-widerruf-button/blocks/form-inline/019b2ca9-9838-7858-9694-3a8051afa76e",
+          "settings": {
+            "show_heading": true,
+            "heading": "Online Widerruf",
+            "description": "Fülle das folgende Formular aus, um deine Widerrufserklärung abzugeben.",
+            "iframe_height": 500,
+            "primary_color": "#2e210d",
+            "background_color": "#fcfbfa",
+            "text_color": "#2e210d",
+            "border_radius": "8px",
+            "max_width": "700px",
+            "show_order_lookup": true,
+            "require_order_number": true,
+            "hide_order_notes": false,
+            "require_items": true,
+            "confirm_step": false,
+            "hide_outside_eu": false
+          }
+        }
+      },
+      "block_order": [
+        "eu_widerruf_button_form_inline_fFGbYt"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "show_heading": true,
-        "heading_size": 170,
+        "heading_size": 90,
         "heading_tag": "h1",
         "show_breadcrumbs": true,
         "show_breadcrumbs_border": false,
@@ -33,41 +63,10 @@
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 20
       }
-    },
-    "1794907555a71bf1b1": {
-      "type": "apps",
-      "blocks": {
-        "eu_widerruf_button_form_inline_fFGbYt": {
-          "type": "shopify://apps/eu-widerruf-button/blocks/form-inline/019b2ca9-9838-7858-9694-3a8051afa76e",
-          "settings": {
-            "show_heading": true,
-            "heading": "Online Widerruf",
-            "description": "Fülle das folgende Formular aus, um deine Widerrufserklärung abzugeben.",
-            "iframe_height": 500,
-            "primary_color": "#2E210D",
-            "background_color": "#FCFBFA",
-            "text_color": "#2E210D",
-            "border_radius": "8px",
-            "max_width": "700px",
-            "show_order_lookup": true,
-            "require_order_number": true,
-            "hide_order_notes": false,
-            "require_items": true,
-            "confirm_step": false,
-            "hide_outside_eu": false
-          }
-        }
-      },
-      "block_order": [
-        "eu_widerruf_button_form_inline_fFGbYt"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
-    "main",
-    "1794907555a71bf1b1"
+    "1794907555a71bf1b1",
+    "main"
   ]
 }

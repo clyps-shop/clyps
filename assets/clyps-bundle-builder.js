@@ -33,6 +33,46 @@
       this.addEventListener('click', this.onClick.bind(this));
 
       this.querySelectorAll('[data-cbb-bundle]').forEach((bundle) => this.update(bundle));
+      this.initDots();
+    }
+
+    // Position dots for the swipeable set row on mobile (hidden via CSS from 768px).
+    initDots() {
+      const grid = this.querySelector('.cbb__grid');
+      const dotsEl = this.querySelector('[data-cbb-dots]');
+      if (!grid || !dotsEl) return;
+      const items = Array.from(grid.children);
+      if (items.length < 2) {
+        dotsEl.hidden = true;
+        return;
+      }
+      dotsEl.innerHTML = '';
+      const dots = items.map(() => {
+        const dot = document.createElement('span');
+        dot.className = 'cbb__dot';
+        dotsEl.appendChild(dot);
+        return dot;
+      });
+
+      let frame = null;
+      const update = () => {
+        frame = null;
+        const step = items[1].offsetLeft - items[0].offsetLeft || items[0].offsetWidth || 1;
+        const scrolled = Math.abs(grid.scrollLeft);
+        let index = Math.round(scrolled / step);
+        if (scrolled + grid.clientWidth >= grid.scrollWidth - 2) index = items.length - 1;
+        index = Math.max(0, Math.min(items.length - 1, index));
+        dots.forEach((dot, i) => dot.classList.toggle('is-active', i === index));
+      };
+      grid.addEventListener(
+        'scroll',
+        () => {
+          if (frame === null) frame = window.requestAnimationFrame(update);
+        },
+        { passive: true }
+      );
+      window.addEventListener('resize', update, { passive: true });
+      update();
     }
 
     onChange(event) {

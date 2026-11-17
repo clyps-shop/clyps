@@ -1,0 +1,306 @@
+/*
+ * clyps Bundle Builder
+ * Price preview + multi-item add to cart for sections/clyps-bundle-builder.liquid.
+ * Products are added as separate cart lines so the shop's automatic discounts apply.
+ */
+(function () {
+  if (window.customElements.get('clyps-bundle-builder')) return;
+
+  class ClypsBundleBuilder extends HTMLElement {
+    connectedCallback() {
+      if (this._ready) return;
+      this._ready = true;
+
+      this.minClips = parseInt(this.dataset.minClips, 10) || 1;
+      this.clipDiscount = parseFloat(this.dataset.clipDiscount) || 0;
+      this.cuffDiscount = parseFloat(this.dataset.cuffDiscount) || 0;
+      this.moneyFormat = this.dataset.moneyFormat || '{{amount}}';
+
+      this.products = {};
+      this.variants = {};
+      this.querySelectorAll('script[data-cbb-product]').forEach((el) => {
+        try {
+          const product = JSON.parse(el.textContent);
+          this.products[product.id] = product;
+          product.variants.forEach((v) => {
+            this.variants[v.id] = Object.assign({ productId: product.id, productTitle: product.title }, v);
+          });
+        } catch (e) {
+          /* ignore malformed product data */
+        }
+      });
+
+      this.addEventListener('change', this.onChange.bind(this));
+      this.addEventListener('click', this.onClick.bind(this));
+
+      this.querySelectorAll('[data-cbb-bundle]').forEach((bundle) => this.update(bundle));
+    }
+
+    onChange(event) {
+      const target = event.target;
+      const bundle = target.closest('[data-cbb-bundle]');
+      if (!bundle) return;
+
+      if (target.matches('.cbb-option__input')) {
+        this.fillSlotVariants(target.closest('[data-cbb-slot]'), target.value);
+      }
+      this.setMessage(bundle, '');
+      this.update(bundle);
+    }
+
+    onClick(event) {
+      const toggle = event.target.closest('[data-cbb-toggle]');
+      if (toggle) {
+        this.togglePanel(toggle);
+        return;
+      }
+      const add = event.target.closest('[data-cbb-add]');
+      if (add) {
+        this.addToCart(add.closest('[data-cbb-bundle]'), add);
+      }
+    }
+
+    togglePanel(toggle) {
+      const panel = this.querySelector('[data-cbb-panel]');
+      if (!panel) return;
+      const open = toggle.getAttribute('aria-expanded') !== 'true';
+      toggle.setAttribute('aria-expanded', String(open));
+      panel.hidden = !open;
+      if (open) {
+        const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        panel.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' });
+        panel.focus({ preventScroll: true });
+      }
+    }
+
+    fillSlotVariants(slot, productId) {
+      if (!slot) return;
+      const wrapper = slot.querySelector('[data-cbb-slot-variant]');
+      const select = slot.querySelector('[data-cbb-variant]');
+      if (!select) return;
+      select.innerHTML = '';
+
+      const product = productId ? this.products[productId] : null;
+      if (!product) {
+        if (wrapper) wrapper.hidden = true;
+        return;
+      }
+
+      let selected = false;
+      product.variants.forEach((v) => {
+        const option = document.createElement('option');
+        option.value = v.id;
+        option.textContent = v.available ? v.title : `${v.title} – ${this.dataset.textSoldOut}`;
+        option.disabled = !v.available;
+        if (v.available && !selected) {
+          option.selected = true;
+          selected = true;
+        }
+        select.appendChild(option);
+      });
+      if (wrapper) wrapper.hidden = product.variants.length < 2;
+    }
+
+    getItems(bundle) {
+      const items = [];
+      bundle.querySelectorAll('[data-cbb-item]').forEach((itemEl) => {
+        const input = itemEl.querySelector('[data-cbb-variant]');
+        const id = input ? parseInt(input.value, 10) : NaN;
+        const variant = this.variants[id];
+        if (!variant) return;
+        items.push({ id, role: itemEl.dataset.role, variant });
+      });
+      return items;
+    }
+
+    calculate(items) {
+      const clips = items.filter((i) => i.role === 'clip');
+      const clipDiscountActive = clips.length >= this.minClips;
+      let compare = 0;
+      let total = 0;
+      items.forEach((item) => {
+        const price = item.variant.price;
+        let pct = 0;
+        if (item.role === 'clip' && clipDiscountActive) pct = this.clipDiscount;
+        if (item.role === 'cuff') pct = this.cuffDiscount;
+        compare += price;
+        total += Math.round(price * (1 - pct / 100));
+      });
+      return { compare, total, saving: compare - total, clipCount: clips.length };
+    }
+
+    update(bundle) {
+      const items = this.getItems(bundle);
+      const result = this.calculate(items);
+      const isCustom = bundle.hasAttribute('data-cbb-custom');
+
+      const compareEl = bundle.querySelector('[data-cbb-compare]');
+      const totalEl = bundle.querySelector('[data-cbb-total]');
+      const savingEl = bundle.querySelector('[data-cbb-saving]');
+      const addBtn = bundle.querySelector('[data-cbb-add]');
+
+      if (totalEl) totalEl.textContent = items.length ? this.formatMoney(result.total) : '';
+      if (compareEl) compareEl.textContent = result.saving > 0 ? this.formatMoney(result.compare) : '';
+      if (savingEl) {
+        savingEl.textContent =
+          result.saving > 0 ? (this.dataset.textSave || '').replace('[amount]', this.formatMoney(result.saving)) : '';
+      }
+
+      const allAvailable = items.every((i) => i.variant.available);
+      const complete = isCustom ? result.clipCount >= this.minClips : items.length > 0;
+      if (addBtn) addBtn.setAttribute('aria-disabled', String(!(complete && allAvailable)));
+
+      if (isCustom) this.renderSummary(bundle, items);
+    }
+
+    renderSummary(bundle, items) {
+      const list = bundle.querySelector('[data-cbb-summary]');
+      if (!list) return;
+      list.innerHTML = '';
+      items.forEach((item) => {
+        const li = document.createElement('li');
+        const variantTitle = item.variant.title && item.variant.title !== 'Default Title' ? ` (${item.variant.title})` : '';
+        li.textContent = `${item.variant.productTitle}${variantTitle}`;
+        list.appendChild(li);
+      });
+      const hasCuffSlot = bundle.querySelector('[data-cbb-slot][data-role="cuff"]');
+      if (hasCuffSlot && !items.some((i) => i.role === 'cuff')) {
+        const li = document.createElement('li');
+        li.textContent = this.dataset.textNoCuff || '';
+        li.style.opacity = '0.7';
+        list.appendChild(li);
+      }
+    }
+
+    setMessage(bundle, text, isError) {
+      const msg = bundle && bundle.querySelector('[data-cbb-msg]');
+      if (!msg) return;
+      msg.textContent = text;
+      msg.classList.toggle('cbb-msg--error', Boolean(isError));
+    }
+
+    async addToCart(bundle, button) {
+      if (!bundle || button.getAttribute('aria-busy') === 'true') return;
+
+      const items = this.getItems(bundle);
+      const isCustom = bundle.hasAttribute('data-cbb-custom');
+      const result = this.calculate(items);
+
+      if (button.getAttribute('aria-disabled') === 'true') {
+        if (isCustom && result.clipCount < this.minClips) {
+          this.setMessage(bundle, this.dataset.textSelectClips, true);
+        }
+        return;
+      }
+
+      // Merge identical variants (e.g. the same ear clip chosen twice).
+      const merged = {};
+      items.forEach((item) => {
+        merged[item.id] = (merged[item.id] || 0) + 1;
+      });
+      const payload = { items: Object.keys(merged).map((id) => ({ id: parseInt(id, 10), quantity: merged[id] })) };
+
+      const cartHelper = this.getStore('xCartHelper');
+      const sectionsToRender =
+        cartHelper && typeof cartHelper.getSectionsToRender === 'function' ? cartHelper.getSectionsToRender() : [];
+      if (sectionsToRender.length) payload.sections = sectionsToRender.map((s) => s.id);
+
+      button.setAttribute('aria-busy', 'true');
+      this.setMessage(bundle, '');
+
+      try {
+        const root = (window.Shopify && window.Shopify.routes && window.Shopify.routes.root) || '/';
+        const response = await fetch(this.dataset.cartAddUrl ? `${this.dataset.cartAddUrl}.js` : `${root}cart/add.js`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+          body: JSON.stringify(payload),
+        });
+        const data = await response.json();
+
+        if (!response.ok || data.status) {
+          this.setMessage(bundle, data.description || data.message || this.dataset.textError, true);
+          return;
+        }
+
+        this.setMessage(bundle, this.dataset.textAdded);
+        this.refreshCart(data, sectionsToRender);
+      } catch (error) {
+        this.setMessage(bundle, this.dataset.textError, true);
+      } finally {
+        button.removeAttribute('aria-busy');
+      }
+    }
+
+    refreshCart(data, sectionsToRender) {
+      const miniCart = this.getStore('xMiniCart');
+      const cartHelper = this.getStore('xCartHelper');
+
+      // No theme cart stores available: fall back to the cart page.
+      if (!miniCart || !data.sections) {
+        window.location.href = this.dataset.cartUrl || '/cart';
+        return;
+      }
+
+      sectionsToRender.forEach((section) => {
+        const html = data.sections[section.id];
+        if (!html) return;
+        section.selector.split(',').forEach((selector) => {
+          const el = document.querySelector(selector);
+          if (!el) return;
+          // getSectionInnerHTML is a top-level const in the theme's theme.js (global lexical scope, not on window).
+          el.innerHTML =
+            typeof getSectionInnerHTML === 'function'
+              ? getSectionInnerHTML(html, selector)
+              : this.sectionInnerHTML(html, selector);
+        });
+      });
+
+      const cartNoti = this.getStore('xCartNoti');
+      if (cartNoti && cartNoti.enable && typeof cartNoti.setItem === 'function') {
+        cartNoti.setItem(data);
+      } else if (typeof miniCart.openCart === 'function') {
+        miniCart.openCart();
+        document.dispatchEvent(new CustomEvent('eurus:cart:redirect'));
+      }
+
+      const bubble = document.querySelector('#cart-icon-bubble span');
+      if (cartHelper && bubble) cartHelper.currentItemCount = parseInt(bubble.innerHTML, 10) || 0;
+      document.dispatchEvent(new CustomEvent('eurus:cart:items-changed'));
+      if (cartHelper && typeof cartHelper.updateEstimateShippingFull === 'function') {
+        cartHelper.updateEstimateShippingFull();
+      }
+    }
+
+    sectionInnerHTML(html, selector) {
+      const doc = new DOMParser().parseFromString(html, 'text/html');
+      const el = doc.querySelector(selector) || doc.querySelector('.shopify-section');
+      return el ? el.innerHTML : '';
+    }
+
+    getStore(name) {
+      try {
+        return window.Alpine && typeof window.Alpine.store === 'function' ? window.Alpine.store(name) : null;
+      } catch (e) {
+        return null;
+      }
+    }
+
+    formatMoney(cents) {
+      const helper = this.getStore('xHelper');
+      if (helper && typeof helper.formatMoney === 'function') {
+        return helper.formatMoney(cents, this.moneyFormat);
+      }
+      const amount = (cents / 100).toFixed(2);
+      const [whole, decimals] = amount.split('.');
+      const formatted = {
+        amount: `${whole.replace(/\B(?=(\d{3})+(?!\d))/g, ',')}.${decimals}`,
+        amount_no_decimals: whole.replace(/\B(?=(\d{3})+(?!\d))/g, ','),
+        amount_with_comma_separator: `${whole.replace(/\B(?=(\d{3})+(?!\d))/g, '.')},${decimals}`,
+        amount_no_decimals_with_comma_separator: whole.replace(/\B(?=(\d{3})+(?!\d))/g, '.'),
+      };
+      return this.moneyFormat.replace(/\{\{\s*(\w+)\s*\}\}/, (match, key) => formatted[key] || formatted.amount);
+    }
+  }
+
+  window.customElements.define('clyps-bundle-builder', ClypsBundleBuilder);
+})();

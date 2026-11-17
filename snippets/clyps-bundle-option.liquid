@@ -1,0 +1,44 @@
+{%- comment -%}
+  clyps Bundle Builder: selectable product card inside the "build your own" panel.
+  Accepts:
+  - product: {Object}
+  - name: {String} radio group name
+  - uid: {String} unique id for the input
+{%- endcomment -%}
+{%- if product != blank -%}
+  <li class="cbb-option">
+    <input
+      class="cbb-option__input"
+      type="radio"
+      id="{{ uid }}"
+      name="{{ name }}"
+      value="{{ product.id }}"
+      {% unless product.available %}disabled{% endunless %}
+    >
+    <label class="cbb-option__label" for="{{ uid }}">
+      {%- if product.featured_image != blank -%}
+        {{
+          product.featured_image
+          | image_url: width: 300
+          | image_tag:
+            widths: '150, 225, 300',
+            sizes: '(min-width: 990px) 140px, 120px',
+            loading: 'lazy',
+            alt: '',
+            class: 'cbb-option__img'
+        }}
+      {%- else -%}
+        {{ 'product-1' | placeholder_svg_tag: 'cbb-option__img' }}
+      {%- endif -%}
+      <span class="cbb-option__title">{{ product.title | escape }}</span>
+      <span class="cbb-option__price">
+        {%- if product.price_varies -%}
+          {{ 'sections.clyps_bundle_builder.price_from' | t: price: product.price_min | money }}
+        {%- else -%}
+          {{ product.price | money }}
+        {%- endif -%}
+        {%- unless product.available %} · {{ 'sections.clyps_bundle_builder.sold_out' | t }}{% endunless -%}
+      </span>
+    </label>
+  </li>
+{%- endif -%}

@@ -8,6 +8,7 @@
   {
     "id": {{ product.id | json }},
     "title": {{ product.title | json }},
+    "image": {% if product.featured_image != blank %}{{ product.featured_image | image_url: width: 240 | json }}{% else %}null{% endif %},
     "variants": [
       {%- for variant in product.variants -%}
         {"id": {{ variant.id | json }}, "title": {{ variant.title | json }}, "price": {{ variant.price | json }}, "compare_at_price": {{ variant.compare_at_price | default: 0 | json }}, "available": {{ variant.available | json }}}{% unless forloop.last %},{% endunless %}

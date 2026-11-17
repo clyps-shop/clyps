@@ -334,7 +334,7 @@
     }
   },
   "sections": {
-    "clyps_bundle_builder": {"sale_price":"Angebotspreis",
+    "clyps_bundle_builder": {"your_set":"Dein Set","slot_choose":"wählen","slot_optional":"optional","slot_remove":"entfernen","tab_clips":"Ohrclips","tab_cuffs":"Ear Cuffs","tab_cuffs_discount":"bis −{{ discount }} %","progress":"{{ chosen }} von {{ total }} Ohrclips gewählt","slots_full":"Alle Ohrclip-Plätze sind belegt. Tippe oben auf einen Platz, um ihn zu leeren.","aria_slot_empty":"[slot]: leer, Produkt auswählen","aria_slot_filled":"[slot]: [product], tippen zum Entfernen","sale_price":"Angebotspreis",
       "heading_default": "Stell dein Set zusammen",
       "discount_clips": "{{ discount }} % Rabatt ab {{ min }} Ohrclips",
       "discount_cuffs": "bis zu {{ discount }} % auf Ear Cuffs",

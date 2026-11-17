@@ -107,23 +107,42 @@
   .cbb-panel[hidden] { display: none; }
   .cbb-panel__layout { display: grid; gap: 1.5rem; }
   @media (min-width: 990px) { .cbb-panel__layout { grid-template-columns: minmax(0, 1fr) 18rem; align-items: start; } .cbb-summary { position: sticky; top: 1rem; } }
-  .cbb-slot { border: 0; margin: 0 0 1.25rem; padding: 0; min-width: 0; }
-  .cbb-slot__legend { font-weight: 600; margin-bottom: .5rem; padding: 0; }
-  .cbb-options { list-style: none; margin: 0; padding: 0 0 .5rem; display: flex; gap: .75rem; overflow-x: auto; scroll-snap-type: x proximity; -webkit-overflow-scrolling: touch; }
-  .cbb-option { flex: 0 0 120px; scroll-snap-align: start; position: relative; }
-  @media (min-width: 990px) { .cbb-option { flex-basis: 140px; } }
-  .cbb-option__input { position: absolute; opacity: 0; width: 1px; height: 1px; }
-  .cbb-option__label { display: flex; flex-direction: column; gap: .25rem; height: 100%; padding: .5rem; border: 2px solid rgba(var(--colors-text), .15); border-radius: 10px; cursor: pointer; font-size: .875rem; }
-  .cbb-option__label--none { justify-content: center; align-items: center; text-align: center; min-height: 120px; }
-  .cbb-option__img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 6px; display: block; height: auto; }
-  .cbb-option__title { font-weight: 600; line-height: 1.25; }
-  .cbb-option__price { opacity: .8; }
-  .cbb-option__compare { opacity: .7; margin-right: .25rem; }
-  .cbb-option__input:checked + .cbb-option__label { border-color: rgb(var(--colors-text)); box-shadow: 0 0 0 1px rgb(var(--colors-text)); }
-  .cbb-option__input:focus-visible + .cbb-option__label { outline: 2px solid rgb(var(--colors-text)); outline-offset: 2px; }
-  .cbb-option__input:disabled + .cbb-option__label { opacity: .45; cursor: not-allowed; }
-  .cbb-slot__variant { margin-top: .5rem; max-width: 20rem; }
+  .cbb-builder { min-width: 0; }
+  .cbb-builder__label { margin: 0 0 .5rem; font-weight: 600; }
+  .cbb-slots { list-style: none; margin: 0 0 1rem; padding: 0; display: grid; gap: .5rem; grid-template-columns: repeat(var(--cbb-slots, 3), minmax(0, 1fr)); }
+  @media (min-width: 768px) { .cbb-slots { grid-template-columns: repeat(var(--cbb-slots, 3), minmax(0, 9rem)); gap: .75rem; } }
+  .cbb-slot { min-width: 0; display: flex; flex-direction: column; gap: .375rem; }
+  .cbb-slot__btn { display: flex; flex-direction: column; align-items: center; gap: .25rem; width: 100%; padding: .375rem; border: 1.5px dashed rgba(var(--colors-text), .35); border-radius: 10px; background: transparent; color: inherit; font: inherit; text-align: center; cursor: pointer; }
+  .cbb-slot--optional .cbb-slot__btn { border-color: rgba(var(--colors-text), .2); }
+  .cbb-slot.is-filled .cbb-slot__btn { border-style: solid; border-color: rgb(var(--colors-text)); }
+  .cbb-slot__media { display: flex; align-items: center; justify-content: center; width: 100%; aspect-ratio: 1 / 1; border-radius: 6px; overflow: hidden; background: rgba(var(--colors-text), .05); }
+  .cbb-slot__media img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .cbb-slot__plus { font-size: 1.25rem; line-height: 1; opacity: .5; }
+  .cbb-slot__name { font-size: .75rem; font-weight: 600; line-height: 1.2; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .cbb-slot__hint { font-size: .6875rem; opacity: .7; line-height: 1.2; }
   .cbb-slot__variant[hidden] { display: none; }
+  .cbb-select--sm { min-height: 40px; padding: .375rem 1.5rem .375rem .5rem; font-size: .8125rem; }
+  .cbb-tabs { display: flex; gap: .5rem; margin: 0 0 .75rem; overflow-x: auto; scrollbar-width: none; }
+  .cbb-tabs::-webkit-scrollbar { display: none; }
+  .cbb-tab { flex: 0 0 auto; display: inline-flex; align-items: center; gap: .375rem; min-height: 40px; padding: .375rem 1rem; border: 1px solid rgba(var(--colors-text), .3); border-radius: 999px; background: transparent; color: inherit; font: inherit; font-size: .875rem; cursor: pointer; }
+  .cbb-tab[aria-selected='true'] { background: rgb(var(--colors-text)); border-color: rgb(var(--colors-text)); color: rgb(var(--background-color)); }
+  .cbb-tab__badge { font-size: .75rem; font-weight: 600; }
+  .cbb-tabpanel[hidden] { display: none; }
+  .cbb-tiles { list-style: none; margin: 0; padding: 0; display: grid; gap: .625rem; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  @media (min-width: 768px) { .cbb-tiles { grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: .875rem; } }
+  .cbb-tile { position: relative; display: flex; flex-direction: column; gap: .25rem; width: 100%; height: 100%; padding: 0; border: 0; background: transparent; color: inherit; font: inherit; text-align: left; cursor: pointer; }
+  .cbb-tile__media { position: relative; display: block; border-radius: 8px; overflow: hidden; border: 2px solid transparent; background: rgba(var(--colors-text), .05); }
+  .cbb-tile[aria-pressed='true'] .cbb-tile__media { border-color: rgb(var(--colors-text)); }
+  .cbb-tile__img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; height: auto; }
+  .cbb-tile__count { position: absolute; top: .25rem; right: .25rem; min-width: 1.375rem; height: 1.375rem; padding: 0 .25rem; border-radius: 999px; display: flex; align-items: center; justify-content: center; font-size: .75rem; font-weight: 700; background: rgb(var(--colors-text)); color: rgb(var(--background-color)); }
+  .cbb-tile__count[hidden] { display: none; }
+  .cbb-tile__title { font-size: .8125rem; font-weight: 600; line-height: 1.25; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .cbb-tile__price { font-size: .75rem; opacity: .8; }
+  .cbb-tile__compare { opacity: .7; margin-right: .25rem; }
+  .cbb-tile:disabled { cursor: not-allowed; }
+  .cbb-tile:disabled .cbb-tile__media { opacity: .45; }
+  .cbb-tile:focus-visible, .cbb-slot__btn:focus-visible, .cbb-tab:focus-visible { outline: 2px solid rgb(var(--colors-text)); outline-offset: 2px; }
+  .cbb-summary__progress { margin: 0; font-size: .875rem; font-weight: 600; }
   .cbb-summary { display: flex; flex-direction: column; gap: .75rem; padding: 1rem; border-radius: 10px; background: rgba(var(--colors-text), .04); }
   /* Mobile/tablet: keep price and add button docked at the bottom while choosing. */
   @media (max-width: 989px) {
@@ -135,7 +154,7 @@
   .cbb-summary__title { margin: 0; font-size: 1rem; color: rgb(var(--colors-heading)); }
   .cbb-summary__list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .25rem; font-size: .875rem; }
   .cbb-sr { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
-  @media (prefers-reduced-motion: reduce) { .cbb-btn, .cbb__dot { transition: none; } .cbb-options, .cbb__grid { scroll-behavior: auto; } }
+  @media (prefers-reduced-motion: reduce) { .cbb-btn, .cbb__dot { transition: none; } .cbb__grid, .cbb-tabs { scroll-behavior: auto; } }
 </style>
 
 <clyps-bundle-builder
@@ -152,6 +171,13 @@
   data-text-error="{{ 'sections.clyps_bundle_builder.error' | t | escape }}"
   data-text-no-cuff="{{ 'sections.clyps_bundle_builder.no_cuff' | t | escape }}"
   data-text-sold-out="{{ 'sections.clyps_bundle_builder.sold_out' | t | escape }}"
+  data-text-choose="{{ 'sections.clyps_bundle_builder.slot_choose' | t | escape }}"
+  data-text-optional="{{ 'sections.clyps_bundle_builder.slot_optional' | t | escape }}"
+  data-text-remove="{{ 'sections.clyps_bundle_builder.slot_remove' | t | escape }}"
+  data-text-progress="{{ 'sections.clyps_bundle_builder.progress' | t: chosen: '[chosen]', total: min_clips | escape }}"
+  data-text-slots-full="{{ 'sections.clyps_bundle_builder.slots_full' | t | escape }}"
+  data-text-aria-empty="{{ 'sections.clyps_bundle_builder.aria_slot_empty' | t | escape }}"
+  data-text-aria-filled="{{ 'sections.clyps_bundle_builder.aria_slot_filled' | t | escape }}"
 >
   <div class="cbb__header">
     <h2 class="cbb__heading h2">{{ heading | escape }}</h2>
@@ -263,59 +289,94 @@
   {%- if show_builder -%}
     <div class="cbb-panel" id="cbb-panel-{{ section.id }}" data-cbb-panel hidden tabindex="-1" role="region" aria-labelledby="cbb-panel-title-{{ section.id }}">
       <h3 class="cbb-card__title cbb-sr" id="cbb-panel-title-{{ section.id }}">{{ 'sections.clyps_bundle_builder.custom_title' | t }}</h3>
+      {%- liquid
+        assign has_cuffs = false
+        if cuff_collection != blank and cuff_collection.products_count > 0
+          assign has_cuffs = true
+        endif
+        assign slot_count = min_clips
+        if has_cuffs
+          assign slot_count = slot_count | plus: 1
+        endif
+        assign tab_base = 'cbb-' | append: section.id
+      -%}
       <div class="cbb-panel__layout" data-cbb-bundle data-cbb-custom>
-        <div>
-          {%- for i in (1..min_clips) -%}
-            {%- assign slot_name = 'cbb-' | append: section.id | append: '-clip-' | append: i -%}
-            <fieldset class="cbb-slot" data-cbb-item data-cbb-slot data-role="clip">
-              <legend class="cbb-slot__legend">{{ 'sections.clyps_bundle_builder.slot_clip' | t: number: i }}</legend>
-              <ul class="cbb-options" role="list">
-                {%- for product in clip_collection.products limit: max_products -%}
-                  {%- assign option_uid = slot_name | append: '-' | append: product.id -%}
-                  {%- render 'clyps-bundle-option', product: product, name: slot_name, uid: option_uid -%}
-                {%- endfor -%}
-              </ul>
-              <div class="cbb-slot__variant" data-cbb-slot-variant hidden>
-                <label class="cbb-sr" for="{{ slot_name }}-variant">{{ 'sections.clyps_bundle_builder.variant_label' | t }}</label>
-                <select id="{{ slot_name }}-variant" class="cbb-select" data-cbb-variant></select>
-              </div>
-            </fieldset>
-          {%- endfor -%}
+        <div class="cbb-builder">
+          <p class="cbb-builder__label" id="{{ tab_base }}-slots-label">{{ 'sections.clyps_bundle_builder.your_set' | t }}</p>
+          <ol class="cbb-slots" role="list" aria-labelledby="{{ tab_base }}-slots-label" style="--cbb-slots: {{ slot_count }};">
+            {%- for i in (1..min_clips) -%}
+              {%- assign slot_label = 'sections.clyps_bundle_builder.slot_clip' | t: number: i -%}
+              <li class="cbb-slot" data-cbb-item data-cbb-slot data-role="clip" data-label="{{ slot_label | escape }}">
+                <button type="button" class="cbb-slot__btn" data-cbb-slot-btn aria-label="{{ slot_label | escape }}">
+                  <span class="cbb-slot__media" data-cbb-slot-media aria-hidden="true"><span class="cbb-slot__plus">+</span></span>
+                  <span class="cbb-slot__name" data-cbb-slot-name>{{ slot_label | escape }}</span>
+                  <span class="cbb-slot__hint" data-cbb-slot-hint>{{ 'sections.clyps_bundle_builder.slot_choose' | t }}</span>
+                </button>
+                <div class="cbb-slot__variant" data-cbb-slot-variant hidden>
+                  <label class="cbb-sr" for="{{ tab_base }}-slot-{{ i }}-variant">{{ slot_label | escape }} – {{ 'sections.clyps_bundle_builder.variant_label' | t }}</label>
+                  <select id="{{ tab_base }}-slot-{{ i }}-variant" class="cbb-select cbb-select--sm" data-cbb-variant></select>
+                </div>
+              </li>
+            {%- endfor -%}
+            {%- if has_cuffs -%}
+              {%- assign slot_label = 'sections.clyps_bundle_builder.cuff_tag' | t -%}
+              <li class="cbb-slot cbb-slot--optional" data-cbb-item data-cbb-slot data-role="cuff" data-label="{{ slot_label | escape }}">
+                <button type="button" class="cbb-slot__btn" data-cbb-slot-btn aria-label="{{ slot_label | escape }}">
+                  <span class="cbb-slot__media" data-cbb-slot-media aria-hidden="true"><span class="cbb-slot__plus">+</span></span>
+                  <span class="cbb-slot__name" data-cbb-slot-name>{{ slot_label | escape }}</span>
+                  <span class="cbb-slot__hint" data-cbb-slot-hint>{{ 'sections.clyps_bundle_builder.slot_optional' | t }}</span>
+                </button>
+                <div class="cbb-slot__variant" data-cbb-slot-variant hidden>
+                  <label class="cbb-sr" for="{{ tab_base }}-slot-cuff-variant">{{ slot_label | escape }} – {{ 'sections.clyps_bundle_builder.variant_label' | t }}</label>
+                  <select id="{{ tab_base }}-slot-cuff-variant" class="cbb-select cbb-select--sm" data-cbb-variant></select>
+                </div>
+              </li>
+            {%- endif -%}
+          </ol>
 
-          {%- if cuff_collection != blank and cuff_collection.products_count > 0 -%}
-            {%- assign slot_name = 'cbb-' | append: section.id | append: '-cuff' -%}
-            <fieldset class="cbb-slot" data-cbb-item data-cbb-slot data-role="cuff">
-              <legend class="cbb-slot__legend">{{ 'sections.clyps_bundle_builder.slot_cuff' | t }}</legend>
-              <ul class="cbb-options" role="list">
-                <li class="cbb-option">
-                  <input class="cbb-option__input" type="radio" id="{{ slot_name }}-none" name="{{ slot_name }}" value="" checked>
-                  <label class="cbb-option__label cbb-option__label--none" for="{{ slot_name }}-none">
-                    <span class="cbb-option__title">{{ 'sections.clyps_bundle_builder.no_cuff' | t }}</span>
-                  </label>
-                </li>
+          {%- if has_cuffs -%}
+            <div class="cbb-tabs" role="tablist" aria-label="{{ 'sections.clyps_bundle_builder.custom_title' | t | escape }}">
+              <button type="button" class="cbb-tab" role="tab" id="{{ tab_base }}-tab-clip" aria-controls="{{ tab_base }}-panel-clip" aria-selected="true" data-cbb-tab="clip">
+                {{- 'sections.clyps_bundle_builder.tab_clips' | t -}}
+              </button>
+              <button type="button" class="cbb-tab" role="tab" id="{{ tab_base }}-tab-cuff" aria-controls="{{ tab_base }}-panel-cuff" aria-selected="false" tabindex="-1" data-cbb-tab="cuff">
+                {{- 'sections.clyps_bundle_builder.tab_cuffs' | t -}}
+                {%- if cuff_discount > 0 %} <span class="cbb-tab__badge">{{ 'sections.clyps_bundle_builder.tab_cuffs_discount' | t: discount: cuff_discount }}</span>{% endif -%}
+              </button>
+            </div>
+          {%- endif -%}
+
+          <div class="cbb-tabpanel" id="{{ tab_base }}-panel-clip" data-cbb-tabpanel="clip"{% if has_cuffs %} role="tabpanel" aria-labelledby="{{ tab_base }}-tab-clip"{% endif %}>
+            <ul class="cbb-tiles" role="list">
+              {%- for product in clip_collection.products limit: max_products -%}
+                {%- render 'clyps-bundle-option', product: product, role: 'clip' -%}
+              {%- endfor -%}
+            </ul>
+          </div>
+          {%- if has_cuffs -%}
+            <div class="cbb-tabpanel" id="{{ tab_base }}-panel-cuff" data-cbb-tabpanel="cuff" role="tabpanel" aria-labelledby="{{ tab_base }}-tab-cuff" hidden>
+              <ul class="cbb-tiles" role="list">
                 {%- for product in cuff_collection.products limit: max_products -%}
-                  {%- assign option_uid = slot_name | append: '-' | append: product.id -%}
-                  {%- render 'clyps-bundle-option', product: product, name: slot_name, uid: option_uid -%}
+                  {%- render 'clyps-bundle-option', product: product, role: 'cuff' -%}
                 {%- endfor -%}
               </ul>
-              <div class="cbb-slot__variant" data-cbb-slot-variant hidden>
-                <label class="cbb-sr" for="{{ slot_name }}-variant">{{ 'sections.clyps_bundle_builder.variant_label' | t }}</label>
-                <select id="{{ slot_name }}-variant" class="cbb-select" data-cbb-variant></select>
-              </div>
-            </fieldset>
+            </div>
           {%- endif -%}
 
           {%- for product in clip_collection.products limit: max_products -%}
             {%- render 'clyps-bundle-product-data', product: product -%}
           {%- endfor -%}
-          {%- for product in cuff_collection.products limit: max_products -%}
-            {%- render 'clyps-bundle-product-data', product: product -%}
-          {%- endfor -%}
+          {%- if has_cuffs -%}
+            {%- for product in cuff_collection.products limit: max_products -%}
+              {%- render 'clyps-bundle-product-data', product: product -%}
+            {%- endfor -%}
+          {%- endif -%}
         </div>
 
         <div class="cbb-summary">
           <h4 class="cbb-summary__title">{{ 'sections.clyps_bundle_builder.summary_title' | t }}</h4>
           <ul class="cbb-summary__list" data-cbb-summary role="list"></ul>
+          <p class="cbb-summary__progress" data-cbb-progress aria-live="polite"></p>
           <p class="cbb-price" data-cbb-price>
             <span class="cbb-sr">{{ 'sections.clyps_bundle_builder.regular_price' | t }}</span>
             <s class="cbb-price__compare" data-cbb-compare></s>

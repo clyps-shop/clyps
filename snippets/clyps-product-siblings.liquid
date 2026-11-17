@@ -8,6 +8,8 @@
     the products of the sibling group. The current product is added automatically if missing.
   - Label metafield (default: custom.clyps_sibling_label), type "single_line_text_field":
     the pill text of each product (e.g. "Lola"). Falls back to the product title.
+  - Caption metafield (default: custom.clyps_sibling_caption), type "single_line_text_field":
+    optional small text shown above the pill (e.g. "klein", "mittel", "groß").
 
   Accepts:
   - product: {Object} the current product
@@ -17,6 +19,9 @@
 {%- liquid
   assign siblings_key = block.settings.siblings_metafield | default: 'custom.clyps_siblings' | strip | split: '.'
   assign label_key = block.settings.label_metafield | default: 'custom.clyps_sibling_label' | strip | split: '.'
+  assign caption_key = block.settings.caption_metafield | default: 'custom.clyps_sibling_caption' | strip | split: '.'
+  assign caption_ns = caption_key.first
+  assign caption_name = caption_key.last
   assign siblings_ns = siblings_key.first
   assign siblings_name = siblings_key.last
   assign label_ns = label_key.first
@@ -25,10 +30,16 @@
   assign siblings = product.metafields[siblings_ns][siblings_name].value
 
   assign includes_current = false
+  assign has_captions = false
+  if product.metafields[caption_ns][caption_name].value != blank
+    assign has_captions = true
+  endif
   for sibling in siblings
     if sibling.id == product.id
       assign includes_current = true
-      break
+    endif
+    if sibling.metafields[caption_ns][caption_name].value != blank
+      assign has_captions = true
     endif
   endfor
 
@@ -53,6 +64,9 @@
     .clyps-siblings__pill--unavailable { text-decoration: line-through; color: rgba(var(--colors-text), 0.6); }
     .clyps-siblings__pill--unavailable[aria-current='page'] { color: rgba(var(--background-color), 0.75); }
     .clyps-siblings__pill:focus-visible { outline: 2px solid rgb(var(--colors-text)); outline-offset: 2px; }
+    .clyps-siblings__item { display: flex; flex-direction: column; align-items: flex-start; }
+    .clyps-siblings__caption { margin-top: .625rem; margin-bottom: .25rem; padding-left: .125rem; font-size: .75rem; line-height: 1.2; color: rgba(var(--colors-text), .75); min-height: 1.2em; }
+    .clyps-siblings__item--captioned .clyps-siblings__pill { margin-top: 0; }
     .clyps-siblings__sr { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
     @media (prefers-reduced-motion: reduce) { .clyps-siblings__pill { transition: none; } }
   {%- endstyle -%}
@@ -66,12 +80,17 @@
     </p>
     <ul class="flex flex-wrap gap-x-2.5 list-none p-0 m-0{% if show_content_center %} justify-center{% endif %}" role="list">
       {%- unless includes_current -%}
-        <li>
+        {%- assign current_caption = product.metafields[caption_ns][caption_name].value -%}
+        <li class="clyps-siblings__item{% if has_captions %} clyps-siblings__item--captioned{% endif %}">
+          {%- if has_captions -%}
+            <span class="clyps-siblings__caption" aria-hidden="true">{{ current_caption | escape }}</span>
+          {%- endif -%}
           <a
             href="{{ product.url }}"
             class="clyps-siblings__pill relative flex items-center mt-2.5 pl-5 pr-5 pt-2 pb-2 border{% unless product.available %} clyps-siblings__pill--unavailable{% endunless %}{{ rounded }}"
             aria-current="page"
           >
+            {%- if current_caption != blank -%}<span class="clyps-siblings__sr">{{ current_caption | escape }}, </span>{%- endif -%}
             {{- current_label | escape -}}
             {%- unless product.available -%}
               <span class="clyps-siblings__sr"> – {{ 'products.product.clyps_siblings.sold_out' | t }}</span>
@@ -83,17 +102,22 @@
         {%- if sibling == blank or sibling.url == blank -%}{%- continue -%}{%- endif -%}
         {%- liquid
           assign sibling_label = sibling.metafields[label_ns][label_name].value | default: sibling.title
+          assign sibling_caption = sibling.metafields[caption_ns][caption_name].value
           assign is_current = false
           if sibling.id == product.id
             assign is_current = true
           endif
         -%}
-        <li>
+        <li class="clyps-siblings__item{% if has_captions %} clyps-siblings__item--captioned{% endif %}">
+          {%- if has_captions -%}
+            <span class="clyps-siblings__caption" aria-hidden="true">{{ sibling_caption | escape }}</span>
+          {%- endif -%}
           <a
             href="{{ sibling.url }}"
             class="clyps-siblings__pill relative flex items-center mt-2.5 pl-5 pr-5 pt-2 pb-2 border{% unless sibling.available %} clyps-siblings__pill--unavailable{% endunless %}{{ rounded }}"
             {% if is_current %}aria-current="page"{% endif %}
           >
+            {%- if sibling_caption != blank -%}<span class="clyps-siblings__sr">{{ sibling_caption | escape }}, </span>{%- endif -%}
             {{- sibling_label | escape -}}
             {%- unless sibling.available -%}
               <span class="clyps-siblings__sr"> – {{ 'products.product.clyps_siblings.sold_out' | t }}</span>

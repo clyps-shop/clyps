@@ -126,6 +126,7 @@
       }
       {{ menu_font_400 | font_face: font_display: 'swap' }}
     {% endstyle %}
+    {%- render 'clyps-breadcrumb-schema' -%}
   </head>
   <body 
     class="gradient scrollbar-body overflow-x-hidden text-[{{ settings.text_base_size | times: 0.007875 }}rem] md:text-[{{ settings.text_base_size | times: 0.00875 }}rem]{% if settings.lang_direction contains request.locale.iso_code %} rtl{% endif %}" 

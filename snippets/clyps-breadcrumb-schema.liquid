@@ -1,0 +1,50 @@
+{%- comment -%}
+  clyps: BreadcrumbList structured data for product and collection pages.
+  Helps search engines and AI answer engines understand where a page sits in the shop.
+  Rendered once in layout/theme.liquid <head>.
+{%- endcomment -%}
+{%- if template.name == 'product' or template.name == 'collection' -%}
+  {%- liquid
+    assign home_name = 'general.breadcrumbs.home' | t
+    assign home_url = request.origin | append: routes.root_url
+  -%}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": {{ home_name | json }},
+          "item": {{ home_url | json }}
+        }
+        {%- if template.name == 'collection' and collection != blank -%},
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": {{ collection.title | json }},
+            "item": {{ request.origin | append: collection.url | json }}
+          }
+        {%- elsif template.name == 'product' and product != blank -%}
+          {%- assign product_position = 2 -%}
+          {%- if collection != blank -%},
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": {{ collection.title | json }},
+              "item": {{ request.origin | append: collection.url | json }}
+            }
+            {%- assign product_position = 3 -%}
+          {%- endif -%},
+          {
+            "@type": "ListItem",
+            "position": {{ product_position }},
+            "name": {{ product.title | json }},
+            "item": {{ request.origin | append: product.url | json }}
+          }
+        {%- endif %}
+      ]
+    }
+  </script>
+{%- endif -%}

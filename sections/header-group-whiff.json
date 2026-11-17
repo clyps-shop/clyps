@@ -253,7 +253,7 @@
         "logo": "shopify://shop_images/clyps_d4a7e00c-63f3-43e0-bf8e-8f2a7b91de25.png",
         "logo_width": 220,
         "logo_width_mobile": 130,
-        "logo_div_to_h1": true,
+        "logo_div_to_h1": false,
         "show_social_icons": false,
         "enable_on_homepage": false,
         "enable_on_collection_page": false,

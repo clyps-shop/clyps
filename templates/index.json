@@ -600,10 +600,11 @@
         },
         "collection_rpcymw": {
           "type": "collection",
+          "name": "kids",
           "settings": {
             "collection": "clyps-kids",
             "show_description": true,
-            "description": "",
+            "description": "<p>Der erste eigene Ohrschmuck soll Freude machen und von Anfang an mit einem guten Gefühl verbunden sein.<br/>Die weichen, flexiblen Clips sitzen angenehm und lassen sich an kleine Ohren anpassen. Ob Einhorn, Regenbogen, Marienkäfer oder Astronaut: Unsere Motive machen Kinderaugen strahlen und sind ein schönes Geschenk zum Geburtstag, zur Einschulung oder zu Weihnachten. Aus Edelstahl mit 18k PVD-Vergoldung – hautverträglich und wasserfest.</p>",
             "number_of_lines_shown": "small",
             "read_more_label": "Mehr lesen",
             "see_less_label": "Weniger anzeigen",

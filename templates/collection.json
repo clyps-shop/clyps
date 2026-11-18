@@ -201,7 +201,7 @@
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
-        "heading_alignment": "left",
+        "heading_alignment": "center",
         "text_size": 100,
         "number_of_lines_shown": "none",
         "read_more_label": "Mehr lesen",
